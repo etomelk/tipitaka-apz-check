@@ -1,0 +1,86 @@
+[
+ {
+  "pi": 0,
+  "ei": 3,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "සියලු ලෙසින් සම්පූර්ණවූ පිරිසිදුවූ, බ්‍රහ්මචර්යාව ගෙන හැර දක්වති.",
+    "සියලු ලෙසින් සම්පූර්ණවූ ධර්මය දේශනා කරති. පිරිසිදුවූ බ්‍රහ්මචර්යාව ගෙන හැර දක්වති."
+   ]
+  ],
+  "pali": "සො ධම්මං දෙසෙති ආදිකල්යාණං",
+  "reason": "“He teaches the Dhamma” (සො ධම්මං දෙසෙති) has no verb of its own: the qualities of the Dhamma are run into the next clause on the holy life. Unsure because this is de Zoysa's stock rendering of the formula, found in many entries.",
+  "unsure": true
+ },
+ {
+  "pi": 14,
+  "ei": 7,
+  "kind": "wrong-script",
+  "edits": [
+   [
+    "అన్నපානයෙන්",
+    "අන්නපානයෙන්"
+   ]
+  ],
+  "pali": "අයං ඛො මෙ කායො රූපී චාතුම්මහාභූතිකො",
+  "reason": "The first two letters of අන්නපානයෙන් are in Telugu script (అన్న), so the word cannot be read; it is the only run of another script in text-apz.",
+  "unsure": false
+ },
+ {
+  "pi": 22,
+  "ei": 2,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "දින තුනකට වරක් දියට බැසීමේ",
+    "සවස තුන්වැනි කොට දියට බැසීමේ"
+   ]
+  ],
+  "pali": "සායතතියකම්පි උදකොරොහනානුයොගමනුයුත්තො විහරති",
+  "reason": "සායතතියකං is going down into the water three times a day, the evening being the third, not once in three days. Page 25 entry 1 of the same file has “සවස තුන්වැනි කොට (දිනකට තුන් වරක්)”, and page 21 entry 1 “උදය දවල් සහ සවස”.",
+  "unsure": false
+ },
+ {
+  "pi": 23,
+  "ei": 4,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "දින තුනකට වරක් දියට බැසීමේ",
+    "සවස තුන්වැනි කොට දියට බැසීමේ"
+   ]
+  ],
+  "pali": "සායතතියකම්පි උදකොරොහනානුයොගමනුයුත්තො විහරති",
+  "reason": "සායතතියකං is going down into the water three times a day, the evening being the third, not once in three days. Page 25 entry 1 of the same file has “සවස තුන්වැනි කොට (දිනකට තුන් වරක්)”.",
+  "unsure": false
+ },
+ {
+  "pi": 23,
+  "ei": 5,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "දින තුනකට වරක් දියට බැසීමේ",
+    "සවස තුන්වැනි කොට දියට බැසීමේ"
+   ]
+  ],
+  "pali": "සායතතියකම්පි උදකොරොහනානුයොගමනුයුත්තො විහරාමී",
+  "reason": "සායතතියකං is going down into the water three times a day, the evening being the third, not once in three days. Page 25 entry 1 of the same file has “සවස තුන්වැනි කොට (දිනකට තුන් වරක්)”.",
+  "unsure": false
+ },
+ {
+  "pi": 26,
+  "ei": 5,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "සොතෙන සද්දං සුත්වා -පෙ- ඝානෙන ගන්ධං ඝායිත්වා -පෙ- ජිව්හාය රසං සායිත්වා -පෙ- කායෙන ඵොට්ඨබ්බං ඵුසිත්වා -පෙ-",
+    "කනින් ශබ්දයක් අසා -පෙ- නාසයෙන් ගඳක් ආඝ්‍රාණය කොට -පෙ- දිවෙන් රසයක් විඳ -පෙ- කයින් පහසක් ස්පර්ශ කොට -පෙ-"
+   ]
+  ],
+  "pali": "සොතෙන සද්දං සුත්වා -පෙ- ඝානෙන ගන්ධං ඝායිත්වා -පෙ- ජිව්හාය රසං සායිත්වා -පෙ- කායෙන ඵොට්ඨබ්බං ඵුසිත්වා",
+  "reason": "The four middle sense doors are left in Pāli. Wording as text-apz gives the same abbreviated run elsewhere.",
+  "unsure": false
+ }
+]

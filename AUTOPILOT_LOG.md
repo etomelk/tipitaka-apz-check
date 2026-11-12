@@ -31,3 +31,35 @@ The add_repo tool named in the task prompt was not available in this session; th
 the workspace with push access, so the run went ahead.
 
 Left in step 1: 5,091 of 5,250 entries (DN: 754 of 913; next file `dn-1-6`, 212 entries).
+
+## 2026-11-12 (autopilot run 2)
+
+Commit e4db85e (unchanged upstream). Step 1, `dn-1-6`: the first 116 of its 212 entries read (pages 0–26: the Mahāli,
+Jāliya and the first half of the Mahāsīhanāda sutta), each in full against its Pāli. The file is not finished, so no
+batch file was written; the findings are in `verdicts/dn-1-6.json` (`work.py batch` was tried on them: 5 rows, 1 unsure,
+nothing refused, and the trial files removed).
+
+Findings, sure:
+- 14:7 wrong-script: the first two letters of අන්නපානයෙන් are Telugu (అన్న). It is the only run of another script
+  in the whole of text-apz (counted by script).
+- 22:2, 23:4, 23:5 wrong-number: සායතතියකම්පි උදකොරොහන… is given as “දින තුනකට වරක් දියට බැසීමේ” (once in three
+  days); it is three times a day, the evening the third. 25:1 of the same file has “සවස තුන්වැනි කොට (දිනකට තුන් වරක්)”;
+  the correction uses “සවස තුන්වැනි කොට”.
+- 26:5 pali-left-in: “සොතෙන සද්දං සුත්වා -පෙ- … කායෙන ඵොට්ඨබ්බං ඵුසිත්වා -පෙ-” stands in Pāli in the Sinhala; replaced
+  by the wording text-apz uses for the same run elsewhere.
+
+Unsure:
+- 0:3 clause-missing: සො ධම්මං දෙසෙති has no verb of its own; the Dhamma's qualities are run into “බ්‍රහ්මචර්යාව ගෙන හැර
+  දක්වති”. **For the owner:** this is de Zoysa's stock rendering of the formula (at least seven entries of DN and MN 1
+  have it in this form), so it is a feature of the translation more than a slip of one entry. Run 1 reported one such
+  entry as sure (`dn-1-3` 36:4); consider moving that row to the unsure file, or leaving the formula out altogether.
+  From here on the formula is noted once per file as unsure, not per entry.
+
+Left alone: “මුත්‍රාචාර” for මුත්තාචාරො (24:3; also an-4-4 and dn-3, there with the gloss “ආචාරශීලී පැවතුම් නැතිව”): a
+habitual spelling, not a slip of one entry, though the word as spelt means something else; single dropped words
+(දාරුපත්තික 5:2, සක්යපුත්තො 0:3, විඤ්ඤූ 19:2); CST-style instructions in brackets left out (15:1); passages the Pāli
+abbreviates and the Sinhala writes out.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 4,975 of 5,250 entries (DN: 638 of 913; `dn-1-6` 96 left, starting at page 26).
