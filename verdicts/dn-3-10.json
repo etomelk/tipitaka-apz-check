@@ -1,0 +1,16 @@
+[
+ {
+  "pi": 9,
+  "ei": 3,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "ජාති (උසස් ජාතියකය යන) මදය",
+    "ජීවිත මදය"
+   ]
+  ],
+  "pali": "ජීවිතමදො",
+  "reason": "The third intoxication in the Pāli is ජීවිතමදො (intoxication with life); the entry gives ජාති මදය (pride of birth) with a gloss “of high birth”. Replaced with “ජීවිත මදය”, as text-apz has it for the same three in an-3 and an-5-2; BJT’s Sinhala also reads ජීවිත මදය.",
+  "unsure": false
+ }
+]

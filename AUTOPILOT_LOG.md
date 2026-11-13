@@ -254,3 +254,32 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 1: 4,410 of 5,250 entries (DN: 73 of 913; next and last DN file `dn-3-10`, 73 entries: the DN batch for
 the owner is due when it is read).
+
+## 2026-11-13 (autopilot run 9)
+
+Commit e4db85e (unchanged upstream). Step 1, one file finished: `dn-3-10` (73 entries: the Saṅgīti and Dasuttara
+suttas, mostly the short list entries of the threes to the sixes), each read in full against its Pāli. Batches
+`batches/dn-3-10_e4db85e.tsv` (1 row) and `dn-3-10_e4db85e_unsure.tsv` (0 rows); nothing refused.
+
+Finding, sure:
+- 9:3 wrong-word (Saṅgīti, the three intoxications): the third, ජීවිතමදො (intoxication with life), is given as
+  “ජාති (උසස් ජාතියකය යන) මදය” (pride of high birth). Replaced with “ජීවිත මදය”, which text-apz has for the same
+  three in `an-3` and `an-5-2`; BJT's Sinhala reads ජීවිත මදය.
+
+Left alone: 62:2 (Dasuttara, the fours' summary) writes out nine of the ten heads where the Pāli abbreviates with
+-පෙ- (අභිඤ්ඤෙය්යා is not among them; an expansion of an abbreviation, the Pāli entry itself does not have it);
+71:2 gives උපෙක්ඛා චෙතොවිමුත්ති as “උපෙක්ෂා සමාධිය” (word choice); 27:1 gives සුවිමුත්තං as “බැසගන්නාලදී”, as it
+gives විමුච්චති throughout the passage; 8:2 “චිත්තාමය” for චින්තාමය with the right gloss (spelling); the bold Pāli
+heads kept before each list, as everywhere in these two suttas; the jhānas and the heavens written out where the
+Pāli abbreviates (11:2, 45:2, 31:5).
+
+**The Dīgha Nikāya is finished in step 1** (913 entries read over runs 1–9, all at e4db85e). The batch for the owner
+to post: `batches/dn-step1_e4db85e.tsv` (43 rows: 12 pali-left-in, 9 clause-missing, 9 clause-added, 6 wrong-number,
+4 wrong-word, 2 negation, 1 wrong-script) and `batches/dn-step1_e4db85e_unsure.tsv` (11 rows), with the issue text
+`batches/dn-step1_ISSUE.md`. Built afresh from all eleven verdict files against the current text: nothing refused,
+so no entry reported has changed upstream since it was read. This run's kind was first written “wrong-item” and
+renamed “wrong-word”, the kind already used for a wrong person or thing.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 4,337 of 5,250 entries (MN 1,089, SN 1,630, AN 1,618; next file `mn-1`, 75 entries).
