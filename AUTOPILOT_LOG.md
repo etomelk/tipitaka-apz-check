@@ -225,3 +225,32 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 1: 4,506 of 5,250 entries (DN: 169 of 913; next file `dn-3-5`, 96 entries, then `dn-3-10`, 73: the DN
 batch for the owner is due when both are read).
+
+## 2026-11-13 (autopilot run 8)
+
+Commit e4db85e (unchanged upstream). Step 1, one file finished: `dn-3-5` (96 entries: the end of the Sampasādanīya,
+the Pāsādika, the Lakkhaṇa, the whole Siṅgāla and the Āṭānāṭiya suttas), each read in full against its Pāli. Batches
+`batches/dn-3-5_e4db85e.tsv` (3 rows) and `dn-3-5_e4db85e_unsure.tsv` (2 rows); nothing refused.
+
+Findings, sure:
+- 25:1 pali-left-in and 25:2 clause-missing (Pāsādika §16, a pair): the reflection on alms food (ඉති පුරාණඤ්ච වෙදනං
+  පටිහඞ්ඛාමි … ඵාසුවිහාරො චාති) stands in Pāli at the end of 25:1; in BJT it is the first sentence of the next Pāli
+  entry, 25:2, whose Sinhala does not have it. Removed from 25:1 and added, translated, at the head of 25:2, in the
+  words text-apz has for the same formula elsewhere; the closing “’යි කියායි” is newly written.
+- 41:5 pali-left-in (Lakkhaṇa §6, the seven convex places): three Pāli sentences stand in the middle of the entry
+  (තතො චුතො … සත්තස්ස උස්සදා හොන්ති:). Replaced with text-apz's own wording from the same sutta.
+
+Unsure (Pāli that stands beside its own translation, as dn-2-7 61:5 in run 6):
+- 79:2 (Āṭānāṭiya, verse 10): the first verse line stands in Pāli before the translation of the whole verse.
+- 82:4 (Āṭānāṭiya §15): the opening Pāli words stand with their translation after them in brackets.
+
+Left alone: in 22:2 (Pāsādika §13) the Sinhala explains ඉදමෙව with the “complete holy life” of the next entry
+(de Zoysa's explanation, the next entry has it in its place); 66:3 භයස්ස කිච්චං කරොති is given as “(තමාගේ) කටයුතු
+කරගනී” where BJT's Sinhala reads “does his friend's work only when he himself is in danger” (a bracketed gloss, the
+Pāli allows both); 71:1 follows BJT's Pāli ඡහි ඨානෙහි in the closing sentence; 87:6 උපට්ඨිතං not rendered and
+මහාරාජස්ස යසස්සිනො given twice; 91:4 හිරිනෙත්ති as two names; “සදිශාවෝ” for the six directions (spelling).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 4,410 of 5,250 entries (DN: 73 of 913; next and last DN file `dn-3-10`, 73 entries: the DN batch for
+the owner is due when it is read).
