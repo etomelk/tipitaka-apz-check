@@ -848,8 +848,8 @@ Confirmed (main file):
 - `sn-3` 8:1 negation-reversed (Hāliddikāni): ගිහීහි අසංසට්ඨො is “ගිහියන් හා මිශ්‍රව” (mixed with householders);
   “මිශ්‍ර නොවී”.
 - `sn-3` 11:3, 11:4, 11:5 pali-left-in (Samādhi): the Pāli pronoun සා stands in “… වේද, සා නිරුද්ධ වෙයි”;
-  “එය”, as 13:0 has the same sentence. (A fourth, 11:6, is outside step 1: it is word for word de Zoysa or was
-  flagged `ai` before 974bd90; the owner may want to add it by hand.)
+  “එය”, as 13:0 has the same sentence. (A fourth, 11:6, on consciousness, is outside step 1: 92.5% of its words are
+  de Zoysa's, above the 90% line; the owner may want to add it by hand.)
 - `sn-3` 13:6 pali-left-in (Upādāparitassanā): the verb හොති stands in the Sinhala sentence; taken out.
 - `sn-3` 15:2 negation-reversed (Upādāparitassanā): අනුපාදා අපරිතස්සනා හොති is “අනුපාදා අපරිතස්සනාව (… භය
   ඇතිවීමක්) නොවෙයි” (does not come to be); put as the question in 14:3 has it.
