@@ -82,5 +82,75 @@
   "pali": "සොතෙන සද්දං සුත්වා -පෙ- ඝානෙන ගන්ධං ඝායිත්වා -පෙ- ජිව්හාය රසං සායිත්වා -පෙ- කායෙන ඵොට්ඨබ්බං ඵුසිත්වා",
   "reason": "The four middle sense doors are left in Pāli. Wording as text-apz gives the same abbreviated run elsewhere.",
   "unsure": false
+ },
+ {
+  "pi": 27,
+  "ei": 3,
+  "kind": "negation",
+  "edits": [
+   [
+    "යන මේ පහකළාවූ නීවරණ පහ තමන් තුළ ඇති බව",
+    "යන මේ පහනොකළාවූ නීවරණ පහ තමන් තුළ ඇති බව"
+   ]
+  ],
+  "pali": "ඉමෙ පඤ්චනීවරණෙ අප්පහීණෙ අත්තනි සමනුපස්සති",
+  "reason": "අප්පහීණෙ (not abandoned) is given as “පහකළාවූ” (abandoned): the monk sees the five hindrances, while not abandoned, as a debt, a sickness and so on. Page 38 entry 6 of the same file has “පහනොකළ මේ නීවරණ ධර්ම පහ” for the same sentence.",
+  "unsure": false
+ },
+ {
+  "pi": 37,
+  "ei": 3,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "තමා තුළ අශ්‍රැතවත් (අබ්‍යාසේක) සැපය",
+    "තමා තුළ කෙලෙසුන්ගෙන් තෙත් නොවූ (අබ්‍යාසේක) සැපය"
+   ]
+  ],
+  "pali": "අජ්ඣත්තං අබ්යාසෙකසුඛං පටිසංවෙදෙති",
+  "reason": "අබ්යාසෙකසුඛං (happiness unmixed with defilements) is given as “අශ්‍රැතවත්” (unlearned) happiness. mn-1-3 page 65 entry 2 and mn-1-4 page 67 entry 3 have “කෙලෙසුන්ගෙන් තෙත් නොවූ” for the same word.",
+  "unsure": false
+ },
+ {
+  "pi": 69,
+  "ei": 4,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "සො ඉමමෙව කායං විවෙකජෙන පීතිසුඛෙන අභිසන්දෙති පරිසන්දෙති පරිපූරෙති පරිප්ඵරති, නාස්ස කිඤ්චි සබ්බාවතො කායස්ස විවෙකජෙන පීතිසුඛෙන අප්ඵුටං හොති, ",
+    "හෙතෙම මේ කයම විවේකයෙන් උපන් ප්‍රීති සැපයෙන් තෙමයි, හාත්පසින් තෙමයි, පුරවයි, හාත්පසින් පතුරුවයි, ඔහුගේ මුළු කයෙහි විවේකයෙන් උපන් ප්‍රීති සැපයෙන් නොපැතිරුණු කිසි තැනක් නොවෙයි, "
+   ]
+  ],
+  "pali": "සො ඉමමෙව කායං විවෙකජෙන පීතිසුඛෙන අභිසන්දෙති පරිසන්දෙති පරිපූරෙති පරිප්ඵරති",
+  "reason": "Two clauses stand in Pāli in the Sinhala (“සො ඉමමෙව කායං … අප්ඵුටං හොති”). Translated in the wording of page 71 entry 0 of the same sutta (the third jhāna).",
+  "unsure": false
+ },
+ {
+  "pi": 70,
+  "ei": 1,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "සො ඉමමෙව කායං සමාධිජෙන පීතිසුඛෙන අභිසන්දෙති පරිසන්දෙති පරිපූරෙති පරිප්ඵරති, ",
+    "හෙතෙම මේ කයම සමාධියෙන් හටගත් ප්‍රීති සැපයෙන් තෙමයි, හාත්පසින් තෙමයි, පුරවයි, හාත්පසින් පතුරුවයි, ඔහුගේ මුළු කයෙහි සමාධියෙන් හටගත් ප්‍රීති සැපයෙන් නොපැතිරුණු කිසි තැනක් නොවෙයි, "
+   ]
+  ],
+  "pali": "නාස්ස කිඤ්චි සබ්බාවතො කායස්ස සමාධිජෙන පීතිසුඛෙන අප්ඵුටං හොති",
+  "reason": "One clause stands in Pāli in the Sinhala (“සො ඉමමෙව කායං සමාධිජෙන …”) and the next (“නාස්ස කිඤ්චි … අප්ඵුටං හොති”) is not translated. Both given in the wording of page 71 entry 0 of the same sutta.",
+  "unsure": false
+ },
+ {
+  "pi": 71,
+  "ei": 2,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "සො ඉමමෙව කායං පරිසුද්ධෙන චෙතසා පරියොදාතෙන ඵරිත්වා නිසින්නො හොති, ",
+    "හෙතෙම මේ කයම පිරිසිදුවූ, අතිශයින් බබලන සිතින් පතුරුවා හුන්නේ වෙයි, ඔහුගේ මුළු කයෙහි පිරිසිදුවූ, අතිශයින් බබලන සිතින් නොපැතිරුණු කිසි තැනක් නොවෙයි, "
+   ]
+  ],
+  "pali": "නාස්ස කිඤ්චි සබ්බාවතො කායස්ස පරිසුද්ධෙන චෙතසා පරියොදාතෙන අප්ඵුටං හොති",
+  "reason": "One clause stands in Pāli in the Sinhala (“සො ඉමමෙව කායං පරිසුද්ධෙන චෙතසා …”) and the next (“නාස්ස කිඤ්චි … අප්ඵුටං හොති”) is not translated. Wording from dn-1 page 65 entry 2 (“පිරිසිදුවූ, අතිශයින් බබලන … සිතින් පතුරුවා හුන්නේ වෙයි”) and page 71 entry 0 of this sutta.",
+  "unsure": false
  }
 ]

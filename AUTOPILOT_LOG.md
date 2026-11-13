@@ -63,3 +63,30 @@ abbreviates and the Sinhala writes out.
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 4,975 of 5,250 entries (DN: 638 of 913; `dn-1-6` 96 left, starting at page 26).
+
+## 2026-11-13 (autopilot run 3)
+
+Commit e4db85e (unchanged upstream). Step 1, `dn-1-6`: the last 96 of its 212 entries read (pages 27–79: the end of
+the Mahāsīhanāda, the Poṭṭhapāda and the Subha sutta), each in full against its Pāli; the file is finished in step 1.
+Batch `batches/dn-1-6_e4db85e.tsv` (10 rows: run 2's 5 and this run's 5) and `_unsure.tsv` (1 row, run 2's);
+nothing refused.
+
+Findings of this run, all sure:
+- 27:3 negation: අප්පහීණෙ is given as “පහකළාවූ”, so the monk sees the *abandoned* hindrances as a debt, a sickness
+  and so on; corrected to “පහනොකළාවූ” (38:6 of the same file has “පහනොකළ” for the same sentence).
+- 37:3 wrong-word: අබ්යාසෙකසුඛං is given as “අශ්‍රැතවත් (අබ්‍යාසේක) සැපය” (unlearned happiness); corrected to
+  “කෙලෙසුන්ගෙන් තෙත් නොවූ”, the wording of mn-1-3 65:2 and mn-1-4 67:3.
+- 69:4, 70:1, 71:2 pali-left-in (Subha sutta, first, second and fourth jhāna): the sentence “සො ඉමමෙව කායං …” stands
+  in Pāli in the Sinhala, and in 70:1 and 71:2 the next clause (“නාස්ස කිඤ්චි … අප්ඵුටං හොති”) is not translated at
+  all. Translated in the wording of 71:0 (the third jhāna of the same sutta). These may be among the entries the
+  maintainer is already retranslating; a row applies only while the text still matches.
+
+Left alone: 27:3 addresses “කාශ්‍යපය” where BJT's Pāli entry has ආවුසො (the sutta is spoken to Kassapa; the Pāli entry
+seems to carry the address of another sutta); 34:2 has the stock rendering of සො ධම්මං දෙසෙති without a verb of its
+own (noted once for this file in run 2, unsure); 44:4–11 give තථාගතො as “සත්ත්වයා” (the commentary's reading);
+53:4–5 give ඔළාරිකො / මනොමයො අත්තපටිලාභො as “කාමභවයෙහි / රූපභවයෙහි ආත්ම ලැබීම” (a gloss, while 52:1 says “මනෝමය”);
+single dropped words (අරියො 71:2, එවං පස්සතො 79:1); passages abbreviated in the Pāli.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 4,879 of 5,250 entries (DN: 542 of 913; next file `dn-1-11`, 114 entries).
