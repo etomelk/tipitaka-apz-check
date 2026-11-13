@@ -190,3 +190,38 @@ Sinhala shown beside the entry belongs to another of the eight praises; the apz 
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 4,593 of 5,250 entries (DN: 256 of 913; next file `dn-3`, 87 entries).
+
+## 2026-11-13 (autopilot run 7)
+
+Commit e4db85e (unchanged upstream). Step 1, one file finished: `dn-3` (87 entries: the Pāthika, Udumbarika,
+Cakkavatti and Aggañña suttas), each read in full against its Pāli. Batches `batches/dn-3_e4db85e.tsv` (4 rows) and
+`dn-3_e4db85e_unsure.tsv` (2 rows); nothing refused.
+
+Findings, sure:
+- 28:3 wrong-number (Udumbarika §1): තිංසමත්තෙහි පරිබ්බාජකසතෙහි, thirty hundred wanderers, is given as three hundred
+  (“තුන් සියයක් පමණ”). One word changed (“තුන් දහසක් පමණ”); text-apz has “තුන් දහසක් පමණවූ” for the same words in
+  `dn-1-6`, and BJT's Sinhala has තුන් දහසක්.
+- 33:5 negation (Udumbarika §8, the ascetic who sorts his food): තං සාපෙක්ඛො පජහති, “gives it up with longing”, is
+  given as “අපේක්ෂා රහිතව දුරු කරයි” (without longing), the same words the purified ascetic gets for අනපෙක්ඛො in
+  36:3. One word changed (“අපේක්ෂා සහිතව”).
+- 61:0 and 61:1 wrong-number (Cakkavatti §18): the life span of 320 years (වීසංතිවස්සසතායුකා: 160, 320, 640) is given
+  as 360 (“තුන්සිය හැටක්”) in both entries. Changed to “තුන්සිය විස්සක්” (text-apz writes “එකසිය විස්සක්”,
+  “දෙසිය විස්සක්” elsewhere).
+
+Unsure:
+- 36:4 (Udumbarika §11): ලාභසක්කාරසිලොකනිකන්තිහෙතු is not in the Sinhala; added in the words of the matching entry
+  34:0. One compound, and the quoted thought carries most of its sense.
+- 59:0 (Cakkavatti §16): the Pāli writes the application of the hunter simile out in full, the Sinhala gives “...”;
+  filled with the entry's own words, copied by script. A repetition inside the entry, nothing of the meaning lost.
+
+Left alone: 26:0 opens with the last sentences of the Pāli entry before it (a different cut of the same passage,
+nothing lost) and gives “...” for the gods' gazing at each other, which the entry before it has in full; the going
+forth abbreviated with the -පෙ- passage in 26:2; අජ්ඣාසයං not rendered in 29:2 and 30:1 (30:2 has it); භාතු පි භාතරි
+(brother to brother) missing from the list of 59:0 (one list item); the list of abstentions given as “ප්‍රාණඝාතයෙන්...”
+in 62:0–63:1 where the Pāli repeats it in full; “එවං මෙ සුතං:” kept before its translation in 47:2; ලොකක්ඛායිකං as
+“ලොකායත කථාය” (28:4).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 4,506 of 5,250 entries (DN: 169 of 913; next file `dn-3-5`, 96 entries, then `dn-3-10`, 73: the DN
+batch for the owner is due when both are read).
