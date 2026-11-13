@@ -907,3 +907,50 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 2,728 of 5,250 entries (SN: 1,110 of 1,630 to read; next file `sn-3-2`, 106).
+
+## 2026-11-13 (run 25) — `sn-3-2` finished
+
+Commit e4db85e (pinned). Step 1: all 106 entries of `sn-3-2` (the Rādha, Diṭṭhi, Okkanti, Uppāda and Kilesa
+saṃyuttas, pages 2–62), each read in full against its Pāli. The file's batch is built
+(`batches/sn-3-2_e4db85e.tsv`, 14 rows; no unsure rows), nothing refused. The run stopped at the file's end: the
+next file, `sn-3-7`, has 210 entries.
+
+Confirmed (main file):
+- `sn-3-2` 10:6 pali-left-in (Rādha, Māra): the closing sentence ends in Pāli, “… ඡන්දය පහාතබ්බො, රාගො
+  පහාතබ්බො, ඡන්දරාගො පහාතබ්බො”; put in the entry's own words for the same clause.
+- `sn-3-2` 25:2 wrong-word (Diṭṭhi): the Pāli entry is the answer අනිච්චං භන්තෙ; the first of the entry's four
+  answers reads “ස්වාමීනි දුකය”. Put like the other three (“ස්වාමීනි, අනිත්‍යය”).
+- `sn-3-2` 29:4 pali-left-in (Mahādiṭṭhi): twice “… සුඛදුක්ඛං පලෙන්තී’ති එවං දිට්ඨි උප්පජ්ජති”; put in the
+  words of 29:2 (“සුවදුක් කෙළවර කරති’ යන මේ දෘෂ්ටිය උපදියි”).
+- `sn-3-2` 31:4 pali-left-in: the last sentence, අයං වුච්චති භික්ඛවෙ, අරියසාවකො සොතාපන්නො … සම්බොධිපරායනොති,
+  stands in Pāli; put in the words the same file has for it at the end of other suttas of the saṃyutta.
+- `sn-3-2` 39:5 clause-missing (Vāta): the Pāli writes out the last clause of the monks' answer, භගවතො සුත්වා
+  භික්ඛූ ධාරෙස්සන්ති; the Sinhala stops before it. Added in text-apz's own words for it.
+- `sn-3-2` 43:11 pali-left-in: “විඤ්ඤාණය නිත්‍ය වා අනිත්‍ය වා”; put as 43:8 has the question for form.
+- `sn-3-2` 39:4, 39:6, 39:11, 39:13, 39:15, 39:17, 45:0, 45:5 pali-left-in: the Pāli quotation particle ති after
+  the closing quotation mark (“… සිටියේය”ති”, “… ආත්මය වෙයි”ති”); written “යි”, as 40:3 and 42:23 end the same
+  kind of sentence. (A stray particle, as the “ඛො” of `dn-2` 17:0 and `sn-1-3` 16:2 and the “’න්ති” of run 12;
+  eight small rows of one kind, which the owner may want to say in a line when he posts SN.)
+
+Unsure: none.
+
+Left alone:
+- `sn-3-2` 16:4 (and the entries like it) writes out the opening “මා විසින් මෙසේ අසනලදී … ජේතවනාරාමයෙහි” where
+  the Pāli has only සාවත්ථියං in the entry before: the abbreviated opening written out, no row.
+- The entries of the Diṭṭhi saṃyutta that give one question or answer four or five times with “...” between
+  (20:0, 21:8, 22:10, 23:15, 23:17, 25:3–25:6, 27:2, 27:4, 28:8): de Zoysa's writing-out for the five aggregates of
+  what the Pāli gives once; restatements, no row (25:2 is a row only because its first answer is the wrong word).
+  28:5 carries de Zoysa's paragraph numbers “[9] … [13]” inside the text.
+- 23:17 and 40:14 give නො චස්සං නො ච මෙ සියා … loosely (“අතීතයෙහි නුවූයෙම්නම් දැන් නොවෙමි …”); 43:5–44:7 give
+  රූපී / අරූපී as “අරමුණ” / “ධ්‍යානය” with the Pāli word in brackets (de Zoysa's reading); 10:11 and 16:10 read
+  මාරධම්මො as “මාර ධර්මය” where BJT's Sinhala reads “මරණධර්ම”; 59:11–62:4 give නෙක්ඛම්මනින්නං as “ලොකොත්තර
+  ධර්මයට නැඹුරු”: word choices, no row. 45:3 has the form “සංස්කාරා”.
+- 39:15: BJT's Pāli entry reads තං උපාදාය (the twin entries අනුපාදාය); the Sinhala follows the entry (“එය නිසා”).
+- 43:19 writes the passage out where the Pāli entry is only the instruction to expand; 41:7 and 40:23 add a little
+  of the abbreviated passage. Three of the file's closing sentences on the stream-enterer (outside this step's
+  list, seen while looking for wording) have no word for නියතො: a single word, left.
+- The uddāna verses (45:8–45:11) stay as they are.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 2,622 of 5,250 entries (SN: 1,004 of 1,630 to read; next file `sn-3-7`, 210).

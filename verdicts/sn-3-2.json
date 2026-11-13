@@ -1,0 +1,153 @@
+[
+ {
+  "pi": 10,
+  "ei": 6,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "ඡන්දය පහාතබ්බො, රාගො පහාතබ්බො, ඡන්දරාගො පහාතබ්බො.",
+    "කැමැත්ත දුරු කළ යුතුයි, රාගය දුරු කළ යුතුයි, ඡන්දරාගය දුරු කළ යුතුයි."
+   ]
+  ],
+  "pali": "යො ඛො රාධ, මාරො තත්ර තෙ ඡන්දො පහාතබ්බො, රාගො පහාතබ්බො, ඡන්දරාගො පහාතබ්බොති",
+  "reason": "The closing sentence ends in Pāli: “… ඡන්දය පහාතබ්බො, රාගො පහාතබ්බො, ඡන්දරාගො පහාතබ්බො”. Put in the words the entry itself has twice for the same clause (“කැමැත්ත දුරු කළ යුතුයි, රාගය දුරු කළ යුතුයි, ඡන්දරාගය දුරු කළ යුතුයි”); nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 25,
+  "ei": 2,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "“ස්වාමීනි දුකය.”",
+    "“ස්වාමීනි, අනිත්‍යය.”"
+   ]
+  ],
+  "pali": "අනිච්චං භන්තෙ",
+  "reason": "The Pāli entry is the answer අනිච්චං භන්තෙ (impermanent); the first of the entry's four answers reads “ස්වාමීනි දුකය” (suffering), the other three “ස්වාමීනි, අනිත්‍යය”. The first put like the others; nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 29,
+  "ei": 4,
+  "kind": "pali-left-in",
+  "proposed": "“මහණෙනි, රූපය ඇතිකල්හි රූපය නිසා රූපය දැඩි වශයෙන් ගෙන රූපයට බැසගෙන ‘මේ සත්වැදෑරුම් කායයෝ... සුවදුක් කෙළවර කරති’ යන මේ දෘෂ්ටිය උපදියි. වේදනාව ඇති කල්හි... සංඥාව ඇති කල්හි... සංස්කාර ඇති කල්හි... විඤ්ඤාණය ඇතිකල්හි විඤ්ඤාණය නිසා විඤ්ඤාණය දැඩිවශයෙන් ගෙන, විඤ්ඤාණයට බැසගෙන ‘මේ සත්වැදෑරුම් කායයෝ... සුවදුක් කෙළවර කරති’ යන මේ දෘෂ්ටිය උපදියි.”",
+  "pali": "සුඛදුක්ඛං පලෙන්තී”ති",
+  "reason": "In both sentences (form; consciousness) the end of the quoted view and the main verb stand in Pāli: “… සුඛදුක්ඛං පලෙන්තී’ති එවං දිට්ඨි උප්පජ්ජති”. Put in the words of entry 2 of the same page, which translates the same words of the question (“… සුවදුක් කෙළවර කරති,’ යන මේ දෘෂ්ටි උපදීද”); nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 31,
+  "ei": 4,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "අයං වුච්චති භික්ඛවෙ, අරියසාවකො සොතාපන්නො අවිනිපාතධම්මො නියතො සම්බොධිපරායනොති.",
+    "මහණෙනි, මේ ආර්ය ශ්‍රාවකතෙමේ සෝවාන් මාර්ගඵලයට පැමිණියෙකැයිද සතර අපායෙහි නොවැටීම ස්වභාවකොට ඇත්තෙකැයිද නියතවූ ගති ඇත්තෙකැයිද, අර්හත් ඵලය පිහිට කොට ඇත්තෙකැයිද කියනු ලැබේ."
+   ]
+  ],
+  "pali": "අයං වුච්චති භික්ඛවෙ, අරියසාවකො සොතාපන්නො අවිනිපාතධම්මො නියතො සම්බොධිපරායනොති",
+  "reason": "The last sentence of the entry stands in Pāli, untranslated. Put in the words the same file has for the same sentence at the end of other suttas of this saṃyutta (“මහණෙනි, මේ ආර්ය ශ්‍රාවකතෙමේ සෝවාන් මාර්ගඵලයට පැමිණියෙකැයිද … කියනු ලැබේ”); nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 39,
+  "ei": 4,
+  "kind": "pali-left-in",
+  "proposed": "මහණෙනි, කුමක් ඇති කල්හි, කුමක් නිසා, කුමකට පැමිණ මෙසේ දෘෂ්ටි උපදීද: “වාතයෝ නොහමත්, ගංගාවෝ ගලා නොබසිත්, ගර්භනීහු නොවදත්, සඳ හිරු උදා නොවෙත්, නොබසිත්, ඉන්ද්‍රඛීලයක් මෙන් සිටියේය”යි?",
+  "pali": "එසිකට්ඨායිට්ඨිතා”ති",
+  "reason": "The Pāli quotation particle ති stands after the closing quotation mark (“… සිටියේය”ති”); written “යි”, as entries 3 of page 40 and 23 of page 42 of this file end the same kind of sentence (“…”යැයි”, “…”යි”); nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 39,
+  "ei": 6,
+  "kind": "pali-left-in",
+  "proposed": "මහණෙනි, එසේ නම් අසව්. මනාකොට මෙනෙහි කරව්. කියන්නෙමැයි. රූපය ඇති කල්හි මහණෙනි, රූපය නිසා රූපය දැඩිකොට ගෙන මෙසේ දෘෂ්ටි උපදී: “වාතයෝ නොහමත් -පෙ- ඉන්ද්‍රඛීලයක් මෙන් සිටියේය”යි. වේදනාව ඇති කල්හි -පෙ- සංඥාව ඇති කල්හි -පෙ- සංස්කාර ඇති කල්හි -පෙ- විඤ්ඤාණය ඇති කල්හි විඤ්ඤාණය නිසා විඤ්ඤාණය දැඩිකොට ගෙන මෙසේ දෘෂ්ටි උපදී: “වාතයෝ නොහමත් -පෙ- ඉන්ද්‍රඛීලයක් මෙන් සිටියේය”යි.",
+  "pali": "එසිකට්ඨායිට්ඨිතා”ති",
+  "reason": "The Pāli quotation particle ති stands after the closing quotation mark, twice (“… සිටියේය”ති”); written “යි”, as entries 3 of page 40 and 23 of page 42 of this file end the same kind of sentence (“…”යැයි”, “…”යි”); nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 39,
+  "ei": 5,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "වදාරන සේක් නම් මැනවි.",
+    "වදාරන සේක් නම් මැනවි. භාග්‍යවතුන් වහන්සේගෙන් අසා භික්ෂූහු දරා ගන්නාහුය."
+   ]
+  ],
+  "pali": "භගවතො සුත්වා භික්ඛූ ධාරෙස්සන්තීති",
+  "reason": "The Pāli entry abbreviates the middle and writes out the last clause, භගවතො සුත්වා භික්ඛූ ධාරෙස්සන්ති (having heard it from the Blessed One the monks will bear it in mind); the Sinhala writes the formula out and stops before that clause, its last. Added in the words text-apz has for it elsewhere in the Saṃyutta (“භාග්‍යවතුන් වහන්සේගෙන් අසා භික්ෂූහු දරා ගන්නාහුය”); nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 39,
+  "ei": 11,
+  "kind": "pali-left-in",
+  "proposed": "යමක් වනාහි අනිත්‍යයද, දුකද, වෙනස්වන ස්වභාවද, ඉදින් එය අල්වා නොගැනීමෙන් මෙසේ දෘෂ්ටි උපදීද: “වාතයෝ නොහමත් -පෙ- ඉන්ද්‍රඛීලයක් මෙන් සිටියේය”යි?",
+  "pali": "එසිකට්ඨායිට්ඨිතා”ති",
+  "reason": "The Pāli quotation particle ති stands after the closing quotation mark (“… සිටියේය”ති”); written “යි”, as entries 3 of page 40 and 23 of page 42 of this file end the same kind of sentence (“…”යැයි”, “…”යි”); nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 39,
+  "ei": 13,
+  "kind": "pali-left-in",
+  "proposed": "මහණෙනි, මෙසේ දුක ඇති කල්හි දුක නිසා දුකට පැමිණ මෙසේ දෘෂ්ටි උපදී: “වාතයෝ නොහමත් -පෙ- ඉන්ද්‍රඛීලයක් මෙන් සිටියේය”යි. වේදනාව -පෙ- සංඥාව -පෙ- සංස්කාර -පෙ- විඤ්ඤාණය නිත්‍ය හෝ අනිත්‍ය හෝ වේද?",
+  "pali": "එසිකට්ඨායිට්ඨිතා”ති",
+  "reason": "The Pāli quotation particle ති stands after the closing quotation mark (“… සිටියේය”ති”); written “යි”, as entries 3 of page 40 and 23 of page 42 of this file end the same kind of sentence (“…”යැයි”, “…”යි”); nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 39,
+  "ei": 15,
+  "kind": "pali-left-in",
+  "proposed": "වෙනස්වන ස්වභාව ඇති එය නිසා මෙසේ දෘෂ්ටි උපදීද: “වාතයෝ නොහමත් -පෙ- ඉන්ද්‍රඛීලයක් මෙන් සිටියේය”යි?",
+  "pali": "එසිකට්ඨායිට්ඨිතා”ති",
+  "reason": "The Pāli quotation particle ති stands after the closing quotation mark (“… සිටියේය”ති”); written “යි”, as entries 3 of page 40 and 23 of page 42 of this file end the same kind of sentence (“…”යැයි”, “…”යි”); nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 39,
+  "ei": 17,
+  "kind": "pali-left-in",
+  "proposed": "මහණෙනි, මෙසේ වනාහි දුක ඇතිකල්හි, දුක නිසා, දුකට පැමිණ මෙවැනි දෘෂ්ටිය උපදින්නේද: “වාතයෝ නොහමත්, ගංගාවෝ ගලා නොබසිත්, ගර්භනීහු නොවදත්, සඳ හිරු උදා නොවෙත්, නොබසිත් ඉන්ද්‍රඛීලයක් මෙන් සිටියේය”යි? -පෙ-",
+  "pali": "එසිකට්ඨායිට්ඨිතා”ති",
+  "reason": "The Pāli quotation particle ති stands after the closing quotation mark (“… සිටියේය”ති”); written “යි”, as entries 3 of page 40 and 23 of page 42 of this file end the same kind of sentence (“…”යැයි”, “…”යි”); nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 43,
+  "ei": 11,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "නිත්‍ය වා අනිත්‍ය වා”යි",
+    "නිත්‍යද? අනිත්‍යද?”යි"
+   ]
+  ],
+  "pali": "විඤ්ඤාණං නිච්චං වා අනිච්චං වා”ති",
+  "reason": "The Pāli වා … වා stands in the Sinhala question (“විඤ්ඤාණය නිත්‍ය වා අනිත්‍ය වා”); put as entry 8 of the same page has the same question for form (“රූපය නිත්‍යද? අනිත්‍යද?”යි”); nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 45,
+  "ei": 0,
+  "kind": "pali-left-in",
+  "proposed": "මහණෙනි, රූපය ඇති කල්හි රූපය නිසා, රූපය දැඩිකොට ගෙන මෙසේ දෘෂ්ටි උපදියි: “මරණින් පසු නිරෝගිවූ දුක නුවූ සැපද නුවූ ආත්මය වෙයි”යි. වේදනාව ඇති කල්හි -පෙ- සංඥාව ඇති කල්හි -පෙ- සංස්කාර ඇති කල්හි -පෙ- විඤ්ඤාණය ඇති කල්හි විඤ්ඤාණය නිසා විඤ්ඤාණය දැඩිකොට ගෙන මෙසේ දෘෂ්ටි උපදියි: “මරණින් පසු නිරෝගිවූ දුක නුවූ සැපද නුවූ ආත්මය වෙයි”යි.",
+  "pali": "අදුක්ඛමසුඛී අත්තා හොති අරොගො පරම්මරණා”ති",
+  "reason": "The Pāli quotation particle ති stands after the closing quotation mark, twice (“… ආත්මය වෙයි”ති”); written “යි”, as entries 3 of page 40 and 23 of page 42 of this file end the same kind of sentence; nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 45,
+  "ei": 5,
+  "kind": "pali-left-in",
+  "proposed": "මහණෙනි, මෙසේ දුක ඇති කල්හි දුක නිසා දුකට පැමිණ මෙවැනි දෘෂ්ටි උපදියි: “මරණින් පසු නිරෝගිවූ දුක නුවූ සැපද නුවූ ආත්මය වෙයි”යි. -පෙ-",
+  "pali": "අරොගො පරම්මරණා”ති",
+  "reason": "The Pāli quotation particle ති stands after the closing quotation mark (“… ආත්මය වෙයි”ති”); written “යි”, as entries 3 of page 40 and 23 of page 42 of this file end the same kind of sentence; nothing else changed.",
+  "unsure": false
+ }
+]
