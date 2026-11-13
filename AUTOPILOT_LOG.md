@@ -666,3 +666,49 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 1: 3,398 of 5,250 entries (MN 150 of 1,089; next file `mn-3-3`, 24 of its 64 entries still to read,
 then `mn-3-4`, 42, and `mn-3-5`, 84).
+
+## 2026-11-13 (run 19) — the Majjhima's step 1 is finished
+
+Commit e4db85e (pinned). Step 1: the last 24 entries of `mn-3-3` (Upakkilesa's end, Bālapaṇḍita, Devadūta), all 42 of
+`mn-3-4` (Bhaddekaratta to Dakkhiṇāvibhaṅga) and all 84 of `mn-3-5` (Anāthapiṇḍikovāda to Indriyabhāvanā): 150
+entries, each read in full against its Pāli (more than the usual 100: the entries of `mn-3-5` are short, and
+finishing the file finished the Nikāya). The three files' batches are built, nothing refused.
+
+**The Majjhima's batch is ready to post:** `batches/mn-step1_e4db85e.tsv` (69 rows), `mn-step1_e4db85e_unsure.tsv`
+(3 rows), issue text `batches/mn-step1_ISSUE.md`. 1,089 entries read in fifteen files.
+
+Confirmed (main file):
+- `mn-3-3` 61:0 clause-missing (Devadūta, the first messenger): the infant is described in the Pāli as lying on its
+  back in its own urine and excrement (මන්දං උත්තානසෙය්යකං සකෙ මුත්තකරීසෙ පලිපන්නං සෙමානං); the Sinhala has only
+  “ළදරුවෙකු” (de Zoysa's archived text abbreviates here). Added in the words text-apz uses for the same Pāli
+  elsewhere (mn-2 47:0, an-10-2 99:3); the last three words (“ගැලී වැතිර සිටින”) are newly written. In the same
+  row: තථා කරිස්සන්ති (they will do) stands as Yama's “කරන්නෙමි”; written “කරන්නාහුය”, as 61:1 has it.
+- `mn-3-4` 64:0 pali-left-in (Dakkhiṇāvibhaṅga): the last sentence, ඉමා ඛො ආනන්ද, චතස්සො දක්ඛිණා විසුද්ධියොති,
+  stands in Pāli; written in the words of 63:3.
+- `mn-3-5` 24:10 clause-missing (Cūḷarāhulovāda): “එය මාගේය” (එතං මම) is missing from the three; added as 24:4 and
+  24:16 have it.
+- `mn-3-5` 30:3, 30:4, 31:0 clause-missing (Chachakka): the Pāli writes “… සමනුපස්සති” out for each item; the
+  Sinhala names the items with “...” between them and gives the sentence once. Filled by script with the entry's own
+  sentence. (The same kind as mn-3 58:2, 59:1 of run 17: **fill-ins of a repetition, not new sense; the issue text
+  says he may skip them. The owner may want to look.**)
+- `mn-3-5` 31:1, 31:3, 32:0 pali-left-in (Chachakka): “දිට්ඨෙව ධම්මෙ (මේ ආත්මයෙහි ම)”; the Pāli taken out, the
+  translation kept, as 31:2 has the same sentence.
+
+Unsure:
+- `mn-3-3` 60:6 clause-missing (Devadūta): of the five failings the Sinhala has four; for අසාමඤ්ඤො අබ්රහ්මඤ්ඤො it
+  has the one phrase “උතුමන් නොහඳුනන්නෙක” (de Zoysa's), which names neither ascetics nor brahmins. A proposal on the
+  pattern of the entry's own words for mother and father. Unsure because the one phrase may be meant to cover both.
+
+Left alone:
+- `mn-3-3` 43:8 and 44:0 give the Bodhisatta's “I perceived” with the plural verb of the monks' sentence before it
+  (“මම ද … හඳුනා ගනිමු”, “(දකිමු)”); the subject මම is stated, so grammar, not sense. 57:4 opens with a sentence
+  the BJT Pāli entry does not have (“ඍද්ධි සතරකින්ද යුක්තවූයේ වෙයි”) and has the paragraph number “259.” in the
+  middle; 52:2 has no word for පුබ්බෙ.
+- `mn-3-4` 5:0 gives ධම්මියා කථාය as “භද්දෙකරත්ත ධර්ම කථාවක්” (loose); 3:11 writes out what the Pāli abbreviates.
+- `mn-3-5` 27:3 is the stock rendering already asked about in the DN issue (ධම්මං … දෙසිස්සාමි … බ්රහ්මචරියං
+  පකාසිස්සාමි as “බ්‍රහ්මචර්යාව දේශනා කරන්නෙමි. ප්‍රකාශ කරන්නෙමි”, no “Dhamma” of its own); not multiplied.
+  1:6 writes out what the Pāli abbreviates; 31:1–32:0 give අනුසෙති as “වැඩෙයි”.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 3,248 of 5,250 entries (DN and MN finished; next the Saṃyutta, 1,625 entries, first file `sn-1`, 33).

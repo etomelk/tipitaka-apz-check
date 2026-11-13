@@ -1,0 +1,16 @@
+[
+ {
+  "pi": 64,
+  "ei": 0,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "ඉමා ඛො ආනන්ද, චතස්සො දක්ඛිණා විසුද්ධියොති.",
+    "ආනන්දය, මේ දාන විසුද්ධි සතර වෙත්.”"
+   ]
+  ],
+  "pali": "ඉමා ඛො ආනන්ද, චතස්සො දක්ඛිණා විසුද්ධියොති.",
+  "reason": "The entry's last sentence stands in Pāli. Written in the words the passage opens with at 63:3 (“ආනන්දය, මේ දාන විසුද්ධිහු සතරක් වෙත්”).",
+  "unsure": false
+ }
+]

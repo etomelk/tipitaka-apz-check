@@ -1,0 +1,100 @@
+[
+ {
+  "pi": 24,
+  "ei": 10,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "‘එය මම වෙමි, එය මාගේ ආත්මය වන්නේය’යි",
+    "‘එය මාගේය, එය මම වෙමි, එය මාගේ ආත්මය වන්නේය’යි"
+   ]
+  ],
+  "pali": "‘එතං මම, එසො හමස්මි, එසො මෙ අත්තා’ති.",
+  "reason": "The Pāli has the three: එතං මම, එසො හමස්මි, එසො මෙ අත්තා. The Sinhala has only the second and third; “එය මාගේය” (එතං මම) is missing. Added as the same question has it at 24:4 and 24:16.",
+  "unsure": false
+ },
+ {
+  "pi": 30,
+  "ei": 3,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "මනොවිඤ්ඤාණය... මනොසම්ඵස්සය... වේදනාව... තණ්හාව",
+    "මනොවිඤ්ඤාණය ‘මෙය මගේය, මෙය මම වෙමි, මෙය මගේ ආත්මය’යි දකියි ද, මනොසම්ඵස්සය ‘මෙය මගේය, මෙය මම වෙමි, මෙය මගේ ආත්මය’යි දකියි ද, වේදනාව ‘මෙය මගේය, මෙය මම වෙමි, මෙය මගේ ආත්මය’යි දකියි ද, තණ්හාව"
+   ]
+  ],
+  "pali": "මනොසම්ඵස්සං ‘එතං මම, එසොහමස්මි, එසො මෙ අත්තා’ති සමනුපස්සති",
+  "reason": "The Pāli has no -පෙ- here: it writes the sentence out for each item (…සමනුපස්සති each time). The Sinhala names the items with “...” between them and gives the sentence once. Filled by script with the entry’s own sentence, nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 30,
+  "ei": 4,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "චක්ඛුසම්ඵස්සය... වේදනාව... තණ්හාව",
+    "චක්ඛුසම්ඵස්සය ‘මෙය මගේ නොවේය, මෙය මම නොවෙමි, මෙය මගේ ආත්මය නොවේය’යි දකියි ද, වේදනාව ‘මෙය මගේ නොවේය, මෙය මම නොවෙමි, මෙය මගේ ආත්මය නොවේය’යි දකියි ද, තණ්හාව"
+   ]
+  ],
+  "pali": "චක්ඛුසම්ඵස්සං ‘නෙතං මම, නෙසොහමස්මි, න මෙසො අත්තා’ති සමනුපස්සති",
+  "reason": "The Pāli has no -පෙ- here: it writes the sentence out for each item (…සමනුපස්සති each time). The Sinhala names the items with “...” between them and gives the sentence once. Filled by script with the entry’s own sentence, nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 31,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "මනොසම්ඵස්සය... වේදනාව... තණ්හාව",
+    "මනොසම්ඵස්සය ‘මෙය මගේ නොවේය, මෙය මම නොවෙමි, මෙය මගේ ආත්මය නොවේය’යි දකියි ද, වේදනාව ‘මෙය මගේ නොවේය, මෙය මම නොවෙමි, මෙය මගේ ආත්මය නොවේය’යි දකියි ද, තණ්හාව"
+   ]
+  ],
+  "pali": "මනොසම්ඵස්සං ‘නෙතං මම, නෙසොහමස්මි, න මෙසො අත්තා’ති සමනුපස්සති",
+  "reason": "The Pāli has no -පෙ- here: it writes the sentence out for each item (…සමනුපස්සති each time). The Sinhala names the items with “...” between them and gives the sentence once. Filled by script with the entry’s own sentence, nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 31,
+  "ei": 1,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "දිට්ඨෙව ධම්මෙ (මේ ආත්මයෙහි ම) දුක්",
+    "මේ ආත්මයෙහි ම දුක්"
+   ]
+  ],
+  "pali": "දිට්ඨෙව ධම්මෙ දුක්ඛස්සන්තකරො භවිස්සතීති",
+  "reason": "The Pāli words දිට්ඨෙව ධම්මෙ stand in the Sinhala with their translation in brackets after them. The Pāli is taken out and the translation kept, as the next entry (31:2) has the same sentence.",
+  "unsure": false
+ },
+ {
+  "pi": 31,
+  "ei": 3,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "දිට්ඨෙව ධම්මෙ (මේ ආත්මයෙහි ම) දුක්",
+    "මේ ආත්මයෙහි ම දුක්"
+   ]
+  ],
+  "pali": "දිට්ඨෙව ධම්මෙ දුක්ඛස්සන්තකරො භවිස්සතීති",
+  "reason": "The Pāli words දිට්ඨෙව ධම්මෙ stand in the Sinhala with their translation in brackets after them. The Pāli is taken out and the translation kept, as 31:2 has the same sentence.",
+  "unsure": false
+ },
+ {
+  "pi": 32,
+  "ei": 0,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "දිට්ඨෙව ධම්මෙ (මේ ආත්මයෙහි ම) දුක්",
+    "මේ ආත්මයෙහි ම දුක්"
+   ]
+  ],
+  "pali": "දිට්ඨෙව ධම්මෙ දුක්ඛස්සන්තකරො භවිස්සතීති",
+  "reason": "The Pāli words දිට්ඨෙව ධම්මෙ stand in the Sinhala with their translation in brackets after them. The Pāli is taken out and the translation kept, as 31:2 has the same sentence.",
+  "unsure": false
+ }
+]

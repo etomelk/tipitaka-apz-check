@@ -30,5 +30,37 @@
   "pali": "න සීසං චොපෙති, න කණ්ණෙ චොපෙති, න දන්තෙ චොපෙති, න නඞ්ගුට්ඨං චොපෙති, න සොණ්ඩං චොපෙති.",
   "reason": "The Pāli entry opens with the head, ears, tusks, tail and trunk that the elephant does not move; the Sinhala for them stands at the end of the entry before, page 23 entry 1. Moved here word for word (a pair with the row for 23:1). This entry is not on the step 1 list; it was read in full for this.",
   "unsure": false
+ },
+ {
+  "pi": 60,
+  "ei": 6,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "උතුමන් නොහඳුනන්නෙක.",
+    "ශ්‍රමණයන්ට කළයුතු සංග්‍රහ නොකරන්නෙක. බ්‍රාහ්මණයන්ට කළයුතු සංග්‍රහ නොකරන්නෙක."
+   ]
+  ],
+  "pali": "අසාමඤ්ඤො අබ්රහ්මඤ්ඤො",
+  "reason": "The Pāli lists five failings: towards mother, father, ascetics (අසාමඤ්ඤො), brahmins (අබ්රහ්මඤ්ඤො) and the elders of the family. The Sinhala has four; for the third and fourth it has the one phrase “උතුමන් නොහඳුනන්නෙක”, which names neither. Written on the pattern of the entry's own words for mother and father. Unsure: the one phrase may be meant to cover both.",
+  "unsure": true
+ },
+ {
+  "pi": 61,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "නුඹ මිනිසුන් අතර ළදරුවෙකු නුදුටුවෙහිද?",
+    "නුඹ මිනිසුන් අතර බාලවූ, උඩුකුරුව සයනය කරන්නාවූ, ස්වකීය මල මූත්‍රයෙහි ගැලී වැතිර සිටින ළදරු කුමාරයෙකු නුදුටුවෙහිද?"
+   ],
+   [
+    "තට එසේ කරන්නෙමි.",
+    "තට එසේ කරන්නාහුය."
+   ]
+  ],
+  "pali": "දහරං කුමාරං මන්දං උත්තානසෙය්යකං සකෙ මුත්තකරීසෙ පලිපන්නං",
+  "reason": "(1) The first divine messenger is described in the Pāli as a tender infant lying on its back, fallen in its own urine and excrement (මන්දං උත්තානසෙය්යකං සකෙ මුත්තකරීසෙ පලිපන්නං සෙමානං); the Sinhala has only “ළදරුවෙකු”. Added in the words text-apz uses for the same Pāli elsewhere (mn-2 47:0, an-10-2 99:3). (2) තථා කරිස්සන්ති is ‘they will do’; the Sinhala has Yama say “කරන්නෙමි” (I will do). Written “කරන්නාහුය”, as the next entry (61:1) has it for the same sentence.",
+  "unsure": false
  }
 ]
