@@ -1,0 +1,30 @@
+[
+ {
+  "pi": 52,
+  "ei": 0,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "උපන්නාහුයයිද? දැනගනිමි",
+    "උපන්නාහුයයිද? දැනගනියි"
+   ]
+  ],
+  "pali": "යථාකම්මූපගෙ සත්තෙ පජානාති",
+  "reason": "The second half is about Kassapa (කස්සපොපි … පස්සති … පජානාති, he sees, he knows). The Sinhala has “දකියි” but ends with “දැනගනිමි” (I know), the verb of the Buddha's half. Changed to “දැනගනියි”.",
+  "unsure": false
+ },
+ {
+  "pi": 56,
+  "ei": 7,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "“ඉධ භන්තෙ, භගවා නිසීදතු, යං මමස්ස දීඝරත්තං හිතාය සුඛායා”ති.",
+    "“ස්වාමීනි, භාග්‍යවතුන් වහන්සේ මෙහි වැඩහිඳින සේක්වා. එය මට බොහෝ කලක් හිත පිණිස, සැප පිණිස වන්නේය” කියායි."
+   ]
+  ],
+  "pali": "ඉධ භන්තෙ, භගවා නිසීදතු, යං මමස්ස",
+  "reason": "Kassapa's words to the Buddha are left in Pāli, untranslated (“ඉධ භන්තෙ, භගවා නිසීදතු, යං මමස්ස දීඝරත්තං හිතාය සුඛායා”ති). Translated (newly written words; “බොහෝ කලක් හිත පිණිස, සැප පිණිස වන්නේ” as in sn-3 page 1 entry 1), nothing else changed.",
+  "unsure": false
+ }
+]

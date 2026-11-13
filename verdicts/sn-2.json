@@ -1,0 +1,56 @@
+[
+ {
+  "pi": 15,
+  "ei": 9,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "සැප දුක් තමා විසින් කරන ලද්දේද",
+    "දුක තමා විසින් කරන ලද්දේද"
+   ],
+   [
+    "සැප දුක් අනුන් විසින් කරන",
+    "දුක අනුන් විසින් කරන"
+   ],
+   [
+    "සැප දුක් තමා විසින් සහ",
+    "දුක තමා විසින් සහ"
+   ],
+   [
+    "සැප දුක් තමා විසින් නොකරන",
+    "දුක තමා විසින් නොකරන"
+   ]
+  ],
+  "pali": "සයංකතං දුක්ඛ",
+  "reason": "Kassapa repeats his four questions about suffering (දුක්ඛං: සයංකතං දුක්ඛං, පරංකතං දුක්ඛං …); the Sinhala has “සැප දුක්” (pleasure and pain) in all four, the wording of the next sutta (Timbaruka, සුඛදුක්ඛං). Entries 3–6 of this page and the rest of this entry have “දුක”; changed to that.",
+  "unsure": false
+ },
+ {
+  "pi": 19,
+  "ei": 7,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "භවය පච්චයා ජාති -පෙ- උපාදාන පච්චයා භවො -පෙ- තණ්හා පච්චයා උපාදානං - වෙදනා පච්චයා තණ්හා - ඵස්ස පච්චයා වෙදනා - සළායතන පච්චයා ඵස්සො - නාමරූප පච්චයා සළායතනං - විඤ්ඤාණ පච්චයා නාමරූපං - සඞ්ඛාර පච්චයා විඤ්ඤාණං - අවිජ්ජා පච්චයා සංඛාරා.",
+    "භවය නිසා ඉපදීම ඇති වෙයි -පෙ- උපාදානය නිසා භවය ඇති වෙයි -පෙ- තණ්හාව නිසා උපාදානය ඇති වෙයි - වේදනාව නිසා තණ්හාව ඇති වෙයි - ස්පර්ශය නිසා වේදනාව ඇති වෙයි - සළායතන නිසා ස්පර්ශය ඇති වෙයි - නාමරූප නිසා සළායතන ඇති වෙයි - විඤ්ඤාණය නිසා නාමරූප ඇති වෙයි - සංස්කාර නිසා විඤ්ඤාණය ඇති වෙයි -"
+   ]
+  ],
+  "pali": "භවපච්චයා භික්ඛවෙ ජාති -පෙ- උපාදානපච්චයා භික්ඛවෙ භවො",
+  "reason": "The ten links are left in Pāli (“භවය පච්චයා ජාති … අවිජ්ජා පච්චයා සංඛාරා”) with no translation; only the last is translated, in the sentence that follows. Nine are written in the words of page 13 entry 6 of this file (“තණ්හාව නිසා උපාදානය ඇති වෙයි” …); the tenth, already translated in the next sentence, is not repeated. The quoted formula with its gloss at the end is kept.",
+  "unsure": false
+ },
+ {
+  "pi": 20,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "ජාතිය අනිත්‍යය... භවය අනිත්‍යය... උපාදානය...",
+    "ජාතිය අනිත්‍යය, සංස්කෘතය, පටිච්චසමුප්පන්නය, ක්ෂය වන ස්වභාව ඇත්තේය, වැය වන ස්වභාව ඇත්තේය, විරාග ස්වභාව ඇත්තේය, නිරෝධ ස්වභාව ඇත්තේය. මහණෙනි, භවය අනිත්‍යය, සංස්කෘතය, පටිච්චසමුප්පන්නය, ක්ෂය වන ස්වභාව ඇත්තේය, වැය වන ස්වභාව ඇත්තේය, විරාග ස්වභාව ඇත්තේය, නිරෝධ ස්වභාව ඇත්තේය. මහණෙනි, උපාදානය..."
+   ]
+  ],
+  "pali": "ජාති භික්ඛවෙ, අනිච්චා සඞ්ඛතා පටිච්චසමුප්පන්නා ඛයධම්මා වයධම්මා විරාගධම්මා නිරොධධම්මා. භවො භික්ඛවෙ, අනිච්චො සඞ්ඛතො පටිච්චසමුප්පන්නො ඛයධම්මො වයධම්මො විරාගධම්මො නිරොධධම්මො",
+  "reason": "The Pāli writes the sentence out in full for birth and for existence and abbreviates only from උපාදානං on; the Sinhala gives “...” for both. Filled with the entry’s own words for ageing-and-death, nothing else changed.",
+  "unsure": false
+ }
+]

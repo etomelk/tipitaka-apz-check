@@ -785,3 +785,44 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 1: 3,038 of 5,250 entries (SN: `tools/work.py list 1 sn` gives 1,630 entries, 1,420 to read; next file
 `sn-2`, 46).
+
+## 2026-11-13 (run 22) — `sn-2`, `sn-2-1-5` and `sn-2-2` finished
+
+Commit e4db85e (pinned). Step 1: all 46 entries of `sn-2` (Nidāna saṃyutta, Buddha and Āhāra vaggas to the
+Dasabala vagga and the ñāṇavatthu suttas), all 30 of `sn-2-1-5` (Gahapati vagga to the Abhisamaya saṃyutta) and all
+32 of `sn-2-2` (Dhātu, Anamatagga and Kassapa saṃyuttas): 108 entries, each read in full against its Pāli. The three
+files' batches are built (`batches/sn-2_e4db85e.tsv`, 3 rows; `batches/sn-2-1-5_e4db85e.tsv`, no rows;
+`batches/sn-2-2_e4db85e.tsv`, 2 rows), nothing refused.
+
+Confirmed (main file):
+- `sn-2` 15:9 wrong-word (Acela Kassapa): Kassapa's four questions on suffering (සයංකතං දුක්ඛං …) stand as
+  “සැප දුක්” (pleasure and pain, the next sutta's wording); entries 3–6 of the page and the rest of the entry have
+  “දුක”. Changed in the four places.
+- `sn-2` 19:7 pali-left-in (Paccaya): the links from භවපච්චයා ජාති to සඞ්ඛාරපච්චයා විඤ්ඤාණං stand in Pāli
+  (“භවය පච්චයා ජාති … සඞ්ඛාර පච්චයා විඤ්ඤාණං”) with no translation; written in the words of 13:6 of the same file.
+  The last link, translated in the sentence that follows, is not repeated; the quoted formula with its gloss at the
+  end is kept (as in 19:6, where the formula is translated first and then quoted).
+- `sn-2` 20:0 clause-missing (Paccaya): the Pāli writes the sentence out for birth and for existence; the Sinhala
+  has “ජාතිය අනිත්‍යය... භවය අනිත්‍යය...”. Filled with the entry's own words for ageing-and-death.
+- `sn-2-2` 52:0 wrong-person (Jhānābhiññā): Kassapa's half ends “දැනගනිමි” (I know) for පජානාති; “දැනගනියි”.
+- `sn-2-2` 56:7 pali-left-in (Cīvara): Kassapa's words “ඉධ භන්තෙ, භගවා නිසීදතු, යං මමස්ස දීඝරත්තං හිතාය
+  සුඛායා”ති stand untranslated; translated (newly written words).
+
+Unsure: none.
+
+Left alone:
+- `sn-2` 18:5 opens with the sutta's setting (“එක්කලෙක … වදාළ සේක”), which the Pāli gives in the entry before it
+  as සාවත්ථියං only; an opening written out, no row. 13:6 ends with a closing quotation mark and “කියායි” without
+  an opening mark.
+- `sn-2` 19:1 keeps “අධිප්පායක්, නානාකරණයක්” as Sinhala-ised terms in a clumsy sentence (model-written); every
+  clause of the Pāli is there. 16:0 and 17:6 quote the Pāli formula and gloss it in brackets.
+- `sn-2-1-5` 57:5: සත්ත මුග්ගමත්තියො පාසාණසක්ඛරා (seven pebbles the size of mung beans) is “මුංඇට හතක් පමණවූ
+  ගල්කැට” (pebbles the size of seven mung beans); the seven is there, wording only.
+- `sn-2-2` 3:7: BJT's Pāli has “නො ධම්මපරිළාහං පටිච්ච උප්පජ්ජති ධම්මපරියෙසනා” where the series needs the
+  positive sentence (a slip in the Pāli entry); the Sinhala has the positive, as the sense requires. No row.
+- Many entries of these three files write out what the Pāli abbreviates (the twelve links, the seven days and nights,
+  the Dhātu saṃyutta's triads in three times): not errors.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 2,930 of 5,250 entries (SN: 1,312 of 1,630 to read; next file `sn-2-5`, 67).
