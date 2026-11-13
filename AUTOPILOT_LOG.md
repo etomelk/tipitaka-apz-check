@@ -283,3 +283,42 @@ renamed “wrong-word”, the kind already used for a wrong person or thing.
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 4,337 of 5,250 entries (MN 1,089, SN 1,630, AN 1,618; next file `mn-1`, 75 entries).
+
+## 2026-11-13 (autopilot run 10)
+
+Commit 96aedf5 (upstream has moved on from e4db85e; its last commit is “Word alignments for AN 1-11”). The comparison
+was rebuilt; the step lists have the same counts as before. **The Dīgha batch still holds at the new commit:**
+`work.py batch dn-step1 …` run against 96aedf5 gave the same 43 rows and 11 unsure, nothing refused, byte for byte the
+file of run 9 (so `batches/dn-step1_e4db85e.tsv` can be posted as it is; the copy named for 96aedf5 was not kept).
+
+Step 1, the Majjhima begun: `mn-1` finished (75 entries: the Mūlapariyāya, Sabbāsava, Dhammadāyāda, Bhayabherava,
+Anaṅgaṇa, Ākaṅkheyya, Sallekha, Sammādiṭṭhi and Satipaṭṭhāna suttas and the vagga's closing verses) and the first 26
+entries of `mn-1-2` (the Cūḷasīhanāda sutta and the opening of the Mahāsīhanāda), 101 entries, each read in full
+against its Pāli. Batches `batches/mn-1_96aedf5.tsv` (8 rows) and `mn-1_96aedf5_unsure.tsv` (1 row); nothing refused.
+
+Findings, sure (all in `mn-1`):
+- 7:2 wrong-word (Mūlapariyāya §36, the arahant free of delusion): the Pāli abbreviates the series and ends with
+  Nibbāna known as Nibbāna; the entry writes the whole series out as one list and says that all of these (water, fire,
+  the gods … and Nibbāna) are taken “as Nibbāna”. Replaced with the abbreviated form that page 6 entries 2 and 6 have.
+- 57:5, 58:3, 59:1, 59:6 pali-left-in (Sammādiṭṭhi, the closing of the sections on ageing and death, birth, existence
+  and clinging): the closing sentences එත්තාවතාපි ඛො ආවුසො … ආගතො ඉමං සද්ධම්මන්ති stand in Pāli. Replaced with
+  text-apz's own wording of them, copied by script from page 59 entry 4 (a full stop it lacks there added).
+- 58:2, 59:0, 59:5 pali-left-in (the same sutta): the two sentences “from the arising of X the arising of Y, from the
+  cessation of X the cessation of Y” stand in Pāli (භවසමුදයා ජාතිසමුදයො. භවනිරොධා ජාතිනිරොධො. and the like).
+  Translated with each entry's own terms (“භවසමුදයෙන් ජාතිසමුදය වේ. භවනිරොධයෙන් ජාතිනිරොධය වේ.”): this wording
+  is newly written, on the pattern of page 60 entry 2.
+
+Unsure:
+- 76:4 wrong-number (the fourth closing verse of the vagga, a compressed verse): “five hundred suttas, another hundred
+  and fifty, two expositions and two others” where the Pāli has පඤ්ඤස, fifty: the first fifty and another hundred, a
+  hundred and fifty, and two others (BJT's Sinhala reads it so). The proposed wording is newly written.
+
+Left alone: `mn-1` 6:1 and the like give සම්මදඤ්ඤා විමුත්තො as “සසරින් මිදුනාවූ” and අභිජානාති as “හඟියි” (word
+choice); 11:2 “මුවණින්” (spelling); 28:1 කංසපාති as “රන් තලියක්”; 20:3–22:1 leave out අකුසලං in “භයභෙරවං
+අව්හයන්ති”; 76:5 gives the suttas' names where the verse has key words. `mn-1-2` 0:4 gives the wanderers' quotation
+twice, the second time in Pāli with its translation in brackets after it (a quoted formula beside its translation;
+nothing is missing).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 4,236 of 5,250 entries (MN 988 of 1,089; next file `mn-1-2`, 205 of its 231 entries still to read).
