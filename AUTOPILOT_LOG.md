@@ -536,3 +536,56 @@ before පරලොව (a gloss, left); 50:5 ends “රාජකුමාරය
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 3,713 of 5,250 entries (MN 465 of 1,089; next file `mn-2-4`, 73 of its 113 entries still to read).
+
+## 2026-11-13 (run 16)
+
+Commit e4db85e (pinned). Step 1: the last 73 entries of `mn-2-4` (Bodhirājakumāra from the five monks' reply, 52:0;
+Aṅgulimāla, Piyajātika, Dhammacetiya, Kaṇṇakatthala and the vagga's uddāna) and all 41 of `mn-2-5` (Brahmāyu, Sela,
+Assalāyana, Ghoṭamukha, Caṅkī, Esukārī, Dhanañjāni, Vāseṭṭha, Subha, Saṅgārava): 114 entries, each read in full
+against its Pāli. Both files are finished: `batches/mn-2-4_e4db85e.tsv` (13 rows, with the three of run 15) and
+`batches/mn-2-5_e4db85e.tsv` (1 row), none unsure, nothing refused.
+
+Confirmed (main file):
+- `mn-2-4` 79:2, 79:3, 79:4, 80:0, 80:1 moved (Kaṇṇakatthala, the opening): the Sinhala stands one entry late against
+  the Pāli. The Pāli of 79:2 also holds the man's going to the Blessed One and his message, which the Sinhala gives in
+  79:3; so the sisters' request (Pāli 79:3) stands in 79:4, the king's visit (Pāli 79:4) in 80:0, and the king's
+  account (Pāli 80:0) in 80:1 before that entry's own one sentence (සුඛිනියො හොන්තු …). Proposed by script, no word
+  changed: 79:2 = 79:2 + 79:3; 79:3 = 79:4; 79:4 = 80:0; 80:0 = 80:1 without its last sentence; 80:1 = that sentence.
+  79:3 is not on the step 1 list (0.94 de Zoysa); it was read in full for this. **The five rows belong together: the
+  owner may want to say so in the issue.**
+- `mn-2-4` 52:1 wrong-number (Bodhirājakumāra): the Pāli has two monks taught while three go for alms, then three
+  taught while two go; the entry has the two cases the other way round (mn-1-3, the same passage, has the Pāli's
+  order). The numbers are exchanged; “නොබෝ කලකින්ම” added for න චිරස්සෙව, which the last sentence leaves out.
+- `mn-2-4` 65:1 and 65:3 pali-left-in (Piyajātika): “සා” (she) and “ඛිත්තචිත්තව” stand in the Sinhala; written
+  “ඕ තොමෝ” and “පෙරළුණු සිත් ඇතිව”, the wording of 65:2 and 65:4. 65:3 is not on the step 1 list (0.96 de Zoysa);
+  read in full because it has the same word.
+- `mn-2-4` 81:2 clause-missing (Kaṇṇakatthala): after “භගවා ආහ” the Pāli repeats the statement (නත්ථි සො සමණො වා
+  බ්රාහ්මණො වා … නෙතං ඨානං විජ්ජතී); the Sinhala leaves it out with no mark. Added in the words of 81:1.
+- `mn-2-4` 83:1 wrong-person (Kaṇṇakatthala, Viḍūḍabha's question): the bracket “(ඒ අනාගාමී දෙවියන් විසින්)” makes
+  the gods who do not return the ones who remove; in the Pāli the gods with affliction (තෙ දෙවා) would remove those
+  without (තෙ දෙවෙ), as the entry's own 84:2 has it. The bracket is written “(ඒ ව්‍යාපාද සහිත දෙවියන් විසින්)”.
+- `mn-2-5` 6:1 pali-left-in (Brahmāyu's message): the clause “තිණ්ණං වෙදානං පාරගූ … අනවයො” stands in Pāli.
+  Translated in the words of 0:3 (the same clause about the same brahmin), put in the sentence's form; “ලොකායන” and
+  “ලක්ෂන” of 0:3 written ලොකායත, ලක්ෂණ.
+
+Unsure: none.
+
+Left alone:
+- `mn-2-4` 66:0, 66:4, 66:5, 66:9, 66:14, 67:0, 67:1, 67:4, 67:5, 67:9, 67:10, 67:11 (Piyajātika): the stock list
+  සොකපරිදෙවදුක්ඛදොමනස්සුපායාසා is given with four members, no උපායාස (the other entries of the sutta have five).
+  One of several near-synonyms in a stock list, left alone as mn-1-4 41:0 was. **A doubt for the owner:** twelve
+  entries in a row; if the maintainer wants list members restored, these are a one-word edit each.
+- `mn-2-4` 52:0 gives the monks' second and third speeches and the second answer as “එසේම කීවාහ / කීමි” where the
+  Pāli writes them out (a shortened repetition); 63:4 has “ඒ එසේමය” twice; 83:3 glosses චාවෙතුං as “(මරවීමට)”;
+  65:2 (not on the list) has its words out of order (“දෙයින් උපදනාහුය, ප්‍රිය යන”), a misprint.
+- `mn-2-5` 3:1–3:3 (and the other marks of the page) add “මෙයද … මහා පුරුෂ ලක්ෂණයෙකි” after each mark, which the
+  Pāli of the Brahmāyu sutta does not have (true of each mark, nothing said wrongly). 18:3, 18:6, 19:2, 20:3, 20:6
+  (Assalāyana) give කිඤ්චාපි භවං ගොතමො එවමාහ as a question, “කිසියම් කරුණක් නිසා … කීසේක්ද?”, followed by
+  “එසේ වී නමුදු”; 19:6 has it right (“මෙසේ කියන සේක් නමුදු”). A wrong construal of කිඤ්චාපි that leaves the
+  sense of the reply standing; not sent. **The owner may want to ask the maintainer whether he wants these five.**
+  49:4 gives “...” where the Pāli has a few words and then -පෙ- (both abbreviate); 56:0 and 56:2 have no word for
+  සහෙතුකා; 28:2 is hard to follow but has every clause.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 3,599 of 5,250 entries (MN 351 of 1,089; next file `mn-3`, 48 entries, then `mn-3-2`, 113).
