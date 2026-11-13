@@ -473,3 +473,29 @@ The maintainer asked that Claude post the issues. Claude has no access to pathni
 each collection. The Khuddaka is asked for after AN; `tools/work.py` has no step for it yet.
 
 Left in step 1: 3,918 of 5,250 entries (MN 670 of 1,089; next file `mn-1-5`, 78 of its 114 entries still to read).
+
+## 2026-11-13 (run 14)
+
+Commit e4db85e (pinned). Step 1: the last 78 entries of `mn-1-5` (the Mahāvedalla from §20, the end of the
+Cūḷavedalla, the Mahādhammasamādāna, Vīmaṃsaka, Kosambiya, Brahmanimantanika and Māratajjanīya suttas) and all 24 of
+`mn-2` (Aṭṭhakanāgara, Sekha, Potaliya, Jīvaka, Kukkuravatika, Abhayarājakumāra, Bahuvedanīya, Apaṇṇaka): 102 entries,
+each read in full against its Pāli. Both files are finished: `batches/mn-1-5_e4db85e.tsv` (1 row, none unsure) and
+`batches/mn-2_e4db85e.tsv` (no rows), nothing refused.
+
+Confirmed (main file):
+- `mn-1-5` 48:0 pali-left-in (Kosambiya §6, the eight ways a mind is overcome): the Pāli verb හොති stands in the
+  Sinhala sixteen times (“මැඩුණේ හොති, මැඩුණු සිත් ඇත්තේම හොති”, “යෙදුනේ හොති”). Written “වේ නම්” after ඉදින්
+  and “වෙයි” at the end of each sentence, by script; nothing else changed. The form is found in no other entry of
+  mn-1 … mn-1-5.
+
+Unsure: none.
+
+Left alone: `mn-1-5` 43:1 opens “4. 4.” (the paragraph number twice; a number, not a meaning error); 43:2 gives
+සඞ්කිලිට්ඨා once as “ලාමක” and once as “කෙලෙස් සහිත” (word choice); 46:5 gives අප්පටිවිභත්තභොගී as
+“නොබෙදා නොවළඳන්නේ” (a defensible reading); 16:3 puts the body as the subject of ජහන්ති (loose, the answer in 16:4
+is the same); 63:10 names the monk of the verse (භික්ඛු) as Mahāmoggallāna. `mn-2`: the entries that write out what
+the Pāli abbreviates with -පෙ- (10:2–11:2, 16:1–17:0, 24:1) were read through their expansions; nothing to note.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 3,816 of 5,250 entries (MN 568 of 1,089; next file `mn-2-2`, 21 entries, then `mn-2-3`, 42).
