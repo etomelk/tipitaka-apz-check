@@ -954,3 +954,40 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 2,622 of 5,250 entries (SN: 1,004 of 1,630 to read; next file `sn-3-7`, 210).
+
+## 2026-11-13 (run 26) — `sn-3-7`, first 137 of 210
+
+Commit e4db85e (pinned). Step 1: the first 137 entries of `sn-3-7` (the Sāriputta, Nāga, Supaṇṇa, Gandhabbakāya,
+Valāhaka and Vacchagotta saṃyuttas, and the Jhāna saṃyutta as far as the Abhinīhāra sutta; pages 1–39, to 39:10),
+each read in full against its Pāli. Most are short (the abbreviated peyyāla suttas), so the run went past 100. The
+file is not finished (73 left, from 39:11), so no batch is built yet; the one finding was tried through
+`work.py batch` (nothing refused) and the trial files removed.
+
+Confirmed (main file):
+- `sn-3-7` 36:16 wrong-word (Jhāna saṃyutta, Ṭhiti sutta): the Pāli pairs සමාධිකුසලො with ඨිතිකුසලො in four
+  sentences. The first gives සමාධිකුසලො as “ධ්‍යානාංග දැනීමෙහි සමත්”; the other three give it as “සමාධියට
+  සමවැදීමෙහි”, the file's wording for සමාපත්තිකුසලො in the sutta before (36:6–36:10), which this entry's Pāli does
+  not have. Put as the first sentence has it (the second already has it in brackets).
+
+Unsure: none.
+
+Left alone:
+- 21:9 and 24:8 give the line සාවත්ථියං as “(මේ සූත්‍ර ද පෙර සූත්‍ර මෙන් ජේතවනාරාමයේදී දේශනා කරන ලදී.)”: loose,
+  nothing wrong against the Pāli, no row.
+- 36:11–39:2 give the simile ගවා ඛීරං, ඛීරම්හා දධි … partly as “දෙනට වඩා කිරිද, කිරට වඩා දීද …” (“than”, where
+  36:11 has “දෙනගෙන් කිරිද …”): de Zoysa's loose wording, the point of the simile stands; no row. The owner may
+  want to mention it.
+- 28:0, 28:5, 28:10, 29:4 give the closing sentence අයං ඛො වච්ඡ, හෙතු … with “ඊට” for the list of views the Pāli
+  repeats; 1:3 and 3:3 have no word for ආගච්ඡන්තං, 3:2 none for දිවාවිහාරං, 7:15 none for එකච්චෙ, 28:0 none for
+  ලොකෙ (single words). 27:11 and the entries like it give තථාගතො as “සත්ත්වතෙමේ” (BJT's Sinhala reads the same).
+- 24:10: BJT's Pāli entry ends with සීතවලාහකානං (a slip for වස්සවලාහකානං); the Sinhala has වස්සවලාහක.
+  35:0: the Pāli entry reads න හොති ච න ච හොති for the third of the four; the Sinhala gives the usual “is and is
+  not”.
+- The terms of the Jhāna saṃyutta (කල්ලිතකුසලො “සිත ශක්තිමත් කිරීමෙහි”, ආරම්මණකුසලො “කසිණාරම්මණයන්හි”,
+  ගොචරකුසලො “සුදුසු කමටහන්හි හා යෝග්‍ය පිණ්ඩපාතයෙහි”, අභිනීහාරකුසලො “කර්මස්ථානය පැමිණවීමෙහි”) follow the
+  commentary: word choices, no row.
+- The uddāna verses (13:1, 22:5, 26:13) stay as they are.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 2,485 of 5,250 entries (SN: 867 of 1,630 to read; next `sn-3-7` from 39:11, 73 left).

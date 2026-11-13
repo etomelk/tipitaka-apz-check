@@ -1,0 +1,24 @@
+[
+ {
+  "pi": 36,
+  "ei": 16,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "සමාධියට සමවැදීමෙහි (ධ්‍යානාංග දැනීමෙහි) නොසමත් වෙයි",
+    "ධ්‍යානාංග දැනීමෙහි නොසමත් වෙයි"
+   ],
+   [
+    "සමාධියට සමවැදීමෙහිද නොසමත් වෙයි",
+    "ධ්‍යානාංග දැනීමෙහිද නොසමත් වෙයි"
+   ],
+   [
+    "සමාධියට සමවැදීමෙහිද දක්ෂවෙයි",
+    "ධ්‍යානාංග දැනීමෙහිද දක්ෂවෙයි"
+   ]
+  ],
+  "pali": "එකච්චො ඣායී සමාධිස්මිං ඨිතිකුසලො හොති, න සමාධිස්මිං සමාධිකුසලො",
+  "reason": "The Ṭhiti sutta pairs සමාධිකුසලො with ඨිතිකුසලො. The entry's first sentence gives සමාධිකුසලො as “ධ්‍යානාංග දැනීමෙහි සමත්”, but the other three give it as “සමාධියට සමවැදීමෙහි”, which is the file's wording for සමාපත්තිකුසලො in the sutta before (page 36 entries 6–10); the Pāli entry has no සමාපත්තිකුසලො. Put as the first sentence has it (the second sentence already has it in brackets); nothing else changed.",
+  "unsure": false
+ }
+]
