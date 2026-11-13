@@ -322,3 +322,42 @@ nothing is missing).
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 4,236 of 5,250 entries (MN 988 of 1,089; next file `mn-1-2`, 205 of its 231 entries still to read).
+
+## 2026-11-13 (autopilot run 11)
+
+Commit 96aedf5 (unchanged since run 10). The comparison was rebuilt; the step lists have the same counts.
+
+Step 1, the Majjhima: the next 108 entries of `mn-1-2` (pages 6–34: the rest of the Mahāsīhanāda sutta, the
+Mahādukkhakkhandha sutta from §7, and the Cūḷadukkhakkhandha sutta to §18), each read in full against its Pāli. The
+file is not finished (97 of its 231 entries left), so no batch file was written; the seven findings were test-built
+with `work.py batch` (6 rows, 1 unsure, nothing refused) and the test files removed.
+
+Findings, sure (all in `mn-1-2`):
+- 8:5 and 9:0 wrong-person (Mahāsīhanāda §16, the recollection of past lives): the quotation is in the first person
+  (අමුත්රාසිං … සො තතො චුතො අමුත්ර උදපාදිං; තත්රාපාසිං … ඉධූපපන්නො) and the entries end it “හෙතෙම එතැනින් චුතව …
+  උපන්නේය” (he … was born). Changed to “ඒ මම … උපන්නෙමි”; text-apz has the first person in this formula in its 40
+  other places.
+- 18:3 wrong-word (§47, the great-filth eating): පට්ඨිතගාවො, the pens the cattle have gone out of, is given as the pens
+  “where the cattle are” (ගවයන් සිටින). Changed to “ගවයන් පිටත්ව ගිය”.
+- 19:3 and 20:2 clause-missing (§50 and §53, the emaciated body): two of the six similes are left out, the gleam of
+  water sunk deep in a deep well (the eyes) and the bitter gourd cut unripe and shrivelled by wind and sun (the scalp);
+  only what they are said of is given. The two similes are newly written, after text-apz's own rendering of the same
+  passage in `mn-2-4` page 46 entry 1.
+- 20:1 clause-missing (§52, the rice grain): the sentences “you may think the rice grain was large then; it should not
+  be seen so” are left out. Added in the wording page 19 entry 3 has for the jujube (with that entry's straight quotes).
+
+Unsure:
+- 17:3 clause-missing (§43, the garments): no item for තිරීටානි (bark garments). The entry has shroud-cloth instead,
+  which this Pāli entry lacks but BJT's Sinhala has; it may be meant for තිරීටානි. The item added is newly written
+  after BJT's reading.
+
+Left alone: 9:0 opens with a paragraph number “17.” that its Pāli entry (the continuation of §16) does not have (the
+kind `number` is skipped); 13:1 and the like give තසිතො as “තැතිගත්” beside “පිපාසිත” (word choice); 22:1 gives the
+statement once where the Pāli has it twice; 20:1 writes out the mung-bean and sesame cases the Pāli abbreviates; 34:0
+(Cūḷadukkhakkhandha §16) has the three tortures එණෙය්‍යක, බළිසමංසික, කහාපණක that this Pāli entry lacks and BJT's
+Sinhala has; 32:2 softens ඛුප්පිපාසාය මීයමානො to “suffering from hunger and thirst”; 33:3 and 26:1 give පක්කට්ඨි
+and අභිවග්ග otherwise than BJT (word choice).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 4,128 of 5,250 entries (MN 880 of 1,089; next file `mn-1-2`, 97 of its 231 entries still to read).
