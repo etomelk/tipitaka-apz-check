@@ -873,3 +873,37 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 2,818 of 5,250 entries (SN: 1,200 of 1,630 to read; next file `sn-3-1-2`, 55).
+
+## 2026-11-13 (run 24) — `sn-3-1-2` and `sn-3-1-3` finished
+
+Commit e4db85e (pinned). Step 1: all 55 entries of `sn-3-1-2` (Khandha saṃyutta, Upaya vagga to the Puppha vagga,
+pages 4–83) and all 35 of `sn-3-1-3` (Anta vagga to the Diṭṭhi vagga, pages 2–32): 90 entries, each read in full
+against its Pāli. The two files' batches are built (`batches/sn-3-1-2_e4db85e.tsv`, 2 rows;
+`batches/sn-3-1-3_e4db85e.tsv`, no rows), nothing refused. The run stopped at the file's end: the next file,
+`sn-3-2`, has 106 entries.
+
+Confirmed (main file):
+- `sn-3-1-2` 7:6 pali-left-in (Sattaṭṭhāna): two clauses stand in Pāli in the Sinhala sentence, “රූපස්ස අස්සාදං
+  පජානාති, රූපස්ස ආදීනවං පජානාති”; put as the same sutta has them for feeling (“… ආස්වාදය දනී, … ආදීනව දනී”).
+- `sn-3-1-2` 49:6 clause-missing (Yamaka; a list item): in the sentence on consciousness, which the Pāli writes
+  out, හීනං වා is missing (“සියුම්වූ හෝ උතුම්වූ හෝ”); the entry's sentences on form, feeling and formations have
+  “හීනවූ හෝ”. Added.
+
+Unsure: none.
+
+Left alone:
+- `sn-3-1-2` 25:8 glosses the seven good qualities as “සද්ධා, හිරි, ඔතප්ප, බාහුසච්ච විරිය, සති, සඤ්ඤා” (the last
+  should be paññā, and there is no comma after බාහුසච්ච): a gloss in brackets that the Pāli entry does not have
+  (de Zoysa's), so no row; the owner may want to mention it.
+- `sn-3-1-2` 27:5 has no word for විප්පමුත්තස්ස and 83:3 none for භික්ඛුනා (single words; the sentences stand);
+  83:3's first sentence is clumsy (“නොමදකිමි”), every clause there. 68:4 leaves ලොකෙ out of the second of the
+  two twin sentences. 41:7 and 41:8 add a bracketed remark that the answer is the same for the other aggregates.
+- `sn-3-1-2` 45:6: BJT's Pāli entry has no විගතඡන්දස්ස (a slip; the twin entries have it); the Sinhala has it.
+- `sn-3-1-3` 2:4 gives සක්කායනිරොධගාමිනී පටිපදා as “තමා නැති කිරීමේ මාර්ගය” (de Zoysa's wording for sakkāya):
+  loose, no row.
+- Most entries of both files write out for the four other aggregates what the Pāli abbreviates (the questions on
+  permanence, 16 entries of `sn-3-1-3` alone): not errors; each was counted (four aggregates, each once).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 2,728 of 5,250 entries (SN: 1,110 of 1,630 to read; next file `sn-3-2`, 106).

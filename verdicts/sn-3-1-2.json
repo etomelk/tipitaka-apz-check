@@ -1,0 +1,30 @@
+[
+ {
+  "pi": 7,
+  "ei": 6,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "රූපස්ස අස්සාදං පජානාති, රූපස්ස ආදීනවං පජානාති,",
+    "රූපයාගේ ආස්වාදය දනී, රූපයාගේ ආදීනව දනී,"
+   ]
+  ],
+  "pali": "රූපස්ස අස්සාදං පජානාති, රූපස්ස ආදීනවං පජානාති",
+  "reason": "Two clauses of the Pāli stand untranslated in the Sinhala sentence (“රූපස්ස අස්සාදං පජානාති, රූපස්ස ආදීනවං පජානාති”), between the translated clauses before and after them. Put in the words the same sutta has for feeling (“වේදනාවගේ ආස්වාදය දනී, වේදනාවගේ ආදීනව දනී”) and with this entry's own “රූපයාගේ”; nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 49,
+  "ei": 6,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "සියුම්වූ හෝ උතුම්වූ හෝ",
+    "සියුම්වූ හෝ හීනවූ හෝ උතුම්වූ හෝ"
+   ]
+  ],
+  "pali": "යං කිඤ්චි විඤ්ඤාණං අතීතානාගතපච්චුප්පන්නං අජ්ඣත්තං වා බහිද්ධා වා ඔළාරිකං වා සුඛුමං වා හීනං වා පණීතං වා",
+  "reason": "In the sentence on consciousness, which the Pāli writes out, හීනං වා (inferior) is missing from the list (“… සියුම්වූ හෝ උතුම්වූ හෝ …”); the sentences on form, feeling and formations in the same entry have “හීනවූ හෝ”. Added in those words; nothing else changed.",
+  "unsure": false
+ }
+]
