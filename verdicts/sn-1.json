@@ -1,0 +1,29 @@
+[
+ {
+  "pi": 47,
+  "ei": 8,
+  "kind": "pali-left-in",
+  "edits": [["ගාථාහි අජ්ඣභාසි", "ගාථාවලින් වදාළහ"]],
+  "pali": "අජ්ඣභාසි",
+  "reason": "The Pāli words ගාථාහි අජ්ඣභාසි stand untranslated at the end of the sentence. Written as the twin sentence of the Candima sutta has it (“රාහු අසුරිඳුට (මෙසේ) ගාථායෙන් වදාළහ”), with the plural of ගාථාහි.",
+  "unsure": false
+ },
+ {
+  "pi": 50,
+  "ei": 17,
+  "kind": "clause-missing",
+  "edits": [["කලකිරීමද මා නොමැඩලයි", "හුදෙකලාව ඉන්නා මා කලකිරීමද නොමැඩලයි"]],
+  "pali": "එකමාසීනං",
+  "reason": "මං එකමාසීනං (me, sitting alone) is given only as “මා”; the question before it (50:15) has the phrase as “හුදෙකලාව ඉන්නා ඔබ”. Added in those words.",
+  "unsure": false
+ },
+ {
+  "pi": 53,
+  "ei": 8,
+  "kind": "clause-missing",
+  "edits": [["“සත්පුරුෂයන් සමගම මිතුරුකම්", "“සත්පුරුෂයන් සමගම විසිය යුතුයි. සත්පුරුෂයන් සමගම මිතුරුකම්"]],
+  "pali": "සබ්භිරෙව සමාසෙථ",
+  "reason": "The first of the verse’s two opening clauses, සබ්භිරෙව සමාසෙථ, is missing; the five other verses of the sutta (53:5–53:9) have both. Added in their words (“සත්පුරුෂයන් සමගම විසිය යුතුයි”).",
+  "unsure": false
+ }
+]

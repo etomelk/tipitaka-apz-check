@@ -712,3 +712,41 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 3,248 of 5,250 entries (DN and MN finished; next the Saṃyutta, 1,625 entries, first file `sn-1`, 33).
+
+## 2026-11-13 (run 20) — the Saṃyutta begun
+
+Commit e4db85e (pinned). Step 1: all 33 entries of `sn-1` (Devatā and Devaputta saṃyuttas) and the first 70 of
+`sn-1-3` (Kosala saṃyutta to the Māra saṃyutta's daughters, up to 49:4): 103 entries, each read in full against its
+Pāli. `sn-1`'s batch is built (`batches/sn-1_e4db85e.tsv`, 3 rows), nothing refused; the four findings of `sn-1-3`
+were tried through the batch script (nothing refused) and its batch waits for the file's end.
+
+Confirmed (main file):
+- `sn-1` 47:8 pali-left-in (Suriya): “ගාථාහි අජ්ඣභාසි” stands in Pāli at the sentence's end; written “ගාථාවලින්
+  වදාළහ”, as the twin sentence of the Candima sutta has it.
+- `sn-1` 50:17 clause-missing (Kakudha): මං එකමාසීනං (me, sitting alone) is only “මා”; added in the words of the
+  question at 50:15 (“හුදෙකලාව ඉන්නා”).
+- `sn-1` 53:8 clause-missing (Siva): the first of the verse's two opening clauses, සබ්භිරෙව සමාසෙථ, is missing;
+  the sutta's five other verses have both. Added in their words.
+- `sn-1-3` 14:11 wrong-word (Dhītu): සස්සුදෙවා (she who holds her mother-in-law as a deity) is turned round,
+  “නැන්දම්මාට දේවතාවියක වැනි වූ”; written “නැන්දම්මා දෙවියක සේ සලකන” (newly written words).
+- `sn-1-3` 16:2 pali-left-in (Kalyāṇamitta): the particle ඛො in “මෙසේ ඛො භික්ෂුව”; taken out.
+- `sn-1-3` 19:5 wrong-number (Dutiya-aputtaka): සතං සතසහස්සානං, a hundred hundred-thousands, stands as
+  “ලක්ෂයකි”; written “සිය ලක්ෂයකි” on the pattern of 18:0 (“අසූ ලක්ෂයකි”).
+- `sn-1-3` 49:1 wrong-number (Māradhītu): the hundred of සකිං විජාතවණ්ණසතං is missing; added as 49:3 and 49:5
+  have it (“වෙස් සියය බැගින්”).
+
+Unsure: none.
+
+Left alone:
+- `sn-1-3` 14:11, the same verse: සෙය්යා පොස is given as “පිරිමියාටත් වඩා උතුම්” (better than a man), the other
+  recorded reading (posā); BJT's Sinhala takes පොස as “nourish (her)”. Not sent, as the elephant of `mn-3-3` in
+  run 18. **The same doubt for the owner: by "the BJT Pāli decides" this could be a row.**
+- `sn-1-3` 49:0 has “...පෙ...” for එකසතං එකසතං (a hundred each), two words the Pāli writes out here and
+  abbreviates in the entries after it; the hundred itself is there. 15:3 has no word for the first එකමන්තං නිසීදි.
+  18:0 and 19:5 give බිලඞ්ගදුතියං as “මිරිස් හොදි සමග” (BJT: කාඩි) and අතිහරිත්වා ආගච්ඡාමි as “ගෙන එමි” (loose).
+- `sn-1` 4:2, `sn-1-3` 26:1, 38:5, 41:0, 44:4 write out what the Pāli abbreviates.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 3,145 of 5,250 entries (SN 1,522 of 1,625; next file `sn-1-3`, 66 of its 136 entries still to read,
+then `sn-1-7`, 41).

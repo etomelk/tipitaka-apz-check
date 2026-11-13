@@ -1,0 +1,38 @@
+[
+ {
+  "pi": 14,
+  "ei": 11,
+  "kind": "wrong-word",
+  "edits": [["නැන්දම්මාට දේවතාවියක වැනි වූ", "නැන්දම්මා දෙවියක සේ සලකන"]],
+  "pali": "සස්සුදෙවා",
+  "reason": "සස්සුදෙවා is the woman who holds her mother-in-law as a deity (BJT: “නැදිමයිලන් දෙවි කොට වෙසෙන”); the Sinhala turns it round and makes the woman like a goddess to her mother-in-law.",
+  "unsure": false
+ },
+ {
+  "pi": 16,
+  "ei": 2,
+  "kind": "pali-left-in",
+  "edits": [["මෙසේ ඛො භික්ෂුව", "මෙසේ භික්ෂුව"]],
+  "pali": "එවං ඛො ආනන්ද භික්ඛු",
+  "reason": "The Pāli particle ඛො stands in the Sinhala sentence (“ආනන්දය, මෙසේ ඛො භික්ෂුව …”). Taken out, nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 19,
+  "ei": 5,
+  "kind": "wrong-number",
+  "edits": [["රන් කහවනුම ලක්ෂයකි", "රන් කහවනුම සිය ලක්ෂයකි"]],
+  "pali": "සතං භන්තෙ සතසහස්සානං",
+  "reason": "සතං සතසහස්සානං is a hundred hundred-thousands (BJT: “සියක්ලක්‍ෂයෙකි”); the Sinhala has one hundred-thousand (“ලක්ෂයකි”). Written on the pattern of the twin sentence of the sutta before it (18:0, “අසූ ලක්ෂයකි”).",
+  "unsure": false
+ },
+ {
+  "pi": 49,
+  "ei": 1,
+  "kind": "wrong-number",
+  "edits": [["එක් වරක් වැදූ ස්ත්‍රීන්ගේ වෙස් මවාගෙන", "එක් වරක් වැදූ ස්ත්‍රීන්ගේ වෙස් සියය බැගින් මවාගෙන"]],
+  "pali": "සකිං විජාතවණ්ණසතං",
+  "reason": "The hundred of විජාතවණ්ණසතං is missing: the Sinhala has only “the forms of women who have given birth once”. Added in the words of the twin entries 49:3 and 49:5 (“වෙස් සියය බැගින් මවාගෙන”).",
+  "unsure": false
+ }
+]
