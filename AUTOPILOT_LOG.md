@@ -750,3 +750,38 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 1: 3,145 of 5,250 entries (SN 1,522 of 1,625; next file `sn-1-3`, 66 of its 136 entries still to read,
 then `sn-1-7`, 41).
+
+## 2026-11-13 (run 21) — `sn-1-3` and `sn-1-7` finished
+
+Commit e4db85e (pinned). Step 1: the last 66 entries of `sn-1-3` (Māra's daughters' end, the Bhikkhunī and Brahma
+saṃyuttas, 49:5 to 77:13) and all 41 of `sn-1-7` (Brāhmaṇa, Vaṅgīsa, Vana, Yakkha and Sakka saṃyuttas): 107 entries,
+each read in full against its Pāli. Both files' batches are built (`batches/sn-1-3_e4db85e.tsv`, 7 rows;
+`batches/sn-1-7_e4db85e.tsv`, no rows), nothing refused.
+
+Confirmed (main file):
+- `sn-1-3` 55:16 pali-left-in (Cālā): the verse's last quarter stands in Pāli, “යො මං සච්චෙ නිවෙසයි”, with its
+  translation in brackets after it; the Pāli taken out, the translation kept.
+- `sn-1-3` 68:9 wrong-word (Pamāda): තයා ච … මයා ච, “than you and than me”, has මයා as an agent (“තොපටත් වඩා මා
+  විසින් ද”); written “තොපටත් මටත් වඩා”.
+- `sn-1-3` 71:4 clause-missing (Kokālika): of the eight sizes of the boils the jujube fruit (කොලමත්තියො) is missing
+  between the jujube stone and the myrobalan; added in the words of the same passage in `an-10-2` (“ඩෙබර ගෙඩි පමණ”).
+
+Unsure: none.
+
+Left alone:
+- `sn-1-3` 65:11 ends with a sentence the Pāli does not have, “(එහි) මෙලොව උපදින (සත්වයෝ) නැතැයි කියායි”, after the
+  brahmā's view is given in full; read as a restatement of the view (no one comes to this world), so no row. **The
+  owner may want to look: if it is read as a second, different view, it is an added clause.**
+- `sn-1-3` 72:0 and 72:1 address the one monk (භික්ඛු) as “මහණෙනි”, twelve times in all; number of address only, as
+  the park keeper of `mn-3-4` 42:3. 67:3 lacks a closing quotation mark.
+- `sn-1-7` 18:0 gives විසූකං as “විශූක දර්ශනයකි” and 18:9 makes the Buddha “ලෝකාධිපතියා” in a garbled clause
+  (de Zoysa's wording in both; the verses' other clauses are there); 20:5 reads විස්සං as “මුළු” (all), the other
+  recorded reading (BJT: foul); 18:5 has the Pāli word “(කට්ඨහාරකා)” in brackets after its own translation, a gloss,
+  not text left untranslated.
+- The uddāna verses (51:4, 58:13, 72:8, 77:13; `sn-1-7` 10:5, 22:4, 33:1, 40:7, 49:3, 60:4, 67:14, 71:1, 71:3) are
+  key words and stay as they are. `sn-1-3` 49:5, 49:7, 71:2, 71:3 write out what the Pāli abbreviates.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 3,038 of 5,250 entries (SN: `tools/work.py list 1 sn` gives 1,630 entries, 1,420 to read; next file
+`sn-2`, 46).
