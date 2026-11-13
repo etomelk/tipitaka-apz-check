@@ -1,11 +1,30 @@
 [
- {"pi": 39, "ei": 4, "kind": "pali-left-in", "edits": [["ඉදමවොච භගවා.", "භාග්‍යවතුන් වහන්සේ මෙය වදාළ සේක."]],
-  "pali": "ඉදමවොච භගවා.", "reason": "The opening sentence is still in Pāli; the rest of the entry is unchanged.", "unsure": false},
- {"pi": 64, "ei": 5, "kind": "clause-missing",
-  "edits": [["ඒ භික්ෂු තෙමේ මේ සියලු තැන පැතිර පවත්නා සැප ඇත්තක් කෙරේ. ඒ සැපතින් හාත්පසින් තෙමෙයි, සම්පූර්ණයෙන් පුරවයි, එයින් සැතැනම පැතිරෙයි.", "ඒ භික්ෂු තෙමේ මේ ශරීරයම ප්‍රීතිය රහිත වූ සැපයෙන් තෙමයි, හාත්පසින් තෙමයි, සම්පූර්ණයෙන් පුරවයි, එයින් සැමතැනම පතුරුවයි."]],
+ {
+  "pi": 39,
+  "ei": 4,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "ඉදමවොච භගවා.",
+    "භාග්‍යවතුන් වහන්සේ මෙය වදාළ සේක."
+   ]
+  ],
+  "pali": "ඉදමවොච භගවා.",
+  "reason": "The opening sentence is still in Pāli; the rest of the entry is unchanged.",
+  "unsure": false
+ },
+ {
+  "pi": 64,
+  "ei": 5,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "ඒ භික්ෂු තෙමේ මේ සියලු තැන පැතිර පවත්නා සැප ඇත්තක් කෙරේ. ඒ සැපතින් හාත්පසින් තෙමෙයි, සම්පූර්ණයෙන් පුරවයි, එයින් සැතැනම පැතිරෙයි.",
+    "ඒ භික්ෂු තෙමේ මේ ශරීරයම ප්‍රීතිය රහිත වූ සැපයෙන් තෙමයි, හාත්පසින් තෙමයි, සම්පූර්ණයෙන් පුරවයි, එයින් සැමතැනම පතුරුවයි."
+   ]
+  ],
   "pali": "සො ඉමමෙව කායං නිප්පීතිකෙන සුඛෙන අභිසන්දෙති පරිසන්දෙති පරිපූරෙති පරිප්ඵරති",
-  "reason": "The first sentence has neither “this body” (ඉමමෙව කායං) nor “free of rapture” (නිප්පීතිකෙන), and its verbs do not follow the four of the Pāli. Unsure: the sense can be gathered from the second sentence.", "unsure": true},
- {"pi": 63, "ei": 5, "kind": "clause-added", "edits": [["ඔහුගේ සියලු ශරීරයෙහි විවේකයෙන් හටගත් ප්‍රීති සැපයෙන් පැතිරෙයි. ", ""]],
-  "pali": "නාස්ස කිඤ්චි සබ්බාවතො කායස්ස විවෙකජෙන පීතිසුඛෙන අප්ඵුටං හොති.",
-  "reason": "The sentence “ඔහුගේ සියලු ශරීරයෙහි … පැතිරෙයි” has no counterpart in the Pāli, which says it once, in the negative. Unsure: it repeats the sense and adds no new meaning.", "unsure": true}
+  "reason": "The first sentence has neither “this body” (ඉමමෙව කායං) nor “free of rapture” (නිප්පීතිකෙන), and its verbs do not follow the four of the Pāli.",
+  "unsure": false
+ }
 ]

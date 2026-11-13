@@ -17,12 +17,40 @@ have not read in the Pāli entry, never invent a reading, and when in doubt put 
   2,181 unflagged entries, and is retranslating the 283 entries left in Pāli. Two of our rows were wrong (below). He set
   the brief that follows. Pilot the same day on `dn-1` at e4db85e: 22 entries read, 1 confirmed row, 2 unsure.
 
+- 2026-11-13: the owner sent three sample rows of `dn-1`; the maintainer's answer: the sample is good, go ahead with
+  the full run. 39:4 accepted; 64:5 accepted and belonged in the main file (a real omission); 63:5 left (a restatement).
+  His added instruction is the paragraph "Added 2026-11-13" below; the findings of runs 1–6 were gone over again by it
+  the same day (see `AUTOPILOT_LOG.md`).
+
 ## The maintainer's brief (2026-11-12): what counts, and what to send
 
 **Only confirmed errors.** The BJT Pāli decides, not de Zoysa: the model often corrected de Zoysa, and those corrections
 stand. A row is useful only if the current text is wrong against the Pāli entry. Report only **meaning errors**:
 a negation reversed; the wrong person or subject; a wrong number; a clause missing or added; text that belongs to
 another entry; Pāli left in.
+
+**Added 2026-11-13 (the maintainer, after the sample).** Do not report restatements, redundancy or wording that is
+only loose. Report a row only when something in the Pāli is **missing, wrong or reversed**, or when **Pāli is left in
+the text**. When you are sure an entry is wrong against the Pāli, put it in the **main file even if the sense can be
+pieced together from nearby text** (dn-1 64:5: the sentence left out ඉමමෙව කායං and නිප්පීතිකෙන). So:
+- "Unsure" is for doubt about the **reading** (is it really wrong against the Pāli?), not for doubt about whether a
+  sure error matters. A sure omission of a phrase or of list items goes in the main file, also when the words added
+  are newly written (by his guidelines).
+- An extra sentence that restates the Pāli (dn-1 63:5) is not a row. An added clause is a row only when it says
+  something the Pāli does not, or says it wrongly (dn-2 39:4, “සතිය පිහිටුවා ගෙන” for සතා).
+- Pāli left in the text is a row also when its translation stands beside it in brackets (the Pāli is taken out, the
+  translation kept, by script), and when it is a stray Pāli word or heading. Names, uddāna key words and quoted
+  formulas still stay.
+- A single dropped word that changes nothing (an epithet, a particle, one of two synonyms) is still left alone.
+- One open question for him, kept in the unsure files and not multiplied: de Zoysa's stock rendering of
+  සො ධම්මං දෙසෙති ආදිකල්යාණං … බ්රහ්මචරියං පකාසෙති as one clause (“… පිරිසිදු බ්‍රහ්මචර්යාව ප්‍රකාශ කරයි”), with no
+  “teaches the Dhamma” of its own; it stands in many entries (dn-1-3 36:4, dn-1-6 0:3). Do not add a row per entry;
+  the DN issue text asks him once.
+- **The commit:** he asked that every batch is run against **e4db85e** and holds his other edits to text-apz until
+  the batches are in. `data/pin_commit.txt` holds `tools/setup.sh` to it.
+- **The collections:** DN, MN, SN, AN, then the Khuddaka books, each posted as a GitHub issue when it finishes, so
+  that he can apply them as they come. He asked Claude to post them; Claude has no access to pathnirvana/tipitaka.lk,
+  so the owner posts each one (the run builds the files and the issue text and notifies him).
 
 **Order of work** (`tools/work.py list <step>`):
 1. The model-written and partly rewritten entries of the four Nikāyas that had no `ai` flag at 974bd90 (under 90% of
@@ -52,7 +80,7 @@ another entry; Pāli left in.
 
 **Where:** one GitHub issue per batch on pathnirvana/tipitaka.lk, with the TSV attached, naming the commit it was run
 against. Claude cannot post there: the owner posts each batch. His fixes change the text, so every batch is built
-against the latest commit (`tools/setup.sh` always moves to it).
+against one commit: from 2026-11-13 the pinned e4db85e (`data/pin_commit.txt`), as he asked.
 
 ## How to read an entry (rules learned so far)
 
@@ -73,6 +101,8 @@ against the latest commit (`tools/setup.sh` always moves to it).
 - For the wording of a correction, find how text-apz itself renders the same Pāli elsewhere (grep the phrase) and use
   the most frequent form, so that a fix reads like its surroundings.
 - The pilot's yield was low (1 sure in 22). Most entries are sound. Do not lower the bar to find more.
+- Do not leave a sure error out, or in the unsure file, because the reader could work the sense out from the
+  sentence beside it (2026-11-13).
 
 ## Tools
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Fetch the sources into ../apz-sources (or $APZ_SRC): tipitaka.lk (text-apz, BJT text, the translation guidelines)
-# and the archived de Zoysa. Always moves to the latest upstream commit, and prints it.
+# and the archived de Zoysa. Moves to the pinned commit (data/pin_commit.txt) or, without a pin, the latest upstream commit, and prints it.
 set -e
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 SRC="${APZ_SRC:-$ROOT/../apz-sources}"
@@ -11,7 +11,15 @@ fi
 git -C "$SRC/tipitaka.lk" sparse-checkout set --no-cone '/public/static/text-apz/' '/public/static/text/dn-*' \
   '/public/static/text/mn-*' '/public/static/text/sn-*' '/public/static/text/an-*' '/public/static/text/kn-*' \
   '/dev/apz-trans/prompt-v2.md' '/dev/apz-trans/glossary.tsv' >/dev/null
-git -C "$SRC/tipitaka.lk" fetch -q --depth 1 origin master
+# data/pin_commit.txt (a full commit id) holds the check to one commit: the maintainer asked on 2026-11-13 that every
+# batch is run against e4db85e, and holds his own edits to text-apz until the batches are in. Delete the file to follow
+# the latest commit again.
+PIN="$ROOT/data/pin_commit.txt"
+if [ -s "$PIN" ]; then
+  git -C "$SRC/tipitaka.lk" fetch -q --depth 1 origin "$(tr -d ' \n' < "$PIN")"
+else
+  git -C "$SRC/tipitaka.lk" fetch -q --depth 1 origin master
+fi
 git -C "$SRC/tipitaka.lk" reset -q --hard FETCH_HEAD
 if [ ! -d "$SRC/pitaka.lk-archive/.git" ]; then
   git clone -q --depth 1 --filter=blob:none --sparse https://github.com/pathnirvana/pitaka.lk-archive "$SRC/pitaka.lk-archive"

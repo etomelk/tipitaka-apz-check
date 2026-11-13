@@ -434,3 +434,42 @@ The add_repo tool was again not available; the repository was already cloned wit
 (“authorization temporarily unavailable”) for the first minutes of the run, then worked.
 
 Left in step 1: 3,918 of 5,250 entries (MN 670 of 1,089; next file `mn-1-5`, 78 of its 114 entries still to read).
+
+## 2026-11-13 (with the owner: the maintainer's answer to the sample)
+
+The owner sent three sample rows of `dn-1`. The maintainer accepted the sample (39:4 and 64:5; 63:5 left as a
+restatement) and added: no restatements, redundancy or loose wording; a row only when something in the Pāli is missing,
+wrong or reversed, or Pāli is left in the text; a sure error goes in the main file even if the sense can be pieced
+together from nearby text; keep to e4db85e (he holds his other edits to text-apz); post each collection as it
+finishes (DN, MN, SN, AN, then the Khuddaka books). `CLAUDE.md` (“Added 2026-11-13”), `AUTOPILOT.md` and
+`tools/setup.sh` say so now.
+
+**The commit is pinned** (`data/pin_commit.txt`, read by `tools/setup.sh`): runs 10–13 had followed upstream to
+96aedf5. All batches were rebuilt at e4db85e with nothing refused, so the Majjhima entries read at 96aedf5 are the
+same text at e4db85e; the batch files are named for e4db85e again.
+
+**The findings of runs 1–13 and what those runs left alone were gone over by the new instruction:**
+- Moved from unsure to the main file: dn-1 64:5; dn-2 47:2 (a Pāli heading, the number twice); dn-2-7 50:3 (two list
+  members missing); dn-2-7 61:5, dn-3-5 79:2 and 82:4 (Pāli beside its own translation); dn-3 36:4 (a compound
+  missing); dn-3 59:0 (“...” where the Pāli writes out; භාතු පි භාතරි added to its list too).
+- Dropped: dn-1 63:5 (a restatement).
+- New rows from what was left alone: dn-2 17:0 (a stray Pāli “ඛො”), 51:8 and 53:1 (Pāli before its bracketed
+  translation); dn-2 6:0 also gets එවංගොත්තා in its first list; dn-3 47:2 (“එවං මෙ සුතං:” before its translation);
+  dn-3 62:0, 62:1, 62:2, 63:0, 63:1 (“ප්‍රාණඝාතයෙන්...” where the Pāli writes the abstentions out; filled from 61:2,
+  62:2 and 63:0 by script); mn-1-2 0:4 (the wanderers' quotation in Pāli before its bracketed translation); mn-1-2
+  62:0 and 66:0 (විඤ්ඤූනං සබ්රහ්මචාරීනං left out, so the esteem is given to the Teacher; wording of 63:0).
+- Moved to unsure, to match dn-1-6 0:3: dn-1-3 36:4. Both are de Zoysa's stock rendering of සො ධම්මං දෙසෙති …
+  බ්රහ්මචරියං පකාසෙති as one clause, found in many entries: one question for the maintainer, asked in the DN issue
+  text, not a row per entry.
+- Still unsure (the reading is in doubt): dn-2 46:0, mn-1 76:4, mn-1-2 17:3.
+- Still left alone: single dropped words and one of several near-synonyms (mn-1-4 41:0); quoted formulas; glosses;
+  loose or shortened renderings with an abbreviation mark (mn-1-2 35:1, 65:2; mn-1-3 36:0); misprints.
+
+**The Dīgha batch, rebuilt:** `batches/dn-step1_e4db85e.tsv`, **59 rows** (20 pali-left-in, 17 clause-missing,
+9 clause-added, 6 wrong-number, 4 wrong-word, 2 negation, 1 wrong-script), `dn-step1_e4db85e_unsure.tsv`, 3 rows, and
+a new `dn-step1_ISSUE.md`. It replaces the batch of run 9 (43 rows, 11 unsure); post this one.
+
+The maintainer asked that Claude post the issues. Claude has no access to pathnirvana/tipitaka.lk: the owner posts
+each collection. The Khuddaka is asked for after AN; `tools/work.py` has no step for it yet.
+
+Left in step 1: 3,918 of 5,250 entries (MN 670 of 1,089; next file `mn-1-5`, 78 of its 114 entries still to read).

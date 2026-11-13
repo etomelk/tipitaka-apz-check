@@ -1,5 +1,23 @@
 [
  {
+  "pi": 0,
+  "ei": 4,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "‘ඉධෙව සමණො, ඉධ දුතියො සමණො, ඉධ තතියො සමණො, ඉධ චතුත්ථො සමණො. සුඤ්ඤා පරප්පවාදා සමණෙහි අඤ්ඤෙ’ති (පළමුවැනි",
+    "‘පළමුවැනි"
+   ],
+   [
+    "අන්‍ය වාද ශ්‍රමණයන්ගෙන් හිස්ය) කියායි.",
+    "අන්‍ය වාද ශ්‍රමණයන්ගෙන් හිස්ය’ කියායි."
+   ]
+  ],
+  "pali": "ඉධෙව සමණො, ඉධ දුතියො සමණො, ඉධ තතියො සමණො, ඉධ චතුත්ථො සමණො",
+  "reason": "The wanderers’ quotation stands in Pāli with its translation after it in brackets; the Pāli is taken out and the translation kept, in the quotation marks the Pāli had.",
+  "unsure": false
+ },
+ {
   "pi": 8,
   "ei": 5,
   "kind": "wrong-person",
@@ -118,6 +136,34 @@
   "reason": "The summing-up is still spoken to the Nigaṇṭhas (ඉති කිර තුම්හෙ ආවුසො නිගණ්ඨා න ජානාථ: “so, friends Nigaṇṭhas, you do not know …”); the entry addresses it to Mahānāma (“මහානාමය, … ඔබලා … නොදන්නහුය”), as if he were the one who does not know. The address is changed and the quotation mark the speech needs is opened.",
   "unsure": false,
   "was": "19. “මහානාමය, මෙසේ කී විට මම ඒ නිගණ්ඨයන්ට මෙසේ කීවෙමි: ‘ඇවැත්නි නිගණ්ඨයෙනි, ඔබලා දන්නහුද? අපි පෙර සිටියෙමු, නොසිටියෙමු කියා?’ ‘ඇවැත්නි, එය නැත.’ ‘ඇවැත්නි නිගණ්ඨයෙනි, ඔබලා දන්නහුද? අපි පෙර පව්කම් කළෙමු, නොකළෙමු කියා?’ ‘ඇවැත්නි, එය නැත.’ ‘ඇවැත්නි නිගණ්ඨයෙනි, ඔබලා දන්නහුද? මෙබඳු වූ හෝ මෙබඳු වූ හෝ පව්කම් කළෙමු කියා?’ ‘ඇවැත්නි, එය නැත.’ ‘ඇවැත්නි නිගණ්ඨයෙනි, ඔබලා දන්නහුද? මෙපමණ දුකක් ගෙවී ඇත, මෙපමණ දුකක් ගෙවිය යුතුය, මෙපමණ දුකක් ගෙවුණු පසු සියලු දුක් ගෙවී යන්නේය කියා?’ ‘ඇවැත්නි, එය නැත.’ ‘ඇවැත්නි නිගණ්ඨයෙනි, ඔබලා මේ ආත්මයෙහිම අකුසල ධර්මයන් ප්‍රහාණය කිරීම හා කුසල ධර්මයන් සම්පූර්ණ කිරීම දන්නහුද?’ ‘ඇවැත්නි, එය නැත.’ මහානාමය, මෙසේ බලන කල ඔබලා පෙර සිටියාද නැද්ද යන්න නොදන්නහුය. පව් කළාද නැද්ද යන්න නොදන්නහුය. කිනම් පව් කළාද යන්න නොදන්නහුය. කොපමණ දුක් ගෙවී ඇද්ද, ගෙවිය යුතුද යන්න නොදන්නහුය. මෙලොවදීම අකුසල් දුරු කිරීම හා කුසල් වැඩීම ගැන නොදන්නහුය. ඇවැත්නි නිගණ්ඨයෙනි, මෙසේ ඇති කල ලොව යම් රෞද්‍ර වූ, ලේ තැවරුණු දෑත් ඇති, ක්‍රෑර ක්‍රියා කරන මනුෂ්‍යයෝ වෙත්ද, ඔවුන් නිගණ්ඨයන් අතර පැවිදි වන්නාක් වැනිය’යි කීවෙමි.”"
+ },
+ {
+  "pi": 62,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "විසින් වර්ණනා කරන ලද්දේය, සම්භාවනා කරන ලද්දේය",
+    "විසින් වර්ණනා කරන ලද්දේය, නුවණැති සබ්‍රහ්මචාරීන් විසින් සම්භාවනා කරන ලද්දේය"
+   ]
+  ],
+  "pali": "සම්භාවිතො ච විඤ්ඤූනං සබ්රහ්මචාරීනං",
+  "reason": "“Esteemed by his wise companions in the holy life” (විඤ්ඤූනං සබ්රහ්මචාරීනං) is left out, so the esteem too is given to the Teacher. Added in the wording of page 63 entry 0 of the same sutta, copied by script.",
+  "unsure": false
+ },
+ {
+  "pi": 66,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "විසින් වර්ණනා කරන ලද්දේය, සම්භාවනා කරන ලද්දේය",
+    "විසින් වර්ණනා කරන ලද්දේය, නුවණැති සබ්‍රහ්මචාරීන් විසින් සම්භාවනා කරන ලද්දේය"
+   ]
+  ],
+  "pali": "සම්භාවිතො ච විඤ්ඤූනං සබ්රහ්මචාරීනං",
+  "reason": "“Esteemed by his wise companions in the holy life” (විඤ්ඤූනං සබ්රහ්මචාරීනං) is left out, so the esteem too is given to the Teacher. Added in the wording of page 63 entry 0 of the same sutta, copied by script.",
+  "unsure": false
  },
  {
   "pi": 72,

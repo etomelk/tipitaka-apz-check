@@ -24,8 +24,8 @@
    ]
   ],
   "pali": "භගිනී වා ජෙට්ඨා වා කනිට්ඨා වා මිත්තා වා",
-  "reason": "Two members of the list, ජෙට්ඨා වා කනිට්ඨා වා (elders or juniors), are not in the Sinhala. Unsure: two list words only, and the added words are newly written (BJT: “දෙටු හෝ කනිටු නෑ කෙනෙක් හෝ”).",
-  "unsure": true
+  "reason": "Two members of the list, ජෙට්ඨා වා කනිට්ඨා වා (elder or younger), are not in the Sinhala; added (newly written, plain words).",
+  "unsure": false
  },
  {
   "pi": 61,
@@ -33,7 +33,7 @@
   "kind": "pali-left-in",
   "proposed": "2. ඉක්බිති සෙතව්‍යා නුවර වැසි බ්‍රාහ්මණ ගෘහපතීහු, “පින්වත්නි, ශ්‍රමණ භවත් ගෞතමයන්ගේ ශ්‍රාවකවූ කුමාර කාශ්‍යප ශ්‍රමණයෝ පන්සියයක් පමණ භික්ෂූන්වූ මහත් භික්ෂු සංඝයා සමග කොසොල් ජනපදයෙහි සැරිසරා යමින් සෙතව්‍යා නුවරට පැමිණ සෙතව්‍යා නුවරට උතුරු දිශාවෙහිවූ ඇට්ටේරිය වනයෙහි වාසය කරන්නාහ. ඒ කුමාරකාශ්‍යප ස්ථවිරයන් වහන්සේ පණ්ඩිතය, කථාවෙහි දක්ෂය, නුවණ ඇත්තේය. බොහෝ උගත්ය. ලක්ෂණ කථා ඇත්තේය. යහපත් වැටහීම් ඇත්තේය. දියුණුවූ නුවණ ඇත්තේය. රහත් බවෙන්ද යුක්තයහ” යි ඒ පින්වත් කුමාරකාශ්‍යප ස්ථවිරයන් වහන්සේ පිළිබඳවූ මෙබඳු මහත් කීර්ති ශබ්දයක් පැන නැංගේය. එබඳු රහතුන්ගේ දැකීම යහපත්ය යන මේ කාරණය ඇසුවාහුය.",
   "pali": "අස්සොසුං ඛො සෙතබ්යකා බ්රාහ්මණගහපතිකා",
-  "reason": "The whole Pāli paragraph stands in the entry, followed by its Sinhala translation in brackets. The proposed text is the bracketed translation alone with the paragraph number, cut out by script. Unsure: the translation is there and is sound, so this is not an error of meaning.",
-  "unsure": true
+  "reason": "The whole Pāli paragraph stands in the entry, followed by its Sinhala translation in brackets. The proposed text is the bracketed translation alone with the paragraph number, cut out by script.",
+  "unsure": false
  }
 ]

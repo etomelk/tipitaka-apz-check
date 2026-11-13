@@ -38,8 +38,22 @@
    ]
   ],
   "pali": "ලාභසක්කාරසිලොකනිකන්තිහෙතු",
-  "reason": "ලාභසක්කාරසිලොකනිකන්තිහෙතු (out of desire for gain, honour and fame) is not in the Sinhala; added in the words text-apz has for it in the matching entry, page 34 entry 0. Unsure: one compound, and the quoted thought that follows carries most of its sense.",
-  "unsure": true
+  "reason": "ලාභසක්කාරසිලොකනිකන්තිහෙතු (out of desire for gain, honour and fame) is not in the Sinhala; added in the words text-apz has for it in the matching entry, page 34 entry 0.",
+  "unsure": false
+ },
+ {
+  "pi": 47,
+  "ei": 2,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "1. එවං මෙ සුතං: මා විසින්",
+    "1. මා විසින්"
+   ]
+  ],
+  "pali": "එවං මෙ සුතං",
+  "reason": "The Pāli opening “එවං මෙ සුතං:” stands before its translation; removed.",
+  "unsure": false
  },
  {
   "pi": 59,
@@ -47,13 +61,17 @@
   "kind": "clause-missing",
   "edits": [
    [
+    "පුතාට පියා කෙරෙහිද, සහෝදරයාට සහෝදරිය කෙරෙහිද",
+    "පුතාට පියා කෙරෙහිද, සහෝදරයාට සහෝදරයා කෙරෙහිද, සහෝදරයාට සහෝදරිය කෙරෙහිද"
+   ],
+   [
     "ඔවුනොවුන් කෙරෙහි... දැඩි වධක චිත්තය එළඹ සිටින්නේය.",
-    "ඔවුනොවුන් කෙරෙහි දැඩි කෝපය, දැඩි ව්‍යාපාදය, දැඩි ද්වේෂය, දැඩි වධක චිත්තය එළඹ සිටින්නේය. මවට පුතා කෙරෙහිද, පුතාට මව කෙරෙහිද, පියාට පුතා කෙරෙහිද, පුතාට පියා කෙරෙහිද, සහෝදරයාට සහෝදරිය කෙරෙහිද, සහෝදරියට සහෝදරයා කෙරෙහිද දැඩි කෝපය, දැඩි ව්‍යාපාදය, දැඩි ද්වේෂය, දැඩි වධක චිත්තය එළඹ සිටින්නේය."
+    "ඔවුනොවුන් කෙරෙහි දැඩි කෝපය, දැඩි ව්‍යාපාදය, දැඩි ද්වේෂය, දැඩි වධක චිත්තය එළඹ සිටින්නේය. මවට පුතා කෙරෙහිද, පුතාට මව කෙරෙහිද, පියාට පුතා කෙරෙහිද, පුතාට පියා කෙරෙහිද, සහෝදරයාට සහෝදරයා කෙරෙහිද, සහෝදරයාට සහෝදරිය කෙරෙහිද, සහෝදරියට සහෝදරයා කෙරෙහිද දැඩි කෝපය, දැඩි ව්‍යාපාදය, දැඩි ද්වේෂය, දැඩි වධක චිත්තය එළඹ සිටින්නේය."
    ]
   ],
   "pali": "එවමෙව ඛො භික්ඛවෙ, දසවස්සායුකෙසු මනුස්සෙසු තෙසං සත්තානං අඤ්ඤමඤ්ඤම්හි තිබ්බො ආඝාතො පච්චුපට්ඨිතො භවිස්සති තිබ්බො බ්යාපාදො තිබ්බො මනොපදොසො තිබ්බං වධකචිත්තං මාතු පි පුත්තම්හි",
-  "reason": "The Pāli writes the application of the simile out in full (the four states, then mother to son … sister to brother); the Sinhala gives “...” for it. Filled with the entry’s own words for the first statement, copied by script. Unsure: a repetition inside the same entry, nothing of the meaning is lost. (භාතු පි භාතරි, brother to brother, is missing from the entry’s list both times; left as it is.)",
-  "unsure": true
+  "reason": "The Pāli writes the application of the simile out in full (the four states, then mother to son … sister to brother); the Sinhala gives “...” for it. Filled with the entry’s own words for the first statement, copied by script. Also භාතු පි භාතරි (brother to brother), missing from the list, is added in the list’s own form.",
+  "unsure": false
  },
  {
   "pi": 61,
@@ -81,6 +99,76 @@
   ],
   "pali": "වීසංතිවස්සසතායුකානං මනුස්සානං චත්තාරීසංජබ්බස්සසතායුකා පුත්තා භවිස්සන්ති",
   "reason": "වීසංතිවස්සසතායුකානං is “of people who live 320 years” (their children live 640); the Sinhala has 360 (තුන්සිය හැටක්), as in the entry before it.",
+  "unsure": false
+ },
+ {
+  "pi": 62,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "ප්‍රාණඝාතයෙන්... සම්ඵප්‍රලාපයෙන් වළකින්නාහුය",
+    "ප්‍රාණඝාතයෙන්, අදත්තාදානයෙන්, කාමමිථ්‍යාචාරයෙන්, මුසාවාදයෙන්, කේලාම් කීමෙන්, ඵරුස වචනයෙන්, සම්ඵප්‍රලාපයෙන් වළකින්නාහුය"
+   ]
+  ],
+  "pali": "තෙ පාණාතිපාතා විරමිස්සන්ති, අදින්නාදානා විරමිස්සන්ති, කාමෙසුමිච්ඡාචාරා විරමිස්සන්ති, මුසාවාදා විරමිස්සන්ති",
+  "reason": "The Pāli writes the abstentions out in full; the Sinhala gives “ප්‍රාණඝාතයෙන්...” for them. Filled with text-apz's own wording of the list in page 61 entry 2, copied by script.",
+  "unsure": false
+ },
+ {
+  "pi": 62,
+  "ei": 1,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "ප්‍රාණඝාතයෙන්... සම්ඵප්‍රලාපයෙන් වළකින්නාහුය",
+    "ප්‍රාණඝාතයෙන්, අදත්තාදානයෙන්, කාමමිථ්‍යාචාරයෙන්, මුසාවාදයෙන්, කේලාම් කීමෙන්, ඵරුස වචනයෙන්, සම්ඵප්‍රලාපයෙන් වළකින්නාහුය"
+   ]
+  ],
+  "pali": "තෙ පාණාතිපාතා විරමිස්සන්ති, අදින්නාදානා විරමිස්සන්ති, කාමෙසුමිච්ඡාචාරා විරමිස්සන්ති, මුසාවාදා විරමිස්සන්ති",
+  "reason": "The Pāli writes the abstentions out in full; the Sinhala gives “ප්‍රාණඝාතයෙන්...” for them. Filled with text-apz's own wording of the list in page 61 entry 2, copied by script.",
+  "unsure": false
+ },
+ {
+  "pi": 62,
+  "ei": 2,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "ප්‍රාණඝාතයෙන්... සම්ඵප්‍රලාපයෙන් වළකින්නාහුය",
+    "ප්‍රාණඝාතයෙන්, අදත්තාදානයෙන්, කාමමිථ්‍යාචාරයෙන්, මුසාවාදයෙන්, කේලාම් කීමෙන්, ඵරුස වචනයෙන්, සම්ඵප්‍රලාපයෙන් වළකින්නාහුය"
+   ]
+  ],
+  "pali": "තෙ පාණාතිපාතා විරමිස්සන්ති, අදින්නාදානා විරමිස්සන්ති, කාමෙසුමිච්ඡාචාරා විරමිස්සන්ති, මුසාවාදා විරමිස්සන්ති",
+  "reason": "The Pāli writes the abstentions out in full; the Sinhala gives “ප්‍රාණඝාතයෙන්...” for them. Filled with text-apz's own wording of the list in page 61 entry 2, copied by script.",
+  "unsure": false
+ },
+ {
+  "pi": 63,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "ප්‍රාණඝාතයෙන්... මිථ්‍යාදෘෂ්ටිය දුරුකරන්නාහුය",
+    "ප්‍රාණඝාතයෙන්, අදත්තාදානයෙන්, කාමමිථ්‍යාචාරයෙන්, මුසාවාදයෙන්, කේලාම් කීමෙන්, ඵරුස වචනයෙන්, සම්ඵප්‍රලාපයෙන් වළකින්නාහුය, තද ආසාව දුරුකරන්නාහුය, ක්‍රෝධය දුරුකරන්නාහුය, මිථ්‍යාදෘෂ්ටිය දුරුකරන්නාහුය"
+   ]
+  ],
+  "pali": "තෙ පාණාතිපාතා විරමිස්සන්ති, අදින්නාදානා විරමිස්සන්ති, කාමෙසුමිච්ඡාචාරා විරමිස්සන්ති, මුසාවාදා විරමිස්සන්ති",
+  "reason": "The Pāli writes the abstentions out in full; the Sinhala gives “ප්‍රාණඝාතයෙන්...” for them. Filled with text-apz's own wording of the list in page 61 entry 2 and of the three abandonings in page 62 entry 2, copied by script.",
+  "unsure": false
+ },
+ {
+  "pi": 63,
+  "ei": 1,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "ප්‍රාණඝාතයෙන්... ධර්ම තුන දුරුකරන්නාහුය",
+    "ප්‍රාණඝාතයෙන්, අදත්තාදානයෙන්, කාමමිථ්‍යාචාරයෙන්, මුසාවාදයෙන්, කේලාම් කීමෙන්, ඵරුස වචනයෙන්, සම්ඵප්‍රලාපයෙන් වළකින්නාහුය, තද ආසාව දුරුකරන්නාහුය, ක්‍රෝධය දුරුකරන්නාහුය, මිථ්‍යාදෘෂ්ටිය දුරුකරන්නාහුය, අධර්මරාගය, විසම ලෝභය, මිථ්‍යාධර්මය යන ධර්ම තුන දුරුකරන්නාහුය"
+   ]
+  ],
+  "pali": "තෙ පාණාතිපාතා විරමිස්සන්ති, අදින්නාදානා විරමිස්සන්ති, කාමෙසුමිච්ඡාචාරා විරමිස්සන්ති, මුසාවාදා විරමිස්සන්ති",
+  "reason": "The Pāli writes the abstentions out in full; the Sinhala gives “ප්‍රාණඝාතයෙන්...” for them. Filled with text-apz's own wording of the list in page 61 entry 2, of the three abandonings in page 62 entry 2 and of the three things in page 63 entry 0, copied by script.",
   "unsure": false
  }
 ]
