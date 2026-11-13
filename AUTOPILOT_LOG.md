@@ -361,3 +361,34 @@ and අභිවග්ග otherwise than BJT (word choice).
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 4,128 of 5,250 entries (MN 880 of 1,089; next file `mn-1-2`, 97 of its 231 entries still to read).
+
+## 2026-11-13 (autopilot run 12)
+
+Commit 96aedf5 (unchanged since run 10). The comparison was rebuilt; the step lists have the same counts.
+
+Step 1, the Majjhima: the last 97 entries of `mn-1-2` (pages 35–77: the end of the Cūḷadukkhakkhandha sutta from §18,
+the Anumāna, Cetokhila, Vanapattha, Madhupiṇḍika, Dvedhāvitakka and Vitakkasaṇṭhāna suttas, and the vagga's summary
+verse), each read in full against its Pāli. The file is finished in step 1: `batches/mn-1-2_96aedf5.tsv` (8 rows) and
+`_unsure.tsv` (1 row), nothing refused.
+
+Findings, sure (both in `mn-1-2`):
+- 35:1 wrong-person (Cūḷadukkhakkhandha §19): the summing-up “so, friends Nigaṇṭhas, you do not know …” (ඉති කිර තුම්හෙ
+  ආවුසො නිගණ්ඨා න ජානාථ) is still spoken to the Nigaṇṭhas; the entry addresses it to Mahānāma (“මහානාමය, … ඔබලා …
+  නොදන්නහුය”). The address is changed to “ඇවැත්නි නිගණ්ඨයෙනි” and the quotation mark the speech needs is opened (the
+  entry already closes it).
+- 72:0 pali-left-in (Dvedhāvitakka §14, the herd of deer): the first sentence, එවං හි සො භික්ඛවෙ මහාමිගසඞ්ඝො අපරෙන
+  සමයෙන අනයව්යසනං තනුත්තං ආපජ්ජෙය්ය, stands in Pāli. Translated on the pattern of the entry's own last sentence; the
+  words for අනයව්යසනං තනුත්තං (“විපතටද විනාශයටද අඩුවීමටද”) are newly written.
+
+Unsure: none.
+
+Left alone: 36:3 has “පෑ දවල් පහක්” for “රෑ දවල් පහක්” (a misprint, not a meaning error; the owner may want to
+mention it); 40:3 “ලද්ේ” (misprint); 35:1 and 62:0, 65:2, 66:0 shorten a repetition the Pāli writes out (62:0 and
+66:0 without “by his wise companions in the holy life”, විඤ්ඤූනං සබ්රහ්මචාරීනං), with or without an abbreviation
+mark; 35:1 has no word for මනුස්සෙසු පච්චාජාතා; 35:2 and the like give අධිගච්ඡෙය්ය as “ලබාගත යුතුය”; 60:3 and
+60:4 have no word for සදෙවමනුස්සාය; 74:0 gives the three verbs අට්ටීයෙය්ය හරායෙය්ය ජිගුච්ඡෙය්ය as one, and 76:4
+two of three; 77:1 gives the suttas' names where the verse has key words.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 4,031 of 5,250 entries (MN 783 of 1,089; next file `mn-1-3`, 39 entries).
