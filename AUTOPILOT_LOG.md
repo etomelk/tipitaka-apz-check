@@ -589,3 +589,42 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 3,599 of 5,250 entries (MN 351 of 1,089; next file `mn-3`, 48 entries, then `mn-3-2`, 113).
+
+## 2026-11-13 (run 17)
+
+Commit e4db85e (pinned). Step 1: all 48 entries of `mn-3` (Devadaha, Pañcattaya, Sāmagāma, Sunakkhatta,
+Gaṇakamoggallāna, Gopakamoggallāna, Mahāpuṇṇama and the vagga's uddāna) and the first 48 of `mn-3-2` (Chabbisodhana,
+Sappurisa, Sevitabbāsevitabba to 28:4): 96 entries, each read in full against its Pāli. `mn-3` is finished:
+`batches/mn-3_e4db85e.tsv` (3 rows), none unsure, nothing refused. `mn-3-2` is not finished, so no batch yet (its four
+findings were test-built: nothing refused).
+
+Confirmed (main file):
+- `mn-3` 15:0 clause-missing (Pañcattaya): the first case (රූපිං … සඤ්ඤිං අත්තානං පඤ්ඤාපෙන්ති) breaks off after
+  “මරණින් මතු නිත්‍යවූ,” and runs into the second. The missing words “සංඥාවෙන් යුක්තවූ ආත්මය හෝ පණවත්. ඒ” are
+  added, in the entry's own words for the next case.
+- `mn-3` 58:2 clause-missing (Mahāpuṇṇama, the aggregates): the Pāli writes the definition out for feeling,
+  perception and formations; the Sinhala gives “...” for අජ්ඣත්තං වා … සන්තිකෙ වා in all three. Filled by script
+  with the entry's own words for form and consciousness.
+- `mn-3` 59:1 clause-missing (Mahāpuṇṇama, no identity view): the Pāli writes the four ways out for feeling,
+  perception and formations; the Sinhala gives the first way and “...”. Filled by script on the pattern of the
+  entry's own sentence for consciousness. (58:2 and 59:1 follow the rule of `CLAUDE.md` and dn-3 59:0, 62:0: “...”
+  where the Pāli has no -පෙ-. **They are fill-ins of a repetition, not new sense: the owner may want to look.**)
+- `mn-3-2` 6:0 wrong-person (Chabbisodhana): the Blessed One's words to the monks (තස්ස භික්ඛවෙ) open with
+  “ඇවැත්නි”; written “මහණෙනි”, as 4:5 has it. The same word opens 5:1 and 6:1, which are not on the step 1 list
+  (de Zoysa's own text); a row is given for each with the one-word edit, their openings read against the Pāli, the
+  rest of those two entries not read.
+- `mn-3-2` 23:4 clause-missing (Sevitabbāsevitabba, the arising of mind): the unwholesome list has greed and ill will
+  but no විහෙසා; the wholesome half of the entry has all three. “විහෙසා සහිත වූ” added.
+
+Unsure: none.
+
+Left alone: `mn-3` 10:2 has no word for අබ්යාසෙක (an epithet); 15:0 gives පරිත්තසඤ්ඤිං as “හීන සංඥා”; 60:1 has no
+word for අවිද්වා and gives ඨානං … විජ්ජති යං … මඤ්ඤෙය්ය as a plain statement; 59:3, 59:5, 60:13 abbreviate where
+the Pāli does. `mn-3-2` 6:0 has the paragraph number “101.” in the middle of the entry and writes out the ear's
+section, which the Pāli abbreviates; 18:1 writes out the witness's four answers where BJT's Pāli has two; 28:1 has
+“වදාරණ ලදී” in the Blessed One's own mouth (style).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 3,503 of 5,250 entries (MN 255 of 1,089; next file `mn-3-2`, 65 of its 113 entries still to read,
+then `mn-3-3`, 64).

@@ -1,0 +1,58 @@
+[
+ {
+  "pi": 5,
+  "ei": 1,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "“ඇවැත්නි, ඒ භික්ෂුවගේ කීම",
+    "“මහණෙනි, ඒ භික්ෂුවගේ කීම"
+   ]
+  ],
+  "pali": "තස්ස භික්ඛවෙ, භික්ඛුනො සාධූති භාසිතං අභිනන්දිතබ්බං",
+  "reason": "The Blessed One is speaking to the monks (භික්ඛවෙ); the entry opens with “ඇවැත්නි”, the monks’ address to one another (ආවුසො), which the Pāli has only inside the question that follows. Written “මහණෙනි”, as the same sentence opens in page 4 entry 5. This entry is not on the step 1 list; only its opening was read for this.",
+  "unsure": false
+ },
+ {
+  "pi": 6,
+  "ei": 0,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "“ඇවැත්නි, ඒ භික්ෂුවගේ කීම",
+    "“මහණෙනි, ඒ භික්ෂුවගේ කීම"
+   ]
+  ],
+  "pali": "තස්ස භික්ඛවෙ, භික්ඛුනො සාධූති භාසිතං අභිනන්දිතබ්බං",
+  "reason": "The Blessed One is speaking to the monks (භික්ඛවෙ); the entry opens with “ඇවැත්නි”, the monks’ address to one another (ආවුසො), which the Pāli has only inside the question that follows. Written “මහණෙනි”, as the same sentence opens in page 4 entry 5.",
+  "unsure": false
+ },
+ {
+  "pi": 6,
+  "ei": 1,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "“ඇවැත්නි, ඒ භික්ෂුවගේ කීම",
+    "“මහණෙනි, ඒ භික්ෂුවගේ කීම"
+   ]
+  ],
+  "pali": "තස්ස භික්ඛවෙ, භික්ඛුනො",
+  "reason": "The Blessed One is speaking to the monks (භික්ඛවෙ); the entry opens with “ඇවැත්නි”, the monks’ address to one another (ආවුසො), which the Pāli has only inside the question that follows. Written “මහණෙනි”, as the same sentence opens in page 4 entry 5. This entry is not on the step 1 list; only its opening was read for this.",
+  "unsure": false
+ },
+ {
+  "pi": 23,
+  "ei": 4,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "අභිජ්ඣා සහිත වූ, ව්‍යාපාද සහිත වූ සිතින් යුක්තව",
+    "අභිජ්ඣා සහිත වූ, ව්‍යාපාද සහිත වූ, විහෙසා සහිත වූ සිතින් යුක්තව"
+   ]
+  ],
+  "pali": "විහෙසවා හොති, විහෙසාසහගතෙන චෙතසා විහරති",
+  "reason": "The third member of the unwholesome list (විහෙසවා … විහෙසාසහගතෙන චෙතසා) is missing; the wholesome half of the same entry has all three (“විහෙසා රහිත වූ”). Added in the entry’s own form.",
+  "unsure": false
+ }
+]
