@@ -1,0 +1,34 @@
+[
+ {
+  "pi": 23,
+  "ei": 1,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "තමෙනං හත්ථිදමකො උත්තරිං කාරණං කාරෙති. ‘එම්බා හස්තිය, ගනු, එම්බා හස්තිය, තබව’යි.",
+    "ඇතුන් දමනය කරන්නා මත්තෙහි ‘එම්බා හස්තිය, ගනු, එම්බා හස්තිය, තබව’යි හික්මවයි."
+   ],
+   [
+    "පසු කය නොසොලවයි, හිස නොසොලවයි, කන් නොසොලවයි, දළ නොසොලවයි, නගුට නොසොලවයි, සොඬ නොසොලවයි.”",
+    "පසු කය නොසොලවයි,”"
+   ]
+  ],
+  "pali": "තමෙනං හත්ථිදමකො උත්තරිං කාරණං කාරෙති. ආදිය භො, නික්ඛිප භොති.",
+  "reason": "(1) The Pāli sentence තමෙනං හත්ථිදමකො උත්තරිං කාරණං කාරෙති stands untranslated; written in the entry’s own words for the same sentence two lines on (“ඇතුන් දමනය කරන්නා මත්තෙහි ‘…’ හික්මවයි”). (2) The Pāli entry ends at න පච්ඡිමං කායං චොපෙති; the head, ears, tusks, tail and trunk (න සීසං චොපෙති …) open the next Pāli entry, page 24 entry 0, whose Sinhala does not have them. The five are taken out here and put at the head of 24:0 (a pair of rows).",
+  "unsure": false
+ },
+ {
+  "pi": 24,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "“ඒ රජුගේ ඇතා අඩයටි පහර",
+    "“හිස නොසොලවයි, කන් නොසොලවයි, දළ නොසොලවයි, නගුට නොසොලවයි, සොඬ නොසොලවයි. ඒ රජුගේ ඇතා අඩයටි පහර"
+   ]
+  ],
+  "pali": "න සීසං චොපෙති, න කණ්ණෙ චොපෙති, න දන්තෙ චොපෙති, න නඞ්ගුට්ඨං චොපෙති, න සොණ්ඩං චොපෙති.",
+  "reason": "The Pāli entry opens with the head, ears, tusks, tail and trunk that the elephant does not move; the Sinhala for them stands at the end of the entry before, page 23 entry 1. Moved here word for word (a pair with the row for 23:1). This entry is not on the step 1 list; it was read in full for this.",
+  "unsure": false
+ }
+]

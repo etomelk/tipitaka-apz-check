@@ -628,3 +628,41 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 1: 3,503 of 5,250 entries (MN 255 of 1,089; next file `mn-3-2`, 65 of its 113 entries still to read,
 then `mn-3-3`, 64).
+
+## 2026-11-13 (run 18)
+
+Commit e4db85e (pinned). Step 1: the last 65 entries of `mn-3-2` (Anupada's end, Mahācattārīsaka, Ānāpānasati,
+Kāyagatāsati, Saṅkhārupapatti) and the first 40 of `mn-3-3` (Mahāsuññata 9:1, Acchariyabbhuta, Bakkula, Dantabhūmi,
+Bhūmija, Anuruddha, Upakkilesa to 42:9): 105 entries, each read in full against its Pāli. `mn-3-2` is finished:
+`batches/mn-3-2_e4db85e.tsv` (7 rows, with the four of run 17), none unsure, nothing refused. `mn-3-3` is not
+finished, so no batch yet (its two findings were test-built: nothing refused).
+
+Confirmed (main file):
+- `mn-3-2` 51:0, 51:1, 51:2 clause-added (Ānāpānasati, the tranquillity, concentration and equanimity factors): each
+  entry holds its text three times where the Pāli entry has the passage once (the entry before them, 50:3, abbreviates
+  feelings, mind and mental objects with -පෙ-, as the Pāli does; the three copies look like de Zoysa's written-out
+  repetitions gathered into one entry). One copy is kept, cut out by script. In 51:0 and 51:2 none of the three copies
+  has the clause යස්මිං සමයෙ භික්ඛවෙ … (“මහණෙනි, යම් කලක … ද”), which the neighbouring entries have; it is added
+  in the entry's own words. 51:1 is its first copy unchanged. **A new kind of row (a tripled entry): the owner may
+  want to look.**
+- `mn-3-3` 23:1 pali-left-in, with 24:0 clause-missing (Dantabhūmi, the elephant's training; a pair): the sentence
+  තමෙනං හත්ථිදමකො උත්තරිං කාරණං කාරෙති stands in Pāli at its first occurrence; written as the entry itself has it
+  two lines on. And the entry ends with the head, ears, tusks, tail and trunk the elephant does not move, which in
+  BJT open the next Pāli entry (24:0, across the page break), whose Sinhala lacks them; moved word for word. 24:0 is
+  not on the step 1 list (it was read in full for this).
+
+Unsure: none.
+
+Left alone:
+- `mn-3-3` 23:1 and 24:0 call the elephant “රජුගේ හස්තියා / රජුගේ ඇතා” four times where BJT's Pāli has ආරඤ්ඤකො
+  නාගො (BJT's footnote gives the other reading, රඤ්ඤො නාගො; BJT's Sinhala has ආරණ්‍යකනාග). A recorded variant
+  reading, de Zoysa's; not sent. **A doubt for the owner: by "the BJT Pāli decides" these could be rows.**
+- `mn-3-2` 51:1 has no word for සුඛිනො; 42:5 gives සෙඛො as “සේඛ ප්‍රතිපදාව” (the footnote's reading); 63:3 keeps
+  the -පෙ- before “දීර්ඝායුෂ” as the Pāli has it; 64:3 and 64:4 write out what the Pāli abbreviates.
+- `mn-3-3` 31:1 gives යොනි හෙසා as “නුවණින් කරන උත්සාහයක්” (loose); 26:2 and 26:3 write out what the Pāli
+  abbreviates; 42:3 addresses the one park keeper as “ඇවැත්නි”.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 3,398 of 5,250 entries (MN 150 of 1,089; next file `mn-3-3`, 24 of its 64 entries still to read,
+then `mn-3-4`, 42, and `mn-3-5`, 84).
