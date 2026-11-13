@@ -392,3 +392,45 @@ two of three; 77:1 gives the suttas' names where the verse has key words.
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 4,031 of 5,250 entries (MN 783 of 1,089; next file `mn-1-3`, 39 entries).
+
+## 2026-11-13 (autopilot run 13)
+
+Commit 96aedf5 (unchanged since run 10). The comparison was rebuilt; the step lists have the same counts.
+
+Step 1, the Majjhima: all 39 entries of `mn-1-3` (the Alagaddūpama, Vammika, Rathavinīta, Nivāpa, Ariyapariyesana,
+Cūḷahatthipadopama, Mahāhatthipadopama, Mahāsāropama and Cūḷasāropama suttas), all 38 of `mn-1-4` (the two Gosiṅga
+suttas, the two Gopālaka suttas, the two Saccaka suttas, the two Taṇhāsaṅkhaya suttas, the two Assapura suttas) and
+the first 36 of `mn-1-5` (pages 1–15: the Sāleyyaka and Verañjaka suttas and the Mahāvedalla to §20): 113 entries,
+each read in full against its Pāli. `mn-1-3` and `mn-1-4` are finished in step 1: `batches/mn-1-3_96aedf5.tsv`
+(8 rows, no unsure) and `batches/mn-1-4_96aedf5.tsv` (no rows), nothing refused.
+
+Findings, sure (all in `mn-1-3`):
+- 9:3 pali-left-in (Alagaddūpama §8): the first Pāli sentence of the entry stands before its translation; removed.
+- 25:5 clause-missing (Vammika, “blazing by day”): කායෙන වාචාය මනසා is given as body and speech only; “සිතින් හෝ” added.
+- 31:1 pali-left-in (Rathavinīta §15): the Pāli word තමෙනං stands at the head of the sentence that translates it; removed.
+- 36:0 pali-left-in (Nivāpa, the third herd): two Pāli sentences stand before their translations (“යෙපි තෙ තතියා
+  මිගජාතා එවං සමචින්තෙසුං:” and “යන්නූන මයං අමුං නිවාපං … ආසයං කප්පෙය්‍යාම.”); both removed.
+- 51:5 clause-missing (Ariyapariyesana §28): of the pair ස්වාකාරෙ ද්වාකාරෙ only the first is translated;
+  “අයහපත් ආකාර ඇත්තාවූද” added (the wording of dn-2 27:4). The bracketed [දුවිඤ්ඤාපයෙ] is also not in the
+  entry; left as it is, since the Pāli brackets it.
+- 52:2 and 52:3 wrong-word (Ariyapariyesana §30–31): මහාජානියො (“has had a great loss”; BJT “මහත් පිරිහීමෙක”) is
+  given as “මහා ප්‍රඥාවන්තයෙකි” (a man of great wisdom), of Āḷāra and of Uddaka. Replaced with text-apz's own
+  wording of the same sentences in mn-2-4 50:3–4 (“මහාපරිහානියකට පත්විය”). 52:2 is not on the step-1 list (it is
+  de Zoysa's text, above 90%); it was read because it is the twin of 52:3 and has the same word.
+- 53:0 pali-left-in (Ariyapariyesana, the group of five): the entry opens with “බහුකාරා ඛො මෙ පඤ්චවග්ගියා භික්ඛූ...”
+  and the translated thought ends in the Pāli “’න්ති”; the Pāli words removed, the ending written “’යි”.
+
+Unsure: none.
+
+Left alone: `mn-1-3` 25:1 calls the deity (දෙවතා) “බ්‍රහ්මයා”, as de Zoysa does throughout the sutta (24:1, after
+the commentary); 26:5 gives කොධූපායාස as “ක්‍රෝධය”; 36:0 does not repeat, inside the second herd's thought, the
+recap of the first herd that the Pāli writes out (no abbreviation mark); 52:3 gives two of the three words පණ්ඩිතො
+බ්‍යත්තො මෙධාවී; 92:1 and the like are plain. `mn-1-4` 22:0 gives උත්තරං තීරං as “එතෙරවූ”; 41:0 has four of the
+five words කාමච්ඡන්දො … කාමපරිළාහො (no කාමපිපාසා) and 82:1 no word for විපුලෙන in the karuṇā and muditā
+passages; 80:1 gives මිත්තාමච්චා as “මිත්‍රරාජ්‍යමාත්‍යයෝ” and එහි ත්වං භද්‍රමුඛ in the plural (word choice);
+83:5 gives the suttas' names where the verse has key words. `mn-1-5`: nothing to note in the 36 entries read.
+
+The add_repo tool was again not available; the repository was already cloned with push access. GitHub answered 503
+(“authorization temporarily unavailable”) for the first minutes of the run, then worked.
+
+Left in step 1: 3,918 of 5,250 entries (MN 670 of 1,089; next file `mn-1-5`, 78 of its 114 entries still to read).
