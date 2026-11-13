@@ -159,3 +159,34 @@ there, is there ageing and death?” (39:4 and the eight after it; the answer st
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 4,686 of 5,250 entries (DN: 349 of 913; next file `dn-2-3`, 46 entries).
+
+## 2026-11-13 (autopilot run 6)
+
+Commit e4db85e (unchanged upstream). Step 1, three files finished: `dn-2-3` (46 entries, the Mahāparinibbāna sutta),
+`dn-2-4` (17, the Mahāsudassana, Janavasabha and Mahāgovinda suttas) and `dn-2-7` (30, the Mahāsamaya, Sakkapañha,
+Mahāsatipaṭṭhāna and Pāyāsi suttas): 93 entries, each read in full against its Pāli. Batches
+`batches/dn-2-3_e4db85e.tsv` (1 row), `dn-2-4_e4db85e.tsv` (no rows), `dn-2-7_e4db85e.tsv` (1 row) and
+`dn-2-7_e4db85e_unsure.tsv` (2 rows); nothing refused.
+
+Findings, sure:
+- dn-2-3 54:6 pali-left-in (the four places to be seen): the third place stands in Pāli (“මෙහි තථාගතෙන අනුත්තරං
+  ධම්මචක්කං පවත්තිතන්ති”); the other three are translated. Replaced with the wording of the same clause in entry 9 of
+  the same page, copied by script.
+- dn-2-7 0:2 pali-left-in (Mahāsamaya §1): the last sentence stands in Pāli (“අථ ඛො චතුන්නං සුද්ධාවාසකායිකානං
+  දෙවතානං එතදහොසි:”). Replaced with text-apz's own wording of the sentence in `sn-1` 23:0 (the Samaya sutta),
+  copied by script.
+
+Unsure:
+- dn-2-7 50:3 (separation from the dear): ජෙට්ඨා වා කනිට්ඨා වා is missing from the list of relatives; two list
+  words, and the added words are newly written.
+- dn-2-7 61:5 (Pāyāsi §2): the whole Pāli paragraph stands in the entry with its translation after it in brackets;
+  the proposed text is the bracketed translation alone. The translation is sound, so not an error of meaning.
+
+Left alone: the gloss “(සංඝයාගේ මනා පිළිවෙතට ද)” added in brackets to the verse of dn-2-4 35:1; “(බුදු වී අටවැනි
+සතියෙහි)” in dn-2-3 33:5; three words for the four of අඛණ්ඩානි අච්ඡිද්දානි අසබලානි අකම්මාසානි (dn-2-3 8:0); “ප්‍රිය”
+dropped once in a repeated sentence (dn-2-4 5:6); “ආනන්ද” for “ආනන්දය” (dn-2-3 54:6, 54:7). In dn-2-4 41:2 the BJT
+Sinhala shown beside the entry belongs to another of the eight praises; the apz entry agrees with its Pāli.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 4,593 of 5,250 entries (DN: 256 of 913; next file `dn-3`, 87 entries).
