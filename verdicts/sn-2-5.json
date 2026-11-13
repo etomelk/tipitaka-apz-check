@@ -1,0 +1,76 @@
+[
+ {
+  "pi": 0,
+  "ei": 10,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "දරුණුය... අතිඋතුම්",
+    "දරුණුය, කටුකය, ඵරුෂය, අතිඋතුම්"
+   ],
+   [
+    "මෙසේ නික්මිය යුතු වන්නේය",
+    "මෙසේ හික්මිය යුතු වන්නේය"
+   ]
+  ],
+  "pali": "කටුකො ඵරුසො",
+  "reason": "The Pāli writes the sentence out (දාරුණො … කටුකො ඵරුසො අන්තරායිකො); the Sinhala has “දරුණුය...” and leaves the two words out. Filled with the file's own usual words (“දරුණුය, කටුකය, ඵරුෂය”, 33 times in sn-2-5). In the same entry එවං සික්ඛිතබ්බං stands as “නික්මිය යුතු” (should leave) for “හික්මිය යුතු” (should train), which the entry's last sentence has.",
+  "unsure": false
+ },
+ {
+  "pi": 6,
+  "ei": 4,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "“න චායමායස්මා - (මේ ආයුෂ්මත්තෙම -)”",
+    "“මේ ආයුෂ්මත්තෙම -”"
+   ]
+  ],
+  "pali": "න චායමායස්මා",
+  "reason": "The Pāli words න චායමායස්මා stand in the Sinhala with their translation in brackets after them. The Pāli is taken out and the translation kept, nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 42,
+  "ei": 5,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "මේ භික්ෂුව වනාහි සතර ධ්‍යානයන්",
+    "මේ භික්ෂුව වනාහි උසස් සිත ඇසුරු කළාවූ, මේ ආත්මයේදීම සැප විහරණ ඇත්තාවූ, සතර ධ්‍යානයන්"
+   ]
+  ],
+  "pali": "ආභිචෙතසිකානං",
+  "reason": "The two descriptions of the four jhānas, ආභිචෙතසිකානං දිට්ඨධම්මසුඛවිහාරානං, are not translated (“සතර ධ්‍යානයන්” alone). Added in newly written words on the pattern text-apz uses elsewhere (an-11, an-5-4), with the entry's own “මේ ආත්මයේදීම” for දිට්ඨධම්ම.",
+  "unsure": false
+ },
+ {
+  "pi": 43,
+  "ei": 3,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "දූරතොව (දුරදීම) ආගච්ඡන්තං (එනු) දුටුසේක",
+    "දුරදීම එනු දුටුසේක"
+   ]
+  ],
+  "pali": "දූරතොව ආගච්ඡන්තං",
+  "reason": "The Pāli words දූරතොව and ආගච්ඡන්තං stand in the Sinhala, each with its translation in brackets after it. The Pāli is taken out and the translations kept, nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 43,
+  "ei": 5,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "විප්පමුත්තො (කෙලෙසුන්ගෙන් මිදුනාවූ), විසඤ්ඤුත්තො (සංයෝගයන්ගෙන් වෙන්වූ)",
+    "කෙලෙසුන්ගෙන් මිදුනාවූ, සංයෝගයන්ගෙන් වෙන්වූ"
+   ]
+  ],
+  "pali": "විප්පමුත්තො{1} විසඤ්ඤුත්තො",
+  "reason": "The verse's Pāli words විප්පමුත්තො and විසඤ්ඤුත්තො stand in the Sinhala, each with its translation in brackets after it. The Pāli is taken out and the translations kept, nothing else changed.",
+  "unsure": false
+ }
+]

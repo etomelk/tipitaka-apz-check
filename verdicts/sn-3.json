@@ -1,0 +1,100 @@
+[
+ {
+  "pi": 8,
+  "ei": 1,
+  "kind": "negation-reversed",
+  "edits": [
+   [
+    "ගිහියන් හා මිශ්‍රව (අසංසට්ඨව)",
+    "ගිහියන් හා මිශ්‍ර නොවී (අසංසට්ඨව)"
+   ]
+  ],
+  "pali": "ගිහීහි අසංසට්ඨො",
+  "reason": "ගිහීහි අසංසට්ඨො විහරති (lives not mixed up with householders) stands as “ගිහියන් හා මිශ්‍රව … වාසය කරයි” (lives mixed with householders), the wording of the entry before it (8:0, සංසට්ඨො); the rest of the entry and its own gloss (අසංසට්ඨව) have the negative.",
+  "unsure": false
+ },
+ {
+  "pi": 11,
+  "ei": 3,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "සා නිරුද්ධ වෙයි",
+    "එය නිරුද්ධ වෙයි"
+   ]
+  ],
+  "pali": "යා රූපෙ නන්දී සා නිරුජ්ඣති",
+  "reason": "The Pāli pronoun සා (of “යා රූපෙ නන්දී සා නිරුජ්ඣති”) stands untranslated in the Sinhala sentence on form (“… වේද, සා නිරුද්ධ වෙයි”). Changed to “එය”, as the same sentence has it in 13:0 of this file; nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 11,
+  "ei": 4,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "සා නිරුද්ධ වෙයි",
+    "එය නිරුද්ධ වෙයි"
+   ]
+  ],
+  "pali": "යා වෙදනාය නන්දී සා නිරුජ්ඣති",
+  "reason": "The Pāli pronoun සා (of “යා වෙදනාය නන්දී සා නිරුජ්ඣති”) stands untranslated in the Sinhala sentence on feeling (“… වේද, සා නිරුද්ධ වෙයි”). Changed to “එය”, as the same sentence has it in 13:0 of this file; nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 11,
+  "ei": 5,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "සා නිරුද්ධ වෙයි",
+    "එය නිරුද්ධ වෙයි"
+   ]
+  ],
+  "pali": "යා සඞ්ඛාරෙසු නන්දී සා නිරුජ්ඣති",
+  "reason": "The Pāli pronoun සා (of “යා සඞ්ඛාරෙසු නන්දී සා නිරුජ්ඣති”) stands untranslated in the Sinhala sentence on formations (“… වේද, සා නිරුද්ධ වෙයි”). Changed to “එය”, as the same sentence has it in 13:0 of this file; nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 13,
+  "ei": 6,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "උපාදාපරිතස්සනාව හොති (උපාදානය නිසා තැතිගැනීම ඇතිවේද):",
+    "උපාදාපරිතස්සනාව (උපාදානය නිසා තැතිගැනීම) ඇතිවේද:"
+   ]
+  ],
+  "pali": "උපාදාපරිතස්සනා හොති",
+  "reason": "The Pāli verb හොති stands in the Sinhala sentence, with the translation of the whole phrase in brackets after it. The Pāli word is taken out and the bracket closed after the gloss of the term, so that the verb “ඇතිවේද” is the sentence's own (as 15:7 of this file has it).",
+  "unsure": false
+ },
+ {
+  "pi": 15,
+  "ei": 2,
+  "kind": "negation-reversed",
+  "edits": [
+   [
+    "(තෘෂ්ණාවෙන් නොගැනීම නිසා භය ඇතිවීමක්) නොවෙයි.",
+    "(තෘෂ්ණාවෙන් නොගැනීම නිසා භය ඇති නොවීම) වෙයි."
+   ]
+  ],
+  "pali": "අනුපාදා අපරිතස්සනා හොතීති",
+  "reason": "එවං … අනුපාදා අපරිතස්සනා හොති (thus there is non-agitation through non-clinging) stands as “අනුපාදා අපරිතස්සනාව (… භය ඇතිවීමක්) නොවෙයි”: the sentence says that it does not come to be, and the gloss gives the term as the arising of fear. Put as the question in 14:3 of this file has it (“… භය ඇති නොවන්නේ) වෙයිද”).",
+  "unsure": false
+ },
+ {
+  "pi": 26,
+  "ei": 2,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "එහෙයින් සත්වයන් සංස්කාරයන්හි ඇලෙත්",
+    "එහෙයින් සත්වයෝ සංඥාවෙහි ඇලෙත්"
+   ]
+  ],
+  "pali": "සඤ්ඤාය අස්සාදො",
+  "reason": "In the sentence on perception (සඤ්ඤාය අස්සාදො), written out where the Pāli abbreviates, the conclusion reads “සත්වයන් සංස්කාරයන්හි ඇලෙත්” (beings cling to formations) for “සංඥාවෙහි” (to perception); the sentences on feeling, formations and consciousness each end with their own aggregate.",
+  "unsure": false
+ }
+]

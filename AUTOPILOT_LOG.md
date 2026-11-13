@@ -826,3 +826,50 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 2,930 of 5,250 entries (SN: 1,312 of 1,630 to read; next file `sn-2-5`, 67).
+
+## 2026-11-13 (run 23) — `sn-2-5` and `sn-3` finished
+
+Commit e4db85e (pinned). Step 1: all 67 entries of `sn-2-5` (Lābhasakkāra, Rāhula, Lakkhaṇa, Opamma and Bhikkhu
+saṃyuttas) and all 45 of `sn-3` (Khandha saṃyutta, Nakulapitu vagga to the Bhāra vagga's neighbours, pages 4–45):
+112 entries, each read in full against its Pāli. The long Rāhula entries (16:13–21:9), which write out six or five
+repetitions of one frame, were read sentence by sentence with the repeated sentences counted by script (each frame
+complete, each item named once). The two files' batches are built (`batches/sn-2-5_e4db85e.tsv`, 5 rows;
+`batches/sn-3_e4db85e.tsv`, 7 rows), nothing refused.
+
+Confirmed (main file):
+- `sn-2-5` 0:10 clause-missing (Dāruṇa): කටුකො ඵරුසො stands as “දරුණුය...”; filled with the file's own words
+  (“දරුණුය, කටුකය, ඵරුෂය”, 33 times in the file). In the same entry එවං සික්ඛිතබ්බං stands as “නික්මිය යුතු”
+  (should leave); “හික්මිය යුතු”, as the entry's last sentence has it.
+- `sn-2-5` 6:4 pali-left-in: “න චායමායස්මා - (මේ ආයුෂ්මත්තෙම -)”; the Pāli taken out, the translation kept.
+- `sn-2-5` 42:5 clause-missing (Nava): the two descriptions of the four jhānas, ආභිචෙතසිකානං
+  දිට්ඨධම්මසුඛවිහාරානං, are not translated; added (newly written words, on the pattern of an-11 and an-5-4).
+- `sn-2-5` 43:3 pali-left-in (Sujāta): “දූරතොව (දුරදීම) ආගච්ඡන්තං (එනු)”; the Pāli taken out.
+- `sn-2-5` 43:5 pali-left-in (Sujāta, verse): “විප්පමුත්තො (…), විසඤ්ඤුත්තො (…)”; the Pāli taken out.
+- `sn-3` 8:1 negation-reversed (Hāliddikāni): ගිහීහි අසංසට්ඨො is “ගිහියන් හා මිශ්‍රව” (mixed with householders);
+  “මිශ්‍ර නොවී”.
+- `sn-3` 11:3, 11:4, 11:5 pali-left-in (Samādhi): the Pāli pronoun සා stands in “… වේද, සා නිරුද්ධ වෙයි”;
+  “එය”, as 13:0 has the same sentence. (A fourth, 11:6, is outside step 1: it is word for word de Zoysa or was
+  flagged `ai` before 974bd90; the owner may want to add it by hand.)
+- `sn-3` 13:6 pali-left-in (Upādāparitassanā): the verb හොති stands in the Sinhala sentence; taken out.
+- `sn-3` 15:2 negation-reversed (Upādāparitassanā): අනුපාදා අපරිතස්සනා හොති is “අනුපාදා අපරිතස්සනාව (… භය
+  ඇතිවීමක්) නොවෙයි” (does not come to be); put as the question in 14:3 has it.
+- `sn-3` 26:2 wrong-word (Assāda): the written-out sentence on perception ends “සත්වයන් සංස්කාරයන්හි ඇලෙත්”
+  (cling to formations); “සත්වයෝ සංඥාවෙහි ඇලෙත්”.
+
+Unsure: none.
+
+Left alone:
+- `sn-2-5` 41:4 gives ආකඞ්ඛමානො as “ආකංඛමාන වන්නේ නම්”, and 43:4 keeps “අභිරූපද, දස්සනීයද, පාසාදිකද” and 42:5
+  “උජ්ඣායනය (නුගුණ කියන්නට)”: Sinhala-ised terms (de Zoysa's), not Pāli sentences left in; as the terms of `sn-2`
+  19:1 in run 22. **A doubt about the rules:** if the maintainer counts such Sinhala-ised words as Pāli left in,
+  these are three more rows.
+- `sn-2-5` 6:5 writes out in brackets what the Pāli abbreviates; 29:9 gives the Buddha's sentences in another
+  order, all there; 19:10 gives the plural රූපා … ධම්මා in the singular.
+- `sn-3` 9:8 gives චෙතසො අධිට්ඨානාභිනිවෙසානුසයා loosely (“අකුසල් සිතට ස්ථානවූ අනුසයයෝ”); 26:3 writes the
+  sentence out for feeling, perception and formations where BJT's Pāli entry has consciousness only (the fuller
+  text, no row); 43:8–43:13 give one answer three times for the three aggregates of the question.
+- The uddāna verses (`sn-2-5` 6:16, 48:4) stay as they are.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 2,818 of 5,250 entries (SN: 1,200 of 1,630 to read; next file `sn-3-1-2`, 55).
