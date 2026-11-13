@@ -123,3 +123,39 @@ words (දක්ඛො 17:0, බලං 29:1, මහින්ද spelt “මහ�
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 4,765 of 5,250 entries (DN: 428 of 913; next file `dn-2`, 79 entries).
+
+## 2026-11-13 (autopilot run 5)
+
+Commit e4db85e (unchanged upstream). Step 1, `dn-2`: all 79 entries read (the Mahāpadāna sutta and the Mahānidāna
+sutta), each in full against its Pāli; the file is finished in step 1. Batch `batches/dn-2_e4db85e.tsv` (12 rows) and
+`_unsure.tsv` (2 rows); nothing refused.
+
+Findings, sure:
+- 6:0 pali-left-in (Mahāpadāna §15, the monks' report): two stretches stand in Pāli, the opening
+  (“අච්ඡරියං ආවුසො … සාවකසන්නිපාතතොපි අනුස්සරිස්සති”) and the first question (“කින්නු ඛො ආවුසො … ඉතිපීති?”).
+  Translated with the wording text-apz has for the same passage at 4:3 and 5:0 and the list of the entry's own third
+  part, put together by script; nothing newly written.
+- 21:0 pali-left-in (§61): the answer of the one gone forth (the six “සාධු …”) stands in Pāli; translated in the
+  words the same entry uses for the prince's reply.
+- 38:2 clause-missing (§122): of the six ways of recollecting, by name and by clan (නාමතොපි, ගොත්තතොපි) are not
+  in the Sinhala; added in the entry's own form.
+- 39:4, 39:5, 39:6, 39:7, 40:0, 40:1, 40:2, 40:3, 40:4 clause-added (Mahānidāna §3, the nine questions): පුට්ඨෙන සතා
+  is given as “ඇසූ කල්හි සතිය පිහිටුවා ගෙන” (when asked, having set up mindfulness). සතා is “being” (by one who is
+  asked), not sati; BJT's Sinhala has “විචාරන ලද්දාහු විසින්”. The words are removed and the address ආනන්ද, which
+  the Sinhala lacks, stands in their place. One reading, nine rows; the commentary was not at hand in this run, so
+  the rows rest on the grammar and on BJT's Sinhala.
+
+Unsure:
+- 46:0 (§22): (එත්තාවතා) ඉත්ථත්තං පඤ්ඤාපනාය is not translated; the added words are newly written after BJT's reading.
+- 47:2 (§28): the entry opens with a Pāli heading, “නඅත්තපඤ්ඤත්ති”, and gives the number 28 twice (the Pāli entry
+  has no heading); not an error of meaning.
+
+Left alone: a stray Pāli “ඛො” in 17:0 (“‘එසේය දේවයන් වහන්සැයි’ ඛො මහණෙනි”); the Pāli sentence kept with its
+translation in brackets after it (51:8 “නො හෙතං භන්තෙ”, 53:1 the closing line); “පබ්බජිත නාම නම් සාධුය” in 21:0
+(de Zoysa keeps “පබ්බජිත නාම” in 20:3 too); උස්සඞ්ඛපාදො as “උස්ව සිටි විලුම්” (11:8; BJT “බොලට”); එවංගොත්තා
+missing from the first list of 6:0 (a single word); “අත්ථි ඉදප්පච්චයා ජරාමරණං” given as “when this condition is
+there, is there ageing and death?” (39:4 and the eight after it; the answer still reads rightly).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 4,686 of 5,250 entries (DN: 349 of 913; next file `dn-2-3`, 46 entries).
