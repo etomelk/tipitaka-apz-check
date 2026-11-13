@@ -499,3 +499,40 @@ the Pāli abbreviates with -පෙ- (10:2–11:2, 16:1–17:0, 24:1) were read t
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 3,816 of 5,250 entries (MN 568 of 1,089; next file `mn-2-2`, 21 entries, then `mn-2-3`, 42).
+
+## 2026-11-13 (run 15)
+
+Commit e4db85e (pinned). Step 1: all 21 entries of `mn-2-2` (Mahārāhulovāda, Cūḷamāluṅkya, Mahāmāluṅkya, Bhaddāli,
+Laṭukikopama, Naḷakapāna, Gulissāni, Kīṭāgiri), all 42 of `mn-2-3` (Aggivacchagotta, Mahāvacchagotta, Māgandiya,
+Sandaka, Mahāsakuludāyi, Samaṇamaṇḍikā, Cūḷasakuludāyi, Vekhanassa) and the first 40 of `mn-2-4` (Raṭṭhapāla,
+Makhādeva, Madhura, Bodhirājakumāra to the meeting with the five monks, 51:8): 103 entries, each read in full against
+its Pāli. `mn-2-2` and `mn-2-3` are finished: `batches/mn-2-2_e4db85e.tsv` (2 rows) and `batches/mn-2-3_e4db85e.tsv`
+(4 rows), none unsure, nothing refused. `mn-2-4` is not finished, so no batch yet (its three findings were test-built:
+nothing refused).
+
+Confirmed (main file):
+- `mn-2-2` 32:2 and 33:0 wrong-word (Laṭukikopama): අප්පොස්සුක්කා is given as “උදාසීන නොවී” (“without becoming
+  indifferent”), the reverse of the word. Written “උත්සාහ රහිතව”, text-apz's own rendering elsewhere (mn-2-4 48:4,
+  mn-3-3 40:4).
+- `mn-2-3` 34:2 wrong-number (Sandaka): චත්තාරො අබ්රහ්මචරියවාසා without the four; “වාස සතර” as in 34:1.
+- `mn-2-3` 49:5, 50:1, 50:2 pali-left-in (Mahāsakuludāyi, the fifth, seventh and eighth bases of mastery): the sentence
+  තානි අභිභුය්ය ජානාමි පස්සාමීති එවංසඤ්ඤී හොති stands in Pāli, and the rest is Pāli with Sinhala endings
+  (“බහිද්ධාරූපයන්”, “යම්සේ වා පන”, “ලෝහිතකවූ”, “ඕදාතවූ”). The neighbour 50:0 (the sixth base, the same Pāli with
+  yellow) is sound, so the three are proposed whole on its pattern, by script (colour, simile and number changed;
+  50:2 keeps its last sentence). These are whole-entry proposals, not small edits: the owner may want to look at them.
+- `mn-2-4` 49:4 and 50:0 clause-added (Bodhirājakumāra): the list of beings has “අයහපත් ආකාර ඇත්තාවූද” (ද්වාකාරෙ),
+  which BJT's Pāli does not have in these two entries (it has ස්වාකාරෙ සුවිඤ්ඤාපයෙ only; BJT's Sinhala likewise).
+  The item is taken out.
+- `mn-2-4` 50:3 wrong-word: සත්තාහකාලකතො is “කළුරිය කොට සතක් විය” in both places; written “සතියක් විය”.
+
+Unsure: none.
+
+Left alone: `mn-2-2` 27:3 and 28:0 cut the passage on the one-eyed man at another place than the Pāli entries do
+(the simile stands in 28:0; nothing lost, as dn-1-3 61:0); 33:1 leaves out න පරමරූපං throughout (an epithet).
+`mn-2-3` 23:3 has no word for සුභාසිතං; 71:2 “උදාන් ඇසුවේය” (a misprint for ඇනුවේය); 75:4, the uddāna, names nine
+suttas and says ten (uddāna key words are outside the brief). `mn-2-4` 49:4 also has a bracketed “(විරුද්ධ වූ)”
+before පරලොව (a gloss, left); 50:5 ends “රාජකුමාරය, මා දකින ලද්දේය.” where the Pāli sentence runs on into 51:0.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 3,713 of 5,250 entries (MN 465 of 1,089; next file `mn-2-4`, 73 of its 113 entries still to read).
