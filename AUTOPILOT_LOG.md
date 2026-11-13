@@ -90,3 +90,36 @@ single dropped words (අරියො 71:2, එවං පස්සතො 79:1); 
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 4,879 of 5,250 entries (DN: 542 of 913; next file `dn-1-11`, 114 entries).
+
+## 2026-11-13 (autopilot run 4)
+
+Commit e4db85e (unchanged upstream). Step 1, `dn-1-11`: all 114 entries read (the Kevaḍḍha sutta from §38, the
+Lohicca sutta, the Tevijja sutta), each in full against its Pāli; the file is finished in step 1. Batch
+`batches/dn-1-11_e4db85e.tsv` (5 rows) and `_unsure.tsv` (none); nothing refused.
+
+Findings, all sure, all kind clause-missing:
+- 48:4 (Lohicca §76): ආවීභාවං තිරොභාවං (he appears, he vanishes) is not translated; added as “ප්‍රකට බවටද,
+  අප්‍රකට බවටද පැමිණෙයි” (the wording of dn-3-5; “ප්‍රකට බවට, මුවහ බවට” is the commonest form but does not stand as a
+  sentence here). In the same entry පල්ලඞ්කෙන is “පරෙවි අයුරින් (පළඟින්)” (in the manner of a dove); changed to
+  “පළඟින් හිඳගෙනම”, as text-apz has it elsewhere.
+- 47:2, 48:1, 49:0, 50:2 (Lohicca §69, 73, 77, 83): after the simile the Pāli writes the passage out in full and the
+  Sinhala gives “...” for part of it: in 47:2 the eight qualities of the mind and the whole description of the body, in
+  48:1 and 49:0 the eight qualities, in 50:2 the qualities and the kinds of mind between the first and the last two.
+  Each is filled with the wording of the entry just before it, copied by script, nothing newly written. Where the
+  “...” stands for the Pāli's own -පෙ- it is kept.
+
+**For the owner:** these four rows rest on the rule in `CLAUDE.md` (“where the Pāli writes a passage out and the
+Sinhala gives "..." for it, it is [an error]”). They lose a repetition, not a new statement; if the maintainer does
+not want such rows, drop them from the batch. 49:2 (§79) has the same “...”, but what it leaves out stands in the
+first half of the same entry, so it was left alone.
+
+Left alone: the barber's name, “රොසික” where BJT's Pāli has භෙසිකා (28:5 gives it as “රොසික (භේසික)” at the first
+mention, de Zoysa's own note of the two readings; 29:3 ends with “භේසිකය”); “කල්ප විස්සකින් යුත් කල්පයන්” for
+සංවට්ටකප්පෙ (19:1, de Zoysa's gloss); the glosses “මිථ්‍යාදෘෂ්ටි නමැති නරාවළ”, “ධර්මදේශනාව නමැති අතින්” (54:4);
+“මසුන් රංචුද” in the man's thought where BJT's Pāli entry has no මච්ඡගුම්බා there (54:0); the Pāli formula
+“අයමෙව උජුමග්ගො …” kept with its translation in brackets (58:0, 59:2, 60:2, 61:2: a quoted formula); single dropped
+words (දක්ඛො 17:0, බලං 29:1, මහින්ද spelt “මහින්ධි” 62:1).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 4,765 of 5,250 entries (DN: 428 of 913; next file `dn-2`, 79 entries).
