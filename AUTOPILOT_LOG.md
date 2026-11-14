@@ -1255,3 +1255,61 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 1: 1,786 of 5,250 entries (SN: 168 of 1,630 to read; next file `sn-5-11`, 101, then `sn-5-12`, 67;
 the SN collection for the owner is due when those two are done).
+
+## 2026-11-14 (run 34) — `sn-5-11` finished
+
+Commit e4db85e (pinned). Step 1: all 101 entries of `sn-5-11` (the Sotāpatti saṃyutta), each read in full against
+its Pāli. The file is finished: its batch is built (`batches/sn-5-11_e4db85e.tsv`, 9 rows; no unsure rows), nothing
+refused.
+
+Confirmed (main file):
+- `sn-5-11` 12:5 and 14:0 clause-missing (3777–3778, the mirror of the Dhamma): the Pāli writes the declaration out
+  (ඛීණනිරයොම්හි ඛීණතිරච්ඡානයොනියො ඛීණපෙත්තිවිසයො ඛීණාපායදුග්ගතිවිනිපාතො, සොතාපන්නොහමස්මි අවිනිපාතධම්මො නියතො
+  සම්බොධිපරායණො) and the Sinhala gives “...” for everything between the first and the last item (“මම ක්ෂය කරන ලද
+  නිරය ඇත්තේ වෙමි... සෝවාන් පුද්ගලයෙක් වෙමියි”). Written out in the words of 13:5, which has the sentence whole.
+  In 14:0 only the closing sentence is changed (the first has -පෙ- in the Pāli). These two are the same kind of row
+  as run 33's four (“the Pāli writes a passage out and the Sinhala gives "..."”); the owner may drop them together if
+  he finds them below the bar. BJT's own Sinhala writes the sentence out.
+- `sn-5-11` 18:3 wrong-word (3785): in the fourth part the Pāli has සො වත අරියකන්තෙහි සීලෙහි සමන්නාගතො අරියසාවකො;
+  the Sinhala repeats “බුදුරජාණන් වහන්සේ කෙරෙහි අචල ප්‍රසාදයෙන් යුක්තවූ ඒ ආර්‍ය්‍යශ්‍රාවකතෙම”. Replaced with the
+  entry's own words for the virtue. (The second and third parts say the same of the Dhamma and the Saṅgha, but the
+  Pāli entry abbreviates them with -පෙ-, so they are left.)
+- `sn-5-11` 38:6 pali-left-in (3798, Nandaka): සොතාපන්නො හොති අවිනිපාතධම්මො නියතො සම්බොධිපරායණො left after its
+  translation in the first sentence, and the whole closing sentence ඉමෙහි ඛො නන්දක … left in Pāli. Written in the
+  entry's own words for the first sentence.
+- `sn-5-11` 49:6 clause-added (3812, the first Mahaddhana sutta): the Pāli has three words, අඩ්ඪො මහද්ධනො මහාභොගො;
+  the Sinhala adds “මහත් යසස් ඇත්තේය” (මහායසො) in both sentences, the word that belongs to 3813 and tells the two
+  suttas apart. BJT's own Sinhala has three. Taken out.
+- `sn-5-11` 50:8, 51:2, 51:5 wrong-person (3815–3817): the Buddha speaks to Nandiya, Bhaddiya and Mahānāma the
+  Sakyans (ඉධ නන්දිය / භද්දිය / මහානාම); in each entry the Sinhala says “මහණෙනි” at that one place, with the right
+  name in the sentences before and after. One word each. (Unlike `sn-1-3` 72:0, where one monk was addressed in the
+  plural, here laymen are addressed as monks; the owner may drop the three together if he finds them below the bar.)
+- `sn-5-11` 58:14 wrong-number (the summary verse of the Sappañña vagga): the Sinhala adds a count the verse does
+  not have and gives it as twelve (“සූත්‍ර දොළහකි”); the verse names eleven (3819–3829), and BJT's own Sinhala says
+  “මුළුල්ල එකොළොසෙකි”. Changed to “එකොළහකි”.
+
+Unsure: none.
+
+Left alone:
+- Entries that write out what the Pāli abbreviates with -පෙ- (most of the file: the four factors of stream-entry),
+  entries that abbreviate with -පෙ- or “...” where the Pāli has -පෙ-, the peyyāla suttas written out (59:6–60:14)
+  and the instruction 12:6: no row. 19:4 and 20:3 give -පෙ- for sentences the Pāli writes out (an abbreviation
+  mark); 55:0 gives “ධර්මය කෙරෙහි... සංඝයා කෙරෙහි...” for the two frames අස්සසතායස්මා, අත්ථායස්මතො ධම්මෙ / සඞ්ඝෙ
+  අවෙච්චප්පසාදො, whose formulas the Pāli itself abbreviates: no row.
+- The quoted formulas left in Pāli (“ඉතිපි සො භගවා … බුද්ධො භගවා”ති and its like: 17:9, 18:0, 29:5–30:2,
+  49:6–51:5, 55:0) stay, as the rule on quoted formulas says.
+- 3:4 has “මහණෙනි” for ඉධාවුසො (Sāriputta to Ānanda) and 20:2 “නිදුකාණනි” for ආවුසො (Moggallāna to the devas):
+  the form of address only, the same persons; no row.
+- One word of a run dropped: 40:7 has no word for පයතපාණි (48:2 has it), 54:0 none for ලොකුත්තරා (BJT's Sinhala
+  has “ලොවුතුරු වූ”), 17:6's last sentence none for භය: left by the rule on a single dropped epithet. The owner may
+  want to tell the maintainer of 54:0.
+- 17:9 and 18:0–18:3 give යෙ ච සොතබ්බං මඤ්ඤෙය්යුං as “ඇසිය යුත්තන් වශයෙන් … හඟින්නාහුද” (as `sn-5-3` 39:2), 18:3
+  gives තත්රිදං අඤ්ඤථත්තං as “එහි ඒකාන්තයෙන්”, 42:6 gives එතීති as “එනුමැනවයි”: loose or stock wording, no row.
+- de Zoysa's marks “[1]”, “[2]”, “[7]” … (50:8, 52:3, 54:0, 54:1) and the opening “මා විසින් මෙසේ අසන ලදී”
+  where the Pāli entry has none (38:6, 50:8, 52:3): marks and written-out settings, no row.
+- The uddāna verses (14:3, 21:3, 39:3, 51:11, 60:20, 60:23) stay as they are, 58:14 but for its count.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 1,685 of 5,250 entries (SN: 67 of 1,630 to read, all in `sn-5-12`; the SN collection for the owner
+is due when that file is done, in the next run).

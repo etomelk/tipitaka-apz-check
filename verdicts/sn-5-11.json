@@ -1,0 +1,136 @@
+[
+ {
+  "pi": 12,
+  "ei": 5,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "ඇත්තේ වෙමි... සෝවාන් පුද්ගලයෙක් වෙමියි’",
+    "ඇත්තේ වෙමි. ක්ෂය කරන ලද තිරිසන් යෝනි ඇත්තේ වෙමි. ක්ෂය කරන ලද ප්‍රේත විෂය ඇත්තේ වෙමි. ක්ෂය කරන ලද විෂම වැටීම් ඇති දුර්ගති නම්වූ අපාය ඇත්තේ වෙමි. අපායෙහි වැටෙන ස්වභාවය නැත්තාවූ නියතවූ මතු මාර්ගත්‍රය පිහිටකොට ඇත්තාවූ සෝවාන් පුද්ගලයෙක් වෙමියි’"
+   ]
+  ],
+  "pali": "ඛීණනිරයොම්හි ඛීණතිරච්ඡානයොනියො ඛීණපෙත්තිවිසයො ඛීණාපායදුග්ගතිවිනිපාතො",
+  "reason": "The Pāli writes the declaration out (ඛීණනිරයොම්හි ඛීණතිරච්ඡානයොනියො ඛීණපෙත්තිවිසයො ඛීණාපායදුග්ගතිවිනිපාතො, සොතාපන්නොහමස්මි, අවිනිපාතධම්මො නියතො සම්බොධිපරායණො); the Sinhala gives “...” for everything between the first and the last item. Written out in the words of the next sutta's entry (13:5) for the same sentence.",
+  "unsure": false
+ },
+ {
+  "pi": 14,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "ඇත්තේ වෙමි... සෝවාන් පුද්ගලයෙක් වෙමියි’",
+    "ඇත්තේ වෙමි. ක්ෂය කරන ලද තිරිසන් යෝනි ඇත්තේ වෙමි. ක්ෂය කරන ලද ප්‍රේත විෂය ඇත්තේ වෙමි. ක්ෂය කරන ලද විෂම වැටීම් ඇති දුර්ගති නම්වූ අපාය ඇත්තේ වෙමි. අපායෙහි වැටෙන ස්වභාවය නැත්තාවූ නියතවූ මතු මාර්ගත්‍රය පිහිටකොට ඇත්තාවූ සෝවාන් පුද්ගලයෙක් වෙමියි’"
+   ]
+  ],
+  "pali": "ඛීණනිරයොම්හි ඛීණතිරච්ඡානයොනියො ඛීණපෙත්තිවිසයො ඛීණාපායදුග්ගතිවිනිපාතො",
+  "reason": "In the closing sentence the Pāli writes the declaration out (ඛීණනිරයොම්හි ඛීණතිරච්ඡානයොනියො ඛීණපෙත්තිවිසයො ඛීණාපායදුග්ගතිවිනිපාතො, සොතාපන්නො‘හමස්මි අවිනිපාතධම්මො නියතො සම්බොධිපරායණො); the Sinhala gives “...” for everything between the first and the last item (the first sentence, where the Pāli itself has -පෙ-, is left as it is). Written out in the words of 13:5 for the same sentence.",
+  "unsure": false
+ },
+ {
+  "pi": 18,
+  "ei": 3,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "බුදුරජාණන් වහන්සේ කෙරෙහි අචල ප්‍රසාදයෙන් යුක්තවූ ඒ ආර්‍ය්‍යශ්‍රාවකතෙම නිරයෙහි හෝ තිරිසන් යොනියෙහි",
+    "ආර්‍ය්‍යයන් කැමති වන්නාවූ ශීලයෙන් යුක්තවූ ඒ ආර්‍ය්‍යශ්‍රාවකතෙම නිරයෙහි හෝ තිරිසන් යොනියෙහි"
+   ]
+  ],
+  "pali": "සො වත අරියකන්තෙහි සීලෙහි සමන්නාගතො අරියසාවකො නිරයං වා තිරච්ඡානයොනිං වා පෙත්තිවිසයං වා උපපජ්ජිස්සතී",
+  "reason": "In the fourth part (virtue) the Pāli reads සො වත අරියකන්තෙහි සීලෙහි සමන්නාගතො අරියසාවකො; the Sinhala repeats the first part's “බුදුරජාණන් වහන්සේ කෙරෙහි අචල ප්‍රසාදයෙන් යුක්තවූ”. Replaced with the entry's own words for අරියකන්තෙහි සීලෙහි සමන්නාගත in the sentence before.",
+  "unsure": false
+ },
+ {
+  "pi": 38,
+  "ei": 6,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "පිහිටකොට ඇත්තාවූ සොතාපන්නො හොති අවිනිපාතධම්මො නියතො සම්බොධිපරායණො. කවර",
+    "පිහිටකොට ඇත්තාවූ සෝවාන් පුද්ගලයෙක් වෙයි. කවර"
+   ],
+   [
+    "ඉමෙහි ඛො නන්දක, චතූහි ධම්මෙහි සමන්නාගතො අරියසාවකො සොතාපන්නො හොති අවිනිපාතධම්මො නියතො සම්බොධිපරායණො.",
+    "නන්දකය, මේ ධර්ම සතරින් යුක්තවූ ආර්‍ය්‍යශ්‍රාවක තෙම වනාහි නිරයෙහි නොවැටෙන ස්වභාව ඇත්තාවූ නියත ගති ඇත්තාවූ මතු මාර්ගත්‍රය පිහිටකොට ඇත්තාවූ සෝවාන් පුද්ගලයෙක් වෙයි."
+   ]
+  ],
+  "pali": "ඉමෙහි ඛො නන්දක, චතූහි ධම්මෙහි සමන්නාගතො අරියසාවකො සොතාපන්නො හොති අවිනිපාතධම්මො නියතො සම්බොධිපරායණො",
+  "reason": "Pāli left in twice: සොතාපන්නො හොති අවිනිපාතධම්මො නියතො සම්බොධිපරායණො after its own translation in the first sentence (only “සෝවාන් පුද්ගලයෙක් වෙයි” was missing), and the whole closing sentence ඉමෙහි ඛො නන්දක … සම්බොධිපරායණො untranslated. The closing sentence is written in the entry's own words for the first sentence.",
+  "unsure": false
+ },
+ {
+  "pi": 49,
+  "ei": 6,
+  "kind": "clause-added",
+  "edits": [
+   [
+    "මහත් භොග ඇත්තේය. මහත් යසස් ඇත්තේයයි කියනු ලැබේ. කවර",
+    "මහත් භොග ඇත්තේයයි කියනු ලැබේ. කවර"
+   ],
+   [
+    "මහත් භොග ඇත්තේය. මහත් යසස් ඇත්තේයයි කියනු ලැබේ යයි",
+    "මහත් භොග ඇත්තේයයි කියනු ලැබේ යයි"
+   ]
+  ],
+  "pali": "“අඩ්ඪො මහද්ධනො මහාභොගො”ති වුච්චතීති",
+  "reason": "3812 (the first Mahaddhana sutta) has three words, අඩ්ඪො මහද්ධනො මහාභොගො, in both sentences; the Sinhala adds a fourth, “මහත් යසස් ඇත්තේය” (මහායසො), which belongs to the next sutta, 3813, and is what tells the two apart. BJT's own Sinhala has three. Taken out in both sentences.",
+  "unsure": false
+ },
+ {
+  "pi": 50,
+  "ei": 8,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "කවර සතරකින්ද යත්? මහණෙනි, මෙහි",
+    "කවර සතරකින්ද යත්? නන්දිය, මෙහි"
+   ]
+  ],
+  "pali": "ඉධ නන්දිය, අරියසාවකො බුද්ධෙ අවෙච්චප්පසාදෙන සමන්නාගතො හොති",
+  "reason": "The Buddha is speaking to Nandiya the Sakyan (ඉධ නන්දිය); the Sinhala addresses the monks here (“මහණෙනි”), while the sentences before and after say “නන්දිය”.",
+  "unsure": false
+ },
+ {
+  "pi": 51,
+  "ei": 2,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "කවර සතරකින්ද යත්? මහණෙනි, මෙහි",
+    "කවර සතරකින්ද යත්? භද්දිය, මෙහි"
+   ]
+  ],
+  "pali": "ඉධ භද්දිය, අරියසාවකො බුද්ධෙ අවෙච්චප්පසාදෙන සමන්නාගතො හොති",
+  "reason": "The Buddha is speaking to Bhaddiya the Sakyan (ඉධ භද්දිය); the Sinhala addresses the monks here (“මහණෙනි”), while the sentences before and after say “භද්දිය”.",
+  "unsure": false
+ },
+ {
+  "pi": 51,
+  "ei": 5,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "කවර සතරකින්ද, මහණෙනි, මෙහි",
+    "කවර සතරකින්ද, මහානාම, මෙහි"
+   ]
+  ],
+  "pali": "ඉධ මහානාම, අරියසාවකො බුද්ධෙ අවෙච්චප්පසාදෙන සමන්නාගතො හොති",
+  "reason": "The Buddha is speaking to Mahānāma the Sakyan (ඉධ මහානාම); the Sinhala addresses the monks here (“මහණෙනි”), while the sentences before and after say “මහානාම”.",
+  "unsure": false
+ },
+ {
+  "pi": 58,
+  "ei": 14,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "සූත්‍ර දොළහකි",
+    "සූත්‍ර එකොළහකි"
+   ]
+  ],
+  "pali": "චතුප්ඵලා පටිලාභො වුඩ්ඪී වෙපුල්ලනාමිකොති",
+  "reason": "The summary verse names eleven suttas (සගාථකං, වස්සවුත්ථං, ධම්මදින්නං, ගිලානකං, චතුප්ඵලා = four, පටිලාභො, වුඩ්ඪී, වෙපුල්ල), the vagga's 3819–3829; the Sinhala adds a count the verse does not have and gives it as twelve (“සූත්‍ර දොළහකි”). BJT's own Sinhala counts eleven (“මුළුල්ල එකොළොසෙකි”).",
+  "unsure": false
+ }
+]
