@@ -1164,3 +1164,54 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 1,970 of 5,250 entries (SN: 352 of 1,630 to read; next file `sn-5-2`, 61).
+
+## 2026-11-14 (run 32) — `sn-5-2` and `sn-5-3` finished
+
+Commit e4db85e (pinned). Step 1: all 61 entries of `sn-5-2` (the Bojjhaṅga saṃyutta) and all 33 entries of `sn-5-3`
+(the Satipaṭṭhāna saṃyutta), 94 in all, each read in full against its Pāli. Both files are finished: their batches
+are built (`batches/sn-5-2_e4db85e.tsv`, 6 rows; `batches/sn-5-3_e4db85e.tsv`, 1 row; no unsure rows), nothing refused.
+
+Confirmed (main file):
+- `sn-5-2` 12:2 pali-left-in (Gilāna sutta): the Buddha's question to Mahākassapa stands in Pāli (“කච්චි තෙ කස්සප,
+  ඛමනීයං? … නො අභික්කමොති?”) with its translation after it in brackets; the Pāli and the brackets are taken out.
+- `sn-5-2` 38:2 wrong-person (Aggi sutta): the Pāli abbreviates with -පෙ- from the monks' entering Sāvatthi to the
+  Buddha's answer; the Sinhala writes the opening out as far as “අන්‍යතීර්ථක පරිබ්‍රාජකයෝ මෙය කීහ:” and goes straight
+  on to the Buddha's words (“මහණෙනි, මෙසේ කියන්නාවූ පරිබ්‍රාජකයන්ට මෙසේ කියයුතුය”), so that the wanderers seem to
+  say them. The row only puts -පෙ- where the passage is left out.
+- `sn-5-2` 41:1 pali-left-in (Mettāsahagata sutta, the monks' report): the end of the entry is in Pāli (“… ඵරිත්වා
+  විහරථ. තථා දුතියං … ඵරිත්වා විහරථා”ති.”) and “පංචනීවරණෙ පහාය” stands before its translation; written in the words
+  of 40:0.
+- `sn-5-2` 41:2 pali-left-in: the last sentence is in Pāli (“ඉධ නො ආවුසො, කො විසෙසො … අනුසාසනින්ති.”); written as
+  in 40:1. In the same row තථා දුතියං, තථා තතියං, තථා චතුත්ථිං and චෙතසො උපක්කිලෙසෙ පඤ්ඤාය දුබ්බලීකරණෙ, both
+  left out, are added in the words of 40:0.
+- `sn-5-2` 40:1 clause-missing: චෙතසො උපක්කිලෙසෙ පඤ්ඤාය දුබ්බලීකරණෙ is left out of the wanderers' words (40:0 and
+  41:1 have it); added. This is the slightest row of the run (two stock epithets of the hindrances): the owner may
+  drop it if he finds it below the bar.
+- `sn-5-2` 56:3 clause-missing (723-734, the Ganges): the Pāli writes out the question, the answer and the closing
+  sentence; the Sinhala gives them as fragments joined by “...” (the answer as a question, without විවෙකනිස්සිතං …),
+  and the Pāli word ඛො stands in “මෙසේ ඛො භික්ෂුව”. Written out in the entry's own words and the file's wording
+  of the formula (22:3).
+- `sn-5-3` 42:6 clause-added (1684, the higher fetters): the Pāli entry has one aim, පහානාය, in both sentences; the
+  Sinhala gives the Magga saṃyutta's four (“මනා දැනුම පිණිස, සම්පූර්ණයෙන් දැනගැනීම පිණිස, විනාශය පිණිස,
+  සම්පූර්ණයෙන් පහකිරීම පිණිස”). BJT's own Sinhala has only “පැහීම පිණිස”. Written “ප්‍රහාණය පිණිස” (as 39:8).
+
+Unsure: none.
+
+Left alone:
+- `sn-5-3` 27:2 (and 26:6, 25:2, outside the step) open with de Zoysa's paragraph numbers (“393.”, “390.”) where
+  the Pāli has 1206, 1205, 1202, and 40:3, 40:12 carry his numbers “417-428.”, “429-438.” inside the text; `sn-5-2`
+  26:7 has his marks “[2]”, “[4]”. Numbers and marks, not meaning errors (as in earlier runs): no row. The owner may
+  want to tell the maintainer of the three wrong paragraph numbers.
+- Settings written out where the Pāli entry begins later or gives only the place (`sn-5-2` 29:2, `sn-5-3` 27:2,
+  35:3), entries that write out what the Pāli abbreviates with -පෙ- (`sn-5-2` 14:0, 17:0, 28:9–29:11, 43:0, 47:1;
+  `sn-5-3` 2:0, 24:1–26:7, 31:2–33:5) and de Zoysa's instructions for the peyyāla runs (`sn-5-2` 52:23, 54:2,
+  58:3–59:3; `sn-5-3` 40:3–42:7): no row.
+- `sn-5-2` 12:2's bracketed translation gives පටික්කමොසානං පඤ්ඤායති නො අභික්කමො loosely (“ඒ දුක් වේදනාවන්ගේ
+  කෙළවරක් නොපෙනෙත්දැයි”); 43:0 has “කුමක් නිපදවීම කොට” for කිංගතිකා; `sn-5-3` 35:3 gives මා වො අමතං පනස්ස as
+  “නැතහොත් නුඹලාට නිවනක් නොවන්නේය”; 39:2 gives යෙ ච සොතබ්බං මඤ්ඤෙය්යුං as “යම් කිසිවකු ඇසියයුත්තකු කොට
+  සිතන්නහුද”; 24:1 and its like give දොමනස්සං as “ක්‍රෝධය” or “ද්වේෂය”: loose or de Zoysa's stock wording, no row.
+- The uddāna verses (`sn-5-2` 21:3, 27:6, 30:11; `sn-5-3` 29:5, 34:4, 39:11) stay as they are.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 1,876 of 5,250 entries (SN: 258 of 1,630 to read; next file `sn-5-4`, 29).
