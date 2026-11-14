@@ -1542,3 +1542,43 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 1,192 of 5,250 entries, all in the Aṅguttara (16 files, from `an-5-4`). Next run: `an-5-4`.
+
+## 2026-11-14 (run 40) — `an-5-4`, `an-5-5` finished
+
+Commit e4db85e (pinned). Step 1: 94 entries, each read in full against its Pāli: all 36 of `an-5-4`, all 58 of
+`an-5-5`. The two files are finished and their batches built (`batches/an-5-4_e4db85e.tsv` 3 rows,
+`an-5-5_e4db85e.tsv` 2 rows; no unsure rows), nothing refused.
+
+Confirmed (main files):
+- `an-5-4` 16:6 pali-left-in: the entry opens “ඉමෙහි ඛො ස්වාමීනි, ධර්‍ම පසකින් …”; the Pāli words taken out,
+  “ස්වාමීනි, මේ ධර්‍ම පසකින් …”.
+- `an-5-4` 34:1 clause-missing (Gavesī, the third round): the lay followers' first sentence, අය්යො ඛො ගවෙසී අම්හාකං
+  බහුකාරො පුබ්බඞ්ගමො සමාදපෙතා, is not translated; in its place stands “… ශීලයන්හි සම්පූර්‍ණ කිරීම ඇත්තෙක්
+  වන්නේය”, the wording of the first round (33:2), which this Pāli entry does not have. Put in the words of 33:6
+  (copied by script).
+- `an-5-4` 41:4 clause-missing (Doṇa, the brahmin like Brahmā): the Pāli writes the passage on equanimity out in
+  full; the Sinhala gives “එසේ දෙවන දිශාවද... මුළු ලොවම උපේක්‍ෂා සහගත සිතින්... පැතිර වාසය කරයි”. Written out
+  in the words the same entry has for loving-kindness (copied by script). Of the same kind as the “...” rows of runs
+  33 and 34; the owner may drop it with them if he wants.
+- `an-5-5` 25:8 wrong-number: the third sentence says the third jhāna a second time where the Pāli has චතුත්ථං
+  ඣානං; made “සතරවන” (as 25:6).
+- `an-5-5` 26:17 wrong-word: the second sentence says the fruit of stream-entry a second time where the Pāli has
+  සකදාගාමිඵලං; made “සකෘදාගාමී” (as 26:14).
+
+Unsure: none.
+
+Left alone:
+- `an-5-5` 25:3, 25:6, 26:3, 26:6, 26:12, 27:3, 27:6: the closing question කතමෙ පඤ්ච has no “කවර පසක්ද යත්”
+  (the entries write the abbreviated jhānas or fruits out as whole sentences): a question formula, no rows, as in
+  run 38.
+- `an-5-5` 33:2: මුණ්ඩසාවකො is “නිඝණ්ඨ ශ්‍රාවක” and ජටිලකො “තාපස”: BJT's Sinhala reads the same (“නුවටසවු”,
+  “දුළුලු”); no row.
+- `an-5-4` 16:6 and `an-5-5` 14:15: සබ්රහ්මචාරීනං is “බ්‍රහ්මචාරීන්ට”; `an-5-4` 7:2 පඤ්ඤාකථා is “talk about the
+  wise”; `an-5-4` 41:4 divides සංසුද්ධගහණිකො යාව සත්තමා පිතාමහයුගා oddly: loose wording, nothing missing.
+- Entries that write out what the Pāli abbreviates (`an-5-4` 14:6; `an-5-5` 22:6 and the jhāna and fruit suttas of
+  pages 25–27), and uddāna entries (`an-5-4` 8:14, 56:5; `an-5-5` 3:20, 22:12).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 1,098 of 5,250 entries, all in the Aṅguttara (14 files, from `an-6`). Next run: `an-6` (134 entries;
+about 100 of them).

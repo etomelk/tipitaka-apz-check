@@ -1,0 +1,44 @@
+[
+ {
+  "pi": 16,
+  "ei": 6,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "ඉමෙහි ඛො ස්වාමීනි,",
+    "ස්වාමීනි, මේ"
+   ]
+  ],
+  "pali": "ඉමෙහි ඛො භන්තෙ පඤ්චහි ධම්මෙහි",
+  "reason": "The opening words ඉමෙහි ඛො are left in Pāli (“ඉමෙහි ඛො ස්වාමීනි, …”); made “ස්වාමීනි, මේ …”.",
+  "unsure": false
+ },
+ {
+  "pi": 34,
+  "ei": 1,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "ගවේසී නම් ආර්‍ය්‍යතෙමේ වනාහි ශීලයන්හි සම්පූර්‍ණ කිරීම ඇත්තෙක් වන්නේය.",
+    "ගවේසී නම් ආර්‍ය්‍ය තෙමේ වනාහි අපට බොහෝ උපකාර ඇත්තේය. පෙරටුව ගමන් කරන්නේය. සමාදන් කරවන්නෙකි."
+   ]
+  ],
+  "pali": "අය්යො ඛො ගවෙසී අම්හාකං බහුකාරො පුබ්බඞ්ගමො සමාදපෙතා.",
+  "reason": "The first sentence of the lay followers’ thought (the noble Gavesī is our helper, leader and guide) is not translated; in its place stands “… ශීලයන්හි සම්පූර්‍ණ කිරීම ඇත්තෙක් වන්නේය”, the wording of the first round (33:2), which this Pāli entry does not have. Put in the words of 33:6 (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 41,
+  "ei": 4,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "එසේ දෙවන දිශාවද... මුළු ලොවම උපේක්‍ෂා සහගත සිතින්... පැතිර වාසය කරයි.",
+    "එසේ දෙවන දිශාවද, එසේ තෙවන දිශාවද, එසේ සිව්වන දිශාවද, මෙසේ උඩ යට හරහට සෑම තැනම සියල්ලන් සහිත මුළු ලොවම විපුල වූ මහද්ගත වූ අප්‍රමාණ වූ අවෛරී වූ අව්‍යාපාද වූ උපේක්‍ෂා සහගත සිතින් පැතිර වාසය කරයි."
+   ]
+  ],
+  "pali": "තථා දුතියං - තථා තතියං - තථා චතුත්ථිං - ඉති උද්ධමධො තිරියං සබ්බධී සබ්බත්තතාය{2} සබ්බාවන්තං ලොකං උපෙක්ඛාසහගතෙන චෙතසා විපුලෙන මහග්ගතෙන අප්පමාණෙන අවෙරෙන අව්යාපජ්ඣෙන ඵරිත්වා විහරති. සො ඉමෙ",
+  "reason": "The Pāli writes the passage on equanimity out in full; the Sinhala gives “...” for the third and fourth directions, “above, below, across …” and “abundant, exalted, measureless, without enmity or ill will”. Written out in the words the same entry has for loving-kindness (copied by script).",
+  "unsure": false
+ }
+]
