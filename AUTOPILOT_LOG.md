@@ -1025,3 +1025,31 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 2,388 of 5,250 entries (SN: 770 of 1,630 to read; next `sn-4` from 23:3, 94 left).
+
+## 2026-11-14 (run 28) — `sn-4` finished
+
+Commit e4db85e (pinned). Step 1: the last 94 entries of `sn-4` (the Saḷāyatana saṃyutta from the Jātidhamma vagga to
+the Yogakkhemi vagga, pages 25–94), each read in full against its Pāli. `sn-4` is finished: its batch is built
+(`batches/sn-4_e4db85e.tsv`, 1 row; no unsure rows), nothing refused.
+
+Confirmed (main file):
+- `sn-4` 74:3 pali-left-in (Dutiyadvaya sutta, its last paragraph): the entry opens with the whole Pāli entry left
+  in (“යොපි හෙතු යොපි පච්චයො මනොසම්ඵස්සස්ස උප්පාදාය … ද්වයං පටිච්ච විඤ්ඤාණං සම්භොතීති.”) and then gives its
+  translation. The Pāli is taken out, nothing else changed.
+
+Unsure: none.
+
+Left alone:
+- Most of the file's entries write out for ear, nose, tongue, body and mind what the Pāli abbreviates with -පෙ-
+  (30:4, 31:19, 37:4, 42:3–44:0, 58:0, 60:0, 61:1, 66:0, 66:2, 69:2, 89:7, 90:2, 94:10), and 58:4–58:5 shorten
+  three of the six questions with “…” where the Pāli has -පෙ-: abbreviation on both sides, no row.
+- 68:3 gives පටිවෙදෙසි as “ධර්මාවබෝධය කරවීය”, as BJT's Sinhala does; 45:5–46:2 give -පටිසංවෙදී as
+  “දැනගන්නේ”; 56:3 adds de Zoysa's glosses in brackets: word choices, no row.
+- 74:3's translation gives ඵුට්ඨො වෙදෙති, සඤ්ජානාති, චෙතෙති in the order feels, intends, perceives (all three
+  there); 82:5: BJT's Pāli entry reads ඝානින්ද්රියා සංවුතස්ස, කායින්ද්රියා සංවුතස්ස, මනින්ද්රියා සංවුතස්ස (slips
+  for අසංවුතස්ස in the Pāli entry); the Sinhala has “unrestrained” throughout, as the sutta requires. No row.
+- The uddāna verses (32:5, 32:8, 38:9) stay as they are.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 2,294 of 5,250 entries (SN: 676 of 1,630 to read; next file `sn-4-1-12`, 101).
