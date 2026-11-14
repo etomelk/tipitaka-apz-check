@@ -14,6 +14,34 @@
   "unsure": false
  },
  {
+  "pi": 20,
+  "ei": 4,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "ඵලයද",
+    "එළයද"
+   ]
+  ],
+  "pali": "තචොපි ඵෙග්ගුපි සාරොපි න පාරිපූරිං ගච්ඡති",
+  "unsure": false,
+  "reason": "ඵෙග්ගු (the sapwood) is “ඵලය” (the fruit), a misprint of “එළය”, the word text-apz has for it elsewhere (an-7-2 23:5, an-11 4:1); made “එළය”. (Outside the step’s list: found while reading an-6 64:9, the same simile.)"
+ },
+ {
+  "pi": 20,
+  "ei": 6,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "ඵලයත්",
+    "එළයත්"
+   ]
+  ],
+  "pali": "තචොපි ඵෙග්ගුපි සාරොපි පාරිපූරිං ගච්ඡති",
+  "unsure": false,
+  "reason": "ඵෙග්ගු (the sapwood) is “ඵලය” (the fruit), a misprint of “එළය”, the word text-apz has for it elsewhere (an-7-2 23:5, an-11 4:1); made “එළය”. (Outside the step’s list: found while reading an-6 64:9, the same simile.)"
+ },
+ {
   "pi": 34,
   "ei": 1,
   "kind": "clause-missing",

@@ -1,0 +1,317 @@
+[
+ {
+  "pi": 15,
+  "ei": 0,
+  "kind": "negation-reversed",
+  "edits": [
+   [
+    "වෙන්වූ සැනසීම ඇත්තාවූ, තරණය කළ විචිකිච්චාව ඇත්තාවූ, සැක ඇත්තාවූ",
+    "සැනසීම ඇත්තාවූ, තරණය කළ විචිකිච්චාව ඇත්තාවූ, වෙන්වූ සැක ඇත්තාවූ"
+   ]
+  ],
+  "pali": "අස්සාසප්පත්තා තිණ්ණවිචිකිච්ඡා විගතකථංකථා",
+  "reason": "In the second list “වෙන්වූ” (gone) stands before the wrong item: it reads “whose comfort is gone … who have doubt” for අස්සාසප්පත්තා … විගතකථංකථා (comforted … with doubt gone). The word moved back, as in the first list of the same entry.",
+  "unsure": false
+ },
+ {
+  "pi": 27,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ... ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. ... මහණෙනි, ගෙධය",
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ. ද්වේෂයෙන් මැඩ පැවැත්වූයේ නොවේ. මෝහයෙන් මැඩ පැවැත්වූයේ නොවේ. ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. පස්කම් සැපට ගිජුකමින් නික්මුණේය. මිදුණේය. නැගී සිටියේය. මහණෙනි, ගෙධය"
+   ]
+  ],
+  "pali": "න දොසපරියුට්ඨිතං චිත්තං හොති, න මොහපරියුට්ඨිතං චිත්තං හොති",
+  "reason": "The Pāli writes the sentence out; the Sinhala gives “...” for න දොසපරියුට්ඨිතං … න මොහපරියුට්ඨිතං and for නික්ඛන්තං මුත්තං වුට්ඨිතං ගෙධම්හා. Written out in the words of 26:15, the same sentence two entries before (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 27,
+  "ei": 1,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ... ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. ... මහණෙනි, ගෙධය",
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ. ද්වේෂයෙන් මැඩ පැවැත්වූයේ නොවේ. මෝහයෙන් මැඩ පැවැත්වූයේ නොවේ. ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. පස්කම් සැපට ගිජුකමින් නික්මුණේය. මිදුණේය. නැගී සිටියේය. මහණෙනි, ගෙධය"
+   ]
+  ],
+  "pali": "න දොසපරියුට්ඨිතං චිත්තං හොති, න මොහපරියුට්ඨිතං චිත්තං හොති",
+  "reason": "The Pāli writes the sentence out; the Sinhala gives “...” for න දොසපරියුට්ඨිතං … න මොහපරියුට්ඨිතං and for නික්ඛන්තං මුත්තං වුට්ඨිතං ගෙධම්හා. Written out in the words of 26:15, the same sentence two entries before (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 27,
+  "ei": 2,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ... ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. ... මහණෙනි, ගෙධය",
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ. ද්වේෂයෙන් මැඩ පැවැත්වූයේ නොවේ. මෝහයෙන් මැඩ පැවැත්වූයේ නොවේ. ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. පස්කම් සැපට ගිජුකමින් නික්මුණේය. මිදුණේය. නැගී සිටියේය. මහණෙනි, ගෙධය"
+   ]
+  ],
+  "pali": "න දොසපරියුට්ඨිතං චිත්තං හොති, න මොහපරියුට්ඨිතං චිත්තං හොති",
+  "reason": "The Pāli writes the sentence out; the Sinhala gives “...” for න දොසපරියුට්ඨිතං … න මොහපරියුට්ඨිතං and for නික්ඛන්තං මුත්තං වුට්ඨිතං ගෙධම්හා. Written out in the words of 26:15, the same sentence two entries before (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 27,
+  "ei": 3,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "'චාතුර් මහා රාජිකවූ දෙවියෝ ඇත්තාහ... මටද එබඳු ප්‍රඥාවක් ඇත'",
+    "'චාතුර් මහා රාජිකවූ දෙවියෝ ඇත්තාහ. තාවතිංශ නම් දෙවියෝ ඇත්තාහ. යාම නම් දෙවියෝ ඇත්තාහ. තුෂිත නම් දෙවියෝ ඇත්තාහ. නිර්‍මාණරතී නම් දෙවියෝ ඇත්තාහ. පරනිර්මිත වසවර්ති නම් දෙවියෝ ඇත්තාහ. බ්‍රහ්මකායික නම් දෙවියෝ ඇත්තාහ. ඉන් මත්තෙහිවූ දෙවියෝ ඇත්තාහ. යම් බඳුවූ ශ්‍රද්‍ධාවකින් යුක්තවූ ඒ දෙවියෝ මෙයින් චුතවූවාහු එහි උපන්නාහුද, මටද එබඳු ශ්‍රද්‍ධාවක් ඇත. යම්බඳු සීලයකින් -පෙ- ශ්‍රුතයකින් -පෙ- ත්‍යාගයකින් -පෙ- ප්‍රඥාවකින් යුක්තවූ ඒ දෙවියෝ මෙයින් චුතවූවාහු එහි උපන්නාහුද, මටද එබඳු ප්‍රඥාවක් ඇත'"
+   ],
+   [
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ... ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. ... මහණෙනි, ගෙධය",
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ. ද්වේෂයෙන් මැඩ පැවැත්වූයේ නොවේ. මෝහයෙන් මැඩ පැවැත්වූයේ නොවේ. ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. පස්කම් සැපට ගිජුකමින් නික්මුණේය. මිදුණේය. නැගී සිටියේය. මහණෙනි, ගෙධය"
+   ]
+  ],
+  "pali": "සන්ති දෙවා තාවතිංසා, සන්ති දෙවා යාමා, සන්ති දෙවා තුසිතා",
+  "reason": "The Pāli writes the recollection of the deities out (the seven classes and those beyond, and the sentence on faith); the Sinhala gives the first class, “...” and the last clause. Written out in the words of an-11 20:1 (copied by script), -පෙ- kept where the Pāli has it. Also “...” for න දොසපරියුට්ඨිතං … න මොහපරියුට්ඨිතං and නික්ඛන්තං මුත්තං වුට්ඨිතං ගෙධම්හා, written out in the words of 26:15.",
+  "unsure": false
+ },
+ {
+  "pi": 28,
+  "ei": 5,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "රාගයෙන් නැගිටුණේ නොවේ... එසමයෙහි ඔහුගේ සිත කෙළින් සිටියේම වේ. ... ගිජුකමින්",
+    "රාගයෙන් නැගිටුණේ නොවේ. කෝපයෙන් නැගිටුණේ නොවේ. මෝහයෙන් නැගිටුනේ නොවේ. එසමයෙහි ඔහුගේ සිත කෙළින් සිටියේම වේ. ගිජුකමින්"
+   ]
+  ],
+  "pali": "න දොසපරියුට්ඨිතං චිත්තං හොති, න මොහපරියුට්ඨිතං චිත්තං හොති",
+  "reason": "The Pāli writes the sentence out; the Sinhala gives “...” for න දොසපරියුට්ඨිතං … න මොහපරියුට්ඨිතං. Written out in the words of 26:13, the same sentence in the sutta before (copied by script); the stray second “...” taken out.",
+  "unsure": false
+ },
+ {
+  "pi": 28,
+  "ei": 6,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ... ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. ... ගිජුකමින්",
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ. ද්වේෂයෙන් මැඩ පැවැත්වූයේ නොවේ. මෝහයෙන් මැඩ පැවැත්වූයේ නොවේ. ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. ගිජුකමින්"
+   ]
+  ],
+  "pali": "න දොසපරියුට්ඨිතං චිත්තං හොති, න මොහපරියුට්ඨිතං චිත්තං හොති",
+  "reason": "The Pāli writes the sentence out; the Sinhala gives “...” for න දොසපරියුට්ඨිතං … න මොහපරියුට්ඨිතං. Written out in the words of 26:15, the same sentence in the sutta before (copied by script); the stray second “...” taken out.",
+  "unsure": false
+ },
+ {
+  "pi": 29,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ... ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. ... ගිජුකමින්",
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ. ද්වේෂයෙන් මැඩ පැවැත්වූයේ නොවේ. මෝහයෙන් මැඩ පැවැත්වූයේ නොවේ. ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. ගිජුකමින්"
+   ]
+  ],
+  "pali": "න දොසපරියුට්ඨිතං චිත්තං හොති, න මොහපරියුට්ඨිතං චිත්තං හොති",
+  "reason": "The Pāli writes the sentence out; the Sinhala gives “...” for න දොසපරියුට්ඨිතං … න මොහපරියුට්ඨිතං. Written out in the words of 26:15, the same sentence in the sutta before (copied by script); the stray second “...” taken out.",
+  "unsure": false
+ },
+ {
+  "pi": 29,
+  "ei": 2,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "තමාගේ ත්‍යාග ගුණය සිහි කරයි...",
+    "තමාගේ ත්‍යාග ගුණය සිහි කරයි: 'මට ඒකාන්තයෙන් ලාභය. මා විසින් ඒකාන්තයෙන් මනාකොට ලබන ලදී... බෙදාදීමෙහි ඇළුනේය' යි."
+   ],
+   [
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ... ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. ... ගිජුකමින්",
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ. ද්වේෂයෙන් මැඩ පැවැත්වූයේ නොවේ. මෝහයෙන් මැඩ පැවැත්වූයේ නොවේ. ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. ගිජුකමින්"
+   ]
+  ],
+  "pali": "“ලාභා වත මෙ, සුලද්ධං වත මෙ -පෙ- යාචයොගො දානසංවිභාග රතො”ති",
+  "reason": "The words of the recollection (ලාභා වත මෙ … දානසංවිභාගරතො) are not translated (“… සිහි කරයි...”); put in the words of 27:2 (copied by script). Also “...” for න දොසපරියුට්ඨිතං … න මොහපරියුට්ඨිතං, written out in the words of 26:15.",
+  "unsure": false
+ },
+ {
+  "pi": 29,
+  "ei": 3,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "දේවතාවුන් සිහි කරයි... ඇවැත්නි, යම් කාලයක ආර්‍ය්‍ය ශ්‍රාවකතෙම දේවතාවුන් සිහි කරයිද",
+    "දේවතාවුන් සිහි කරයි: 'චාතුර් මහා රාජිකවූ දෙවියෝ ඇත්තාහ -පෙ- ඉන් මත්තෙහිවූ දෙවියෝ ඇත්තාහ. යම් බඳුවූ ශ්‍රද්‍ධාවකින් යුක්තවූ ඒ දෙවියෝ මෙයින් චුතවූවාහු එහි උපන්නාහුද, මටද එබඳු ශ්‍රද්‍ධාවක් ඇත. යම්බඳු සීලයකින් -පෙ- ශ්‍රුතයකින් -පෙ- ත්‍යාගයකින් -පෙ- ප්‍රඥාවකින් යුක්තවූ ඒ දෙවියෝ මෙයින් චුතවූවාහු එහි උපන්නාහුද, මටද එබඳු ප්‍රඥාවක් ඇත' යි. ඇවැත්නි, යම් කාලයක ආර්‍ය්‍ය ශ්‍රාවකතෙම තමාගේද, ඒ දෙවියන්ගේද, ශ්‍රද්‍ධාවද, සීලයද, ඇසීමද, ත්‍යාගයද, ප්‍රඥාවද සිහිකරයිද"
+   ],
+   [
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ... ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. ... ගිජුකමින්",
+    "රාගයෙන් මැඩ පැවැත්වූයේ නොවේ. ද්වේෂයෙන් මැඩ පැවැත්වූයේ නොවේ. මෝහයෙන් මැඩ පැවැත්වූයේ නොවේ. ඒ කාලයේ ඔහුගේ සිත ඇද නැති බවට ගියේ වේ. ගිජුකමින්"
+   ]
+  ],
+  "pali": "අත්තනො ච තාසඤ්ච දෙවතානං සද්ධඤ්ච සීලඤ්ච සුතඤ්ච චාගඤ්ච පඤ්ඤඤ්ච අනුස්සරති",
+  "reason": "The words of the recollection (සන්ති දෙවා චාතුම්මහාරාජිකා … මය්හම්පි තථාරූපා පඤ්ඤා සංවිජ්ජති) are not translated (“… සිහි කරයි...”), and “recollects his own and those deities’ faith, virtue, learning, generosity and wisdom” is “recollects the deities”. Put in the words of an-11 20:1 and of 27:3 (copied by script), -පෙ- kept where the Pāli has it. Also “...” for න දොසපරියුට්ඨිතං … න මොහපරියුට්ඨිතං, written out in the words of 26:15.",
+  "unsure": false
+ },
+ {
+  "pi": 51,
+  "ei": 0,
+  "kind": "list-item-missing",
+  "edits": [
+   [
+    "සාමණේර නමක් හෝ (පැමිණ)",
+    "සාමණේර නමක් හෝ සහධාර්මිකයෙක් (එක්ව මහණදම් පුරන්නෙක්) හෝ (පැමිණ)"
+   ]
+  ],
+  "pali": "ආරාමිකො වා සමණුද්දෙසො වා සහධම්මිකො වා",
+  "reason": "The third of the three who may disturb the monk, සහධම්මිකො වා (a fellow in the Dhamma), is not translated; added after the novice.",
+  "unsure": false
+ },
+ {
+  "pi": 54,
+  "ei": 12,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "භාග්‍යවතුන් වහන්සේ විසින් වෙනස්වූ ධර්මයක් කෙසේ කෙසේ නම් දේශනාකරණ ලද්දේද",
+    "භාග්‍යවතුන් වහන්සේ විසින් දේශනා කරණ ලද මේ ධර්මය කෙසේ කෙසේ නම් දත යුතුද"
+   ]
+  ],
+  "pali": "භගවතා ධම්මො දෙසිතො අඤ්ඤෙය්යො",
+  "reason": "භගවතා ධම්මො දෙසිතො අඤ්ඤෙය්යො (how is this Dhamma taught by the Blessed One to be understood) is “how was a different Dhamma taught by the Blessed One” (අඤ්ඤෙය්යො read as “different”). Made “… දේශනා කරණ ලද මේ ධර්මය කෙසේ කෙසේ නම් දත යුතුද”, the words of the same question in an-10-2 40:6 (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 55,
+  "ei": 0,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "භාග්‍යවතුන් වහන්සේ විසින් වෙනස්වූ ධර්මයක් කෙසේ කෙසේ නම් දේශනාකරණ ලද්දේද",
+    "භාග්‍යවතුන් වහන්සේ විසින් දේශනා කරණ ලද මේ ධර්මය කෙසේ කෙසේ නම් දත යුතුද"
+   ]
+  ],
+  "pali": "භගවතා ධම්මො දෙසිතො අඤ්ඤෙය්යො",
+  "reason": "භගවතා ධම්මො දෙසිතො අඤ්ඤෙය්යො (how is this Dhamma taught by the Blessed One to be understood) is “how was a different Dhamma taught by the Blessed One” (අඤ්ඤෙය්යො read as “different”). Made “… දේශනා කරණ ලද මේ ධර්මය කෙසේ කෙසේ නම් දත යුතුද”, the words of the same question in an-10-2 40:6 (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 55,
+  "ei": 4,
+  "kind": "wrong-word",
+  "proposed": "‘ස්වාමීනි, ආනන්ද ස්ථවිරයන්වහන්ස, යම්සේ වනාහි බ්‍රහ්මචාරීද අබ්‍රහ්මචාරීද යන දෙදෙනා පරලොව සමසම ගති ඇතිවන්නාහු යයි භාග්‍යවතුන් වහන්සේ විසින් දේශනා කරණ ලද මේ ධර්මය කෙසේ කෙසේ නම් දත යුතුද? ස්වාමීනි, පුරාණ නම් වූ මාගේ පියා ග්‍රාම්‍ය ධර්මයක්වූ මෛථුන සේවනයයෙන් බොහෝ ඈත්වූ බඹසර ඇත්තෙක්විය. හෙතෙම කාලක්‍රියා කළේ සකෘදාගාමී කෙනෙක්ව තුෂිත දිව්‍යලෝකයෙහි උපන්නේයයි භාග්‍යවතුන් වහන්සේ විසින් දේශනා කරණලදී. ස්වාමීනි, මට ප්‍රියවූ පිය පරම්පරාවෙන් පැවතෙන ගරුකටයුතු ඉසිදත්තතෙමේ ස්වකීය භාර්‍ය්‍යාවගෙන් සතුටුවූ අබ්‍රහ්මචාරීකෙනෙක් විය. හෙතෙමේද කාලක්‍රියාකළේ සකෘදාගාමීව තුෂිත දෙව්ලොව උපන්නේයයි භාග්‍යවතුන් වහන්සේ විසින් දේශනා කරණලදී. යම්සේ වනාහි බ්‍රහ්මචාරීද අබ්‍රහ්මචාරීද යන දෙදෙනා පරලොව සමසම ගති ඇතිවන්නාහු යයි භාග්‍යවතුන් වහන්සේ විසින් දේශනා කරණ ලද මේ ධර්මය කෙසේ කෙසේ නම් දත යුතුද?’",
+  "pali": "භගවතා ධම්මො දෙසිතො අඤ්ඤෙය්යො",
+  "reason": "භගවතා ධම්මො දෙසිතො අඤ්ඤෙය්යො (how is this Dhamma taught by the Blessed One to be understood) is “how was a different Dhamma taught by the Blessed One” (අඤ්ඤෙය්යො read as “different”). Made “… දේශනා කරණ ලද මේ ධර්මය කෙසේ කෙසේ නම් දත යුතුද”, the words of the same question in an-10-2 40:6 (copied by script). Both places in the entry.",
+  "unsure": false
+ },
+ {
+  "pi": 55,
+  "ei": 8,
+  "kind": "wrong-subject",
+  "edits": [
+   [
+    "සබ්‍රහ්මචාරීන් හා එකතුව වාසයෙන් සතුටු වෙයි",
+    "සබ්‍රහ්මචාරීහු ඔහු හා එකතුව වාසයෙන් සතුටු වෙත්"
+   ]
+  ],
+  "pali": "අභිනන්දන්ති සබ්රහ්මචාරී එකත්තවාසෙන",
+  "reason": "අභිනන්දන්ති සබ්රහ්මචාරී එකත්තවාසෙන (his fellows in the holy life are glad to live with him) is “he is glad to live together with his fellows in the holy life”: the subject is reversed. Made “සබ්‍රහ්මචාරීහු ඔහු හා එකතුව …”. (Outside the step’s list: read beside 56:2, the same sentence.)",
+  "unsure": false
+ },
+ {
+  "pi": 56,
+  "ei": 0,
+  "kind": "wrong-subject",
+  "edits": [
+   [
+    "සබ්‍රහ්මචාරීන් හා එකතුව විසීමෙන් සතුටු වෙයි",
+    "සබ්‍රහ්මචාරීහු ඔහු හා එකතුව විසීමෙන් සතුටු වෙත්"
+   ]
+  ],
+  "pali": "අභිනන්දන්ති සබ්රහ්මචාරී එකත්තවාසෙන",
+  "reason": "අභිනන්දන්ති සබ්රහ්මචාරී එකත්තවාසෙන (his fellows in the holy life are glad to live with him) is “he is glad to live together with his fellows in the holy life”: the subject is reversed. Made “සබ්‍රහ්මචාරීහු ඔහු හා එකතුව …”. (Outside the step’s list: read beside 56:2, the same sentence.)",
+  "unsure": false
+ },
+ {
+  "pi": 56,
+  "ei": 2,
+  "kind": "wrong-subject",
+  "edits": [
+   [
+    "සබ්‍රහ්මචාරීන් හා එකතුව විසීමෙන් සතුටුවෙයි",
+    "සබ්‍රහ්මචාරීහු ඔහු හා එකතුව විසීමෙන් සතුටුවෙත්"
+   ]
+  ],
+  "pali": "අභිනන්දන්ති සබ්රහ්මචාරී එකත්තවාසෙන",
+  "reason": "අභිනන්දන්ති සබ්රහ්මචාරී එකත්තවාසෙන (his fellows in the holy life are glad to live with him) is “he is glad to live together with his fellows in the holy life”: the subject is reversed. Made “සබ්‍රහ්මචාරීහු ඔහු හා එකතුව …”.",
+  "unsure": false
+ },
+ {
+  "pi": 59,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "සිතයි. කයින්ද උත්සාහ කෙරෙයි.",
+    "සිතයි. වචනයෙන් කියයි. කයින්ද උත්සාහ කෙරෙයි."
+   ]
+  ],
+  "pali": "මා මං ජඤ්ඤාති වාචං භාසති",
+  "reason": "Under bodily misconduct මා මං ජඤ්ඤාති වාචං භාසති (he speaks so that he may not be known) is not translated; the entry has it under verbal and mental misconduct (“වචනයෙන් කියයි”), put in in the same words.",
+  "unsure": false
+ },
+ {
+  "pi": 64,
+  "ei": 9,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "ඵලයද",
+    "එළයද"
+   ]
+  ],
+  "pali": "ඵෙග්ගුපි න පාරිපූරිං ගච්ඡති",
+  "unsure": false,
+  "reason": "ඵෙග්ගු (the sapwood) is “ඵලය” (the fruit), a misprint of “එළය”, the word text-apz has for it elsewhere (an-7-2 23:5, an-11 4:1); made “එළය”."
+ },
+ {
+  "pi": 65,
+  "ei": 1,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "ඵලයද",
+    "එළයද"
+   ]
+  ],
+  "pali": "ඵෙග්ගුපි පාරිපූරිං ගච්ඡති",
+  "unsure": false,
+  "reason": "ඵෙග්ගු (the sapwood) is “ඵලය” (the fruit), a misprint of “එළය”, the word text-apz has for it elsewhere (an-7-2 23:5, an-11 4:1); made “එළය”."
+ },
+ {
+  "pi": 66,
+  "ei": 0,
+  "kind": "list-items-missing",
+  "edits": [
+   [
+    "බහුශ්‍රුත වූ ස්ථවිරයන් වෙසෙන ආවාසයක",
+    "බහුශ්‍රුත වූ, ආගම දත්, ධර්මධර වූ, විනයධර වූ, මාතෘකා දන්නා වූ ස්ථවිරයන් වෙසෙන ආවාසයක"
+   ]
+  ],
+  "pali": "ථෙරා භික්ඛූ විහරන්ති බහුස්සුතා ආගතාගමා ධම්මධරා විනයධරා මාතිකාධරා",
+  "reason": "Of the elders’ five qualities only බහුස්සුතා is translated; ආගතාගමා ධම්මධරා විනයධරා මාතිකාධරා are left out. Put in in the words of the entry before (65:9: “ධර්මධර වූ, විනයධර වූ, මාතෘකා දන්නා වූ”), with “ආගම දත්” for ආගතාගමා as elsewhere in text-apz.",
+  "unsure": false
+ },
+ {
+  "pi": 74,
+  "ei": 4,
+  "kind": "wrong-sense",
+  "edits": [
+   [
+    "යහපත් ස්වභාව ඇති දෙසැට දෘෂ්ටි නැතිකරගැනීමටද නොලැබෙන්නේය.",
+    "දෙසැට දෘෂ්ටි නැතිකළ යහපත් ස්වභාව ඇත්තකුට පීඩා නොකරන්නේය."
+   ]
+  ],
+  "pali": "න සාධුරූපං ආසීදෙ දිට්ඨිට්ඨානප්පහායිනං",
+  "reason": "The first line (one should not attack a good person who has given up the grounds for views) is “one does not even get to give up the good-natured sixty-two views”: the prohibition න … ආසීදෙ is lost and සාධුරූපං is made to describe the views. Rewritten with the entry’s own words; “පීඩා” as 74:6 has for ආසජ්ජ.",
+  "unsure": false
+ }
+]

@@ -1,0 +1,16 @@
+[
+ {
+  "pi": 3,
+  "ei": 5,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "ඵලයද",
+    "එළයද"
+   ]
+  ],
+  "pali": "ඵෙග්ගුපි",
+  "unsure": false,
+  "reason": "ඵෙග්ගු (the sapwood) is “ඵලය” (the fruit), a misprint of “එළය”, the word text-apz has for it elsewhere (an-7-2 23:5, an-11 4:1); made “එළය”. (Outside the step’s list: found while reading an-6 64:9, the same simile.)"
+ }
+]

@@ -1582,3 +1582,69 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 1: 1,098 of 5,250 entries, all in the Aṅguttara (14 files, from `an-6`). Next run: `an-6` (134 entries;
 about 100 of them).
+
+## 2026-11-14 (run 41) — `an-6` finished
+
+Commit e4db85e (pinned). Step 1: 134 entries, each read in full against its Pāli: all of `an-6` (the file was
+finished rather than stopped at 100, the last 26 entries being short). Its batch is built
+(`batches/an-6_e4db85e.tsv` 22 rows, no unsure rows), nothing refused. `batches/an-5-4_e4db85e.tsv` was rebuilt
+(now 5 rows) and `verdicts/an-11.json` begun, for the “ඵලය” rows below.
+
+Confirmed (main files):
+- `an-6` 15:0 negation-reversed (Nakulamātā): in the second list “වෙන්වූ” stands before the wrong item, “වෙන්වූ
+  සැනසීම ඇත්තාවූ … සැක ඇත්තාවූ” (comfort gone … having doubt) for අස්සාසප්පත්තා … විගතකථංකථා; the word moved
+  back, as in the first list of the same entry.
+- `an-6` 27:0, 27:1, 27:2, 27:3, 28:5, 28:6, 29:0, 29:2, 29:3 clause-missing (the six recollections, the Buddha's
+  sutta and Mahākaccāna's): the Pāli writes “his mind is not obsessed by lust, by hatred, by delusion; it is
+  straight, gone out from greed” out in every item; the Sinhala gives “...” for hatred and delusion (in 27:0–27:3
+  also for නික්ඛන්තං මුත්තං වුට්ඨිතං ගෙධම්හා). Written out in the words of 26:13 and 26:15, where the same
+  sentences stand in full (copied by script). In 27:3 the deities' recollection, which the Pāli writes out (the
+  seven classes, those beyond, the sentence on faith), is “the first class ... I too have such wisdom”; in 29:2 and
+  29:3 the words of the recollection are not translated at all (“… සිහි කරයි...”), and in 29:3 “his own and those
+  deities' faith, virtue, learning, generosity and wisdom” is “the deities”. Filled from an-11 20:1, 27:2 and 27:3
+  (copied by script), with -පෙ- where the Pāli has it. These nine are of the same kind as the “...” rows of runs
+  33, 34 and 40; the owner may drop them together if he wants.
+- `an-6` 51:0 list-item-missing (Nāgita): සහධම්මිකො වා, the third of those who may disturb the monk, is not
+  translated; added as “සහධාර්මිකයෙක් (එක්ව මහණදම් පුරන්නෙක්) හෝ”, newly written.
+- `an-6` 54:12, 55:0, 55:4 wrong-word (Migasālā): භගවතා ධම්මො දෙසිතො අඤ්ඤෙය්යො is “how was a different Dhamma
+  taught by the Blessed One” (අඤ්ඤෙය්යො read as “different”); made “… දේශනා කරණ ලද මේ ධර්මය කෙසේ කෙසේ නම් දත
+  යුතුද”, the words text-apz has for the same question in an-10-2 40:6 (copied by script). 55:4 has it twice
+  (a whole proposed text, both replaced by script).
+- `an-6` 56:2 wrong-subject, with 55:8 and 56:0 (outside the step's list, the same sentence in the two entries
+  before): අභිනන්දන්ති සබ්රහ්මචාරී එකත්තවාසෙන (his fellows in the holy life are glad to live with him) is “he is
+  glad to live with his fellows”; made “සබ්‍රහ්මචාරීහු ඔහු හා එකතුව …”. The owner may drop the two outside rows
+  if he wants only the step's entries.
+- `an-6` 59:0 clause-missing (the debt): under bodily misconduct මා මං ජඤ්ඤාති වාචං භාසති is not translated; the
+  entry has “වචනයෙන් කියයි” under verbal and mental misconduct; put in.
+- `an-6` 64:9, 65:1 wrong-word (the tree simile): ඵෙග්ගු, the sapwood, is “ඵලය” (the fruit), a misprint of
+  “එළය”, which text-apz has elsewhere (an-7-2 23:5, an-11 4:1). The same misprint stands in three entries
+  outside the step's list (word for word de Zoysa, so no step would read them): `an-5-4` 20:4, 20:6 (added to
+  that file's verdicts, batch rebuilt) and `an-11` 3:5 (put in `verdicts/an-11.json` now; the run that reads
+  `an-11` keeps it).
+- `an-6` 66:0 list-items-missing (Sāriputta's praise of Ānanda): of the elders' five qualities only බහුස්සුතා is
+  translated; ආගතාගමා ධම්මධරා විනයධරා මාතිකාධරා put in, in the words of 65:9 and “ආගම දත්”.
+- `an-6` 74:4 wrong-sense (verse 57): න සාධුරූපං ආසීදෙ දිට්ඨිට්ඨානප්පහායිනං is “one does not even get to give
+  up the good-natured sixty-two views”; rewritten as “one should not harm a good person who has given up the
+  sixty-two views”, with the entry's own words.
+
+Unsure: none.
+
+Left alone:
+- `an-6` 30:4, 48:7: නිසීදි is “සිටියේය”; 30:5 has no word for දස්සනාය; 31:3, 33:1 address “මහණෙනි” where the
+  Pāli has භික්ඛු: loose, no rows.
+- `an-6` 15:0, 15:4: පතිගාධප්පත්තා has no word and අපරප්පච්චයා is “උසස් ගුණ විශේෂ”; 63:10, 64:1: වුසිතවා has
+  no word; 65:9: ආගතාගමා has no word (one of five; in 66:0, where four of the five are missing, it is a row);
+  66:0: one of the three verbs of (5) has no word. Single words, left as the rules say.
+- `an-6` 54:12: a second question, “කෙසේ නම් … සමසම ගති ඇත්තෝ වන්නාහුද”, restates the first: no row beyond the
+  wrong word. 55:4: පෙත්තෙය්යො is “මට ප්‍රියවූ පිය පරම්පරාවෙන් පැවතෙන” (the other reading, පෙත්තාපියො): no row.
+- `an-6` 55:6, 57:5: the sentence on Migasālā is rendered freely; 47:5: මාහං … අද්දසං වා is “I have not seen”:
+  loose, nothing missing.
+- `an-6` 27:4, 34:1, 35:5: “අනුස්සතිට්ඨාන” kept as a term, as BJT's Sinhala has it.
+- The stray “...” in 26:15 (cov 1.0, outside the list) after “ඇද නැති බවට ගියේ වේ.”, where nothing is left out.
+- Entries that write out what the Pāli abbreviates (26:12, 26:14, 56:6, 63:1), “...” or -පෙ- where the Pāli has
+  -පෙ- (25:11, 33:3, 49:8, 50:0, 67:7, 68:5–68:8), and the uddāna entries (23:6, 74:10).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 964 of 5,250 entries, all in the Aṅguttara (13 files, from `an-6-2`). Next run: `an-6-2` (169
+entries; about 100 of them).
