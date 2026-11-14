@@ -1,0 +1,122 @@
+[
+ {
+  "pi": 13,
+  "ei": 2,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "21. “ඉක්බිත්තෙන් වනාහි",
+    "21. “මා විසින් මෙසේ අසන ලදී. එක් කලෙක භාග්‍යවතුන් වහන්සේ සැවැත්නුවර සමීපයෙහි වූ, අනේපිඬු සිටාණන් විසින් කරවන ලද ජේතවනාරාමයෙහි වැඩ වසන සේක. ඉක්බිත්තෙන් වනාහි"
+   ]
+  ],
+  "pali": "එවං මෙ සුතං : එකං සමයං භගවා **සාවත්ථියං** විහරති, **ජෙතවනෙ** අනාථපිණ්ඩිකස්ස ආරාමෙ.",
+  "reason": "The opening එවං මෙ සුතං … ජෙතවනෙ අනාථපිණ්ඩිකස්ස ආරාමෙ is not translated (the entry begins at අථ ඛො): added in the words text-apz has for it in the same file (§25).",
+  "unsure": false
+ },
+ {
+  "pi": 13,
+  "ei": 4,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "සද්‍ධාවිමුත්ත පුද්ගලයාය. ඇවැත්නි, මේ පුද්ගලයන් තුන්දෙනා අතුරෙන්",
+    "සද්‍ධාවිමුත්ත පුද්ගලයාය. ඇවැත්නි, ලෝකයෙහි මේ පුද්ගලයෝ තුන්දෙන ඇත්තාහු, විද්‍යමාන වන්නාහු වෙත්. ඇවැත්නි, මේ පුද්ගලයන් තුන්දෙනා අතුරෙන්"
+   ]
+  ],
+  "pali": "ඉමෙ ඛො ආවුසො තයො පුග්ගලා සන්තො සංවිජ්ජමානා ලොකස්මිං.",
+  "reason": "The sentence ඉමෙ ඛො ආවුසො තයො පුග්ගලා සන්තො සංවිජ්ජමානා ලොකස්මිං is not translated here; the entries beside it (13:5–14:0) have it: added in their words.",
+  "unsure": false
+ },
+ {
+  "pi": 15,
+  "ei": 8,
+  "kind": "negation",
+  "edits": [
+   [
+    "තථාගතයන් දැකීමට ලබන්නේම නොලබන්නේ හෝ,",
+    "තථාගතයන් දැකීමට ලබන්නේම, නොලබන්නේ නොව,"
+   ],
+   [
+    "ධර්‍ම විනය ඇසීමට ලබන්නේම නොලබන්නේ හෝ",
+    "ධර්‍ම විනය ඇසීමට ලබන්නේම, නොලබන්නේ නොව,"
+   ]
+  ],
+  "pali": "ලභන්තො’ව තථාගතප්පවෙදිතං ධම්මවිනයං සවණාය, නො අලභන්තො",
+  "reason": "ලභන්තො’ව … නො අලභන්තො (only when he gets to see the Tathāgata and to hear the Dhamma, not when he does not) is given as “ලබන්නේම නොලබන්නේ හෝ” (whether he gets it or not), which is the second person's case (15:7): written “ලබන්නේම, නොලබන්නේ නොව”.",
+  "unsure": false
+ },
+ {
+  "pi": 15,
+  "ei": 9,
+  "kind": "negation",
+  "edits": [
+   [
+    "තථාගතයන් දැකීමට ලබන්නේම නොලබන්නේ හෝ,",
+    "තථාගතයන් දැකීමට ලබන්නේම, නොලබන්නේ නොව,"
+   ],
+   [
+    "ධර්‍ම විනය ඇසීමට ලබන්නේම නොලබන්නේ හෝ",
+    "ධර්‍ම විනය ඇසීමට ලබන්නේම, නොලබන්නේ නොව,"
+   ]
+  ],
+  "pali": "ලභන්තො’ව තථාගතප්පවෙදිතං ධම්මවිනයං සවණාය, නො අලභන්තො",
+  "reason": "ලභන්තො’ව … නො අලභන්තො (only when he gets to see the Tathāgata and to hear the Dhamma, not when he does not) is given as “ලබන්නේම නොලබන්නේ හෝ” (whether he gets it or not), which is the second person's case (15:7): written “ලබන්නේම, නොලබන්නේ නොව”.",
+  "unsure": false
+ },
+ {
+  "pi": 33,
+  "ei": 2,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "ගුණාඞ්ගයකින් යුක්තවූ",
+    "ගුණාඞ්ග අටකින් යුක්තවූ"
+   ]
+  ],
+  "pali": "අට්ඨඞ්ගසුසමාගතං",
+  "reason": "අට්ඨඞ්ගසුසමාගතං (the uposatha of eight factors) is given as “ගුණාඞ්ගයකින් යුක්තවූ” (with a factor), without the number eight; the same verse stands four times on this page (33:2, 33:4, 33:7, 33:10).",
+  "unsure": false
+ },
+ {
+  "pi": 33,
+  "ei": 4,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "ගුණාඞ්ගයකින් යුක්තවූ",
+    "ගුණාඞ්ග අටකින් යුක්තවූ"
+   ]
+  ],
+  "pali": "අට්ඨඞ්ගසුසමාගතං",
+  "reason": "අට්ඨඞ්ගසුසමාගතං (the uposatha of eight factors) is given as “ගුණාඞ්ගයකින් යුක්තවූ” (with a factor), without the number eight; the same verse stands four times on this page (33:2, 33:4, 33:7, 33:10).",
+  "unsure": false
+ },
+ {
+  "pi": 33,
+  "ei": 7,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "ගුණාඞ්ගයකින් යුක්තවූ",
+    "ගුණාඞ්ග අටකින් යුක්තවූ"
+   ]
+  ],
+  "pali": "අට්ඨඞ්ගසුසමාගතං",
+  "reason": "අට්ඨඞ්ගසුසමාගතං (the uposatha of eight factors) is given as “ගුණාඞ්ගයකින් යුක්තවූ” (with a factor), without the number eight; the same verse stands four times on this page (33:2, 33:4, 33:7, 33:10).",
+  "unsure": false
+ },
+ {
+  "pi": 33,
+  "ei": 10,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "ගුණාඞ්ගයකින් යුක්තවූ",
+    "ගුණාඞ්ග අටකින් යුක්තවූ"
+   ]
+  ],
+  "pali": "අට්ඨඞ්ගසුසමාගතං",
+  "reason": "අට්ඨඞ්ගසුසමාගතං (the uposatha of eight factors) is given as “ගුණාඞ්ගයකින් යුක්තවූ” (with a factor), without the number eight; the same verse stands four times on this page (33:2, 33:4, 33:7, 33:10).",
+  "unsure": false
+ }
+]

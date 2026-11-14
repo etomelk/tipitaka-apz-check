@@ -1370,3 +1370,58 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 1,618 of 5,250 entries, all in the Aṅguttara (28 files, from `an-1`). Next run: `an-1`.
+
+## 2026-11-14 (run 36) — the Aṅguttara begun: `an-1`, `an-2`, `an-3`, `an-3-2` finished
+
+Commit e4db85e (pinned). Step 1: 114 entries, each read in full against its Pāli: all 44 of `an-1`, all 15 of
+`an-2`, all 20 of `an-3`, all 35 of `an-3-2`. The four files are finished and their batches built
+(`batches/an-1_e4db85e.tsv` 3 rows, `an-2` no rows, `an-3` 8 rows, `an-3-2` 8 rows; no unsure rows), nothing refused.
+
+Confirmed (main files):
+- `an-1` 19:1 and 19:8 pali-left-in (1. 10. 34-42., 1. 11. 2-10.): in the last four items the Pāli words අනාචිණ්ණ,
+  ආචිණ්ණ, අපඤ්ඤත්ත, පඤ්ඤත්ත stand untranslated (“අනාචිණ්ණ දේ ආචිණ්ණ යැයි පවසත් ද”) and තථාගතෙන is not there.
+  Translated as text-apz has the same items in `an-10` (“පුරුදු කරණ ලද්ද”, “පනවන ලද්ද”), in the form the entry
+  gives the items before them.
+- `an-1` 37:5 clause-missing (1. 16. 4. 16-18.): the Pāli entry opens with the Jambudīpa simile written out; the
+  Sinhala begins at “එපරිද්දෙන්ම”. Added in the words of the peyyāla's first sutta (page 35). In the same entry
+  තිරච්ඡානයොනියා පච්චාජායන්ති, පෙත්තිවිසයෙ පච්චාජායන්ති are left in Pāli: as 37:7.
+- `an-3` 13:2 clause-missing (§21, Saviṭṭha): the opening එවං මෙ සුතං … ජෙතවනෙ අනාථපිණ්ඩිකස්ස ආරාමෙ is not
+  translated: added in the words of §25 of the same file.
+- `an-3` 13:4 clause-missing: the sentence ඉමෙ ඛො ආවුසො තයො පුග්ගලා සන්තො සංවිජ්ජමානා ලොකස්මිං is not
+  translated (the entries beside it have it).
+- `an-3` 15:9 negation, and 15:8 with it (the Gilāna sutta's third person): ලභන්තො’ව … නො අලභන්තො (only when he
+  gets to see the Tathāgata and hear the Dhamma) is given as “ලබන්නේම නොලබන්නේ හෝ” (whether or not he gets it),
+  which is the second person's case. 15:8 is outside the step's list (de Zoysa's own words); it has the same
+  two phrases and is the entry 15:9 repeats, so it has a row too.
+- `an-3` 33:4 wrong-number, and 33:2, 33:7, 33:10 with it: අට්ඨඞ්ගසුසමාගතං (the uposatha of eight factors) is
+  “ගුණාඞ්ගයකින් යුක්තවූ”, without the eight; the verse stands four times on the page in the same words (three of
+  the four are outside the step's list). The owner may drop the three if he wants only the step's entries.
+- `an-3-2` 5:7 clause-missing (verse 9): වෙස්සෙ is missing from the list of births.
+- `an-3-2` 32:9 pali-left-in (§16, Sāḷha): “එවං මෙ සුතං :” at the head of the entry.
+- `an-3-2` 35:2 clause-missing: in place of the ten grounds (මා අනුස්සවෙන … මා සමණො නො ගරූති), which the Pāli
+  writes out, the Sinhala has “... [සම්පූර්ණ උපදෙස] ...”, a placeholder. Written out in the words of 33:0.
+- `an-3-2` 33:0, 34:1 clause-added and 34:0 clause-missing (the Sāḷha sutta; outside the step's list, read because
+  35:2 quotes them): each opens with “තොප විසින් සැක ෂාංකා ඉපදවීමට සුදුසුය …”, the Kesaputti sutta's අලං හි වො
+  කඞ්ඛිතුං, which the Sāḷha sutta's Pāli does not have anywhere; taken out (as in 35:2). 34:0 also gives “-පෙ-”
+  for nine of the ten grounds the Pāli writes out, and 34:1 has two of the grounds twice.
+- `an-3-2` 34:4 pali-left-in: “අදොසො ඇත්තේද?” (the entries beside it: “අලෝභය”, “අමෝහය”): “අද්වේෂය”.
+- `an-3-2` 60:0 pali-left-in: the second sentence (ඉමානි ඛො භන්තෙ, තීණි ගන්ධජාතානි …) is left in Pāli.
+
+Unsure: none.
+
+Left alone:
+- අමොඝං (රට්ඨපිණ්ඩං භුඤ්ජති) has no word in `an-1` 39:9 and 42:9, nor in de Zoysa's own 39:7 beside them: his stock
+  sentence, one word; no row. The owner may want to ask the maintainer once, as with සො ධම්මං දෙසෙති in the DN.
+- `an-3-2` 29:9 and 31:1 (the Kesaputti sutta's “what we said” entries) repeat the three sentences on doubt from
+  28:3, which their Pāli entries do not repeat: a restatement of nearby Pāli, no row. 31:1's opening
+  (“කාලාමයෙනි, මෙසේ කාලාමයෙනි,”) and its “උපසම්පදාව වාසය කරන්නාහුය” are clumsy, not wrong.
+- Entries that write out what the Pāli abbreviates (`an-1` 32:1, 42:7, 42:9; `an-2` 49:5; `an-3-2` 9:5, 32:7,
+  78:8, 85:6), and “...” where the Pāli has -පෙ- (`an-3` 31:1).
+- One word dropped or loose: පාපං in `an-3-2` 84:4, 84:5, 85:5, 85:6 (“ස්වල්ප මාත්‍ර කර්මය”); දොමනස්සං once in 2:2;
+  අලපිතං in `an-1` 19:1; සම්මොසාය as “සම්මෝහය” in `an-1` 18:3; අප්පමාණවිහාරී as “රහත් භික්‍ෂුවක්” (the
+  commentary's reading) in `an-3-2` 84:5.
+- Pāli terms kept as names with a gloss in brackets (`an-2` 48:9, the Vinaya acts; `an-3` 36:1; `an-3-2` 18:0).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 1,504 of 5,250 entries, all in the Aṅguttara (24 files, from `an-3-3`). Next run: `an-3-3`.
