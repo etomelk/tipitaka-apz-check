@@ -1425,3 +1425,39 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 1,504 of 5,250 entries, all in the Aṅguttara (24 files, from `an-3-3`). Next run: `an-3-3`.
+
+## 2026-11-14 (run 37) — `an-3-3`, `an-4`, `an-4-2`, `an-4-3` finished
+
+Commit e4db85e (pinned). Step 1: 111 entries, each read in full against its Pāli: all 23 of `an-3-3`, all 22 of
+`an-4`, all 44 of `an-4-2`, all 22 of `an-4-3`. The four files are finished and their batches built
+(`batches/an-3-3_e4db85e.tsv` 3 rows, `an-4` 2 rows, `an-4-2` and `an-4-3` no rows; no unsure rows), nothing refused.
+
+Confirmed (main files):
+- `an-3-3` 26:14 clause-missing (the warrior simile, “far-shooter”): the Pāli writes all five aggregates out; the
+  Sinhala gives “...” for the list under විඤ්ඤාණං and leaves යා දූරෙ වා සන්තිකෙ වා out under feeling, perception
+  and formations. Written out in the words the entry has under form.
+- `an-3-3` 28:3 pali-left-in (Kesakambala): “නත්ථි කම්මං, නත්ථි කිරියං, නත්ථි විරිය”න්ති is left in Pāli;
+  translated as 28:4 has it.
+- `an-3-3` 28:5 clause-missing (outside the step's list, read beside 28:3): තෙපි භගවන්තො කම්මවාදා චෙව භවිස්සන්ති
+  කිරියවාදා ච විරියවාදා ච is not translated; added in 28:4's words. The owner may drop it if he wants only the
+  step's entries.
+- `an-4` 20:7 wrong-word (Uruvela): සමාධිසම්පන්නතරං is “ශීලයෙන් වැඩිවූ”, the word of the entry before.
+- `an-4` 36:7 pali-left-in (Vassakāra): the first sentence, අහං හි බ්රාහ්මණ, බහුජනහිතාය පටිපන්නො බහුජනසුඛාය, is
+  left in Pāli; translated in the words of 36:2.
+
+Unsure: none.
+
+Left alone:
+- `an-4` 24:10 (Kāḷaka): තමහං අබ්භඤ්ඤාසිං and තං තථාගතස්ස විදිතං are given as one clause (“තථාගතයන් විසින්
+  ප්‍රකටව දැන ගන්නා ලදී”): two near-synonymous clauses merged, no row.
+- `an-3-3` 37:11 spells the term ආගාළ්හ as “ආහාළ්හ” twice: a spelling, no row.
+- `an-4-2` 44:3 ends with a stray “භවත් ගෞතමයන් වහන්ස, ඉතා යහපති” after the sentence that already says it; `an-4`
+  36:6 and `an-4-2` 22:12 are clumsy sentences with nothing missing; `an-3-3` 28:4 gives පටිබාහති in the words of
+  28:3 (“මෙබඳු වාද ඇත්තේ”): loose, no rows.
+- Entries that write out what the Pāli abbreviates (`an-3-3` 32:10; `an-4-3` 3:2) and the “(පෙර පරිදි වේ)” entries
+  of `an-3-3` page 35, where the Pāli has -පෙ-.
+- One word loose: සොරච්චෙන as “පිරිසිදු ස්වභාවයෙන්” (`an-4-3` 12:9); සමුස්සයා as “මානයන්” (`an-4` 40:5).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 1,393 of 5,250 entries, all in the Aṅguttara (21 files, from `an-4-4`). Next run: `an-4-4`.

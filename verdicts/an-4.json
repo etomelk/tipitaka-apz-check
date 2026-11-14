@@ -1,0 +1,30 @@
+[
+ {
+  "pi": 20,
+  "ei": 7,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "මට වඩා ශීලයෙන් වැඩිවූ",
+    "මට වඩා සමාධියෙන් වැඩිවූ"
+   ]
+  ],
+  "pali": "අත්තනා සමාධිසම්පන්නතරං",
+  "reason": "සමාධිසම්පන්නතරං (more accomplished in concentration) is given as “ශීලයෙන් වැඩිවූ” (in virtue), which is the entry before; the entries after have ප්‍රඥාවෙන්, විමුක්තියෙන්.",
+  "unsure": false
+ },
+ {
+  "pi": 36,
+  "ei": 7,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "අහං හි බ්‍රාහ්මණ, බහුජනහිතාය පටිපන්නො බහුජනසුඛාය.",
+    "බ්‍රාහ්මණය, මම වනාහි බොහෝ දෙනාගේ හිත පිණිස, බොහෝ දෙනාගේ සැප පිණිස පිළිපන්නේ වෙමි."
+   ]
+  ],
+  "pali": "අහං හි බ්රාහ්මණ, බහුජනහිතාය පටිපන්නො බහුජනසුඛාය.",
+  "reason": "The first sentence is left in Pāli; translated in the words of 36:2 (the brahmin's statement of the same).",
+  "unsure": false
+ }
+]
