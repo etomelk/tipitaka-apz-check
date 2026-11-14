@@ -1215,3 +1215,43 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 1,876 of 5,250 entries (SN: 258 of 1,630 to read; next file `sn-5-4`, 29).
+
+## 2026-11-14 (run 33) — `sn-5-4` and `sn-5-7` finished
+
+Commit e4db85e (pinned). Step 1: all 29 entries of `sn-5-4` (the Indriya, Sammappadhāna and Bala saṃyuttas) and all
+61 entries of `sn-5-7` (the Iddhipāda, Anuruddha, Jhāna and Ānāpāna saṃyuttas), 90 in all, each read in full against
+its Pāli. Both files are finished: their batches are built (`batches/sn-5-4_e4db85e.tsv`, 1 row;
+`batches/sn-5-7_e4db85e.tsv`, 4 rows; no unsure rows), nothing refused.
+
+Confirmed (main file):
+- `sn-5-4` 46:2 clause-added (2780, the higher fetters, Bala saṃyutta): the Pāli entry has one aim, අභිඤ්ඤාය, in
+  both sentences; the Sinhala gives four (“විශේෂයෙන් දැනගැනීම පිණිස පිරිසිඳ දැනීම පිණිස ක්ෂය කිරීම පිණිස පහ කිරීම
+  පිණිස”). BJT's own Sinhala has only “වෙසෙසින් දැනුම පිණිස”. The other three are taken out (as `sn-5-3` 42:6 in
+  run 32).
+- `sn-5-7` 64:0, 64:1, 64:2, 65:0 clause-missing (3764, the four satipaṭṭhānas fulfilled by mindfulness of
+  breathing): in each entry the Pāli writes out the closing sentence (තස්මාතිහ භික්ඛවෙ, කායෙ කායානුපස්සී / වෙදනාසු … /
+  චිත්තෙ … / ධම්මෙසු … භික්ඛු තස්මිං සමයෙ විහරති ආතාපී සම්පජානො සතිමා විනෙය්ය ලොකෙ අභිජ්ඣාදොමනස්සං) and the Sinhala
+  gives “...” for ආතාපී … අභිජ්ඣාදොමනස්සං (“… අනුව බලමින්... වාසය කරයි.”). Written out in the words each entry
+  itself uses for the sentence before it. These four are one kind of row (the rule “the Pāli writes a passage out
+  and the Sinhala gives "..."”); the words left out stand a sentence earlier in the same entry, so the owner may
+  drop all four together if he finds them below the bar.
+
+Unsure: none.
+
+Left alone:
+- `sn-5-4` 46:2 and `sn-5-7` 62:2 write out the setting where the Pāli entry has none or abbreviates it; entries
+  that write out what the Pāli abbreviates with -පෙ- (`sn-5-4` 11:2–13:5, 34:2–34:8, 39:6, 48:7; `sn-5-7` 4:3,
+  18:2, 29:15, 61:6) and the instructions for the peyyāla runs (`sn-5-4` 36:4–37:12, 44:13, 46:10–47:20; `sn-5-7`
+  41:7, 62:4, 67:12): no row.
+- `sn-5-4` 19:5 says the verse's second line twice (a restatement); 22:0 has four of the five words අඤ්ඤාතං
+  අදිට්ඨං අවිදිතං අසච්ඡිකතං අඵස්සිතං (a synonym); 14:2 and 14:5 give කායිකං වා චෙතසිකං වා with “ද … ද” and අසාතං
+  as “අවහිරයක්”; 46:2 gives වොස්සග්ගපරිණාමිං as “නිවනට නැමුණු” (the file's stock wording); `sn-5-7` 64:2 gives
+  විමොචයං චිත්තං as “සිත මිදෙමින්”; 65:2–65:3 give අසල්ලීනං as “නොසැලුනාවූ”: loose wording, no row.
+- The stray “...” in `sn-5-7` 64:0–65:0 after “වාසය කරයි” and “එහෙයින්”, where nothing of the Pāli is left out,
+  stays as it is.
+- The uddāna verses (`sn-5-4` 4:5, 18:4; `sn-5-7` 7:5, 21:5, 37:7 left in Pāli, 67:15, 67:18) stay as they are.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 1,786 of 5,250 entries (SN: 168 of 1,630 to read; next file `sn-5-11`, 101, then `sn-5-12`, 67;
+the SN collection for the owner is due when those two are done).

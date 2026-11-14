@@ -1,0 +1,20 @@
+[
+ {
+  "pi": 46,
+  "ei": 2,
+  "kind": "clause-added",
+  "edits": [
+   [
+    " පිරිසිඳ දැනීම පිණිස ක්ෂය කිරීම පිණිස පහ කිරීම පිණිස",
+    ""
+   ],
+   [
+    "සංයෝජනයන්ගේ දැනගැනීම පිණිස පිරිසිඳ දැනගැනීම පිණිස ක්ෂයකිරීම පිණිස පහකිරීම පිණිස",
+    "සංයෝජනයන්ගේ විශේෂයෙන් දැනගැනීම පිණිස"
+   ]
+  ],
+  "pali": "පඤ්චන්නං උද්ධම්භාගියානං සංයොජනානං අභිඤ්ඤාය පඤ්ච බලානි භාවෙතබ්බානි",
+  "reason": "The Pāli entry has one aim, අභිඤ්ඤාය (for direct knowledge), in both sentences; the Sinhala gives four (දැනගැනීම, පිරිසිඳ දැනීම, ක්ෂය කිරීම, පහ කිරීම: අභිඤ්ඤාය පරිඤ්ඤාය පරික්ඛයාය පහානාය). BJT's own Sinhala has only “වෙසෙසින් දැනුම පිණිස”. The other three are taken out; the entry's own “විශේෂයෙන් දැනගැනීම පිණිස” is kept in both places.",
+  "unsure": false
+ }
+]
