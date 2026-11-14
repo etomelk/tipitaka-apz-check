@@ -1085,3 +1085,47 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 2,193 of 5,250 entries (SN: 575 of 1,630 to read; next file `sn-4-2`, 44).
+
+## 2026-11-14 (run 30) — `sn-4-2` and `sn-4-8` finished
+
+Commit e4db85e (pinned). Step 1: all 44 entries of `sn-4-2` (the Vedanā, Mātugāma, Jambukhādaka, Sāmaṇḍaka,
+Moggallāna and Citta saṃyuttas) and all 95 entries of `sn-4-8` (the Gāmaṇi, Asaṅkhata and Abyākata saṃyuttas; most
+of them one-line peyyāla entries), 139 in all, each read in full against its Pāli. Both files are finished: their
+batches are built (`batches/sn-4-2_e4db85e.tsv`, 0 rows; `batches/sn-4-8_e4db85e.tsv`, 7 rows; no unsure rows),
+nothing refused.
+
+Confirmed (main file):
+- `sn-4-8` 16:4 pali-left-in (Maṇicūḷaka sutta): the last three sentences are left in Pāli (“ඉක්බිති මණිචූළක ගාමණි
+  යෙන භගවා තෙනුපසඞ්කමි. … භගවන්තං එතදවොච:”); translated in the wording the file has for the same formula
+  (4:8, 19:4). In the same entry නික්ඛිත්තමණිසුවණ්ණා is missing beside අපෙතජාතරූපරජතා; added in the words of
+  16:5 and 17:0 (“ශ්‍රමණ ශාක්‍ය පුත්‍රයෝ බහා තබන ලද රන් රුවන් ඇත්තාහ.”).
+- `sn-4-8` 42:7 pali-left-in: ඉදං වුච්චති භික්ඛවෙ අසඞ්ඛතං stands in Pāli in the middle of the entry; written
+  “මහණෙනි, මේ අසංඛතයයි කියනු ලැබේ.”, as in 39:8 and 50:2.
+- `sn-4-8` 50:3 pali-left-in: the entry opens with “ඉති ඛො භික්ඛවෙ දෙසිතං වො මයා අසඞ්ඛතං...” and gives the whole
+  translation in brackets; the Pāli and the brackets are taken out.
+- `sn-4-8` 70:3, 70:4, 71:1, 71:2 negation (Khandha / Vacchagotta sutta, the questions to the Buddha and to
+  Moggallāna): the fourth alternative නෙව හොති න න හොති stands, twice in each entry, as “නොවන්නේත් නොවේ
+  නොවන්නේත් නොවේ” (න න හොති for both halves). Written “නොවෙයි, නොවන්නේත් නොවේ”, text-apz's own form for it
+  elsewhere. (These eight are the only places in text-apz with the doubled form. BJT's own Sinhala has the same
+  slip in 70:4, “නො ම නො වේ, නො ම නො වේ”, and reads rightly in 70:3.)
+
+Unsure: none.
+
+Left alone:
+- `sn-4-8` 70:3 opens with a setting the Pāli entry does not have (“මා විසින් මෙසේ අසන ලදී. … ජේතවනාරාමයෙහි වාසය
+  කරන සේක.”; the Pāli begins අථ ඛො වච්ඡගොත්තො). De Zoysa's opening, written out as in `sn-2` 18:5 (run of
+  that file): no row, as there. If the maintainer wants such added openings taken out, it is one edit in the row
+  that is already in the batch for 70:3.
+- Entries that write out what the Pāli abbreviates with -පෙ- (`sn-4-2` 14:0–16:2 the nine cessations, 21:5, 25:7,
+  26:9–27:5, 43:3, 56:3; `sn-4-8` 41:2) and the Sinhala's “...පෙ...” where the Pāli has -පෙ-: no row.
+- `sn-4-2` 21:6, 22:0 give එතං පරමං සන්තං සුඛං as “මේ අතිශයින් ශාන්ත වූ සැපය” (සන්තං taken as “peaceful”);
+  60:2, 62:3 say “හුන්” (seated) once for ඨිතං beside “සිටියේය” in the same sentence; 61:0, 61:2, 63:1 shorten
+  the quoted Buddha formula to “ශාස්තෲවරය”; `sn-4-8` 41:2 has one phrase for හිතෙසිනා අනුකම්පකෙන අනුකම්පං
+  උපාදාය; 53:2 reads අබ්භූත as “without arising”; 72:0 and its like give තථාගතො as “සත්වතෙමේ”: word choices or
+  quoted formulas, no row.
+- The uddāna verses (`sn-4-2` 22:4, 29:6, 64:19, 82:4; `sn-4-8` 41:5, 76:3, 76:6) stay as they are; 41:5 gives
+  කායසමථ as “කායගතාසති, සමථ” and 76:6 gives සඞ්ඛතං as “අසංඛත” (the saṃyuttas' names).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 2,054 of 5,250 entries (SN: 436 of 1,630 to read; next file `sn-5`, 84).

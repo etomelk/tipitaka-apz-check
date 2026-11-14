@@ -1,0 +1,124 @@
+[
+ {
+  "pi": 16,
+  "ei": 4,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "ශ්‍රමණ ශාක්‍ය පුත්‍රයෝ රන් රිදී කහවණුවලින් දුරුවූවෝයයි”",
+    "ශ්‍රමණ ශාක්‍ය පුත්‍රයෝ බහා තබන ලද රන් රුවන් ඇත්තාහ. ශ්‍රමණ ශාක්‍ය පුත්‍රයෝ රන් රිදී කහවණුවලින් දුරුවූවෝයයි”"
+   ],
+   [
+    "ඉක්බිති මණිචූළක ගාමණි යෙන භගවා තෙනුපසඞ්කමි. උපසඞ්කමිත්වා භගවන්තං අභිවාදෙත්වා එකමන්තං නිසීදි. එකමන්තං නිසින්නො ඛො මණිචූළකො ගාමණි භගවන්තං එතදවොච:",
+    "ඉක්බිති මණිචූළක ගාමණි තෙම භාග්‍යවතුන් වහන්සේ යම් තැනෙක්හිද එතැනට පැමිණියේය. පැමිණ, භාග්‍යවතුන් වහන්සේ වැඳ, එක්පසෙක හුන්නේය. එක්පසෙක හුන් මණිචූළක ගාමණි තෙම භාග්‍යවතුන් වහන්සේට මෙය සැළ කළේය:"
+   ]
+  ],
+  "pali": "නික්ඛිත්තමණිසුවණ්ණා සමණා සක්යපුත්තියා අපෙතජාතරූපරජතාති. අසක්ඛි ඛො මණිචූළකො ගාමණි තං පරිසං සඤ්ඤාපෙතුං. අථ ඛො මණිචූළකො ගාමණි යෙන භගවා තෙනුපසඞ්කමි. උපසඞ්කමිත්වා භගවන්තං අභිවාදෙත්වා එකමන්තං නිසීදි",
+  "reason": "The last three sentences are left in Pāli (“ඉක්බිති මණිචූළක ගාමණි යෙන භගවා තෙනුපසඞ්කමි … භගවන්තං එතදවොච:”); translated in the wording the file uses for the same formula (4:8, 19:4). Of the two closing phrases නික්ඛිත්තමණිසුවණ්ණා and අපෙතජාතරූපරජතා only the second is there; the first is added in the words of the next entry (16:5) and of 17:0. Nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 42,
+  "ei": 7,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "ඉදං වුච්චති භික්ඛවෙ අසඞ්ඛතං.",
+    "මහණෙනි, මේ අසංඛතයයි කියනු ලැබේ."
+   ]
+  ],
+  "pali": "ඉදං වුච්චති භික්ඛවෙ අසඞ්ඛතං",
+  "reason": "The sentence ඉදං වුච්චති භික්ඛවෙ අසඞ්ඛතං is left in Pāli in the middle of the entry; translated as the file has it in 39:8 and 50:2 (“මහණෙනි, මේ අසංඛතයයි කියනු ලැබේ.”). Nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 50,
+  "ei": 3,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "ඉති ඛො භික්ඛවෙ දෙසිතං වො මයා අසඞ්ඛතං... (",
+    ""
+   ],
+   [
+    "අනුශාසනාවයි).",
+    "අනුශාසනාවයි."
+   ]
+  ],
+  "pali": "ඉති ඛො භික්ඛවෙ දෙසිතං වො මයා අසඞ්ඛතං",
+  "reason": "The entry opens with the first words of the Pāli (“ඉති ඛො භික්ඛවෙ දෙසිතං වො මයා අසඞ්ඛතං...”) and gives its whole translation in brackets after them. The Pāli and the brackets are taken out, the translation kept; nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 70,
+  "ei": 3,
+  "kind": "negation",
+  "edits": [
+   [
+    "නොවන්නේත් නොවේ නොවන්නේත් නොවේද",
+    "නොවෙයි, නොවන්නේත් නොවේද"
+   ],
+   [
+    "නොවන්නේත් නොවේ නොවන්නේත් නොවේ’",
+    "නොවෙයි, නොවන්නේත් නොවේ’"
+   ]
+  ],
+  "pali": "නෙව හොති න න හොති තථාගතො පරම්මරණා",
+  "reason": "The fourth alternative, නෙව හොති න න හොති (neither is nor is not), stands twice as “නොවන්නේත් නොවේ නොවන්නේත් නොවේ”, which gives න න හොති for both halves and leaves out නෙව හොති. Written “නොවෙයි, නොවන්නේත් නොවේ”, the form text-apz has for it elsewhere (this file and mn-2-2); nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 70,
+  "ei": 4,
+  "kind": "negation",
+  "edits": [
+   [
+    "නොවන්නේත් නොවේ නොවන්නේත් නොවේ’යයි කියා හෝ මෙසේ ව්‍යාකරණයක් (",
+    "නොවෙයි, නොවන්නේත් නොවේ’යයි කියා හෝ මෙසේ ව්‍යාකරණයක් ("
+   ],
+   [
+    "නොවන්නේත් නොවේ නොවන්නේත් නොවේ’යයි කියා හෝ මෙසේ ව්‍යාකරණයක් න",
+    "නොවෙයි, නොවන්නේත් නොවේ’යයි කියා හෝ මෙසේ ව්‍යාකරණයක් න"
+   ]
+  ],
+  "pali": "නෙව හොති න න හොති තථාගතො පරම්මරණා",
+  "reason": "The fourth alternative, නෙව හොති න න හොති (neither is nor is not), stands twice as “නොවන්නේත් නොවේ නොවන්නේත් නොවේ”, which gives න න හොති for both halves and leaves out නෙව හොති. Written “නොවෙයි, නොවන්නේත් නොවේ”, the form text-apz has for it elsewhere (this file and mn-2-2); nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 71,
+  "ei": 1,
+  "kind": "negation",
+  "edits": [
+   [
+    "නොවන්නේත් නොවේ නොවන්නේත් නොවේද",
+    "නොවෙයි, නොවන්නේත් නොවේද"
+   ],
+   [
+    "නොවන්නේත් නොවේ නොවන්නේත් නොවේ’",
+    "නොවෙයි, නොවන්නේත් නොවේ’"
+   ]
+  ],
+  "pali": "නෙව හොති න න හොති තථාගතො පරම්මරණා",
+  "reason": "The fourth alternative, නෙව හොති න න හොති (neither is nor is not), stands twice as “නොවන්නේත් නොවේ නොවන්නේත් නොවේ”, which gives න න හොති for both halves and leaves out නෙව හොති. Written “නොවෙයි, නොවන්නේත් නොවේ”, the form text-apz has for it elsewhere (this file and mn-2-2); nothing else changed.",
+  "unsure": false
+ },
+ {
+  "pi": 71,
+  "ei": 2,
+  "kind": "negation",
+  "edits": [
+   [
+    "නොවන්නේත් නොවේ නොවන්නේත් නොවේ’යයි කියා හෝ මෙසේ ව්‍යාකරණයක් (",
+    "නොවෙයි, නොවන්නේත් නොවේ’යයි කියා හෝ මෙසේ ව්‍යාකරණයක් ("
+   ],
+   [
+    "නොවන්නේත් නොවේ නොවන්නේත් නොවේ’යයි කියා හෝ මෙසේ ව්‍යාකරණයක් න",
+    "නොවෙයි, නොවන්නේත් නොවේ’යයි කියා හෝ මෙසේ ව්‍යාකරණයක් න"
+   ]
+  ],
+  "pali": "නෙව හොති න න හොති තථාගතො පරම්මරණා",
+  "reason": "The fourth alternative, නෙව හොති න න හොති (neither is nor is not), stands twice as “නොවන්නේත් නොවේ නොවන්නේත් නොවේ”, which gives න න හොති for both halves and leaves out නෙව හොති. Written “නොවෙයි, නොවන්නේත් නොවේ”, the form text-apz has for it elsewhere (this file and mn-2-2); nothing else changed.",
+  "unsure": false
+ }
+]
