@@ -991,3 +991,37 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 2,485 of 5,250 entries (SN: 867 of 1,630 to read; next `sn-3-7` from 39:11, 73 left).
+
+## 2026-11-14 (run 27) — `sn-3-7` finished; `sn-4`, first 24 of 118
+
+Commit e4db85e (pinned). Step 1: the last 73 entries of `sn-3-7` (the Jhāna saṃyutta from 39:11 to its end, with the
+closing uddāna verses of the Khandhavagga, pages 39–53) and the first 24 of `sn-4` (the Saḷāyatana saṃyutta, pages
+8–23, to 23:2), 97 entries, each read in full against its Pāli. `sn-3-7` is finished: its batch is built
+(`batches/sn-3-7_e4db85e.tsv`, 1 row, the 36:16 of run 26; no unsure rows), nothing refused. `sn-4` is not finished
+(94 left, from 23:3), so no batch for it yet.
+
+Confirmed (main file): none in this run.
+
+Unsure: none.
+
+Left alone:
+- `sn-3-7` 44:4: BJT's Pāli entry reads නෙව සමාධිස්මිං සප්පායකාරී හොති, න සමාධිස්මිං සමාපත්තිකුසලො where the
+  sutta's second person should be “සප්පායකාරී හොති, න … සමාපත්තිකුසලො” (BJT's own Sinhala reads it so; a slip in
+  the Pāli entry). The text-apz entry follows the Pāli entry as it stands (“neither”), so it says the same as 44:5.
+  Right against the Pāli entry, so no row; the owner may want to mention it to the maintainer as a point in BJT's
+  Pāli.
+- `sn-3-7` 42:19 gives the two negated skills in the other order; 42:3, 42:12 and 43:1 write out the list
+  අග්ගො ච … පවරො ච and add the abbreviated simile where the Pāli has -පෙ-: nothing wrong, no row.
+- The model-written entries from 43:5 on keep the Jhāna saṃyutta's terms as terms (“සප්පායකාරී”, “ඨිති කුසල”,
+  “වුට්ඨාන කුසල”, “කල්ලිත කුසල”, “සාතච්චකාරී”), as BJT's Sinhala does: technical terms, not Pāli left in.
+- The uddāna verses (53:4–53:11) stay as they are; 53:8–53:10 call the vaggas “සූත්‍ර”, 53:11 keeps BJT's Pāli
+  “ගන්ධ” (for Rādha): uddāna key words, no row.
+- `sn-4` 17:2 gives ඉදං ඛො භික්ඛවෙ, සබ්බං අභිජානං … භබ්බො දුක්ඛක්ඛයාය loosely (“this is the dhamma fit for
+  ending suffering, having known the all …”): loose wording, no row.
+- `sn-4` 16:1, 16:2, 17:0 write out for flavours, tongue-consciousness and tongue-contact (and for mind) what the
+  Pāli abbreviates; 20:5–20:7 read අන්ධභූතං / අද්ධභූතං as “මඩනා ලද්දේ”, as BJT's Sinhala does; 22:2 gives
+  න පරිතස්සති as “ආශා නොකරන්නේය” (BJT's Sinhala: craving): not errors.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 2,388 of 5,250 entries (SN: 770 of 1,630 to read; next `sn-4` from 23:3, 94 left).
