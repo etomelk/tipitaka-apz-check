@@ -1,0 +1,34 @@
+[
+ {
+  "pi": 0,
+  "ei": 18,
+  "kind": "other-entry-text",
+  "edits": [
+   [
+    "මහණෙනි, කරුණු පසකින්",
+    "මහණෙනි, මේ කරුණු පසින්"
+   ],
+   [
+    " කවර පසකින්ද යත්:",
+    ""
+   ]
+  ],
+  "pali": "ඉමෙහි ඛො භික්ඛවෙ පඤ්චහි ධම්මෙහි සමන්නාගතො භික්ඛු උස්සඞ්කිත පරිසඞ්කිතො හොති පාපභික්ඛූති අපි අකුප්පධම්මොති.",
+  "reason": "The sutta's closing sentence (ඉමෙහි ඛො … පඤ්චහි ධම්මෙහි) is given as its opening: “by five things” and the question “කවර පසකින්ද යත්:”, which the Pāli entry does not have. Made the closing statement.",
+  "unsure": false
+ },
+ {
+  "pi": 26,
+  "ei": 0,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "මොහු විසින්",
+    "මා විසින්"
+   ]
+  ],
+  "pali": "තථාරූපා මෙ ධම්මා බහුස්සුතා හොන්ති",
+  "reason": "In the monk's own thought (අහං ඛොම්හි බහුස්සුතො …) මෙ, “by me”, is given as “මොහු විසින්” (by him), the wording of the entry before (25:8), which is in the third person.",
+  "unsure": false
+ }
+]

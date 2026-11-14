@@ -1,0 +1,44 @@
+[
+ {
+  "pi": 28,
+  "ei": 1,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "මේ තුන්වන යුද්‍ධභට තෙම ඇත්තේ ලෝකයෙහි විද්‍යමාන වෙත්.",
+    "මේ තුන්වන යෝධාජීවයාට බඳු උපමා ඇති පුද්ගලයෙක් ඇත්තේ භික්‍ෂූන් අතර විද්‍යමාන වේ."
+   ]
+  ],
+  "pali": "තතියො යොධාජීවූපමො පුග්ගලො සන්තො සංවිජ්ජමානො භික්ඛූසු",
+  "reason": "The closing sentence says the third warrior is found in the world; the Pāli says the third person like a warrior is found among the monks (යොධාජීවූපමො පුග්ගලො … භික්ඛූසු). Put in the words of 23:4.",
+  "unsure": false
+ },
+ {
+  "pi": 46,
+  "ei": 15,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "සේවනය කරන්නේ",
+    "වඩන්නේ"
+   ]
+  ],
+  "pali": "ආනාපානසතිං භාවෙන්තො",
+  "reason": "භාවෙන්තො (developing) is given as “සේවනය කරන්නේ”, the word of the sutta before (ආසෙවන්තො, 46:9); the three suttas differ only in this word. (Outside the step's list; read beside 46:17.)",
+  "unsure": false
+ },
+ {
+  "pi": 46,
+  "ei": 17,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "සේවනය කරන්නේ",
+    "වඩන්නේ"
+   ]
+  ],
+  "pali": "ආනාපානසතිං භාවෙන්තො",
+  "reason": "භාවෙන්තො (developing) is given as “සේවනය කරන්නේ”, the word of the sutta before (ආසෙවන්තො, 46:11); the three suttas differ only in this word.",
+  "unsure": false
+ }
+]

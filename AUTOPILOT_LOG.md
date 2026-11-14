@@ -1507,3 +1507,38 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 1,290 of 5,250 entries, all in the Aṅguttara (18 files, from `an-5-2`). Next run: `an-5-2`.
+
+## 2026-11-14 (run 39) — `an-5-2`, `an-5-3` finished
+
+Commit e4db85e (pinned). Step 1: 98 entries, each read in full against its Pāli: all 33 of `an-5-2`, all 65 of
+`an-5-3`. The two files are finished and their batches built (`batches/an-5-2_e4db85e.tsv` 3 rows,
+`an-5-3_e4db85e.tsv` 2 rows; no unsure rows), nothing refused.
+
+Confirmed (main files):
+- `an-5-2` 28:1 wrong-word (the third warrior, applied to the monk): the closing sentence says “this third warrior is
+  found in the world”; the Pāli has තතියො යොධාජීවූපමො පුග්ගලො … භික්ඛූසු (the third person like a warrior, among the
+  monks). Put in the words of 23:4.
+- `an-5-2` 46:17 wrong-word: ආනාපානසතිං භාවෙන්තො is “සේවනය කරන්නේ”, the word of the sutta before (ආසෙවන්තො,
+  46:11); the three suttas (46, 47, 48) differ only in this word. Made “වඩන්නේ”.
+- `an-5-2` 46:15 wrong-word (outside the step's list, read beside 46:17): the same word in the opening of the same
+  sutta. The owner may drop it if he wants only the step's entries.
+- `an-5-3` 0:18 other-entry-text: the sutta's closing sentence (ඉමෙහි ඛො … පඤ්චහි ධම්මෙහි) is given as its opening,
+  “by five things …” with the question “කවර පසකින්ද යත්:”, which the Pāli entry does not have. Made the closing
+  statement (two edits).
+- `an-5-3` 26:0 wrong-person: in the monk's own thought තථාරූපා මෙ ධම්මා බහුස්සුතා is “මොහු විසින්” (by him), the
+  wording of the third-person entry before; made “මා විසින්”. (The same entry keeps third-person verb endings,
+  “වේද”, “කෙරේද”, after “මම වනාහි”, and ends “… යන පසිනි”: clumsy, left as they are.)
+
+Unsure: none.
+
+Left alone:
+- `an-5-3` 9:9: භාවනීයො is “බුහුමන් කරන්නෙක්” (the unpleasant twin 9:6 has “බුහුමන් නැත්තෙක්”): one word loose.
+- `an-5-3` 16:5: දූපට්ඨාකො (hard to tend) is “උපස්ථාන කරන්ට නොහැකිවේ”: loose, no row.
+- `an-5-3` 35:7: සාධු has no word; `an-5-2` 6:2 gives පක්ඛායන්ති twice (“වැටහෙත්, පැමිණ සිටිත්”): nothing missing.
+- Entries that write out what the Pāli abbreviates (`an-5-2` 29:1, the eleven similes of sensual pleasures;
+  `an-5-3` 25:8) and “...” where the Pāli has -පෙ- (`an-5-3` 6:12, 6:14, 24:4).
+- Uddāna entries (`an-5-2` 44:6; `an-5-3` 8:7, 14:6, 19:21, 32:6): key words, as they stand.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 1,192 of 5,250 entries, all in the Aṅguttara (16 files, from `an-5-4`). Next run: `an-5-4`.
