@@ -1461,3 +1461,49 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 1,393 of 5,250 entries, all in the Aṅguttara (21 files, from `an-4-4`). Next run: `an-4-4`.
+
+## 2026-11-14 (run 38) — `an-4-4`, `an-4-5`, `an-5` finished
+
+Commit e4db85e (pinned). Step 1: 103 entries, each read in full against its Pāli: all 50 of `an-4-4`, all 37 of
+`an-4-5`, all 16 of `an-5`. The three files are finished and their batches built (`batches/an-4-4_e4db85e.tsv` 7 rows,
+`an-4-5` 1 row, `an-5` no rows; no unsure rows), nothing refused.
+
+Confirmed (main files):
+- `an-4-4` 32:1 pali-left-in (fear of death): the first Pāli sentence, ඉධ බ්රාහ්මණ එකච්චො කාමෙසු අවීතරාගො හොති …
+  අවිගතතණ්හො, stands in the text before its own translation; taken out.
+- `an-4-4` 46:1 pali-left-in: “ඉධ පන භික්ඛවෙ එකච්චො (නමුත් මහණෙනි මෙහි ඇතමෙක්)”; the Pāli taken out, the
+  translation kept.
+- `an-4-4` 47:0 pali-left-in: “තථා හි අයමායස්මා (…) ගම්භීරං අත්ථපදං (…) උදාහරණය නොකරයි...” stands before the
+  sentence that translates the same clause in full; the Pāli and the half-sentence taken out.
+- `an-4-4` 47:1 pali-left-in: “තථා හි (එසේ හෙයින්)”; the Pāli taken out.
+- `an-4-4` 49:1 clause-missing (Bhaddiya): the quoted teaching stops after the ten grounds; ඉමෙ ධම්මා අකුසලා …
+  අථ තුම්හෙ භද්දිය, පජහෙය්යාථ, which the Pāli writes out after its -පෙ-, is not translated. Added in the words of
+  48:4 (copied by script).
+- `an-4-4` 52:5 pali-left-in (Vappa): the opening sentence එකං සමයං භගවා සක්කෙසු විහරති කපිලවත්ථුස්මිං
+  නිග්රොධාරාමෙ is left in Pāli; translated as text-apz has it elsewhere in the Aṅguttara.
+- `an-4-4` 62:0 wrong-word: රජාපථො (a path of dust) is “රාජාපථයකි” (a royal road); put as text-apz has the phrase
+  elsewhere (“රාගාදී කෙලෙස් සහිත මාර්ගයෙකි”).
+- `an-4-5` 20:1 clause-added (bright kamma): after the four abstentions the Sinhala adds five items the Pāli entry
+  does not have (abstaining from drink, virtuous, of good character, living at home free of stinginess, not abusing
+  ascetics and brahmins; BJT's Sinhala has none of them); taken out.
+
+Unsure: none.
+
+Left alone:
+- `an-4-4` 61:6: ඉමං ලොකං has no word (“දෙවියන් සහිත … ප්‍රජාවද දෙවි මිනිසුන්ද … ප්‍රකාශ කරති”): two words, the
+  sense unchanged; no row.
+- `an-4-4` 36:1: නිබ්බෙධිකපඤ්ඤො is “කලකිරෙන ප්‍රඥා ඇත්තේ” (de Zoysa reads it by නිබ්බිදා; BJT: “කෙලෙස් බිඳ ලන
+  නුවණ”). A reading of the word, not an omission; no row. The owner may want to ask the maintainer.
+- `an-4-4` 60:6: උබ්බට්ටකො has no word of its own beside ආසනපටික්ඛිත්තො, and උක්කුටික carries an odd gloss
+  “(ප්‍රවීණව)”; 60:3 gives එකාහිකං as “එක් වරක්”: one word loose each, no rows.
+- Pāli terms in brackets after their Sinhala (`an-4-4` 47:0 “රළ ගැසීම (ඌමිඝාතො)”, 47:1 “(උම්මග්ගො)”,
+  “(අභිනීහාරො)”, “(පඤ්හසමුදාචාරො)”): glosses, left.
+- `an-4-4` 53:2 says the third condition twice (a restatement); 38:6 and 48:6 are clumsy with nothing missing.
+- `an-4-5` 19:11 and 20:7: කතමානි චත්තාරි? is translated at the head of the next entry (19:12) or not at all (20:7,
+  where the next entry in the step's list opens a question of its own): a question formula, no row.
+- Entries that write out what the Pāli abbreviates (`an-4-4` 11:5, 41:2, 48:6, 67:0; `an-4-5` 19:7, 20:2, 20:3,
+  34:6, 41:5).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 1,290 of 5,250 entries, all in the Aṅguttara (18 files, from `an-5-2`). Next run: `an-5-2`.

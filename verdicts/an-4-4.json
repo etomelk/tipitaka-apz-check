@@ -1,0 +1,100 @@
+[
+ {
+  "pi": 32,
+  "ei": 1,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "ඉධ බ්රාහ්මණ එකච්චො කාමෙසු අවීතරාගො හොති අවිගතඡන්දො අවිගතපෙමො අවිගතපිපාසො අවිගතපරිළාහො අවිගතතණ්හො. ",
+    ""
+   ]
+  ],
+  "pali": "ඉධ බ්රාහ්මණ එකච්චො කාමෙසු අවීතරාගො හොති අවිගතඡන්දො අවිගතපෙමො අවිගතපිපාසො අවිගතපරිළාහො අවිගතතණ්හො.",
+  "reason": "The first Pāli sentence stands in the text before its own translation; taken out.",
+  "unsure": false
+ },
+ {
+  "pi": 46,
+  "ei": 1,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "ඉධ පන භික්ඛවෙ එකච්චො (නමුත් මහණෙනි මෙහි ඇතමෙක්)",
+    "නමුත් මහණෙනි මෙහි ඇතමෙක්"
+   ]
+  ],
+  "pali": "ඉධ පන භික්ඛවෙ එකච්චො",
+  "reason": "ඉධ පන භික්ඛවෙ එකච්චො is left in Pāli with its translation in brackets; the Pāli taken out, the translation kept.",
+  "unsure": false
+ },
+ {
+  "pi": 47,
+  "ei": 0,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "තථා හි අයමායස්මා (එසේ හෙයින් මේ ආයුෂ්මත් තෙමේ) ගම්භීරං අත්ථපදං (ගැඹුරු අර්ථ පද) උදාහරණය නොකරයි... ",
+    "එසේ හෙයින් මේ ආයුෂ්මත් තෙමේ "
+   ]
+  ],
+  "pali": "තථා හි අයමායස්මා න චෙව ගම්භීරං අත්ථපදං උදාහරති",
+  "reason": "තථා හි අයමායස්මා and ගම්භීරං අත්ථපදං are left in Pāli (with glosses in brackets) before the sentence that translates the same clause in full; the Pāli and the half-sentence taken out, the full translation kept.",
+  "unsure": false
+ },
+ {
+  "pi": 47,
+  "ei": 1,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "තථා හි (එසේ හෙයින්)",
+    "එසේ හෙයින්"
+   ]
+  ],
+  "pali": "තථා හි අයමායස්මා",
+  "reason": "තථා හි is left in Pāli with its translation in brackets; the Pāli taken out, the translation kept.",
+  "unsure": false
+ },
+ {
+  "pi": 49,
+  "ei": 1,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "නොගනුව.’",
+    "නොගනුව. භද්දියෙනි, යම් කලක තොපට මේ ධර්‍මයෝ අකුශලය, මේ ධර්‍මයෝ වරදය, මේ ධර්‍මයෝ ඤාණවන්තයන් විසින් ගර්‍හා කරණ ලද්දාහ. මේ ධර්‍මයෝ සම්පූර්‍ණ කරණ ලද්දාහු, සමාදන් වන ලද්දාහු, අහිත පිණිස, දුක් පිණිස පවතිත්යයි යම් කලෙක තොප තමන්ම දන්නහු නම්, ඉක්බිති භද්දිය, තොපම අත්හරිව්.’"
+   ]
+  ],
+  "pali": "ඉමෙ ධම්මා අකුසලා ඉමෙ ධම්මා සාවජ්ජා ඉමෙ ධම්මා විඤ්ඤූගරහිතා ඉමෙ ධම්මා සමත්තා සමාදින්නා අහිතාය දුක්ඛාය සංවත්තන්ති. අථ තුම්හෙ භද්දිය, පජහෙය්යාථාති",
+  "reason": "The quoted teaching stops after the ten grounds: ඉමෙ ධම්මා අකුසලා … අථ තුම්හෙ භද්දිය, පජහෙය්යාථ, which the Pāli writes out after the -පෙ-, is not translated; added in the words of 48:4.",
+  "unsure": false
+ },
+ {
+  "pi": 52,
+  "ei": 5,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "එකං සමයං භගවා සක්කෙසු විහරති කපිලවත්ථුස්මිං නිග්රොධාරාමෙ.",
+    "එක් සමයෙක්හි භාග්‍යවතුන් වහන්සේ ශාක්‍ය ජනපදයෙහි කිඹුල්වත් නුවර නිග්‍රොධාරාමයෙහි වාසය කරණ සේක."
+   ]
+  ],
+  "pali": "එකං සමයං භගවා **සක්කෙසු** විහරති **කපිලවත්ථුස්මිං නිග්රොධාරාමෙ**.",
+  "reason": "The opening sentence is left in Pāli; translated as text-apz has it elsewhere in the Aṅguttara.",
+  "unsure": false
+ },
+ {
+  "pi": 62,
+  "ei": 0,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "රාජාපථයකි",
+    "රාගාදී කෙලෙස් සහිත මාර්ගයෙකි"
+   ]
+  ],
+  "pali": "සම්බාධො ඝරාවාසො රජාපථො",
+  "reason": "රජාපථො (a path of dust) is given as “රාජාපථයකි”, which reads as a royal road; put in the words text-apz uses for the phrase elsewhere.",
+  "unsure": false
+ }
+]

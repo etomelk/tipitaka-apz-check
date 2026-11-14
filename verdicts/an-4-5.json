@@ -1,0 +1,16 @@
+[
+ {
+  "pi": 20,
+  "ei": 1,
+  "kind": "clause-added",
+  "edits": [
+   [
+    "රහමෙර බීමෙන් වැළැකුණේද, සිල්වත්ද, යහපත් ස්වභාව ඇත්තේද, පහවූ මසුරු මලින් යුත් සිතින් ගෙයි වසයිද, ශ්‍රමණ බ්‍රාහ්මණයන්ට ආක්‍රොශ පරිභව නොකරයිද, ",
+    ""
+   ]
+  ],
+  "pali": "මුසාවාදා පටිවිරතො හොති, පිසුණාවාචා පටිවිරතො හොති",
+  "reason": "After the four abstentions the Sinhala adds five items the Pāli entry does not have (abstaining from drink, virtuous, of good character, living at home free of stinginess, not abusing ascetics and brahmins); the Pāli lists only the ten courses of action. Taken out.",
+  "unsure": false
+ }
+]
