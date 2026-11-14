@@ -1053,3 +1053,35 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 2,294 of 5,250 entries (SN: 676 of 1,630 to read; next file `sn-4-1-12`, 101).
+
+## 2026-11-14 (run 29) — `sn-4-1-12` finished
+
+Commit e4db85e (pinned). Step 1: all 101 entries of `sn-4-1-12` (the Saḷāyatana saṃyutta from the Lokakāmaguṇa vagga
+to the Āsīvisa vagga, pages 0–90), each read in full against its Pāli. `sn-4-1-12` is finished: its batch is built
+(`batches/sn-4-1-12_e4db85e.tsv`, 0 rows; no unsure rows), nothing refused.
+
+Confirmed (main file): none in this run.
+
+Unsure: none.
+
+Left alone:
+- Most of the file's entries write out for ear, nose, tongue, body and mind (and, in the peyyāla vaggas, for each
+  of the six bases or the whole closing formula) what the Pāli abbreviates with -පෙ- or “(විත්ථාරෙතබ්බං)”
+  (0:6, 10:1, 16:5, 16:7, 17:2, 17:5, 18:4, 20:1, 20:3, 25:3, 25:5, 29:6, 34:10–35:7, 39:1–41:1, 49:1, 49:7,
+  51:13–54:14, 60:7–61:2, 78:0, 80:3, 80:4, 90:4): abbreviation on one side only, no row.
+- 56:3, 56:11, 57:3, 57:7: the entry gives the closing paragraph (“එවං පස්සං … නාපරං ඉත්ථත්තායාති පජානාති”)
+  three times over, once for each of the three suttas the Pāli gives as one (207-209, 213-215, 216-218, 219-221);
+  the neighbouring 56:7 gives it once. A restatement, nothing wrong against the Pāli: no row. (These four are
+  likely to come up again in step 2 as `length-long`.)
+- BJT's Pāli entries have slips the Sinhala does not follow, rightly: 20:1 ends “යෙන මිධෙකච්චෙ සත්තා දිට්ඨෙව ධම්මෙ
+  පරිනිබ්බායන්තීති” (for නො පරිනිබ්බායන්ති), 20:3 has “තන්නිස්සිතං විඤ්ඤාණං හොති” without න, 67:1 has
+  “තං ධම්මා මනස්ස සඤ්ඤොජනං” for න ධම්මා. BJT's own Sinhala reads as the sutta requires, and so does text-apz.
+  No row; the owner may want to mention them to the maintainer as points in BJT's Pāli.
+- 56:3 and the like give නාපරං ඉත්ථත්තාය as “මෙයින් අන්‍යවූ ආත්මයක් නැතැයි” (de Zoysa's stock wording, “no
+  other existence after this”); 61:5–63:2 gloss පරිත්තා / අධිමත්තා as (අනිෂ්ට) / (ඉෂ්ට), as BJT's Sinhala does;
+  60:1 gives ගුළාගුණ්ඨිකජාතා with both of the commentary's readings: word choices, no row.
+- The uddāna verses (15:10, 35:11, 43:9, 43:11, 50:8) stay as they are.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 2,193 of 5,250 entries (SN: 575 of 1,630 to read; next file `sn-4-2`, 44).
