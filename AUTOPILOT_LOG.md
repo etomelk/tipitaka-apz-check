@@ -1313,3 +1313,60 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 1: 1,685 of 5,250 entries (SN: 67 of 1,630 to read, all in `sn-5-12`; the SN collection for the owner
 is due when that file is done, in the next run).
+
+## 2026-11-14 (run 35) — `sn-5-12` finished; the Saṃyutta's step 1 is finished
+
+Commit e4db85e (pinned). Step 1: all 67 entries of `sn-5-12` (the Sacca saṃyutta), each read in full against its
+Pāli. The file is finished: its batch is built (`batches/sn-5-12_e4db85e.tsv`, 11 rows; no unsure rows), nothing
+refused.
+
+**The Saṃyutta's batch is ready to post:** `batches/sn-step1_e4db85e.tsv` (87 rows: 38 pali-left-in,
+22 clause-missing, 9 wrong-word, 6 negation, 5 wrong-person, 4 wrong-number, 3 clause-added),
+`sn-step1_e4db85e_unsure.tsv` (no rows), issue text `batches/sn-step1_ISSUE.md`. 1,630 entries read in twenty-three
+files. Built afresh from all the Saṃyutta's verdict files against the pinned text: nothing refused.
+
+Confirmed (main file):
+- `sn-5-12` 3:2 clause-missing (3850, the Cintā sutta): the Pāli has the four positions on the Tathāgata after death
+  (හොති, න හොති, හොති ච න ච හොති, නෙව හොති න න හොති); the Sinhala has two (“වෙයි හෝ නොවෙයි කියාද” and the
+  neither-nor). Written out as four in the words text-apz has in `sn-4`. In the same entry මා … චින්තෙථ is given as
+  “නොසිතමි” (I do not think): “නොසිතව්”.
+- 11:2 clause-missing (3858): එවං ඛො ත්වං භික්ඛු, ධාරෙහි මයා චත්තාරි අරියසච්චානි දෙසිතානි is not translated; added
+  in the words of 11:1. In the same entry වදෙය්ය stands as “කියන්නෙමි” (I say): “කියන්නේ නම්”, as 11:1.
+- 11:5 and 12:2 pali-left-in (3859, 3860, Avijjā and Vijjā): the whole opening, the monk's coming and his question,
+  is left in Pāli. Translated in the words text-apz has for the same passage in the Khandha saṃyutta.
+- 12:5 wrong-word (3861): in the fourth part the Sinhala repeats the third truth (“දුක්ඛ නිරෝධාර්‍ය්‍ය සත්‍ය වේයයි”)
+  for ඉතිපිදං දුක්ඛනිරොධගාමිනී පටිපදා අරියසච්චන්ති.
+- 12:8 clause-missing (3862): the Pāli writes all four closing sentences out; the Sinhala gives “...” for the second
+  and third. The same kind of row as run 33's four and run 34's two; the issue text lists the nine of the Saṃyutta
+  so that the maintainer can skip them together.
+- 28:1 wrong-number (the Vāla sutta): සතධා භින්නස්ස වාළස්ස (BJT's Sinhala “සියක්වර පැළූ”) is given as
+  “සත්කඩක් කොට” (seven), the reading සත්තධා of the other editions, which BJT has only in its footnote. The BJT
+  Pāli decides and BJT's own Sinhala does not read seven, so it is in the main file; the issue text says he may skip
+  it. The owner may drop it if he finds an edition difference below the bar.
+- 29:0 and 29:1 clause-missing (the Andhakāra sutta): the Pāli has තෙ ජාතිසංවත්තනිකෙසු සඞ්ඛාරෙසු අභිරමන්ති … අභිරතා
+  … අභිසඞ්ඛරොන්ති (29:1: නාභිරමන්ති -පෙ- අනභිරතා -පෙ- නාභිසඞ්ඛරොන්ති) before (අන)අභිසඞ්ඛරිත්වා; the Sinhala of both
+  begins at “රැස් කොට” / “රැස් නොකොට” with no mark. Added in the words of 26:3 and 26:4 (the Pariḷāha sutta, which
+  has the passage), with -පෙ- where the Pāli has it.
+- 46:17 pali-left-in (3957): “-පෙ- යොගො කරණීයොති.” at the end; “වීර්යය කළ යුතුය”, as 45:6.
+- 50:5 pali-left-in (3977, the last sutta): දුක්ඛස්ස අරියසච්චස්ස -පෙ- … අරියසච්චස්ස. තස්මාතිහ left in Pāli. The Pāli
+  entry writes the four truths out, so they are written out.
+
+Unsure: none.
+
+Left alone:
+- Entries that write out what the Pāli abbreviates with -පෙ- (the closing sentence in most of the file; 32:6–34:8 and
+  35:3, the simile suttas; 39:3, which also writes out the setting), and entries that give “...” or -පෙ- where the
+  Pāli has -පෙ-: no row. 22:3 has three directions for the Pāli's four, of which the Pāli abbreviates two.
+- 25:2, 26:3, 26:4, 29:0, 29:1 address the one monk (භික්ඛු) as “මහණෙනි”: number of address only, as `sn-1-3` 72:0.
+- One word dropped: පාපකෙ (2:5), අරහං (14:8), උපායාස in one of 29:0's lists; 31:0 has no word for අප්පමත්තකං.
+- 18:0 gives තාලපක්කං as “තල් කොළයක්” (the other editions' තාලපත්තං; one word in a simile, not a number; BJT's
+  footnote has the reading); 20:6 gives ආචික්ඛනා once as “දැකීමක්”, once as “කීම”; 31:3 and 34:8 give සත්ත
+  මුග්ගමත්තියො / සාසපමත්තියො පාසාණසක්ඛරා as one pebble the size of seven beans or seeds; 10:4 gives the question ධාරෙථ
+  නො as a command; 18:0 has one clause twice: loose or stock wording, no row. The owner may want to tell the
+  maintainer of 18:0's තල් කොළයක් together with 28:1.
+- de Zoysa's marks “[1]” … “[5]” (36:3, 39:3) and the bracketed gloss in 15:11: no row.
+- The uddāna verses (22:6, 38:8, 40:14, 42:17, 44:5) stay as they are.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 1,618 of 5,250 entries, all in the Aṅguttara (28 files, from `an-1`). Next run: `an-1`.
