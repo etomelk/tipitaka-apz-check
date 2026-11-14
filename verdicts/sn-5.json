@@ -1,0 +1,44 @@
+[
+ {
+  "pi": 51,
+  "ei": 5,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "ඉධ භික්ඛවෙ, භික්ඛු සම්මාදිට්ඨිං භාවෙති -පෙ- සම්මාසමාධිං භාවෙති විවෙකනිස්සිතං විරාගනිස්සිතං නිරොධනිස්සිතං වොස්සග්ගපරිණාමිං. ",
+    ""
+   ]
+  ],
+  "pali": "ඉධ භික්ඛවෙ, භික්ඛු සම්මාදිට්ඨිං භාවෙති -පෙ- සම්මාසමාධිං භාවෙති විවෙකනිස්සිතං විරාගනිස්සිතං නිරොධනිස්සිතං වොස්සග්ගපරිණාමිං",
+  "reason": "The Pāli sentence “ඉධ භික්ඛවෙ, භික්ඛු සම්මාදිට්ඨිං භාවෙති … වොස්සග්ගපරිණාමිං.” is left in the middle of the entry, followed by its translation (“මහණෙනි, මේ ශාසනයෙහි මහණතෙම …”). The Pāli is removed; nothing else is changed.",
+  "unsure": false
+ },
+ {
+  "pi": 58,
+  "ei": 1,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "පඤ්ඤා උපාදානස්කන්ධයෝයයි",
+    "පඤ්ච උපාදානස්කන්ධයෝයයි"
+   ]
+  ],
+  "pali": "පඤ්චුපාදානක්ඛන්ධාතිස්ස වචනීයා",
+  "reason": "පඤ්චුපාදානක්ඛන්ධා (the five aggregates of clinging) is given as “පඤ්ඤා උපාදානස්කන්ධයෝ” (පඤ්ඤා, wisdom, for පඤ්ච, five); the next sentence asks “කවර පසෙක්ද”. Written “පඤ්ච උපාදානස්කන්ධයෝ”.",
+  "unsure": false
+ },
+ {
+  "pi": 59,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    " කරවයි’ කියන්නාහු නම්",
+    " කරවයි’ භෝග සම්පත් ගෙනවුත් පවරන්නාහු නම්"
+   ]
+  ],
+  "pali": "භොගෙහි අභිහට්ඨුං පවාරෙය්යුං",
+  "reason": "භොගෙහි අභිහට්ඨුං පවාරෙය්යුං (they would invite him, bringing wealth) is given only as “කියන්නාහු නම්” (if they said); the offer of wealth is left out. Written “භෝග සම්පත් ගෙනවුත් පවරන්නාහු නම්” (text-apz has “පවරන්නාහු” for the same passage in sn-4-1-12 86:4 and sn-5-7 36:0).",
+  "unsure": false
+ }
+]

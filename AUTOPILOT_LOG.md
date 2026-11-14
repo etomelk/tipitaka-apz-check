@@ -1129,3 +1129,38 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 2,054 of 5,250 entries (SN: 436 of 1,630 to read; next file `sn-5`, 84).
+
+## 2026-11-14 (run 31) — `sn-5` finished
+
+Commit e4db85e (pinned). Step 1: all 84 entries of `sn-5` (the Magga saṃyutta, from the Bhadda sutta to the
+Uddhambhāgiya suttas; most of them peyyāla entries of one frame), each read in full against its Pāli. The file is
+finished: its batch is built (`batches/sn-5_e4db85e.tsv`, 3 rows; no unsure rows), nothing refused.
+
+Confirmed (main file):
+- `sn-5` 51:5 pali-left-in (175-178, the Kāsi cloth): the Pāli sentence “ඉධ භික්ඛවෙ, භික්ඛු සම්මාදිට්ඨිං භාවෙති
+  -පෙ- … වොස්සග්ගපරිණාමිං.” stands in the middle of the entry, before its translation; taken out.
+- `sn-5` 58:1 wrong-word (Āgantuka sutta): පඤ්චුපාදානක්ඛන්ධා is given as “පඤ්ඤා උපාදානස්කන්ධයෝ” (පඤ්ඤා for
+  පඤ්ච; the only place in text-apz); written “පඤ්ච උපාදානස්කන්ධයෝ”.
+- `sn-5` 59:0 clause-missing (Nadī sutta): භොගෙහි අභිහට්ඨුං පවාරෙය්යුං is given only as “කියන්නාහු නම්”;
+  written “භෝග සම්පත් ගෙනවුත් පවරන්නාහු නම්” (text-apz has “පවරන්නාහු” for the same passage in `sn-4-1-12` 86:4
+  and `sn-5-7` 36:0).
+
+Unsure: none.
+
+Left alone:
+- `sn-5` 58:1 gives විජ්ජා ච විමුත්ති ච as “මාර්ගඵල නිර්වාණ යන මොහුය” (de Zoysa's gloss; `mn-3-5` 35:2 has
+  “අර්හත් මාර්ගඥාන විද්‍යාවද ඵලවිමුක්තියද” for the same words). A gloss in the commentary's direction with
+  “නිර්වාණ” beside it, not a plain mistranslation: left out of the row (which changes only පඤ්ඤා). The owner may
+  want to mention it to the maintainer.
+- 22:3 gives අද්ධානපරිඤ්ඤත්ථං as “සංසාර ගමන නැති කිරීම පිණිස”; 55:2 gives නො පච්චාවමති as “නොරඳයි”; 54:2's
+  last sentence has “වැඩීමට නැගීමට මහත් බවට” for මහන්තත්තං වෙපුල්ලත්තං; 37:8 and the like give
+  වොස්සග්ගපරිණාමිං as “නිවනට නැමුනු”, as BJT's Sinhala does; 59:0 has “අසල්වැස්සෝ” for අමච්චා: word choices,
+  no row.
+- Entries that write out what the Pāli abbreviates with -පෙ- (17:3, 18:4, 18:12, 48:5, 65:3, 65:7, 66:2 the eight
+  factors; 22:3–23:2 the second question) and the glosses in brackets on the ogha, yoga and gantha (65:3–66:2; BJT's
+  Sinhala has them for the ogha): no row.
+- The uddāna verses (23:9, 31:5, 35:5, 64:12) stay as they are.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 1,970 of 5,250 entries (SN: 352 of 1,630 to read; next file `sn-5-2`, 61).
