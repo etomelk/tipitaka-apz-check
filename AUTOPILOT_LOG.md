@@ -1803,3 +1803,50 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 1: 603 of 5,250 entries, all in the Aṅguttara (10 files; `an-7-2` has 32 left). Next run: the rest of
 `an-7-2` and its batch, then `an-8`.
+
+## 2026-11-15 (run 45) — the rest of `an-7-2` (32 entries) and `an-8` (82 entries)
+
+Commit e4db85e (pinned). Step 1: the last 32 entries of `an-7-2` (57:12 – 61:10) and all 82 entries of `an-8`,
+each read in full against its Pāli. Both files are finished and their batches built, nothing refused:
+`batches/an-7-2_e4db85e.tsv` 14 rows and 1 unsure (all from run 44; this run added none),
+`batches/an-8_e4db85e.tsv` 6 rows, no unsure.
+
+Confirmed (main file):
+- `an-8` 35:4 wrong-person (the eight unruly men, (2)): මඤ්ඤසි, the second person inside the monk's retort
+  (ත්වම්පි නාම භණිතබ්බං මඤ්ඤසීති), is given as “… තොපටද කිය යුතුය’ යි හඟිමි” (“I think”), outside the quotation;
+  made “තොපත් කියයුත්තෙකු කොට හඟින්නෙහිදැ’ යි”, the words text-apz has for the same Pāli sentence in `an-3-2`
+  (copied by script, with the entry's own “තොප”).
+- `an-8` 36:3 pali-left-in (the same sutta, (6)): “මේ ඡට්ඨො පුරුෂ දෝෂයයි”; made “සවැනි”, the word of 35:0.
+- `an-8` 37:1 wrong-subject (the same sutta, the closing sentence): ඉමෙ … අට්ඨ පුරිසඛලුඞ්කා අට්ඨ ච පුරිසදොසා is
+  given as the closing sentence of 35:2 on the horses (“අශ්ව ඛලුඞ්කයෝ … අශ්ව දෝශ”); the two words made “පුරුෂ”.
+- `an-8` 47:2 clause-missing (the Uposatha sutta): යෙ දිස්වා දිස්වා අසුරා මහාසමුද්දෙ අභිරමන්ති has no translation;
+  put in in the words of 48:0 and 47:3 (copied by script).
+- `an-8` 70:4 pali-left-in (Anuruddha, the eight thoughts of a great man): the statements keep the Pāli words with
+  Sinhala endings (“සන්තුට්ඨයාටය”, “පවිවිත්තයාටය”, “සඞ්ගණිකාරාමයාට”, “මුට්ඨස්සතියාට”, “දුප්පඤ්ඤයාට”,
+  “නිප්පපඤ්චාරාමයාටය” …); each is given in the words in which the same statement stands in the exposition (71:1,
+  71:2, 72:0–72:4), copied by script. “අල්පෙච්ඡ”, “මහිච්ඡ” and “කුසීත” are left, as the exposition keeps them.
+  For the owner: this row goes further than the single stray words of earlier rows (thirteen words in one entry);
+  the reading is not in doubt, so it is in the main file, but he may want to look at it before posting. The last
+  statement follows 72:4, where de Zoysa gives පපඤ්ච as “ප්‍රමාදය”.
+- `an-8` 97:2 clause-missing (Bojjhā): ඉදං ඛො පනෙතං බොජ්ඣෙ, සන්ධාය භාසිතං has no translation; put in in the
+  words of 97:0 (“මේ සඳහා කියන ලදී.”, copied by script).
+
+Unsure: none.
+
+Left alone:
+- `an-7-2` 57:12 – 61:10: the abbreviated peyyāla entries, one to one with the Pāli. 58:17 has “ඵොට්ඨබ්බ
+  විචාරයෙහි” where the entries beside it say “ස්පර්‍ශ” (BJT's Sinhala keeps “පොට්ඨබ්බ” in 58:9): a term, no row.
+  60:16 – 61:10 have no “මහණෙනි” for භික්ඛවෙ: a single word of address.
+- `an-8` 66:4: ඛණං has no word of its own (“ශාසන බ්‍රහ්මචරියාව ප්‍රතිවේධ කළාහුය”): a single word, in apposition.
+  66:5: ගුත්තො … විහරෙ in the plural: loose.
+- `an-8` 107:4, 108:2: පරස්ස ලොකො ආරද්ධො හොති as “පරලොව සතුටුවන්නී වෙයි”; 16:1: සතිසම්පජඤ්ඤ as “සම්‍යක් සිහිය”;
+  38:6, 38:8: කුසලො සහිතාසහිතස්ස as “සාහිත්‍යය අසාහිත්‍යය දන්නෙ”: loose, nothing missing or reversed.
+- `an-8` 33:1 (“ආහුණෙය්‍ය වෙයි”), 34:3 – 37:1 (“ඛලුඞ්ක”), 39:4, 39:9 (“ආකල්ප”, “වනභංග”): terms that BJT's Sinhala
+  keeps too. 57:1: the one layman addressed as “ඇවැත්නි” (number of address only).
+- Entries that write out what the Pāli abbreviates (10:1, 10:3, 10:5, 29:2, 61:1, 64:0, 64:1) and the uddāna (73:7).
+
+No run overlapped this one (the branch had no new commit when the run ended). The add_repo tool was again not
+available; the repository was already cloned with push access.
+
+Left in step 1: 489 of 5,250 entries, all in the Aṅguttara (8 files, from `an-8-2`). Next run: `an-8-2`
+(87 entries).
