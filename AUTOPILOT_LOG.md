@@ -1850,3 +1850,47 @@ available; the repository was already cloned with push access.
 
 Left in step 1: 489 of 5,250 entries, all in the Aṅguttara (8 files, from `an-8-2`). Next run: `an-8-2`
 (87 entries).
+
+## 2026-11-15 (run 46) — `an-8-2` (87 entries)
+
+Commit e4db85e (pinned). Step 1: all 87 entries of `an-8-2`, each read in full against its Pāli. The file is
+finished and its batch built, nothing refused: `batches/an-8-2_e4db85e.tsv` 10 rows, no unsure.
+
+Confirmed (main file):
+- `an-8-2` 9:3, 13:5 phrase-missing (Dīghajāṇu and Ujjaya, the simile of the pond): මහතො තළාකස්ස චත්තාරි චෙව
+  ආයමුඛානි චත්තාරි ච අපායමුඛානි is given with the four inlets only (“පිරෙන දොරටු සතරක් වෙත්ද”); “පිටවෙන දොරටු
+  සතරක් ඇද්ද” put in, the words of 14:0 for the same sentence (copied by script). 10:0 and 14:0 have both.
+- `an-8-2` 35:1 clause-missing (Māra's reminder): the Pāli abbreviates the nuns and the laymen (-පෙ-) and writes
+  the passage out for the laywomen; the Sinhala gives “...” for it there (and only the first five words with the
+  nuns). Written out for the laywomen in the words of 34:2, the same passage for the monks (copied by script).
+  The rule of `CLAUDE.md` (“an-7-2 page 33”).
+- `an-8-2` 42:5 pali-left-in (the second mindfulness-of-death sutta): the Buddha's question stands in Pāli
+  (“යථා කථං පන ත්වං භික්ඛු භාවෙසි මරණසතින්ති?”); given in the words of 42:1 and 42:3. In the same row the monk's
+  thought gets its last clause, බහුං වත මෙ කතං අස්ස, which has no translation; put in in the words of 44:0, where
+  the Buddha repeats the thought (“මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය”, copied by script).
+- `an-8-2` 42:1, 42:3, 42:7, 43:1, 43:3, 43:5 clause-missing (the same sutta, the other monks' answers; outside
+  the step-1 list, read beside 42:5): each lacks බහුං වත මෙ කතං අස්ස in the same way; the same words put in.
+  41:7 (the first monk) has the clause, and so has the sutta's twin in `an-6` (20:2 – 21:2). The owner may drop
+  the six if he wants only the step's entries.
+
+Unsure: none.
+
+Left alone:
+- `an-8-2` 34:2 (outside the list, read for the wording of 35:1): විභජිස්සන්ති has no word in the list of verbs;
+  a single list word, and it is carried into the text copied for 35:1 as it stands. 35:1 also has no word for the
+  address පාපිම.
+- `an-8-2` 46:1: නත්ථි මෙ පාපකා අකුසලා ධම්මා අප්පහීනා යෙ මෙ අස්සු … අන්තරායාය is broken into two clumsy
+  sentences (“… නැත. එය ප්‍රහීන නොවූයේ නම් …”); the sense is there. 13:1: භොගෙ ඛාදති as “විනාශ කරති”; 14:0:
+  කල්යාණසම්පවඞ්කො as “කල්‍යාණ මිත්‍රයන් ඇසුරු කිරීමය”; 60:6, 61:0: උපනිසසම්පන්න as “ළංවීම් සහිත”: loose, nothing
+  missing or reversed.
+- `an-8-2` 22:3: සුතානං has no word (“ධර්මයන් සිතෙහි දරන්නේ”); 41:4, 45:2: the address භික්ඛවොති is not quoted.
+  Single words.
+- `an-8-2` 16:7 – 18:5 (“ආහුනෙය්‍ය”, “පාහුනෙය්‍ය”, “දක්ඛිණෙය්‍ය”), 29:5 (“අභිභායතන”, with a gloss), 31:5
+  (“නේවසඤ්ඤානාසඤ්ඤායතනය”, “සඤ්ඤාවේදයිතනිරෝධය”): terms that BJT's Sinhala keeps too. 53:8, 54:1, 54:5 have
+  “මහණෙනි” in Sāriputta's talk where the Pāli entry itself reads භික්ඛවෙ.
+- Entries that write out what the Pāli abbreviates (53:3, 61:0, 61:4) and the uddāna entries (18:8, 59:6).
+
+No run overlapped this one (the branch had no new commit when the run ended). The add_repo tool was again not
+available; the repository was already cloned with push access.
+
+Left in step 1: 402 of 5,250 entries, all in the Aṅguttara (7 files, from `an-9`). Next run: `an-9` (101 entries).

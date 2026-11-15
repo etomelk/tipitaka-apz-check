@@ -1,0 +1,146 @@
+[
+ {
+  "pi": 9,
+  "ei": 3,
+  "kind": "phrase-missing",
+  "edits": [
+   [
+    "පිරෙන දොරටු සතරක් වෙත්ද, පුරුෂයෙක් තෙම එහි",
+    "පිරෙන දොරටු සතරක් වෙත්ද, පිටවෙන දොරටු සතරක් ඇද්ද, පුරුෂයෙක් තෙම එහි"
+   ]
+  ],
+  "pali": "චත්තාරි ච අපායමුඛානි",
+  "reason": "මහතො තළාකස්ස චත්තාරි චෙව ආයමුඛානි චත්තාරි ච අපායමුඛානි: the pond has four inlets and four outlets; the Sinhala names only the four inlets (“පිරෙන දොරටු සතරක් වෙත්ද”). “පිටවෙන දොරටු සතරක් ඇද්ද” put in, the words of 14:0 for the same sentence (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 13,
+  "ei": 5,
+  "kind": "phrase-missing",
+  "edits": [
+   [
+    "පිරෙන දොරටු සතරක් වෙත්ද, ඒ විලට",
+    "පිරෙන දොරටු සතරක් වෙත්ද, පිටවෙන දොරටු සතරක් ඇද්ද, ඒ විලට"
+   ]
+  ],
+  "pali": "චත්තාරි ච අපායමුඛානි",
+  "reason": "මහතො තළාකස්ස චත්තාරි චෙව ආයමුඛානි චත්තාරි ච අපායමුඛානි: the pond has four inlets and four outlets; the Sinhala names only the four inlets (“පිරෙන දොරටු සතරක් වෙත්ද”). “පිටවෙන දොරටු සතරක් ඇද්ද” put in, the words of 14:0 for the same sentence (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 35,
+  "ei": 1,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "මාගේ උපාසිකා ශ්‍රාවිකාවෝ... ඒ තාක්",
+    "මාගේ උපාසිකා ශ්‍රාවිකාවෝ ව්‍යක්තවූ, විනීතවූ, විශාරදවු, පැමිණි නිවණ ඇති, බහුශ්‍රුතවූ, ධර්‍මධරවූ, ධර්‍මානුධර්‍ම ප්‍රතිපන්නවූ, නිවැරදි පිළිවෙත් ඇති, ධර්‍මය අනුව හැසිරෙන්නෝ නොවෙද්ද, ස්වකීය ආචාර්‍ය්‍යවරයාගෙන් ඉගෙන ප්‍රකාශ නොකරද්ද, දේශනා නොකරද්ද, නොපනවද්ද, නොතබද්ද, විවෘත නොකරද්ද, ප්‍රකට නොකරද්ද, උපන් අන්‍ය වාද ධර්මානුගතව මනාසේ නිග්‍රහ කොට ප්‍රාතිහාර්‍ය්‍ය සහිතව ධර්මය දේශනා නොකරද්ද, ඒ තාක්"
+   ]
+  ],
+  "pali": "යාව මෙ උපාසිකා න සාවිකා භවිස්සන්ති වියත්තා විනීතා විසාරදා පත්තයොගක්ඛෙමා බහුස්සුතා ධම්මධරා",
+  "reason": "The Pāli abbreviates the nuns and the laymen (-පෙ-) and writes the passage out for the laywomen (වියත්තා … සප්පටිහාරියං ධම්මං දෙසිස්සන්ති); the Sinhala gives “...” for it there (and only the first five words with the nuns). Written out for the laywomen in the words of 34:2 (the same passage for the monks), copied by script.",
+  "unsure": false
+ },
+ {
+  "pi": 42,
+  "ei": 1,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "කරන්නෙමි. ස්වාමීනි, මම මෙසේ",
+    "කරන්නෙමි. මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය. ස්වාමීනි, මම මෙසේ"
+   ]
+  ],
+  "pali": "බහුං වත මෙ කතං අස්සාති",
+  "reason": "The monk's thought ends බහුං වත මෙ කතං අස්ස, which has no translation; put in in the words of 44:0, where the Buddha repeats the thought (“මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය”), copied by script. (Outside the step-1 list; read beside 42:5, which has the same omission.)",
+  "unsure": false
+ },
+ {
+  "pi": 42,
+  "ei": 3,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "කරන්නෙමි. ස්වාමීනි, මම මෙසේ",
+    "කරන්නෙමි. මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය. ස්වාමීනි, මම මෙසේ"
+   ]
+  ],
+  "pali": "බහුං වත මෙ කතං අස්සාති",
+  "reason": "The monk's thought ends බහුං වත මෙ කතං අස්ස, which has no translation; put in in the words of 44:0, where the Buddha repeats the thought (“මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය”), copied by script. (Outside the step-1 list; read beside 42:5, which has the same omission.)",
+  "unsure": false
+ },
+ {
+  "pi": 42,
+  "ei": 5,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "“යථා කථං පන ත්වං භික්ඛු භාවෙසි මරණසතින්ති?”",
+    "“භික්‍ෂුව, ඔබ කෙසේ මරණය සිහි කිරීම භාවිතා කෙරෙහිද?”"
+   ],
+   [
+    "කරන්නෙමි. ස්වාමීනි, මම මෙසේ",
+    "කරන්නෙමි. මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය. ස්වාමීනි, මම මෙසේ"
+   ]
+  ],
+  "pali": "යථා කථං පන ත්වං භික්ඛු භාවෙසි මරණසතින්ති? ඉධ මය්හං භන්තෙ, එවං හොති: අහොවතාහං තදන්තරං ජීවෙය්යං යදන්තරං එකං පිණ්ඩපාතං භුඤ්ජාමි, භගවතො සාසනං මනසිකරෙය්යං, බහුං වත මෙ කතං අස්සාති",
+  "reason": "The Buddha's question is left in Pāli (“යථා කථං පන ත්වං භික්ඛු භාවෙසි මරණසතින්ති?”); given in the words of 42:1 and 42:3 for the same question. The monk's thought also lacks බහුං වත මෙ කතං අස්ස; put in in the words of 44:0, where the Buddha repeats the thought (“මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය”), both copied by script.",
+  "unsure": false
+ },
+ {
+  "pi": 42,
+  "ei": 7,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "කරන්නෙමි. ස්වාමීනි, මම මෙසේ",
+    "කරන්නෙමි. මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය. ස්වාමීනි, මම මෙසේ"
+   ]
+  ],
+  "pali": "බහුං වත මෙ කතං අස්සාති",
+  "reason": "The monk's thought ends බහුං වත මෙ කතං අස්ස, which has no translation; put in in the words of 44:0, where the Buddha repeats the thought (“මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය”), copied by script. (Outside the step-1 list; read beside 42:5, which has the same omission.)",
+  "unsure": false
+ },
+ {
+  "pi": 43,
+  "ei": 1,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "කරන්නෙමි. ස්වාමීනි, මම මෙසේ",
+    "කරන්නෙමි. මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය. ස්වාමීනි, මම මෙසේ"
+   ]
+  ],
+  "pali": "බහුං වත මෙ කතං අස්සාති",
+  "reason": "The monk's thought ends බහුං වත මෙ කතං අස්ස, which has no translation; put in in the words of 44:0, where the Buddha repeats the thought (“මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය”), copied by script. (Outside the step-1 list; read beside 42:5, which has the same omission.)",
+  "unsure": false
+ },
+ {
+  "pi": 43,
+  "ei": 3,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "කරන්නෙමි. ස්වාමීනි, මම මෙසේ",
+    "කරන්නෙමි. මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය. ස්වාමීනි, මම මෙසේ"
+   ]
+  ],
+  "pali": "බහුං වත මෙ කතං අස්සාති",
+  "reason": "The monk's thought ends බහුං වත මෙ කතං අස්ස, which has no translation; put in in the words of 44:0, where the Buddha repeats the thought (“මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය”), copied by script. (Outside the step-1 list; read beside 42:5, which has the same omission.)",
+  "unsure": false
+ },
+ {
+  "pi": 43,
+  "ei": 5,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "කරන්නෙමි. ස්වාමීනි, මම මෙසේ",
+    "කරන්නෙමි. මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය. ස්වාමීනි, මම මෙසේ"
+   ]
+  ],
+  "pali": "බහුං වත මෙ කතං අස්සාති",
+  "reason": "The monk's thought ends බහුං වත මෙ කතං අස්ස, which has no translation; put in in the words of 44:0, where the Buddha repeats the thought (“මා විසින් කටයුතු දේ ඒකාන්තයෙන් බොහෝ වන්නේය”), copied by script. (Outside the step-1 list; read beside 42:5, which has the same omission.)",
+  "unsure": false
+ }
+]
