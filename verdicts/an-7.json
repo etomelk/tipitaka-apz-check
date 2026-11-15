@@ -12,5 +12,33 @@
   "pali": "න පාපිකානං ඉච්ඡානං වසං ගතා",
   "reason": "A double negative: “පවිටු අදහස්වල වසඟයට නොගියාහු නොවෙද්ද” (are not ones who have not come under the sway of evil wishes) for න පාපිකානං ඉච්ඡානං වසං ගතා; the first නො taken out.",
   "unsure": false
+ },
+ {
+  "pi": 49,
+  "ei": 10,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "“ස්වාමීනි, තවත්",
+    "“ස්වාමීනි, මෙයම මාගේ ආශ්චර්‍ය්‍යවූ පුදුමවූ ධර්‍මය නොවේ. තවත්"
+   ]
+  ],
+  "pali": "න ඛො මෙ භන්තෙ, එසොව අච්ඡරියො අබ්භුතො ධම්මො",
+  "reason": "The first sentence of the Pāli (this is not my only wonderful quality) has no translation; put in in the words of the same sentence in (4) of this sutta, 49:4.",
+  "unsure": false
+ },
+ {
+  "pi": 50,
+  "ei": 1,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "(7) “මාගේ අනිකුදු",
+    "(7) “ස්වාමීනි, මෙයම මාගේ ආශ්චර්‍ය්‍ය පුදුම ධර්‍මය නොවේ. මාගේ අනිකුදු"
+   ]
+  ],
+  "pali": "න ඛො මෙ භන්තෙ එසොව",
+  "reason": "The first sentence of the Pāli (භන්තෙ, this is not my only wonderful quality) has no translation; put in in the words of the same sentence in (5) of this sutta, 49:7.",
+  "unsure": false
  }
 ]

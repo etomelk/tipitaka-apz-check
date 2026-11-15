@@ -1717,3 +1717,39 @@ Left alone:
 
 Left in step 1: 705 of 5,250 entries, all in the Aṅguttara (11 files, from `an-7-2`). Next run: `an-7-2`
 (134 entries; about 100 of them).
+
+## 2026-11-15 (run 43) — `an-7` read a second time; 2 rows added
+
+This scheduled run started while run 42 was still going on with `an-7` (it pushed its `an-7` commit while this run
+was reading), so the same 90 entries were read twice, independently, at e4db85e (pinned). The two readings agree
+on 18:9 (the reversed negation) and on everything left alone; run 42's commit is kept as it is, and this run adds
+two rows to `verdicts/an-7.json`. The batch is rebuilt: `batches/an-7_e4db85e.tsv` 3 rows, no unsure rows,
+nothing refused. No new entries were read beyond `an-7`, so that a run still open would not be doubled again.
+
+Confirmed (main file), added by this run:
+- `an-7` 49:10 clause-missing (Nandamātā, (6)): the sentence න ඛො මෙ භන්තෙ, එසොව අච්ඡරියො අබ්භුතො ධම්මො has no
+  translation (only “තවත් … ධර්මයක් ඇත”); put in in the words of the same sentence in (4), 49:4 (copied by script).
+- `an-7` 50:1 clause-missing (the same sutta, (7)): the same sentence, with its භන්තෙ, has no translation; put in in
+  the words of (5), 49:7 (copied by script). In (3), (4) and (5) of the sutta (49:1, 49:4, 49:7) the sentence is
+  translated, so these two are omissions, not a way of rendering; by the rule of 2026-11-13 a sure omission goes
+  in the main file even when the sense can be pieced together (“තවත්”, “අනිකුදු”).
+
+Unsure: none.
+
+Left alone, beyond run 42's list:
+- `an-7` 1:4: “කවර සතකින්ද යත්?” at the head of the entry repeats the question of the entry before: a restatement.
+- `an-7` 19:1, 19:8, 19:15 (සන්දිස්සන්ති), 18:2 (යාවකීවඤ්ච as “යම් හෙයකින්”), 34:7 (සයං පඨමං සමාරම්භති … හන්තුං as
+  “… මරත්වායි, තෙමේ පළමුකොට මරයි”), 41:4 (විධාසමතික්කන්තං as “මානය ඉක්මවූ”): loose, nothing missing or reversed.
+- `an-7` 48:3: සන්තප්පෙසි has no word beside සම්පවාරෙසි: a single word.
+- `an-7` 36:14: the paragraph number “49.” is not bold as in the Pāli: form, no row.
+- A doubt for the owner on 8:6, 10:3, 10:4, 10:5, 10:11: the epithets “ආහුණෙය්‍ය … අඤ්ජලිකරණීය” stand as terms with
+  their meaning in brackets after them (BJT's Sinhala keeps them as terms in 8:6). Both readings left them; if the
+  maintainer counts them as Pāli left in with its translation beside it, they are five rows a script can make.
+
+For the owner: two runs overlapped today (run 42 was extended in a conversation while the hourly task fired).
+Nothing was lost, but the shared lock the Nikāya sites' autopilots use is not in this repository.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 705 of 5,250 entries, all in the Aṅguttara (11 files, from `an-7-2`). Next run: `an-7-2` (134
+entries; about 100 of them).
