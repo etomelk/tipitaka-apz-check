@@ -1690,3 +1690,30 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 1: 795 of 5,250 entries, all in the Aṅguttara (12 files, from `an-7`). Next run: `an-7` (90 entries).
+
+## 2026-11-15 (run 42, continued) — `an-7` finished
+
+The owner wrote during the run that it could go on a little longer, so `an-7` was read in the same session.
+Commit e4db85e (pinned). Step 1: 90 entries, each read in full against its Pāli: all of `an-7`. Its batch is built
+(`batches/an-7_e4db85e.tsv` 1 row, no unsure rows), nothing refused.
+
+Confirmed (main file):
+- `an-7` 18:9 negation-reversed (the conditions of non-decline): න පාපිකානං ඉච්ඡානං වසං ගතා is “පවිටු අදහස්වල
+  වසඟයට නොගියාහු නොවෙද්ද”, a double negative (are not ones who have not come under the sway of evil wishes);
+  the first “නො” taken out.
+
+Unsure: none.
+
+Left alone:
+- `an-7` 18:9: “පාප සම්පවංක” kept as a term, the third of three synonyms; 8:6, 10:3, 10:4, 10:5, 10:11:
+  “ආහුණෙය්‍ය … අඤ්ජලිකරණීය” kept as terms with their glosses; 7:5: the names of the seven anusayas. No rows.
+- `an-7` 30:2, 31:10: නිද්දසො is “කල් පිරුණු” and, in 31:10, also “නිර්දෝෂී” and “කල් පත්” in the one entry:
+  word choice, no row. 39:8: පතිලීයති is “නොඇලෙයි” where the other entries have “සැඟවෙයි”; 41:4: සම්පජානො
+  is “මනා සිහි ඇත්තේ”: loose.
+- `an-7` 48:3: the second sentence is tangled (“… අත බහා තබන ලද සැරියුත් මහ තෙරුන් වහන්සේ එකත්පසෙක හුන් නන්‍ද
+  මව් වූ උපාසිකාවට …”) and has no finite verb for එකමන්තං නිසීදි, but nothing of the Pāli is missing: no row.
+- `an-7` 20:4, 20:7: වොයොගං / න වොයොගං read as BJT's Pāli has it.
+- Entries that write out what the Pāli abbreviates (7:11, 10:4, 10:5, 10:11) and the uddāna entries (31:13, 50:8).
+
+Left in step 1: 705 of 5,250 entries, all in the Aṅguttara (11 files, from `an-7-2`). Next run: `an-7-2`
+(134 entries; about 100 of them).

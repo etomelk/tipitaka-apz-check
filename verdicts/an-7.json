@@ -1,0 +1,16 @@
+[
+ {
+  "pi": 18,
+  "ei": 9,
+  "kind": "negation-reversed",
+  "edits": [
+   [
+    "වසඟයට නොගියාහු නොවෙද්ද",
+    "වසඟයට ගියාහු නොවෙද්ද"
+   ]
+  ],
+  "pali": "න පාපිකානං ඉච්ඡානං වසං ගතා",
+  "reason": "A double negative: “පවිටු අදහස්වල වසඟයට නොගියාහු නොවෙද්ද” (are not ones who have not come under the sway of evil wishes) for න පාපිකානං ඉච්ඡානං වසං ගතා; the first නො taken out.",
+  "unsure": false
+ }
+]
