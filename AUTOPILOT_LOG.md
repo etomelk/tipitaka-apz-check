@@ -1894,3 +1894,56 @@ No run overlapped this one (the branch had no new commit when the run ended). Th
 available; the repository was already cloned with push access.
 
 Left in step 1: 402 of 5,250 entries, all in the Aṅguttara (7 files, from `an-9`). Next run: `an-9` (101 entries).
+
+## 2026-11-15 (run 47) — `an-9` (101 entries)
+
+Commit e4db85e (pinned). Step 1: all 101 entries of `an-9`, each read in full against its Pāli. The file is
+finished and its batch built, nothing refused: `batches/an-9_e4db85e.tsv` 14 rows, no unsure. Six of the rows are
+entries of the step's list; eight are their twins outside it (de Zoysa 0.96–1.0), read beside them because they
+have the same error. The owner may drop the eight if he wants only the step's entries.
+
+Confirmed (main file):
+- `an-9` 8:3 negation (Nandaka, the simile of the four-footed animal): the thought by which the factor is to be
+  fulfilled is an aspiration with every limb affirmed (කින්තාහං සද්ධො ච අස්සං සීලවා ච ලාභී ච අජ්ඣත්තං
+  චෙතොසමථස්ස ලාභී ච අධිපඤ්ඤාධම්මවිපස්සනායාති); the Sinhala makes it a statement and denies the last limb (“නමුත්
+  අධිපඤ්ඤා ධම්ම විපස්සනාවගේ ලැබීම ඇත්තෙක් නොවීමි”). The last limb is put as a wish (“… ඇත්තෙක්ද වන්නෙම් නම්
+  යෙහෙක”, the form text-apz has for the same formula in `an-10` 9:3); nothing else is changed. The same in 8:0
+  (the same text, the Buddha's own words) and 7:4 (the limb before, “… ලැබීම ඇත්තෙක් නොවූයෙමි”), both outside
+  the list. 7:3 and 8:2 give the first step as a question (“… වූයෙම්දැ”) and are left.
+- `an-9` 9:5 phrase-missing (the fifth benefit of hearing the Dhamma): සෙඛා අප්පත්තමානසා අනුත්තරං යොගක්ඛෙමං
+  පත්ථයමානා විහරන්ති is given as “සේඛ (රහත් බවට නොපැමිණි) භික්‍ෂූහු වෙත්ද”; the aspiring has no translation.
+  Put in in the words of `sn-5-7` 55:6 (“නිරුත්තරවූ නිර්වාණය ප්‍රාර්ථනා කරමින් වාසය කරත්ද”, copied by script).
+- `an-9` 20:2 clause-missing (Sāriputta's lion's roar, the seventh simile): the Pāli entry opens with යස්ස නූන
+  භන්තෙ කායෙ කායගතාසති අනුපට්ඨිතා අස්ස, සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය,
+  written out before each of the nine similes; the Sinhala has it with the first (19:0) and the ninth (21:0) only
+  and leaves it out with no mark. Put in in the words of 21:0 (copied by script). The same in 19:1, 19:2, 19:3,
+  20:0, 20:1, 20:3 (similes 2–6 and 8), all outside the list. The precedent is `mn-2-4` 81:2.
+- `an-9` 34:5 pali-left-in (Velāma): the opening stands as “එකං සමයං භගවා...”; the Pāli entry writes the sentence
+  out. Translated in the words of 6:7 (copied by script). The stray “20.” after it is left.
+- `an-9` 69:0 clause-missing (the war of the gods and the asuras): after the third battle පරාජිතා ව භික්ඛවෙ,
+  අසුරා භීතා අසුරපුරඤ්ඤෙව පවිසිංසු has no translation; the Sinhala goes straight to the thought of the asuras
+  who had gone to the city. Put in (“මහණෙනි, පැරදුනාවූද අසුරයෝ බියපත්ව අසුර පුරයටම පිවිසියාහුය.”, newly
+  written in the entry's own words for the first two defeats).
+- `an-9` 81:2 phrase-missing (Tapussa, the cessation of perception and feeling): ‘එතං සන්ත’න්ති පස්සතො has no
+  translation; the eight parallel entries (74:1 – 80:2) all have it. Put in in the words of 80:2 (copied by script).
+
+Unsure: none.
+
+Left alone:
+- `an-9` 69:0: දක්ඛිණෙන මුඛා is put with the gods who pursue, not with the asuras who flee (“දෙවියෝ
+  දක්‍ෂිණවාරයෙන් ලුහුබැඳ ගියාහුය”), and “තියාවූ” stands for “ගියාවූ”: loose, and a misprint. 33:4: “පෙර
+  මනුෂ්‍යවූ පැවිද්දෝ” for පුබ්බෙ මනුස්සභූතානං පබ්බජිතා (word order), with no word for අගාරානි: a single word.
+- `an-9` 39:1: the Sinhala ends “වර්ණසම්පන්න ද වෙයි” where BJT's Pāli entry ends න වණ්ණසම්පන්නො ච; the body of
+  the entry (ඉදමස්ස වණ්ණස්මිං වදාමි) and BJT's own Sinhala read as the Sinhala does. No row.
+- `an-9` 28:4: නාමරූපාරම්මණා as “සිතට රූප ගොදුරුවීම හේතුකොට ගෙනය (නාම රූපාරම්මණා)”: loose, the term in
+  brackets as a gloss. 2:7: නිසීදි as “සිටියේය”. 5:3: සික්ඛති as “වාසය කරයිද”. Loose, nothing missing or reversed.
+- `an-9` 60:4 names three of the minds (with lust, without lust, freed) where the Pāli abbreviates between the
+  first and the last; 100:8 writes out suttas 2–9 of the Iddhipāda vagga where the Pāli entry is only the
+  instruction to expand them (with “කවර සතරක්ද යත්?” twice in each: a restatement). Entries that write out what
+  the Pāli abbreviates (17:8, 51:6, 52:0, 52:1, 59:1) and the uddāna entries (17:11, 36:5, 82:5, 89:20, 101:10).
+
+No run overlapped this one (the branch had no new commit when the run ended). The add_repo tool was again not
+available; the repository was already cloned with push access.
+
+Left in step 1: 301 of 5,250 entries, all in the Aṅguttara (6 files, from `an-10`). Next run: `an-10` (52
+entries) and, if the number allows, a start on `an-10-2` (133).

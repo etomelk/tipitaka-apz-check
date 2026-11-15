@@ -1,0 +1,198 @@
+[
+ {
+  "pi": 7,
+  "ei": 4,
+  "kind": "negation",
+  "edits": [
+   [
+    "ලැබීම ඇත්තෙක් නොවූයෙමි’",
+    "ලැබීම ඇත්තෙක්ද වන්නෙම් නම් යෙහෙක’"
+   ]
+  ],
+  "pali": "ලාභී ච අජ්ඣත්තං චෙතොසමථස්සාති",
+  "reason": "Nandaka: the thought by which the factor is to be fulfilled is an aspiration with every limb affirmed (කින්තාහං … අස්සං … ලාභී ච …: “how may I be … and one who gains …”); the Sinhala makes it a statement and denies the last limb (“… ලැබීම ඇත්තෙක් නොවූයෙමි”). The last limb is put as a wish (“… ඇත්තෙක්ද වන්නෙම් නම් යෙහෙක”, the form text-apz has for the same formula in an-10 9:3); nothing else is changed. (Outside the step-1 list, de Zoysa 1.0; read beside 8:3, which has the same reversal.)",
+  "unsure": false
+ },
+ {
+  "pi": 8,
+  "ei": 0,
+  "kind": "negation",
+  "edits": [
+   [
+    "නමුත් අධිපඤ්ඤා ධම්ම විපස්සනාවගේ ලැබීම ඇත්තෙක් නොවීමි.",
+    "අධිපඤ්ඤා ධම්ම විපස්සනාවගේ ලැබීම ඇත්තෙක්ද වන්නෙම් නම් යෙහෙක."
+   ]
+  ],
+  "pali": "ලාභී ච අධිපඤ්ඤාධම්ම විපස්සනායාති",
+  "reason": "Nandaka: the thought by which the factor is to be fulfilled is an aspiration with every limb affirmed (කින්තාහං … අස්සං … ලාභී ච …: “how may I be … and one who gains …”); the Sinhala makes it a statement and denies the last limb (“… ලැබීම ඇත්තෙක් නොවීමි”). The last limb is put as a wish (“… ඇත්තෙක්ද වන්නෙම් නම් යෙහෙක”, the form text-apz has for the same formula in an-10 9:3); nothing else is changed. (Outside the step-1 list, de Zoysa 1.0; the same text as 8:3.)",
+  "unsure": false
+ },
+ {
+  "pi": 8,
+  "ei": 3,
+  "kind": "negation",
+  "edits": [
+   [
+    "නමුත් අධිපඤ්ඤා ධම්ම විපස්සනාවගේ ලැබීම ඇත්තෙක් නොවීමි.",
+    "අධිපඤ්ඤා ධම්ම විපස්සනාවගේ ලැබීම ඇත්තෙක්ද වන්නෙම් නම් යෙහෙක."
+   ]
+  ],
+  "pali": "ලාභී ච අධිපඤ්ඤාධම්මවිපස්සනායාති",
+  "reason": "Nandaka: the thought by which the factor is to be fulfilled is an aspiration with every limb affirmed (කින්තාහං … අස්සං … ලාභී ච …: “how may I be … and one who gains …”); the Sinhala makes it a statement and denies the last limb (“… ලැබීම ඇත්තෙක් නොවීමි”). The last limb is put as a wish (“… ඇත්තෙක්ද වන්නෙම් නම් යෙහෙක”, the form text-apz has for the same formula in an-10 9:3); nothing else is changed.",
+  "unsure": false
+ },
+ {
+  "pi": 9,
+  "ei": 5,
+  "kind": "phrase-missing",
+  "edits": [
+   [
+    "වෙත්ද, ඔවුහු නොපැමිණි",
+    "නිරුත්තරවූ නිර්වාණය ප්‍රාර්ථනා කරමින් වාසය කරත්ද, ඔවුහු නොපැමිණි"
+   ]
+  ],
+  "pali": "අනුත්තරං යොගක්ඛෙමං පත්ථයමානා විහරන්ති",
+  "reason": "යෙ තෙ භික්ඛු සෙඛා අප්පත්තමානසා අනුත්තරං යොගක්ඛෙමං පත්ථයමානා විහරන්ති: the trainees are given only as “සේඛ (රහත් බවට නොපැමිණි) භික්‍ෂූහු වෙත්ද”; “aspiring to the unsurpassed security from bondage” has no translation. Put in in the words text-apz has for the same phrase in sn-5-7 55:6 (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 19,
+  "ei": 1,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "2. “",
+    "2. “ස්වාමීනි, යමෙකුට ඒකාන්තයෙන් කයෙහි කය ගැන සිහිය එළඹ නොසිටියා වන්නීද, ඒ භික්‍ෂුව මෙහි එක්තරා එකට හැසිරෙන භික්‍ෂුවකට දොස් නඟා එය නිදොස් නොකොට චාරිකාවෙහි (ඇවිදීමට) යන්නේ වේ. "
+   ]
+  ],
+  "pali": "සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය",
+  "reason": "Sāriputta’s lion’s roar, simile 2: the Pāli entry opens with the sentence යස්ස නූන භන්තෙ කායෙ කායගතාසති අනුපට්ඨිතා අස්ස, සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය, written out before each of the nine similes; the Sinhala has it with the first (19:0) and the ninth (21:0) only and leaves it out here with no mark. Put in in the words of 21:0 (copied by script). (Outside the step-1 list, de Zoysa 0.96–1.0; read beside 20:2, which has the same omission.)",
+  "unsure": false
+ },
+ {
+  "pi": 19,
+  "ei": 2,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "3. “",
+    "3. “ස්වාමීනි, යමෙකුට ඒකාන්තයෙන් කයෙහි කය ගැන සිහිය එළඹ නොසිටියා වන්නීද, ඒ භික්‍ෂුව මෙහි එක්තරා එකට හැසිරෙන භික්‍ෂුවකට දොස් නඟා එය නිදොස් නොකොට චාරිකාවෙහි (ඇවිදීමට) යන්නේ වේ. "
+   ]
+  ],
+  "pali": "සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය",
+  "reason": "Sāriputta’s lion’s roar, simile 3: the Pāli entry opens with the sentence යස්ස නූන භන්තෙ කායෙ කායගතාසති අනුපට්ඨිතා අස්ස, සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය, written out before each of the nine similes; the Sinhala has it with the first (19:0) and the ninth (21:0) only and leaves it out here with no mark. Put in in the words of 21:0 (copied by script). (Outside the step-1 list, de Zoysa 0.96–1.0; read beside 20:2, which has the same omission.)",
+  "unsure": false
+ },
+ {
+  "pi": 19,
+  "ei": 3,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "4. “",
+    "4. “ස්වාමීනි, යමෙකුට ඒකාන්තයෙන් කයෙහි කය ගැන සිහිය එළඹ නොසිටියා වන්නීද, ඒ භික්‍ෂුව මෙහි එක්තරා එකට හැසිරෙන භික්‍ෂුවකට දොස් නඟා එය නිදොස් නොකොට චාරිකාවෙහි (ඇවිදීමට) යන්නේ වේ. "
+   ]
+  ],
+  "pali": "සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය",
+  "reason": "Sāriputta’s lion’s roar, simile 4: the Pāli entry opens with the sentence යස්ස නූන භන්තෙ කායෙ කායගතාසති අනුපට්ඨිතා අස්ස, සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය, written out before each of the nine similes; the Sinhala has it with the first (19:0) and the ninth (21:0) only and leaves it out here with no mark. Put in in the words of 21:0 (copied by script). (Outside the step-1 list, de Zoysa 0.96–1.0; read beside 20:2, which has the same omission.)",
+  "unsure": false
+ },
+ {
+  "pi": 20,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "5. “",
+    "5. “ස්වාමීනි, යමෙකුට ඒකාන්තයෙන් කයෙහි කය ගැන සිහිය එළඹ නොසිටියා වන්නීද, ඒ භික්‍ෂුව මෙහි එක්තරා එකට හැසිරෙන භික්‍ෂුවකට දොස් නඟා එය නිදොස් නොකොට චාරිකාවෙහි (ඇවිදීමට) යන්නේ වේ. "
+   ]
+  ],
+  "pali": "සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය",
+  "reason": "Sāriputta’s lion’s roar, simile 5: the Pāli entry opens with the sentence යස්ස නූන භන්තෙ කායෙ කායගතාසති අනුපට්ඨිතා අස්ස, සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය, written out before each of the nine similes; the Sinhala has it with the first (19:0) and the ninth (21:0) only and leaves it out here with no mark. Put in in the words of 21:0 (copied by script). (Outside the step-1 list, de Zoysa 0.96–1.0; read beside 20:2, which has the same omission.)",
+  "unsure": false
+ },
+ {
+  "pi": 20,
+  "ei": 1,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "6. “",
+    "6. “ස්වාමීනි, යමෙකුට ඒකාන්තයෙන් කයෙහි කය ගැන සිහිය එළඹ නොසිටියා වන්නීද, ඒ භික්‍ෂුව මෙහි එක්තරා එකට හැසිරෙන භික්‍ෂුවකට දොස් නඟා එය නිදොස් නොකොට චාරිකාවෙහි (ඇවිදීමට) යන්නේ වේ. "
+   ]
+  ],
+  "pali": "සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය",
+  "reason": "Sāriputta’s lion’s roar, simile 6: the Pāli entry opens with the sentence යස්ස නූන භන්තෙ කායෙ කායගතාසති අනුපට්ඨිතා අස්ස, සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය, written out before each of the nine similes; the Sinhala has it with the first (19:0) and the ninth (21:0) only and leaves it out here with no mark. Put in in the words of 21:0 (copied by script). (Outside the step-1 list, de Zoysa 0.96–1.0; read beside 20:2, which has the same omission.)",
+  "unsure": false
+ },
+ {
+  "pi": 20,
+  "ei": 2,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "7. “",
+    "7. “ස්වාමීනි, යමෙකුට ඒකාන්තයෙන් කයෙහි කය ගැන සිහිය එළඹ නොසිටියා වන්නීද, ඒ භික්‍ෂුව මෙහි එක්තරා එකට හැසිරෙන භික්‍ෂුවකට දොස් නඟා එය නිදොස් නොකොට චාරිකාවෙහි (ඇවිදීමට) යන්නේ වේ. "
+   ]
+  ],
+  "pali": "සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය",
+  "reason": "Sāriputta’s lion’s roar, simile 7: the Pāli entry opens with the sentence යස්ස නූන භන්තෙ කායෙ කායගතාසති අනුපට්ඨිතා අස්ස, සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය, written out before each of the nine similes; the Sinhala has it with the first (19:0) and the ninth (21:0) only and leaves it out here with no mark. Put in in the words of 21:0 (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 20,
+  "ei": 3,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "8. “",
+    "8. “ස්වාමීනි, යමෙකුට ඒකාන්තයෙන් කයෙහි කය ගැන සිහිය එළඹ නොසිටියා වන්නීද, ඒ භික්‍ෂුව මෙහි එක්තරා එකට හැසිරෙන භික්‍ෂුවකට දොස් නඟා එය නිදොස් නොකොට චාරිකාවෙහි (ඇවිදීමට) යන්නේ වේ. "
+   ]
+  ],
+  "pali": "සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය",
+  "reason": "Sāriputta’s lion’s roar, simile 8: the Pāli entry opens with the sentence යස්ස නූන භන්තෙ කායෙ කායගතාසති අනුපට්ඨිතා අස්ස, සො ඉධ අඤ්ඤතරං සබ්රහ්මචාරිං ආසජ්ජ අප්පටිනිස්සජ්ජ චාරිකං පක්කමෙය්ය, written out before each of the nine similes; the Sinhala has it with the first (19:0) and the ninth (21:0) only and leaves it out here with no mark. Put in in the words of 21:0 (copied by script). (Outside the step-1 list, de Zoysa 0.96–1.0; read beside 20:2, which has the same omission.)",
+  "unsure": false
+ },
+ {
+  "pi": 34,
+  "ei": 5,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "එකං සමයං භගවා...",
+    "එක් කලෙක භාග්‍යවතුන් වහන්සේ සැවැත් නුවර අසල, අනේපිඬු සිටාණන් විසින් කරවන ලද, ජේතවනාරාමයෙහි වැඩ වසති."
+   ]
+  ],
+  "pali": "එකං සමයං භගවා **සාවත්ථියං** විහරති **ජෙතවනෙ** අනාථපිණ්ඩිකස්ස ආරාමෙ",
+  "reason": "The opening sentence stands in Pāli and cut short (“එකං සමයං භගවා...”); the Pāli entry writes it out. Translated in the words of 6:7 of the same file (copied by script). The stray “20.” after it (a sutta number of the old edition, not in the Pāli entry) is left as it is.",
+  "unsure": false
+ },
+ {
+  "pi": 69,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "අසුරයෝ පැරදුනාහුය. මහණෙනි, අසුර පුරයට",
+    "අසුරයෝ පැරදුනාහුය. මහණෙනි, පැරදුනාවූද අසුරයෝ බියපත්ව අසුර පුරයටම පිවිසියාහුය. මහණෙනි, අසුර පුරයට"
+   ]
+  ],
+  "pali": "අසුරා භීතා අසුරපුරඤ්ඤෙව පවිසිංසු",
+  "reason": "After the third battle the Pāli has පරාජිතා ව භික්ඛවෙ, අසුරා භීතා අසුරපුරඤ්ඤෙව පවිසිංසු (defeated and frightened, the asuras entered their city); the Sinhala goes from “අසුරයෝ පැරදුනාහුය” straight to the thought of the asuras who had gone to the city. The sentence is put in, in the words the entry uses for the first two defeats (“පැරදුනාවූද අසුරයෝ”).",
+  "unsure": false
+ },
+ {
+  "pi": 81,
+  "ei": 2,
+  "kind": "phrase-missing",
+  "edits": [
+   [
+    "යම් හෙයකින් මාගේ සිත",
+    "මෙය ශාන්තයයි දක්නාවූ මාගේ සිත යම් හෙයකින්"
+   ]
+  ],
+  "pali": "‘එතං සන්ත’න්ති පස්සතො",
+  "reason": "Tapussa, the cessation of perception and feeling: ‘එතං සන්ත’න්ති පස්සතො (though I saw it as peaceful) has no translation; the eight parallel entries (74:1 – 80:2) all have it. Put in in the words of 80:2 (copied by script).",
+  "unsure": false
+ }
+]
