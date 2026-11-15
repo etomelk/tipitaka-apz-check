@@ -1,0 +1,62 @@
+[
+ {
+  "pi": 7,
+  "ei": 1,
+  "kind": "pali-left-in",
+  "proposed": "ආනන්දය, එසේම වනාහි මෝඩවූ, ව්‍යක්ත නොවූ, ස්ථාන නොදන්නාවූ, පාපවූ, පූරණ කාශ්‍යප විසින් එය එසේ ප්‍රතිඥා නොකොට මේ මහණ බමුණන්ට මේ ජාති සය පනවන ලද්දේය.",
+  "pali": "එවමෙව ඛො ආනන්ද පූරණෙන කස්සපෙන අප්පටිඤ්ඤාය",
+  "reason": "The whole Pāli sentence stands in the text, with its translation after it in brackets; the Pāli is taken out and the translation kept.",
+  "unsure": false
+ },
+ {
+  "pi": 19,
+  "ei": 5,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "“කිං නු ඛො ඇවැත්",
+    "“ඇවැත්"
+   ]
+  ],
+  "pali": "කිං නු කො ආවුසො ආනන්ද",
+  "reason": "The Pāli words “කිං නු ඛො” stand at the head of the Sinhala sentence, which already asks the question (“… ප්‍රකාශ කෙළේද?”); taken out.",
+  "unsure": false
+ },
+ {
+  "pi": 25,
+  "ei": 10,
+  "kind": "pali-left-in",
+  "proposed": "“මහණෙනි, කාමය දතයුතුය -පෙ- කාමයන් නැතිකිරිමට ගමන් කරණ ප්‍රතිපදාව දත යුතුය” යි යමක් කියන ලද්දේ ද, මෙය ඒ සඳහා කියන ලදී.",
+  "pali": "කාමා භික්ඛවෙ වෙදිත්තබ්බා",
+  "reason": "The quoted statement is left in Pāli (“කාමා මහණෙනි වෙදිත්තබ්බා -පෙ- … වෙදිතබ්බා”ති); put in the Sinhala of the statement itself, 24:7 (copied by script), with -පෙ- as in the Pāli.",
+  "unsure": false
+ },
+ {
+  "pi": 26,
+  "ei": 8,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "ඉදමෙතං පටිච්චි වුත්තං.",
+    "මෙය සඳහා කියන ලදී."
+   ]
+  ],
+  "pali": "ඉදමෙතං පටිච්ච වුත්තං",
+  "reason": "The closing words ඉදමෙතං පටිච්ච වුත්තං are left in Pāli; put in Sinhala in the words of 29:4 (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 58,
+  "ei": 15,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "අජ්ඣත්තබහිද්ධා",
+    "අධ්‍යාත්මික බාහිර"
+   ]
+  ],
+  "pali": "අජ්ඣත්තබහිද්ධා ධම්මෙසු",
+  "reason": "The Pāli word අජ්ඣත්තබහිද්ධා is left in the sentence; made “අධ්‍යාත්මික බාහිර”, the words of 58:13, the opening of the same sutta (copied by script).",
+  "unsure": false
+ }
+]

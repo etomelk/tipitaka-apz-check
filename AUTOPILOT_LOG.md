@@ -1648,3 +1648,45 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 1: 964 of 5,250 entries, all in the Aṅguttara (13 files, from `an-6-2`). Next run: `an-6-2` (169
 entries; about 100 of them).
+
+## 2026-11-15 (run 42) — `an-6-2` finished
+
+Commit e4db85e (pinned). Step 1: 169 entries, each read in full against its Pāli: all of `an-6-2` (the file was
+finished rather than stopped at 100: more than half of its entries are one line, openings, closings, the
+“[සාවත්ථිනිදානං]” lines and the abbreviated series at the end). Its batch is built (`batches/an-6-2_e4db85e.tsv`
+5 rows, no unsure rows), nothing refused.
+
+Confirmed (main file), all five Pāli left in the text:
+- `an-6-2` 7:1 pali-left-in (the six classes of birth): the whole Pāli sentence එවමෙව ඛො ආනන්ද පූරණෙන කස්සපෙන …
+  stands in the entry with its translation after it in brackets; the Pāli taken out, the translation kept.
+- `an-6-2` 19:5 pali-left-in (Devadatta): “කිං නු ඛො” stands at the head of the Sinhala question; taken out.
+- `an-6-2` 25:10 pali-left-in (Nibbedhika): the quoted statement “කාමා මහණෙනි වෙදිත්තබ්බා -පෙ- … වෙදිතබ්බා”ති is
+  left in Pāli; put in the Sinhala of the statement itself, 24:7 (copied by script), with -පෙ- as in the Pāli.
+- `an-6-2` 26:8 pali-left-in (the same sutta): the closing words “ඉදමෙතං පටිච්චි වුත්තං” are left in Pāli; made
+  “මෙය සඳහා කියන ලදී”, the words of 29:4 (copied by script).
+- `an-6-2` 58:15 pali-left-in: “අජ්ඣත්තබහිද්ධා ධර්‍මයන්හි”; made “අධ්‍යාත්මික බාහිර”, the words of 58:13.
+
+Unsure: none.
+
+Left alone:
+- `an-6-2` 2:1, 2:2, 2:3 (Soṇa, the six things an arahant is intent on): the Pāli writes “ඛීණාසවො … කරණීයං අත්තනො
+  අසමනුපස්සන්තො කතස්ස වා පතිචයං” and the clause on hatred out again; the Sinhala gives “... -පෙ-” for them.
+  Each has the abbreviation mark, and the same sentences stand in full in 1:8 and 2:0 just before, so by the
+  rule on abbreviation marks no rows. (They differ from the “...” rows of runs 33, 34, 40 and 41, where words
+  were left untranslated with no -පෙ- and nowhere near in full.) A doubt about the rule, for the owner: if he
+  wants these written out too, they are three small rows.
+- `an-6-2` 1:7: පරික්ඛීණභවසංයොජනො, one of the arahant's eight epithets, has no word; 18:4: පරියායෙන has no word;
+  19:5, 20:0: නෙරයිකො has no word beside ආපායිකො. Single words, left as the rules say.
+- `an-6-2` 2:0: “(රහත් බව) ප්‍රකාශ කරයි” added to the other monk's thought; 4:1, 4:4: න ඛමනීයං is “මට රුචි දෙයක්
+  නැත”; 20:2: “ඊට මේ කාලයයි” also in the Buddha's own sentence; 57:4: දොවචස්සතා is “නපුරු වචන ඇති බව”;
+  18:1: “සක්කාය (ආත්ම දෘෂ්ටිය)”. Loose, nothing missing or reversed: no rows.
+- `an-6-2` 36:7: de Zoysa's cross-reference “(දීඝ නිකායේ, 3 සූත්‍රයේ, 70 ඡේදයේ … යොදාගත යුතුයි.)” stands where
+  the Pāli has -පෙ-: an abbreviation, no row.
+- `an-6-2` 61:10: the abbreviated series keeps “දස්සනානුත්තරිය … අනිච්ච සඤ්ඤා” as key words and “පටිනිස්සග්ගය”
+  as a term (60:14 has “අත්හැරීම”): key words of a peyyāla, no row. Pāli terms in brackets after their Sinhala
+  (“තද විවේකයෙහි (පවිවෙක)”, “(චෙතසො වික්ඛෙපො)”) are glosses, no rows.
+- The uddāna entries (32:8, 32:9, 39:11, 49:15).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 795 of 5,250 entries, all in the Aṅguttara (12 files, from `an-7`). Next run: `an-7` (90 entries).
