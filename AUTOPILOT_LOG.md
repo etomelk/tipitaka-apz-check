@@ -1753,3 +1753,53 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 1: 705 of 5,250 entries, all in the Aṅguttara (11 files, from `an-7-2`). Next run: `an-7-2` (134
 entries; about 100 of them).
+
+## 2026-11-15 (run 44) — `an-7-2`, the first 102 entries
+
+Commit e4db85e (pinned). Step 1: 102 of the 134 entries of `an-7-2` (0:7 – 57:7), each read in full against its
+Pāli. The file is not finished, so its batch is not built yet; `verdicts/an-7-2.json` has 14 rows and 1 unsure,
+tested with the batch tool (nothing refused).
+
+Confirmed (main file):
+- `an-7-2` 2:4 pali-left-in (the seven destinations of persons): “න භවිස්සති” stands untranslated in the Sinhala
+  sentence (“නොවූයේය, මට නොවන්නේය. න භවිස්සති, මට ඇති නොවන්නේය”); made “ඇති නොවන්නේය”, the sentence's own words
+  for භවිස්සති. The same words stand in 2:3, 4:1 and 4:6, which are outside the step-1 list (90% or more de Zoysa);
+  each was read in full and has a row too, since the error is the same. 4:6 also keeps the bracketed
+  “(චෙතොවිමුත්තිං පඤ්ඤාවිමුත්තිං)” in Pāli; given in the words of 36:2.
+- `an-7-2` 32:5, 32:7, 32:8, 33:0, 33:1 clause-missing (the seven qualities, ධම්මඤ්ඤූ … පරිසඤ්ඤූ): the Pāli writes
+  the list or the quoted thought out in the second sentence (and, but for 32:5, in the third); the Sinhala gives
+  “...” for it. Written out in each entry's own words, copied by script (in 33:0 and 33:1 without the glosses in
+  brackets, which stand at the first use). This is the place `CLAUDE.md` names for the rule (“an-7-2 page 33”).
+- `an-7-2` 36:3, 36:4 pali-left-in (the Pāricchattaka sutta): ඉත්ථන්නාමො is left as “ඉත්ථන්නාම ඇති” (five times
+  in the two entries, nowhere else in text-apz) and දිට්ඨෙව ධම්මෙ as “දිට්ඨධම්මයෙහි”; made “අසවල් නම් ඇති”, on the
+  entries' own “අසවල් ගමින්”, and “මෙලොවම”, the word of 36:2. In 36:4 the second announcement also gives “...” for
+  ඉත්ථන්නාමස්ස ආයස්මතො … පබ්බජිතො, which the Pāli writes out; written out in the entry's own words in the same row.
+- `an-7-2` 39:0, 39:2, 39:4 wrong-person (Sāriputta's reflection): Sāriputta speaks to the Buddha (භන්තෙ) and the
+  Sinhala has “මහණෙනි” at that one place; made “ස්වාමීනි”, the word of 38:2 and 38:3. Of the same kind as the three
+  rows of `sn-5-11` (run 34); the owner may drop them together if he finds them below the bar.
+
+Unsure:
+- `an-7-2` 6:6 list-items-missing (Tissa the Brahmā): the Pāli ends සඋපාදිසෙසෙ වා සඋපාදිසෙසොති, අනුපාදිසෙසෙ වා
+  අනුපාදිසෙසොති; the Sinhala gives only the alternative that fits the person (“අනුපාදිශෙෂයෙහි අනුපාදිශෙෂයයි”).
+  7:0 and 7:1 (outside the list) do the same, 6:5 and 7:2 give both, so it may be meant as a rendering.
+
+Left alone:
+- `an-7-2` 0:7: the one monk addressed as “මහණෙනි” (number of address only); 0:8, 1:1: තථාගතො is “සත්ත්‍වයා”, as
+  BJT's Sinhala glosses it.
+- `an-7-2` 1:3: “ජරා, මරණ, ශොක, පරිදෙව, දුක්ඛ, දොමනස්ස, උපායාස” kept as terms; 35:0–36:1: “ජාලකජාත”, “ඛාරකජාත”,
+  “කුඩුමලකජාත”, “කොකාසකජාත” kept as terms with a gloss at the first use; 54:5: the names of the seven ways of
+  settling a case; 32:6–33:1: “අත්ථඤ්ඤූ … පරිසඤ්ඤූ” with their glosses. No rows.
+- `an-7-2` 30:2 (the troops of the frontier town): චෙලකා චලකා have the one rendering “වස්ත්‍ර සොළවන”; whether
+  both are meant by it cannot be told. 29:0: බහුං has no word; 14:3: the address මොග්ගල්ලාන has no word. Single
+  words.
+- `an-7-2` 34:2: න අත්ථමඤ්ඤාය ධම්මමඤ්ඤාය ධම්මානුධම්මපටිපන්නො is “not knowing the meaning, not knowing the Dhamma,
+  not practising”; BJT's Sinhala takes the negation with the last word only. A reading, no row.
+- `an-7-2` 1:5 (එවං අව්යාකරණධම්මො), 14:4 (ආවිඤ්ජෙය්යාසි as “යා කරන්නෙහිය”), 30:3 (පරිහරති as “වඩයි”), 48:1 (අම්හං
+  as “මාගේ”), 57:7 (අධිමුච්චමානො, පරියොගාහමානො): loose, nothing missing or reversed.
+- Entries that write out what the Pāli abbreviates (52:4), “...” where the Pāli has -පෙ- (32:3, 34:5, 35:7–36:1,
+  37:4), and the uddāna entries (54:9, 56:24).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 603 of 5,250 entries, all in the Aṅguttara (10 files; `an-7-2` has 32 left). Next run: the rest of
+`an-7-2` and its batch, then `an-8`.

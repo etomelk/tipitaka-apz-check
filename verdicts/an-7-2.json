@@ -1,0 +1,222 @@
+[
+ {
+  "pi": 2,
+  "ei": 3,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "න භවිස්සති, මට ඇති නොවන්නේය",
+    "ඇති නොවන්නේය, මට ඇති නොවන්නේය"
+   ]
+  ],
+  "pali": "න භවිස්සති, න මෙ භවිස්සති",
+  "reason": "“න භවිස්සති” stands untranslated inside the Sinhala sentence (“… න භවිස්සති, මට ඇති නොවන්නේය”); made “ඇති නොවන්නේය”, the words the sentence itself uses for භවිස්සති. The same words stand in 2:3, 2:4, 4:1 and 4:6.",
+  "unsure": false
+ },
+ {
+  "pi": 2,
+  "ei": 4,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "න භවිස්සති, මට ඇති නොවන්නේය",
+    "ඇති නොවන්නේය, මට ඇති නොවන්නේය"
+   ]
+  ],
+  "pali": "න භවිස්සති, න මෙ භවිස්සති",
+  "reason": "“න භවිස්සති” stands untranslated inside the Sinhala sentence (“… න භවිස්සති, මට ඇති නොවන්නේය”); made “ඇති නොවන්නේය”, the words the sentence itself uses for භවිස්සති. The same words stand in 2:3, 2:4, 4:1 and 4:6.",
+  "unsure": false
+ },
+ {
+  "pi": 4,
+  "ei": 1,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "න භවිස්සති, මට ඇති නොවන්නේය",
+    "ඇති නොවන්නේය, මට ඇති නොවන්නේය"
+   ]
+  ],
+  "pali": "න භවිස්සති, න මෙ භවිස්සති",
+  "reason": "“න භවිස්සති” stands untranslated inside the Sinhala sentence (“… න භවිස්සති, මට ඇති නොවන්නේය”); made “ඇති නොවන්නේය”, the words the sentence itself uses for භවිස්සති. The same words stand in 2:3, 2:4, 4:1 and 4:6.",
+  "unsure": false
+ },
+ {
+  "pi": 4,
+  "ei": 6,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "න භවිස්සති, මට ඇති නොවන්නේය",
+    "ඇති නොවන්නේය, මට ඇති නොවන්නේය"
+   ],
+   [
+    "(චෙතොවිමුත්තිං පඤ්ඤාවිමුත්තිං)",
+    "(චිත්ත විමුක්තියද, ප්‍රඥා විමුක්තියද)"
+   ]
+  ],
+  "pali": "න භවිස්සති, න මෙ භවිස්සති",
+  "reason": "“න භවිස්සති” stands untranslated inside the Sinhala sentence (“… න භවිස්සති, මට ඇති නොවන්නේය”); made “ඇති නොවන්නේය”, the words the sentence itself uses for භවිස්සති. The same words stand in 2:3, 2:4, 4:1 and 4:6. The bracketed “(චෙතොවිමුත්තිං පඤ්ඤාවිමුත්තිං)” is also left in Pāli; given in the words of 36:2 of this file.",
+  "unsure": false
+ },
+ {
+  "pi": 6,
+  "ei": 6,
+  "kind": "list-items-missing",
+  "edits": [
+   [
+    "නිදුක්වූ මොග්ගල්ලානයෙනි, අනුපාදිශෙෂයෙහි අනුපාදිශෙෂයයි ඒ දෙවියන්ට",
+    "නිදුක්වූ මොග්ගල්ලානයෙනි, සවුපාදිශෙෂයෙහි සවුපාදිශෙෂයයිද, අනුපාදිශෙෂයෙහි අනුපාදිශෙෂයයිද ඒ දෙවියන්ට"
+   ]
+  ],
+  "pali": "සඋපාදිසෙසෙ වා සඋපාදිසෙසොති, අනුපාදිසෙසෙ වා අනුපාදිසෙසොති",
+  "reason": "The Pāli gives both alternatives of the gods' knowledge; the Sinhala gives only the one that fits this person (අනුපාදිසෙස). Unsure whether that is meant as a rendering: 7:0 and 7:1 (outside the list) do the same, 6:5 and 7:2 give both. Written in the words of 6:5.",
+  "unsure": true
+ },
+ {
+  "pi": 32,
+  "ei": 5,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "සූත්‍රය ... වෙදල්ලය නොදන්නේ",
+    "සූත්‍රය, ගෙය්‍යය, වෙය්‍යාකරණය, ගාථාය, උදානය, ඉතිවුත්තකය, ජාතකය, අද්භූත ධර්‍මය, වෙදල්ලය නොදන්නේ"
+   ]
+  ],
+  "pali": "නො චෙ භික්ඛවෙ, භික්ඛු ධම්මං ජානෙය්ය සුත්තං ගෙය්යං වෙය්යාකරණං ගාථං උදානං ඉතිවුත්තකං ජාතකං අබ්භුතධම්මං වෙදල්ලං",
+  "reason": "In the second sentence the Pāli writes the nine items out; the Sinhala gives “සූත්‍රය ... වෙදල්ලය”. Written out in the entry's own words (copied by script). The third sentence has -පෙ- in the Pāli and is left.",
+  "unsure": false
+ },
+ {
+  "pi": 32,
+  "ei": 7,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "තමා ගැන ... නොදන්නේ",
+    "තමා ගැන “ශ්‍රද්ධාවෙන්ද, ශීලයෙන්ද, ශ්‍රුතයෙන්ද, ත්‍යාගයෙන්ද, ප්‍රඥාවෙන්ද, ප්‍රතිභානයෙන්ද, මෙපමණකින් යුක්ත වෙමි” යි නොදන්නේ"
+   ],
+   [
+    "“ශ්‍රද්ධාවෙන්ද ... මෙපමණකින් යුක්ත වෙමි” යි දනීද",
+    "“ශ්‍රද්ධාවෙන්ද, ශීලයෙන්ද, ශ්‍රුතයෙන්ද, ත්‍යාගයෙන්ද, ප්‍රඥාවෙන්ද, ප්‍රතිභානයෙන්ද, මෙපමණකින් යුක්ත වෙමි” යි දනීද"
+   ]
+  ],
+  "pali": "නො චෙ භික්ඛවෙ, භික්ඛු අත්තානං ජානෙය්ය එත්තකොම්හි සද්ධාය සීලෙන සුතෙන චාගෙන පඤ්ඤාය පටිභානෙනාති",
+  "reason": "The Pāli writes එත්තකොම්හි සද්ධාය … පටිභානෙන out in all three sentences; the Sinhala gives “...” for it in the second and for five of the six items in the third. Written out in the entry's own words (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 32,
+  "ei": 8,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "සිවුරු ... පිළිගැනීමේ ප්‍රමාණය නොදන්නේ",
+    "සිවුරු, පිණ්ඩාහාර, සෙනසුන්, ගිලන්පස, බෙහෙත් පිරිකර පිළිගැනීමේ ප්‍රමාණය නොදන්නේ"
+   ],
+   [
+    "සිවුරු ... පිළිගැනීමේ ප්‍රමාණය දන්නේද",
+    "සිවුරු, පිණ්ඩාහාර, සෙනසුන්, ගිලන්පස, බෙහෙත් පිරිකර පිළිගැනීමේ ප්‍රමාණය දන්නේද"
+   ]
+  ],
+  "pali": "නො චෙ භික්ඛවෙ, භික්ඛු මත්තං ජානෙය්ය චීවරපිණ්ඩපාතසෙනාසනගිලානපච්චයභෙසජ්ජපරික්ඛාරානං පටිග්ගහණාය",
+  "reason": "The Pāli writes the requisites out in all three sentences; the Sinhala gives “සිවුරු ...” in the second and third. Written out in the entry's own words (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 33,
+  "ei": 0,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "භික්‍ෂුව කාලය නොදන්නේ නම් ... කාලඤ්ඤූ",
+    "භික්‍ෂුව “උදෙසීමට මේ කාලය වේ, ප්‍රශ්න කිරීමට මේ කාලය වේ, භාවනාවට මේ කාලය වේ, විවේක වාසයට මේ කාලය වේ” යයි කාලය නොදන්නේ නම් කාලඤ්ඤූ"
+   ],
+   [
+    "භික්‍ෂුව කාලය දනීද ... එහෙයින්",
+    "භික්‍ෂුව “උදෙසීමට මේ කාලය වේ, ප්‍රශ්න කිරීමට මේ කාලය වේ, භාවනාවට මේ කාලය වේ, විවේක වාසයට මේ කාලය වේ” යයි කාලය දනීද, එහෙයින්"
+   ]
+  ],
+  "pali": "නො චෙ භික්ඛවෙ, භික්ඛූ කාලං ජානෙය්ය, අයං කාලො උද්දෙසස්ස, අයං කාලො පරිපුච්ඡාය, අයං කාලො යොගස්ස, අයං කාලො පටිසල්ලානායාති",
+  "reason": "The Pāli writes the four times out in all three sentences; the Sinhala gives “...” for them in the second and third. Written out in the entry's own words (copied by script, without the two glosses in brackets).",
+  "unsure": false
+ },
+ {
+  "pi": 33,
+  "ei": 1,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "භික්‍ෂුව පිරිස නොදන්නේ නම් ... පරිසඤ්ඤූ",
+    "භික්‍ෂුව “මේ ක්‍ෂත්‍රිය පිරිසය, මේ බ්‍රාහ්මණ පිරිසය, මේ ගෘහපති පිරිසය, මේ ශ්‍රමණ පිරිසය, එහි මෙසේ එළඹිය යුතුයි, මෙසේ සිටිය යුතුයි, මෙසේ කළ යුතුය, මෙසේ හිඳගත යුතුය, මෙසේ කථා කළ යුතුය, මෙසේ නිහඬ විය යුතුය”යි පිරිස නොදන්නේ නම් පරිසඤ්ඤූ"
+   ],
+   [
+    "භික්‍ෂුව පිරිස දනීද ... එහෙයින්",
+    "භික්‍ෂුව “මේ ක්‍ෂත්‍රිය පිරිසය, මේ බ්‍රාහ්මණ පිරිසය, මේ ගෘහපති පිරිසය, මේ ශ්‍රමණ පිරිසය, එහි මෙසේ එළඹිය යුතුයි, මෙසේ සිටිය යුතුයි, මෙසේ කළ යුතුය, මෙසේ හිඳගත යුතුය, මෙසේ කථා කළ යුතුය, මෙසේ නිහඬ විය යුතුය”යි පිරිස දනීද, එහෙයින්"
+   ]
+  ],
+  "pali": "නො චෙ භික්ඛවෙ, භික්ඛු පරිසං ජානෙය්ය: අයං ඛත්තියපරිසා, අයං බ්රාහ්මණපරිසා, අයං ගහපති පරිසා, අයං සමණපරිසා, තත්ථ එවං උපසඞ්කමිතබ්බං",
+  "reason": "The Pāli writes the four assemblies and the six ways of conduct out in all three sentences; the Sinhala gives “...” for them in the second and third. Written out in the entry's own words (copied by script, without the gloss in brackets).",
+  "unsure": false
+ },
+ {
+  "pi": 36,
+  "ei": 3,
+  "kind": "pali-left-in",
+  "proposed": "මහණෙනි, ඒ කාලයෙහි භුම්මාටු දෙවියෝ ශබ්ද පවත්වති: “මේ අසවල් නම් ඇති ආයුෂ්මතුන් වහන්සේ, අසවල් නම් ඇති ආයුෂ්මතුන් වහන්සේගේ සද්ධිවිහාරිකව, අසවල් ගමින් හෝ නියම් ගමින් ගිහි ගෙයින් නික්ම අනගාරිය ශාසනයෙහි පැවිදිවුයේ, ආශ්‍රවයන්ගේ ක්ෂය කිරීමෙන් අනාශ්‍රව චිත්ත විමුක්තියද, ප්‍රඥා විමුක්තියද, මෙලොවම තෙමේ විශිෂ්ට ඥානයෙන් දැන ප්‍රත්‍යක්ෂ කොට එයට පැමිණ වාසය කරන්නේය” යි. භුම්මාටු දෙවියන්ගේ ශබ්දය අසා චාතුර්මහාරාජික දෙවියෝ ශබ්ද පවත්වති.",
+  "pali": "එසො ඉත්ථන්නාමො ආයස්මා ඉත්ථන්නාමස්ස ආයස්මතො සද්ධිවිහාරිකො",
+  "reason": "ඉත්ථන්නාමො (of such and such a name) is left as “ඉත්ථන්නාම ඇති” (twice) and දිට්ඨෙව ධම්මෙ as “දිට්ඨධම්මයෙහි”; made “අසවල් නම් ඇති”, on the entry's own “අසවල් ගමින්”, and “මෙලොවම”, the word of 36:2. Only this entry and 36:4 have these words in the whole text.",
+  "unsure": false
+ },
+ {
+  "pi": 36,
+  "ei": 4,
+  "kind": "pali-left-in",
+  "proposed": "“මේ අසවල් නම් ඇති ආයුෂ්මතුන් වහන්සේ, අසවල් නම් ඇති ආයුෂ්මතුන් වහන්සේගේ සද්ධිවිහාරිකව, අසවල් ගමින් හෝ නියම් ගමින් ගිහි ගෙයින් නික්ම අනගාරිය ශාසනයෙහි පැවිදිවුයේ, ආශ්‍රවයන්ගේ ක්ෂය කිරීමෙන් අනාශ්‍රව චිත්ත විමුක්තියද, ප්‍රඥා විමුක්තියද, මෙලොවම තෙමේ විශිෂ්ට ඥානයෙන් දැන ප්‍රත්‍යක්ෂ කොට එයට පැමිණ වාසය කරන්නේය” යි. චාතුර්මහාරාජික දෙවියන්ගේ ශබ්දය අසා තවුතිසා දෙවියෝ ... යාම දෙවියෝ ... තුසිත දෙවියෝ ... නිම්මානරතී දෙවියෝ ... පරනිම්මිතවසවත්තී දෙවියෝ ... බ්‍රහ්මකායික දෙවියෝ ශබ්ද පවත්වති: “මේ අසවල් නම් ඇති ආයුෂ්මතුන් වහන්සේ, අසවල් නම් ඇති ආයුෂ්මතුන් වහන්සේගේ සද්ධිවිහාරිකව, අසවල් ගමින් හෝ නියම් ගමින් ගිහි ගෙයින් නික්ම අනගාරිය ශාසනයෙහි පැවිදිවුයේ, ආශ්‍රවයන්ගේ ක්ෂය කිරීමෙන් ... ප්‍රත්‍යක්ෂ කොට වාසය කරන්නේය” යි.",
+  "pali": "එසො ඉත්ථන්නාමො ආයස්මා ඉත්ථන්නාමස්ස ආයස්මතො සද්ධිවිහාරිකො අමුකම්හා ගාමා වා නිගමා වා අගාරස්මා අනගාරියං පබ්බජිතො ආසවානං ඛයා -පෙ-",
+  "reason": "As 36:3: “ඉත්ථන්නාම ඇති” (three times) made “අසවල් නම් ඇති” and “දිට්ඨධම්මයෙහි” made “මෙලොවම”. In the second announcement the Pāli writes ඉත්ථන්නාමස්ස ආයස්මතො … පබ්බජිතො out and the Sinhala gives “...” for it; written out in the entry's own words (copied by script). The second “...” there stands for the Pāli's -පෙ- and is left.",
+  "unsure": false
+ },
+ {
+  "pi": 39,
+  "ei": 0,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "මහණෙනි, යම් ඒ භික්‍ෂුවක්",
+    "ස්වාමීනි, යම් ඒ භික්‍ෂුවක්"
+   ]
+  ],
+  "pali": "යො සො භන්තෙ",
+  "reason": "Sāriputta is speaking to the Buddha (භන්තෙ); the Sinhala has him say “මහණෙනි”. Made “ස්වාමීනි”, the word of the sentences around it (38:2, 38:3).",
+  "unsure": false
+ },
+ {
+  "pi": 39,
+  "ei": 2,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "මහණෙනි, යම් ඒ භික්‍ෂුවක්",
+    "ස්වාමීනි, යම් ඒ භික්‍ෂුවක්"
+   ]
+  ],
+  "pali": "යො සො වත භන්තෙ",
+  "reason": "Sāriputta is speaking to the Buddha (භන්තෙ); the Sinhala has him say “මහණෙනි”. Made “ස්වාමීනි”, the word of the sentences around it (38:2, 38:3).",
+  "unsure": false
+ },
+ {
+  "pi": 39,
+  "ei": 4,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "මහණෙනි, යම් ඒ මහණතෙම",
+    "ස්වාමීනි, යම් ඒ මහණතෙම"
+   ]
+  ],
+  "pali": "යො සො භන්තෙ",
+  "reason": "Sāriputta is speaking to the Buddha (භන්තෙ); the Sinhala has him say “මහණෙනි”. Made “ස්වාමීනි”, the word of the sentences around it (38:2, 38:3).",
+  "unsure": false
+ }
+]
