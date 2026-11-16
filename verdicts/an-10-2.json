@@ -26,5 +26,185 @@
   "pali": "කස්මා නෙසං එකො හීනො එකො පණීතො",
   "reason": "Migasālā: those who measure ask a question, “this one has those very qualities, the other too; why (කස්මා) is one of them low and one excellent?”; the Sinhala has no “why” and makes it their statement that one is low and one excellent. Put as the question (BJT’s Sinhala: “කවර හෙයින් ඔවුනතුරෙන් එකෙක් හීන වේ ද, එකෙක් ප්‍රණීත වේදැ”යි); nothing else is changed.",
   "unsure": false
+ },
+ {
+  "pi": 62,
+  "ei": 4,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "හැඟීම ඇතිව ... අධිමානයෙන් යුතුව අන්‍ය දෙයක් ප්‍රකාශ කෙරේද?’",
+    "හැඟීම ඇතිව, නොකළ දෙයෙහි කළ හැඟීම ඇතිව, නොලැබූ දෙයෙහි ලද්දේය යන හැඟීම ඇතිව, අධිමානයෙන් යුතුව අන්‍ය දෙයක් ප්‍රකාශ කෙරේද: “ඉපදීම ක්‍ෂය විය, බඹසර වැස නිමවන ලදී, කටයුත්ත කරණ ලදී, මින් මතුවට අනිකක් නැතැයි දනිමි” යි?’"
+   ]
+  ],
+  "pali": "අකතෙ කතසඤ්ඤී අනධිගතෙ අධිගතසඤ්ඤී අධිමානෙන අඤ්ඤං බ්යාකරොති ‘ඛීණා ජාති වුසිතං බ්රහ්මචරියං කතං කරණීයං නාපරං ඉත්ථත්තායාති පජානාමී’ති",
+  "reason": "The Pāli writes the whole question out; the Sinhala gives “...” for අකතෙ කතසඤ්ඤී අනධිගතෙ අධිගතසඤ්ඤී and leaves the declaration (ඛීණා ජාති … පජානාමී) out with no mark. Written out in the words of 62:3 and 62:1 (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 63,
+  "ei": 1,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "සංඥා ඇත්තේය... අධිමානයෙන් යුතුව",
+    "සංඥා ඇත්තේය. නොකළ දෙයෙහි කළ හැඟීම ඇත්තෙකි. නොලැබූ දෙයෙහි ලද්දේය යන හැඟීම ඇත්තේය. අධිමානයෙන් යුතුව"
+   ],
+   [
+    "‘ඉපදීම ක්‍ෂය විය...’ යි",
+    "‘ඉපදීම ක්‍ෂය විය, බඹසර වැස නිමවන ලදී, කටයුත්ත කරණ ලදී, මින් මතුවට අනිකක් නැතැයි දනිමි’ යි"
+   ]
+  ],
+  "pali": "අකතෙ කතසඤ්ඤී අනධිගතෙ අධිගතසඤ්ඤී අධිමානෙන අඤ්ඤං බ්යාකරොති ‘ඛීණා ජාති වුසිතං බ්රහ්මචරියං කතකරණීයං නාපරං ඉත්ථත්තායාති පජානාමී’ති",
+  "reason": "The Pāli writes the passage out; the Sinhala gives “...” for අකතෙ කතසඤ්ඤී අනධිගතෙ අධිගතසඤ්ඤී and for the declaration after its first words. Written out in the words of 62:3 (copied by script).",
+  "unsure": false
+ },
+ {
+  "pi": 69,
+  "ei": 7,
+  "kind": "wrong-subject",
+  "edits": [
+   [
+    "කිමෙක්ද, භාග්‍යවතුන් වහන්සේ මා අදහන්නේය. විශ්වාස කරන්නේය. ස්වාමීනි,",
+    "භාග්‍යවතුන් වහන්සේ වනාහි මට විශ්වාස කටයුතුය, ඇදහිය යුතු වචන ඇත්තේය. එසේ වුවත්"
+   ]
+  ],
+  "pali": "කිඤ්චාපි මෙ භන්තෙ භගවා සද්ධායිකො පච්චයිකො, අථ ඛො",
+  "reason": "Kokālika: “although the Blessed One is worthy of my faith and trust (මෙ … සද්ධායිකො පච්චයිකො), yet …”; the Sinhala makes it a question and says that the Blessed One believes and trusts him. Put in the words of sn-1-3 71:0, the same sentence (copied by script); BJT’s Sinhala: “මා හට භාග්‍යවතුන් වහන්සේ ශ්‍රද්ධාව එළවත් නමුදු …”. (Outside the step-1 list; the same sentence as 70:0.)",
+  "unsure": false
+ },
+ {
+  "pi": 70,
+  "ei": 0,
+  "kind": "wrong-subject",
+  "edits": [
+   [
+    "මා කෙරෙහි ශ්‍රද්ධාව ඇත්තාහු නමුදු, විශ්වාස ඇත්තාහු නමුදු,",
+    "මට විශ්වාස කටයුතු වූ නමුදු, ඇදහිය යුතු වචන ඇත්තාහු නමුදු,"
+   ]
+  ],
+  "pali": "කිඤ්චාපි මෙ භන්තෙ භගවා සද්ධායිකො පච්චයිකො",
+  "reason": "Kokālika: “although the Blessed One is worthy of my faith and trust (මෙ … සද්ධායිකො පච්චයිකො)”; the Sinhala says that the Blessed One has faith and trust in him. Put in the words of sn-1-3 71:0 (“මට විශ්වාස කටයුතුය, ඇදහිය යුතු වචන ඇත්තේය”); nothing else is changed.",
+  "unsure": false
+ },
+ {
+  "pi": 71,
+  "ei": 0,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "ඇද්ද, මේ වරද",
+    "ඇද්ද, තමාත් සමග සියල්ලම පිරිහීම වූ මේ වරද"
+   ],
+   [
+    "තමා සමග සියල්ලන්ට මෙය",
+    "මෙය"
+   ]
+  ],
+  "pali": "සබ්බස්සාපි සහාපි අත්තනා",
+  "reason": "සබ්බස්සාපි සහාපි අත්තනා (the loss of everything, oneself included) belongs to the loss at dice, which is the small one; the Sinhala puts it with the second half (“a great evil for all, oneself included”). Moved to the first sentence, as sn-1-3 70:7 and an-4 3:2 have it and as BJT’s Sinhala reads. (Outside the step-1 list; the same verse as 73:0.)",
+  "unsure": false
+ },
+ {
+  "pi": 71,
+  "ei": 1,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "අබ්බුද ලක්‍ෂ ගණන්ද, නිරබ්බුද තිසක්ද පසක්ද",
+    "නිරබ්බුද ලක්‍ෂයක්ද තිස් හයක්ද, අබ්බුද පසක්ද"
+   ]
+  ],
+  "pali": "සතං සහස්සානං නිරබ්බුදානං, ඡත්තිංසති පඤ්ච ච අබ්බුදානි",
+  "reason": "The verse counts a hundred thousand nirabbudas and thirty-six more, and five abbudas; the Sinhala gives lakhs of abbudas and thirty and five nirabbudas. Put as sn-1-3 70:8 has the same verse (“නිරබ්බුද … ලක්ෂයක් ද, තව තිස් හයක් ද, අර්බුද පහක් ද”). (Outside the step-1 list; the same verse as 73:1.)",
+  "unsure": false
+ },
+ {
+  "pi": 73,
+  "ei": 0,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "ඇද්ද, මේ වරද",
+    "ඇද්ද, තමාත් සමග සියල්ලම පිරිහීම වූ මේ වරද"
+   ],
+   [
+    "තමා සමග සියල්ලන්ට මෙය",
+    "මෙය"
+   ]
+  ],
+  "pali": "සබ්බස්සාපි සහාපි අත්තනා",
+  "reason": "සබ්බස්සාපි සහාපි අත්තනා (the loss of everything, oneself included) belongs to the loss at dice, which is the small one; the Sinhala puts it with the second half (“a great evil for all, oneself included”). Moved to the first sentence, as sn-1-3 70:7 and an-4 3:2 have it and as BJT’s Sinhala reads.",
+  "unsure": false
+ },
+ {
+  "pi": 73,
+  "ei": 1,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "අබ්බුද ලක්‍ෂ ගණන්ද, නිරබ්බුද තිසක්ද පසක්ද",
+    "නිරබ්බුද ලක්‍ෂයක්ද තිස් හයක්ද, අබ්බුද පසක්ද"
+   ]
+  ],
+  "pali": "සතං සහස්සානං නිරබ්බුදානං, ඡත්තිංසති පඤ්ච ච අබ්බුදානි",
+  "reason": "The verse counts a hundred thousand nirabbudas and thirty-six more, and five abbudas; the Sinhala gives lakhs of abbudas and thirty and five nirabbudas. Put as sn-1-3 70:8 has the same verse (“නිරබ්බුද … ලක්ෂයක් ද, තව තිස් හයක් ද, අර්බුද පහක් ද”).",
+  "unsure": false
+ },
+ {
+  "pi": 80,
+  "ei": 6,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "භාග්‍යවතුන් වහන්සේ එතදවොච:",
+    "භාග්‍යවතුන් වහන්සේ මෙය වදාළ සේක:"
+   ]
+  ],
+  "pali": "භගවා එතදවොච",
+  "reason": "එතදවොච is left in Pāli. Translated in the words of 64:10. (Outside the step-1 list; read beside 80:7.)",
+  "unsure": false
+ },
+ {
+  "pi": 80,
+  "ei": 7,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "ආකඞ්ඛමානො අත්තනාව අත්තානං ව්යාකරෙය්ය:",
+    "හෙතෙම කැමැති වන්නේ තෙමේම තමා ගැන ප්‍රකාශ කරන්නේය:"
+   ]
+  ],
+  "pali": "ආකඞ්ඛමානො අත්තනාව අත්තානං ව්යාකරෙය්ය",
+  "reason": "The entry’s last clause is left in Pāli. Translated in the words of 83:0 (“තෙමේම තමා ගැන ප්‍රකාශ කරන්නේය”) and sn-2-1-5 0:5 (“හෙතෙම කැමැති වන්නේ”), the same sentence.",
+  "unsure": false
+ },
+ {
+  "pi": 98,
+  "ei": 1,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "ඉමෙහි දස",
+    "මේ දස"
+   ]
+  ],
+  "pali": "ඉමෙහි ඛො භික්ඛවෙ දසහි ධම්මෙහි",
+  "reason": "The Pāli word ඉමෙහි is left in the sentence (“ඉමෙහි දස ධර්‍මයකින්”). Put as “මේ”.",
+  "unsure": false
+ },
+ {
+  "pi": 100,
+  "ei": 3,
+  "kind": "negation",
+  "edits": [
+   [
+    "අනුන් දුන් දෙය ගැනීම හැර අනුන් දුන් දෙය ගැනීමෙන්",
+    "නුදුන් දෙය ගැනීම හැර නුදුන් දෙය ගැනීමෙන්"
+   ]
+  ],
+  "pali": "අදින්නාදානං පහාය අදින්නාදානා පටිවිරතො හොති",
+  "reason": "අදින්නාදානං is the taking of what is not given; the Sinhala says he gives up and abstains from taking what others have given. Put as “නුදුන් දෙය” (81:2 of the file: “නුදුන් දේ ගන්නා”).",
+  "unsure": false
  }
 ]
