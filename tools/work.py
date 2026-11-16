@@ -3,7 +3,8 @@
   python3 tools/work.py list <step> [nik]          entries of a step still to read, per file
   python3 tools/work.py show <file> [start] [n]     print the next n unread entries of a file in full (apz, Pāli, BJT Sinhala)
   python3 tools/work.py done <file> <pi>:<ei> …     mark entries read with nothing to report
-  python3 tools/work.py batch <name> <file> …       write batches/<name>_<commit>.tsv (+ _unsure.tsv) from verdicts/<file>.json
+  python3 tools/work.py batch <name> <file> … [--step N]   write batches/<name>_<commit>.tsv (+ _unsure.tsv) from verdicts/<file>.json
+                                                    (--step N: only the findings of step N; a finding without "step" is step 1's)
   python3 tools/work.py status
 
 Steps (the maintainer's order, 2026-11-12): 1 = model-written or partly rewritten entries (under 90% de Zoysa);
@@ -78,7 +79,7 @@ def cmd_done(step, f, keys):
 
 def sq(s): return re.sub(r'\s+', ' ', s).strip()
 
-def cmd_batch(name, files):
+def cmd_batch(name, files, step=None):
     H = ['file', 'page_idx', 'entry_idx', 'kind', 'current_text', 'proposed_text', 'pali_excerpt', 'reason']
     main, uns, bad = [], [], []
     for f in files:
@@ -86,6 +87,7 @@ def cmd_batch(name, files):
         if not os.path.exists(p): continue
         a = json.load(open(f'{APZ}/{f}.json', encoding='utf-8')); b = json.load(open(f'{BJT}/{f}.json', encoding='utf-8'))
         for v in json.load(open(p, encoding='utf-8')):
+            if step is not None and v.get('step', 1) != step: continue
             cur = a['pages'][v['pi']]['entries'][v['ei']]; pali = b['pages'][v['pi']]['pali']['entries'][v['ei']]['text']
             if 'was' in v and v['was'] != cur:
                 bad.append(f"{f} {v['pi']}:{v['ei']}: the entry has changed upstream since it was read; read it again"); continue
@@ -118,7 +120,10 @@ if __name__ == '__main__':
     if a[0] == 'list': cmd_list(int(a[1]), a[2:] or NIKS)
     elif a[0] == 'show': cmd_show(int(a[1]), a[2], int(a[3]) if len(a) > 3 else 0, int(a[4]) if len(a) > 4 else 12)
     elif a[0] == 'done': cmd_done(int(a[1]), a[2], a[3:])
-    elif a[0] == 'batch': sys.exit(cmd_batch(a[1], a[2:]))
+    elif a[0] == 'batch':
+        st = None
+        if '--step' in a: i = a.index('--step'); st = int(a[i + 1]); del a[i:i + 2]
+        sys.exit(cmd_batch(a[1], a[2:], st))
     elif a[0] == 'status':
         for s in (1, 2, 3, 4):
             try: cmd_list(s, NIKS)

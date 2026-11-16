@@ -20,7 +20,9 @@ Each run is a fresh session. Read `CLAUDE.md` first, all of it: the brief, the f
    `python3 tools/work.py batch <nik>-step1 <all its files>`, and write `batches/<nik>-step1_ISSUE.md`: a short issue
    text for pathnirvana/tipitaka.lk naming the commit, the number of entries read, the number of rows by kind, and that
    the unsure file is attached separately (the DN issue text also asks the one open question on සො ධම්මං දෙසෙති,
-   `CLAUDE.md`). The maintainer wants each collection as soon as it finishes: notify the owner at once. Steps 2–4 are one batch each over the four Nikāyas, built the same way.
+   `CLAUDE.md`). The maintainer wants each collection as soon as it finishes: notify the owner at once. Steps 2–4 are one batch each over the four Nikāyas, built the same way, with `--step N`
+   (`python3 tools/work.py batch step2 <every file of the step> --step 2`): a finding of step 2–4 carries `"step": N` in
+   its verdict, so that the batch holds only that step's rows and not step 1's again; write `batches/stepN_ISSUE.md`.
 6. Add a dated entry to `AUTOPILOT_LOG.md`: the commit, the files and number of entries read, the findings (file,
    page:entry, kind, sure or unsure), and anything the owner should know (an entry that changed upstream after it was
    read, a doubt about the rules). Commit everything with a plain-English message and push the branch `autopilot`.

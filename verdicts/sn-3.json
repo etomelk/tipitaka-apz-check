@@ -96,5 +96,21 @@
   "pali": "සඤ්ඤාය අස්සාදො",
   "reason": "In the sentence on perception (සඤ්ඤාය අස්සාදො), written out where the Pāli abbreviates, the conclusion reads “සත්වයන් සංස්කාරයන්හි ඇලෙත්” (beings cling to formations) for “සංඥාවෙහි” (to perception); the sentences on feeling, formations and consciousness each end with their own aggregate.",
   "unsure": false
+ },
+ {
+  "pi": 37,
+  "ei": 4,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "ධර්මය තමාට පහනක් කොට ගෙන ධර්මය තමාට පිහිට කොට ගෙන",
+    "තමා පහනක් කොට ගෙන, තමා පිහිට කොටගෙන"
+   ]
+  ],
+  "pali": "අත්තදීපා භික්ඛවෙ, විහරථ අත්තසරණා අනඤ්ඤසරණා",
+  "unsure": false,
+  "was": "එහිදී භාග්‍යවතුන් වහන්සේ ‘මහණෙනි’යි කියා භික්ෂූන් ඇමතූසේක. ‘ස්වාමීනියි’ කියා ඒ භික්ෂූහු භාග්‍යවතුන් වහන්සේට උත්තර දුන්හ. (එවිට) භාග්‍යවතුන් වහන්සේ මෙය වදාළසේක. “මහණෙනි, ධර්මය තමාට පහනක් කොට ගෙන ධර්මය තමාට පිහිට කොට ගෙන අන්‍ය පිහිටක් නැත්තෝව වාසය කරව්. ධර්මය පහනක් කොට ගෙන, ධර්මය පිහිට කොට ගෙන අන්‍ය පිහිටක් නැත්තෝව වාසය කරව්.",
+  "reason": "අත්තදීපා … අත්තසරණා (with oneself as island, oneself as refuge) is given as “ධර්මය තමාට පහනක් කොට ගෙන ධර්මය තමාට පිහිට කොට ගෙන” (making the Dhamma one’s lamp and refuge), so the Dhamma stands in both sentences and oneself in neither. Made “තමා පහනක් කොට ගෙන, තමා පිහිට කොටගෙන”, the words of the next entry (37:5) for the same phrase, copied by script; the second sentence (ධම්මදීපා ධම්මසරණා) is left as it is.",
+  "step": 2
  }
 ]

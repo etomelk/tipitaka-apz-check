@@ -2113,3 +2113,67 @@ Left alone:
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Next: step 2 (`duplicate`, `length-long`, `moved`; 302 entries over the four Nikāyas, from `dn-1-3`), one batch.
+
+## 2026-11-16 (third run) — step 2 begun: DN, MN and the first six SN files (98 entries); 7 confirmed rows
+
+Upstream commit e4db85e (the pinned one). Comparison rebuilt. Step 2 (`duplicate`, `length-long`, `moved`; 302 entries
+over the four Nikāyas) was begun. Read, each in full against its Pāli: all of step 2 in the Dīgha (`dn-1-3` 3,
+`dn-1-6` 1, `dn-1-11` 8, `dn-2-4` 2, `dn-2-7` 3, `dn-3-5` 2, `dn-3-10` 1) and the Majjhima (`mn-1` 1, `mn-1-3` 2,
+`mn-1-4` 1, `mn-1-5` 1, `mn-2-4` 1, `mn-2-5` 4, `mn-3-2` 2, `mn-3-4` 6), and in the Saṃyutta `sn-1` 25, `sn-2-1-5` 11,
+`sn-2-5` 1, `sn-3` 5, `sn-3-1-2` 8, `sn-3-1-3` 10: 98 entries. Every file's batch was rebuilt, nothing refused.
+
+**Tool change.** A step-2 batch built from the verdict files would have held step 1's rows again. A finding of steps
+2–4 now carries `"step": N`, and `tools/work.py batch … --step N` writes only that step's rows (a finding without
+`"step"` is step 1's; the per-file and Nikāya batches of step 1 are built as before and now also hold the later
+steps' rows of their file). `AUTOPILOT.md` step 5 says so. The step's batch will be
+`python3 tools/work.py batch step2 <files> --step 2` when the step is finished.
+
+Confirmed (main file), all `"step": 2`:
+- `sn-1` 49:3, 49:11, 49:19, 50:6 clause-added (the Nandana, Candana, Vasudatta and Subrahma suttas; de Zoysa's own
+  text): the Pāli entry is only එකමන්තං ඨිතො ඛො … දෙවපුත්තො … and each sutta opens with සාවත්ථියං (the entry
+  before, “සැවැත් නුවර–”), but the opening de Zoysa writes out puts it at Rājagaha in the Veḷuvana (“රජගහනුවර
+  සමීපයෙහි කලන්‍දක නිවාප නම්වූ වේළුවනයෙහි …”, “සියලු වේළුවනය බබුළුවා”). The place is made Sāvatthi and the
+  Jetavana in the words of 48:11 (copied by script). The owner may prefer the opening taken out altogether; the row
+  changes only the place.
+- `sn-3` 37:4 wrong-word (the Attadīpa sutta; de Zoysa's own text): අත්තදීපා … අත්තසරණා is “ධර්මය තමාට පහනක් කොට
+  ගෙන ධර්මය තමාට පිහිට කොට ගෙන”, so the Dhamma stands in both sentences and oneself in neither. Made “තමා පහනක්
+  කොට ගෙන, තමා පිහිට කොටගෙන”, the next entry's words for the same phrase (copied by script).
+- `sn-3-1-3` 32:16 and its neighbour 32:13 (outside the list, the same sentence) clause-added: කල්ලන්නු තං
+  සමනුපස්සිතුං “එතං මම …” is given with “එය තදින් අල්ලා නොගැනීමෙන්” (අනුපාදාය, from the suttas before it), which
+  the Pāli of these two entries does not have; taken out (in 32:16 four times, once for each aggregate written out).
+  A script search of the five `sn-3*` files found the phrase without අනුපාදාය in the Pāli only in these two entries.
+
+Unsure: none.
+
+Already reported in step 1 (same entries, nothing new): `mn-1-3` 36:0 (Pāli left in), `mn-2-4` 80:1 (the king's
+report, which belongs to 80:0), `sn-3` 26:2.
+
+Left alone:
+- Most `length-long` entries are openings or repetitions that de Zoysa writes out where the Pāli has only
+  සාවත්ථියං–, nothing, or -පෙ-: `sn-1` 4:3 – 59:14 (the visit of the deity told in full before එකමන්තං ඨිතා …;
+  in 28:3 – 30:12 inside the verse entry, the Pāli having no opening at all), `sn-2-1-5` 51:8 – 52:19 (the ten
+  Antarapeyyāla entries, each the whole first sutta with its own key word, and de Zoysa's note of the other ten
+  suttas and the vagga), `sn-2-5` 14:0 (the Pāli entry begins in mid-sutta, පජාපතියාපි හෙතු), `sn-3` 26:3, 43:8,
+  43:10, `sn-3-1-2` and `sn-3-1-3` (the question asked once per aggregate), `mn-3-2` 64:3, 64:4, `dn-2-7` 55:2.
+  Written-out abbreviations: no row.
+- `sn-1` 29:10 and 48:11, 51:16: the opening names Anāthapiṇḍika devaputta (29:10, where the Pāli names no one;
+  the commentary's identification) or repeats the Sāvatthi opening of the entry before; additions that do not
+  contradict the Pāli. 49:19 and its heading have “සුදත්ත” for BJT's වසුදත්තො: BJT's footnote records සුදත්තසුත්තං
+  as a reading; a recorded variant, no row (as before). 28:10 puts “ශාස්වත උච්ඡේද ඇති” (the gloss of the two
+  whirlpools) after the three stains: loose.
+- `dn-1-6` 56:0 gives the one Pāli sentence (ඉමා ඛො චිත්ත ලොකසමඤ්ඤා …) three times, once each for “කාමභවයෙහි”,
+  “රූපභවයෙහි” and “අරූප ආත්ම ලැබීම”, each ending “යයි කීසේක”: de Zoysa's expansion of ඉමා by the three
+  acquisitions of self named just before (BJT's Sinhala also names the first, “ඕළාරිකො අත්තපටිලාභො යන ආදි”);
+  a restatement, left, but a doubt for the owner.
+- `dn-2-4` 41:2: the apz entry translates its Pāli (the fifth quality, gains and fame); BJT's own Sinhala beside it
+  is that of the sixth quality (not our matter, noted only).
+- `sn-2-1-5` 48:21 (a summary verse): “නිදාන වර්ගයෙහි අටවැනි” for අභිසමයෙ … අට්ඨමො, and a list of the eight
+  vaggas added; uddāna, left as before.
+- `mn-1-4` 41:1 අනච්ඡරියා as “ආශ්චර්‍ය්‍යවූ” (a reading; BJT අන්වාශ්චර්ය); `mn-3-4` 9:4, 11:2 no word for ආවුසො;
+  `sn-3-1-2` 50:1 තථාගතො as “සත්ත්වයා” (BJT's Sinhala the same); `sn-3-1-3` 28:14 holds the answer නො හෙතං භන්තෙ
+  that opens the Pāli of 28:15 (a different cut, nothing lost).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 2: 204 of 302 entries (`sn-3-2` 22, `sn-3-7` 34, the other eight SN files 26, the Aṅguttara 122).
+Next run: from `sn-3-2`.
