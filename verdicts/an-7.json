@@ -1,5 +1,20 @@
 [
  {
+  "pi": 8,
+  "ei": 7,
+  "kind": "list-item-missing",
+  "edits": [
+   [
+    "සිටි තැනැත්තේය, ශ්‍රද්‍ධාවෙන් මිදුන තැනැත්තේය",
+    "සිටි තැනැත්තේය, මාර්‍ග දෘෂ්ටියට පැමිණි තැනැත්තේය, ශ්‍රද්‍ධාවෙන් මිදුන තැනැත්තේය"
+   ]
+  ],
+  "pali": "කායසක්ඛි, දිට්ඨප්පත්තො, සද්ධාවිමුත්තො",
+  "reason": "The list of the seven persons has six: දිට්ඨප්පත්තො (the fourth) is not there, though the entry ends “යන සත්දෙනය”. Added in the words an-2 23:3 and 24:0 have for it (“මාර්‍ගදෘෂ්ටියට පැමිණියේය”).",
+  "unsure": false,
+  "step": 2
+ },
+ {
   "pi": 18,
   "ei": 9,
   "kind": "negation-reversed",

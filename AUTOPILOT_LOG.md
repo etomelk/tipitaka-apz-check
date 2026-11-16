@@ -2230,3 +2230,49 @@ The add_repo tool was again not available; the repository was already cloned wit
 Left in step 2: 91 of 302 entries, all in the Aṅguttara (`an-5-5` 12, `an-6` 7, `an-6-2` 4, `an-7` 5, `an-7-2` 13,
 `an-8-2` 6, `an-9` 5, `an-10` 4, `an-10-2` 22, `an-10-3` 1, `an-10-4` 10, `an-10-5` 2). Next run: from `an-5-5`;
 it should finish the step and build the step-2 batch.
+
+## 2026-11-16 (fifth run) — step 2 finished: the rest of the Aṅguttara (91 entries); 2 confirmed rows; the step-2 batch built
+
+Commit e4db85e (pinned). Step 2 (`duplicate`, `length-long`, `moved`), each entry read in full against its Pāli:
+`an-5-5` 12, `an-6` 7, `an-6-2` 4, `an-7` 5, `an-7-2` 13, `an-8-2` 6, `an-9` 5, `an-10` 4, `an-10-2` 22, `an-10-3` 1,
+`an-10-4` 10, `an-10-5` 2: 91 entries. Step 2 is finished (302 of 302). Every file's batch was rebuilt, nothing
+refused; the step's batch is `batches/step2_e4db85e.tsv` (11 rows; the unsure file has none), with the issue text
+`batches/step2_ISSUE.md`.
+
+Confirmed (main file), both `"step": 2`, both de Zoysa's own text (not in step 1's list):
+- `an-7` 8:7 list-item-missing: the seven persons (උභතොභාගවිමුත්තො … සද්ධානුසාරී) are six in the Sinhala,
+  දිට්ඨප්පත්තො is not there, though the entry ends “යන සත්දෙනය”. Added in the words `an-2` 23:3 and 24:0 have
+  for it (“මාර්‍ග දෘෂ්ටියට පැමිණි තැනැත්තේය”, in the form of the list's other members).
+- `an-10-3` 26:6 clause-added (the Pubbaṅgama sutta of the Tens): the Pāli names only right view as the forerunner
+  and foretoken of wholesome qualities and then gives the chain සම්මාදිට්ඨිස්ස සම්මාසඞ්කප්පො පහොති …; the Sinhala
+  says “… කුශල ධර්‍මයන්ට එය පෙර ගමනයි. එය පෙර නිමිත්තයි” of each of the other nine factors too. The nine added
+  sentences are taken out by script, nothing else changed. A doubt for the owner about scope, not about the reading:
+  it is de Zoysa's expansion and takes nine sentences out; it is in the main file by the rule that an added clause
+  is a row when it says something the Pāli does not (as `an-4-5` 20:1 in step 1), and the issue text says he may
+  skip it.
+
+Unsure: none.
+
+Already reported in step 1 (same entries, nothing new): `an-5-5` 26:17, `an-6` 55:0, 74:4, `an-9` 8:3, 81:2,
+`an-10` 75:2, 75:3, `an-10-2` 44:4, 73:0, 73:1, `an-10-4` 11:0, `an-10-5` 15:3.
+
+Left alone:
+- Written-out abbreviations and peyyālas, no row: `an-5-5` 25:3 – 27:3 (the jhānas and fruits one sentence each;
+  the closing කතමෙ පඤ්ච has no “කවර පසක්ද”, as noted in run 40), 35:5; `an-9` 98:10 and 100:8 (the whole
+  Sammappadhāna and Iddhipāda vaggas written out where the Pāli has one line of instruction); `an-10-4` 32:10,
+  32:11; `an-7-2` 53:4.
+- `an-10-2` 60:3, 62:1, 62:2, 63:0: no words for ඣායී සමාපත්තිකුසලො පරචිත්තකුසලො පරචිත්තපරියායකුසලො at their
+  later occurrences (a dropped repeat, as in step 1); 87:4 ends with the sentence that opens the Pāli of 87:5;
+  103:6 – 104:10 give නො ච ඛො තාව අනුප්පත්තසදත්ථා විහරන්ති as “යම්තාක් නොපැමිණි ස්වාර්ත්‍ථය ඇතිව වාසය කරත්ද,
+  ඒතාක්ය” (loose; step 1 left it).
+- `an-6-2` 21:1 ආයතිං ධම්මසමුප්පාදො as “නැවත ධර්මයන් ඇතිවීම”; 22:0 gives the second චෙතසා චෙතො පරිච්ච පජානාමි
+  only as “අනික් කාලයක”; `an-10-5` 25:5 puts the four verbs once, in brackets, for lying and slander together;
+  `an-10-4` 12:3 has the full stops of the four things to be known in the wrong places (noted in step 1);
+  `an-6` 53:9 (verse) carries the commentary's glosses. Loose or condensed, no row.
+- `an-7-2` 52:5 – 53:5: no word for ඉමෙහි in the closing sentences; 53:3 – 53:9 “භික්‍ෂුතෙම” where the Pāli has only
+  විනයධරො: single words.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Step 2 is finished; its batch is ready for the owner to read and post. Left: step 3 (`dropped`, 526 entries) and
+step 4 (`pali-words`, 202 entries). Next run: step 3, from `dn-1`.
