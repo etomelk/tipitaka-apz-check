@@ -2276,3 +2276,45 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Step 2 is finished; its batch is ready for the owner to read and post. Left: step 3 (`dropped`, 526 entries) and
 step 4 (`pali-words`, 202 entries). Next run: step 3, from `dn-1`.
+
+## 2026-11-16 (sixth run) — step 3 begun: the Dīgha (106 entries); no rows
+
+Commit e4db85e (pinned). Step 3 (`dropped`: words of de Zoysa that are not in the entry, the Pāli entry having no
+abbreviation mark), each entry read in full against its Pāli: `dn-1` 2, `dn-1-3` 5, `dn-1-6` 17, `dn-1-11` 15,
+`dn-2` 4, `dn-2-3` 12, `dn-2-4` 2, `dn-2-7` 8, `dn-3` 12, `dn-3-5` 13, `dn-3-10` 16: 106 entries, the whole Dīgha
+of the step. Every file's batch was rebuilt, nothing refused, no file changed.
+
+Confirmed: none. Unsure: none. In every entry the words of de Zoysa that were dropped are his own additions
+(glosses, “එනම්”, “යන මෙය”, a repeated subject, commentary explanations such as “දෘෂ්ටි ආශ්‍රවයෝය” in `dn-2-3`
+8:4 and 8:5, which the Pāli does not have, or the story he tells after `dn-3` 5:1 and marks as not in the Pāli),
+so the entries are the closer to the Pāli for it.
+
+Already reported in step 1 (same entries, nothing new): `dn-1-6` 0:3 (the open question on සො ධම්මං දෙසෙති, also
+in `dn-1-11` 34:4, not multiplied), `dn-2-7` 61:5 (the Pāli paragraph left in), `dn-3` 28:3 (තිංසමත්තෙහි
+පරිබ්බාජකසතෙහි as three hundred).
+
+Left alone:
+- Shortened repetitions, no row: `dn-1-6` 2:2 and 2:4 give the second sentence of the Pāli (සො පුරත්ථිමාය දිසාය
+  එකංසභාවිතෙ සමාධිම්හි …) together with the third, and 2:4 puts “...” twice where the Pāli repeats පියරූපානි
+  කාමූපසංහිතානි රජනීයානි and පුරත්ථිමාය දිසාය එකංසභාවිතෙ සමාධිම්හි (words that stand earlier in the same
+  entry; nothing of the sense is missing). `dn-2` 1:1 has එතස්ස භගවා කාලො, එතස්ස සුගත කාලො once.
+- Pāli terms and quoted words, as step 1 left them: “අයමෙව උජුමග්ගො …” with its translation in brackets
+  (`dn-1-11` 58:0, 59:2, 61:2); Pāli words in brackets after their Sinhala (`dn-2-3` 8:4 “(මහානිසංසො)”,
+  “(චිත්තං)”); terms kept with a Sinhala gloss (`dn-2-7` 41:2 “සරාග (රාග සහිත) සිත” …, `dn-3-5` 63:8
+  “පාණිස්සර (අත්තාලම්)”, 66:6 – 66:7 “අනුප්පියභාණී”, “අපායසහාය”); the bold Pāli heads of the Saṅgīti
+  (`dn-3-10`). `dn-3-5` 63:8 translates සමජ්ජාභිචරණෙ in its first sentence (“නැටුම් පලවල්වල හැසිරීමෙහි”) and
+  keeps it as “සමජ්ජාභිචරණයෙහි” in the last: a term in Sinhala form beside its translation, no row.
+- Single words: `dn-1-6` 0:3 none for සක්යපුත්තො, 0:4 none for මහාවනං; `dn-1-11` 29:1 none for බලං (29:0 has
+  it); `dn-2` 23:3 none for උපපජ්ජෙථ beside “උපදින්නාහුද … චුත වන්නාහුද”; `dn-3-10` 24:4 none for අප්පාතඞ්කො
+  beside “ස්වල්ප ආබාධ ඇත්තේ”; `dn-3-10` 50:4 none for පරිනිබ්බානිකො, one of the three epithets ඔපසමිකො
+  පරිනිබ්බානිකො සම්බොධගාමී (de Zoysa had it: “කෙලෙස් නැතිකිරීමෙන් පිරිනිවීම පිණිස පවත්නාවූ”).
+- Loose, no row: `dn-1-11` 58:3, 59:5 තස්ස සහව්යතාය as “එය ලැබීම පිණිස”; 61:4 “දේශනා කරනු ඇත” with no word for
+  තස්ස සහව්යතාය මග්ගං outside the quoted saying; `dn-2` 23:3 නාමරූපම්හා නාපරං ගච්ඡති as “නාමරූප දෙකින්
+  වෙන්ව නොපවතියි”; `dn-2-4` 41:4 සත්ථාරං as “වෙන කෙනෙකු”; `dn-3` 5:1 අචෙලො as “නිගණ්ඨයා”, “නිවටා”;
+  `dn-1-11` 29:0, 29:1 the barber's name “රොසික” (noted in step 1).
+- Commentary glosses in brackets in the Saṅgīti (`dn-3-10` 6:10, 8:7): de Zoysa's, no row.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 3: 420 of 526 entries (MN 136, SN 150, AN 134). Next run: from `mn-1`. Step 4 (`pali-words`, 202
+entries) follows.
