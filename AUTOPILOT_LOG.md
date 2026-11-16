@@ -1947,3 +1947,50 @@ available; the repository was already cloned with push access.
 
 Left in step 1: 301 of 5,250 entries, all in the Aṅguttara (6 files, from `an-10`). Next run: `an-10` (52
 entries) and, if the number allows, a start on `an-10-2` (133).
+
+## 2026-11-16 — step 1, `an-10` (whole file) and `an-10-2` (first 51 entries)
+
+Upstream commit e4db85e (the pinned one). Comparison rebuilt. Read: `an-10`, all 52 entries of the step, and `an-10-2`,
+the first 51 of its 133 (to 61:6, inside the Katthī sutta), 103 entries, each in full against its Pāli. `an-10` is
+finished and its batch built, nothing refused: `batches/an-10_e4db85e.tsv` 8 rows, no unsure. Four of the rows are
+entries of the step's list; four are neighbours outside it (de Zoysa's own text) with the same error, read beside
+them. The owner may drop the four if he wants only the step's entries. `an-10-2` has 2 findings so far (no batch yet).
+
+Confirmed (main file):
+- `an-10` 75:2, 75:3, 75:4 wrong-number (Sakka): the four figures සතම්පි වස්සානි, සතම්පි වස්සසතානි, සතම්පි
+  වස්සසහස්සානි, සතම්පි වස්සසතසහස්සානි are a hundred years, a hundred hundreds (ten thousand), a hundred thousands
+  (a lakh) and a hundred lakhs (a koṭi); BJT's Sinhala counts them so. The Sinhala gives five figures: a hundred, a
+  thousand, ten thousand, a lakh, ten lakhs. Written “වර්‍ෂ සීයක්, වර්‍ෂ දසදාහක්, වර්‍ෂ ලක්‍ෂයක්, වර්‍ෂ කෝටියක්”;
+  only the figures are changed. The same in 74:6, 75:0, 75:1 (four figures there: a hundred, a thousand, ten
+  thousand, a lakh), outside the list. The precedent is `sn-1-3` 19:5. (“කෝටියක්” is not used elsewhere in the four
+  Nikāyas of text-apz; it is the modern number word the guidelines ask for.)
+- `an-10` 71:1 wrong-word (Kusinārā): the closing sentence ඉමෙ පඤ්ච ධම්මා අජ්ඣත්තං පච්චවෙක්ඛිතබ්බා (the five to be
+  reflected on) is given with the verb of the second five (“එලවිය යුතුය”, උපට්ඨපෙතබ්බා, 71:2). Put in the words
+  the entry itself opens with (“නුවණින් සිහි කටයුතුය”).
+- `an-10` 71:3 clause-missing (the same sutta's last sentence, outside the list): ඉමෙ පඤ්ච ධම්මෙ අජ්ඣත්තං
+  උපට්ඨපෙත්වා has no translation; put in in the word of 70:3 (“පිහිටුවා”).
+- `an-10-2` 44:4 wrong-word (Migasālā): those who measure ask “why (කස්මා) is one of them low and one excellent?”;
+  the Sinhala has no “why” and makes it their statement (“ඔවුන් අතුරෙන් එකෙක් හීනය, එකෙක් ප්‍රණීතයයි”). Put as
+  the question. The same in 42:1 (the same sentence, outside the list).
+
+Unsure: none.
+
+Left alone:
+- `an-10` 8:2: the Sinhala ends with a clause (“යම් හෙයකින් (එබඳු සංඥාවක්) වීමි”) for the සඤ්ඤී ච පන අහොසිං that
+  BJT's Pāli entry does not print here; it is the sutta's own sense, no row. 10:0 has no word for දිට්ඨෙව ධම්මෙ
+  (one phrase of a stock formula); 16:5 gives the repeated යො සො භික්ඛවෙ භික්ඛු … clause once (a repeat).
+- `an-10` 28:0 gives චතුරාපස්සෙනො as “විමසීම් සතරකින් යුක්ත” (de Zoysa's word, loose); 17:0 gives මිද්ධසුඛං as
+  “හිඳීමේ සතුට”; 51:10 of `an-10-2` and others give නිසීදි as “සිටියේය”. Loose wording, as in earlier runs.
+- `an-10-2` 58:2 and 60:3 leave out the four epithets ඣායී සමාපත්තිකුසලො පරචිත්තකුසලො පරචිත්තපරියායකුසලො at
+  their third occurrence in the passage (58:0, 58:1, 60:2 have them): a dropped repeat, no row. 44:3 gives උද්ධතො
+  as “උඩඟු සිත් ඇත්තේ” (the old Sinhala form of the word). 5:6 gives the four questions of the reflection twice
+  (a restatement).
+- `an-10-2` 42:2 and its repeats give ඛඤ්ඤති as “… පුද්ගලයෙක් කොහිද?” (outside the list; de Zoysa's reading of a
+  hard word, not gone into).
+- The uddāna entries (`an-10` 12:5, 29:5, 60:7, 81:7; `an-10-2` 34:10) and the entries that write out what the
+  Pāli abbreviates or abbreviate with a mark where it does.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 198 of 5,250 entries, all in the Aṅguttara (`an-10-2` 82, `an-10-3` 32, `an-10-4` 26, `an-10-5` 24,
+`an-11` 34). Next run: `an-10-2` from 61:7.

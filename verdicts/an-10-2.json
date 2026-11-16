@@ -1,0 +1,30 @@
+[
+ {
+  "pi": 42,
+  "ei": 1,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "ඔවුන් අතුරෙන් එකෙක් හීනය, එකෙක් ප්‍රණීතයයි",
+    "කුමක් හෙයින් ඔවුන් අතුරෙන් එකෙක් හීන වේද, එකෙක් ප්‍රණීත වේදැයි"
+   ]
+  ],
+  "pali": "කස්මා තෙසං එකො හීනො, එකො පණීතො",
+  "reason": "Migasālā: those who measure ask a question, “this one has those very qualities, the other too; why (කස්මා) is one of them low and one excellent?”; the Sinhala has no “why” and makes it their statement that one is low and one excellent. Put as the question (BJT’s Sinhala: “කවර හෙයින් ඔවුනතුරෙන් එකෙක් හීන වේ ද, එකෙක් ප්‍රණීත වේදැ”යි); nothing else is changed. (Outside the step-1 list, de Zoysa’s own text; the same sentence as 44:4.)",
+  "unsure": false
+ },
+ {
+  "pi": 44,
+  "ei": 4,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "ඔවුන් අතුරෙන් එකෙක් හීනය, එකෙක් ප්‍රණීතයයි",
+    "කුමක් හෙයින් ඔවුන් අතුරෙන් එකෙක් හීන වේද, එකෙක් ප්‍රණීත වේදැයි"
+   ]
+  ],
+  "pali": "කස්මා නෙසං එකො හීනො එකො පණීතො",
+  "reason": "Migasālā: those who measure ask a question, “this one has those very qualities, the other too; why (කස්මා) is one of them low and one excellent?”; the Sinhala has no “why” and makes it their statement that one is low and one excellent. Put as the question (BJT’s Sinhala: “කවර හෙයින් ඔවුනතුරෙන් එකෙක් හීන වේ ද, එකෙක් ප්‍රණීත වේදැ”යි); nothing else is changed.",
+  "unsure": false
+ }
+]

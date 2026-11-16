@@ -1,0 +1,114 @@
+[
+ {
+  "pi": 71,
+  "ei": 1,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "මේ ධර්‍ම පස අධ්‍යාත්මයෙහි එලවිය යුතුය.",
+    "මේ ධර්‍ම පස අධ්‍යාත්මයෙහි නුවණින් සිහි කටයුතුය."
+   ]
+  ],
+  "pali": "ඉමෙ පඤ්ච ධම්මා අජ්ඣත්තං පච්චවෙක්ඛිතබ්බා",
+  "reason": "Kusinārā: the sentence closes the five things to be reflected on in oneself (පච්චවෙක්ඛිතබ්බා); the Sinhala says they are to be set up (“එලවිය යුතුය”), which is the verb of the second five (උපට්ඨපෙතබ්බා, 71:2). Put in the words the entry itself opens with for පච්චවෙක්ඛිතබ්බං (“නුවණින් සිහි කටයුතුය”).",
+  "unsure": false
+ },
+ {
+  "pi": 71,
+  "ei": 3,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "මේ ධර්‍ම පස තමන් තුළ නුවණින් සිතා අනුන්ට",
+    "මේ ධර්‍ම පස තමන් තුළ නුවණින් සිතා, මේ ධර්‍ම පස තමන් තුළ පිහිටුවා අනුන්ට"
+   ]
+  ],
+  "pali": "ඉමෙ පඤ්ච ධම්මෙ අජ්ඣත්තං උපට්ඨපෙත්වා",
+  "reason": "Kusinārā, the closing sentence: of the two clauses (having reflected on these five in oneself, having set up these five in oneself) only the first is translated. The second is put in, in the word the sutta’s opening (70:3) has for උපට්ඨපෙත්වා (“පිහිටුවා”). (Outside the step-1 list; read beside 71:1.)",
+  "unsure": false
+ },
+ {
+  "pi": 74,
+  "ei": 6,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "වර්‍ෂ සීයක්, වර්‍ෂ දහසක්, වර්‍ෂ දසදහසක්, වර්‍ෂ ලක්‍ෂයක්",
+    "වර්‍ෂ සීයක්, වර්‍ෂ දසදහසක්, වර්‍ෂ ලක්‍ෂයක්, වර්‍ෂ කෝටියක්"
+   ]
+  ],
+  "pali": "සතම්පි වස්සානි සතම්පි වස්සසතානි සතම්පි වස්සසහස්සානි සතම්පි වස්සසතසහස්සානි",
+  "reason": "Sakka: the four figures සතම්පි වස්සානි, සතම්පි වස්සසතානි, සතම්පි වස්සසහස්සානි, සතම්පි වස්සසතසහස්සානි are a hundred years, a hundred hundreds (ten thousand), a hundred thousands (a lakh) and a hundred lakhs (a koṭi), as BJT's Sinhala also counts them (සියවස් සියයකුදු, සහස්වස් සියයකුදු, සුවහස්වස් සියයකුදු); the Sinhala gives a hundred, a thousand, ten thousand, a lakh (outside the step-1 list, the same error as 75:2–75:4). Only the figures are changed.",
+  "unsure": false
+ },
+ {
+  "pi": 75,
+  "ei": 0,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "වර්‍ෂ සීයක්, වර්‍ෂ දාහක්, වර්‍ෂ දසදාහක්, වර්‍ෂ ලක්‍ෂයක්",
+    "වර්‍ෂ සීයක්, වර්‍ෂ දසදාහක්, වර්‍ෂ ලක්‍ෂයක්, වර්‍ෂ කෝටියක්"
+   ]
+  ],
+  "pali": "සතම්පි වස්සානි - සතම්පි වස්සසතානි සතම්පි වස්සසහස්සානි - සතම්පි වස්සසතසහස්සානි",
+  "reason": "Sakka: the four figures සතම්පි වස්සානි, සතම්පි වස්සසතානි, සතම්පි වස්සසහස්සානි, සතම්පි වස්සසතසහස්සානි are a hundred years, a hundred hundreds (ten thousand), a hundred thousands (a lakh) and a hundred lakhs (a koṭi), as BJT's Sinhala also counts them (සියවස් සියයකුදු, සහස්වස් සියයකුදු, සුවහස්වස් සියයකුදු); the Sinhala gives a hundred, a thousand, ten thousand, a lakh (outside the step-1 list, the same error as 75:2–75:4). Only the figures are changed.",
+  "unsure": false
+ },
+ {
+  "pi": 75,
+  "ei": 1,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "වර්‍ෂ සීයක්, වර්‍ෂ දාහක්, වර්‍ෂ දසදාහක්, වර්‍ෂ ලක්‍ෂයක්",
+    "වර්‍ෂ සීයක්, වර්‍ෂ දසදාහක්, වර්‍ෂ ලක්‍ෂයක්, වර්‍ෂ කෝටියක්"
+   ]
+  ],
+  "pali": "සතම්පි වස්සානි සතම්පි වස්සසතානි සතම්පි වස්සසහස්සානි සතම්පි වස්සසත සහස්සානි",
+  "reason": "Sakka: the four figures සතම්පි වස්සානි, සතම්පි වස්සසතානි, සතම්පි වස්සසහස්සානි, සතම්පි වස්සසතසහස්සානි are a hundred years, a hundred hundreds (ten thousand), a hundred thousands (a lakh) and a hundred lakhs (a koṭi), as BJT's Sinhala also counts them (සියවස් සියයකුදු, සහස්වස් සියයකුදු, සුවහස්වස් සියයකුදු); the Sinhala gives a hundred, a thousand, ten thousand, a lakh (outside the step-1 list, the same error as 75:2–75:4). Only the figures are changed.",
+  "unsure": false
+ },
+ {
+  "pi": 75,
+  "ei": 2,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "වර්‍ෂ සීයක්, වර්‍ෂ දාහක්, වර්‍ෂ දසදාහක්, වර්‍ෂ ලක්‍ෂයක්, වර්‍ෂ දස ලක්‍ෂයක්",
+    "වර්‍ෂ සීයක්, වර්‍ෂ දසදාහක්, වර්‍ෂ ලක්‍ෂයක්, වර්‍ෂ කෝටියක්"
+   ]
+  ],
+  "pali": "සතම්පි වස්සානි - සතම්පි වස්සසතානි - සතම්පිවස්ස සහස්සානි - සතම්පි වස්සසතසහස්සානි",
+  "reason": "Sakka: the four figures සතම්පි වස්සානි, සතම්පි වස්සසතානි, සතම්පි වස්සසහස්සානි, සතම්පි වස්සසතසහස්සානි are a hundred years, a hundred hundreds (ten thousand), a hundred thousands (a lakh) and a hundred lakhs (a koṭi), as BJT's Sinhala also counts them (සියවස් සියයකුදු, සහස්වස් සියයකුදු, සුවහස්වස් සියයකුදු); the Sinhala gives five figures: a hundred, a thousand, ten thousand, a lakh, ten lakhs. Only the figures are changed.",
+  "unsure": false
+ },
+ {
+  "pi": 75,
+  "ei": 3,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "වර්‍ෂ සීයක්, වර්‍ෂ දාහක්, වර්‍ෂ දසදාහක්, වර්‍ෂ ලක්‍ෂයක්, වර්‍ෂ දස ලක්‍ෂයක්",
+    "වර්‍ෂ සීයක්, වර්‍ෂ දසදාහක්, වර්‍ෂ ලක්‍ෂයක්, වර්‍ෂ කෝටියක්"
+   ]
+  ],
+  "pali": "සතම්පි වස්සානි - සතම්පි වස්සසතානි - සතම්පි වස්සසහස්සානි - සතම්පි වස්සසතසහස්සානි",
+  "reason": "Sakka: the four figures සතම්පි වස්සානි, සතම්පි වස්සසතානි, සතම්පි වස්සසහස්සානි, සතම්පි වස්සසතසහස්සානි are a hundred years, a hundred hundreds (ten thousand), a hundred thousands (a lakh) and a hundred lakhs (a koṭi), as BJT's Sinhala also counts them (සියවස් සියයකුදු, සහස්වස් සියයකුදු, සුවහස්වස් සියයකුදු); the Sinhala gives five figures: a hundred, a thousand, ten thousand, a lakh, ten lakhs. Only the figures are changed.",
+  "unsure": false
+ },
+ {
+  "pi": 75,
+  "ei": 4,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "වර්‍ෂ සීයක්, වර්‍ෂ දාහක්, වර්‍ෂ දසදාහක්, වර්‍ෂ ලක්‍ෂයක්, වර්‍ෂ දස ලක්‍ෂයක්",
+    "වර්‍ෂ සීයක්, වර්‍ෂ දසදාහක්, වර්‍ෂ ලක්‍ෂයක්, වර්‍ෂ කෝටියක්"
+   ]
+  ],
+  "pali": "සතම්පි වස්සානි - සතම්පි වස්සසතානි - සතම්පි වස්සසහස්සානි සතම්පි වස්සසතසහස්සානි",
+  "reason": "Sakka: the four figures සතම්පි වස්සානි, සතම්පි වස්සසතානි, සතම්පි වස්සසහස්සානි, සතම්පි වස්සසතසහස්සානි are a hundred years, a hundred hundreds (ten thousand), a hundred thousands (a lakh) and a hundred lakhs (a koṭi), as BJT's Sinhala also counts them (සියවස් සියයකුදු, සහස්වස් සියයකුදු, සුවහස්වස් සියයකුදු); the Sinhala gives five figures: a hundred, a thousand, ten thousand, a lakh, ten lakhs. Only the figures are changed.",
+  "unsure": false
+ }
+]
