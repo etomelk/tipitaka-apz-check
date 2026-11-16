@@ -2177,3 +2177,56 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 2: 204 of 302 entries (`sn-3-2` 22, `sn-3-7` 34, the other eight SN files 26, the Aṅguttara 122).
 Next run: from `sn-3-2`.
+
+## 2026-11-16 (fourth run) — step 2: the rest of the Saṃyutta and the Aṅguttara as far as `an-5-3` (113 entries); 2 confirmed rows
+
+Commit e4db85e (pinned). Step 2 (`duplicate`, `length-long`, `moved`), each entry read in full against its Pāli:
+`sn-3-2` 22, `sn-3-7` 34, `sn-4-1-12` 4, `sn-4-2` 5, `sn-4-8` 5, `sn-5-2` 1, `sn-5-3` 4, `sn-5-4` 1, `sn-5-11` 5,
+`sn-5-12` 1 (the Saṃyutta is finished in step 2), and `an-2` 1, `an-3` 1, `an-3-2` 6, `an-3-3` 5, `an-4-3` 1,
+`an-4-4` 1, `an-4-5` 12, `an-5-2` 1, `an-5-3` 3: 113 entries (most are short). Every file's batch was rebuilt,
+nothing refused.
+
+Confirmed (main file), both `"step": 2`:
+- `sn-3-7` 1:10 clause-missing (Sāriputta saṃyutta, the second sutta): the Pāli abbreviates only the opening
+  (අද්දසා ඛො ආයස්මා ආනන්දො -පෙ-) and writes out Ānanda's words විප්පසන්නානි ඛො තෙ ආවුසො සාරිපුත්ත, ඉන්ද්රියානි,
+  පරිසුද්ධො මුඛවණ්ණො පරියොදාතො; the Sinhala puts “(පෙ)” over that sentence too and gives only the question after
+  it. Put as 1:15 has the same Pāli entry (the whole entry copied by script). Step 1 (run 26) had read this entry
+  and passed it; by the rule of `CLAUDE.md` (a passage the Pāli writes out and the Sinhala abbreviates) it is a row.
+- `an-3-3` 42:13 wrong-word (the rāga peyyāla of the Threes; de Zoysa's own text): the entry writes out ඉමෙ තයො
+  ධම්මා for each of the nine aims; the first four name the first concentration “සුඤ්ඤත සමාධිය”, the last five
+  “සූනපක සමාධිය”, a garbled word that means nothing (the archive has it 85 times in `vagga_2827.xml`; text-apz
+  only in this entry). Replaced by script in the five places. A doubt for the owner about scope, not about the
+  reading: the names of the three concentrations stand in the Pāli of the entry before (42:12), this entry's Pāli
+  has only ඉමෙ තයො ධම්මා; it is in the main file because the word is certainly wrong.
+
+Unsure: none.
+
+Already reported in step 1 (same entries, nothing new): `sn-3-2` 39:5 (the closing clause භගවතො සුත්වා භික්ඛූ
+ධාරෙස්සන්ති), `sn-4-8` 50:3 (Pāli left in before its translation), `an-3` 33:4 (අට්ඨඞ්ග without the eight),
+`an-4-5` 20:1 (five items added to the ten courses of action).
+
+Left alone:
+- Written-out abbreviations and repetitions, no row: `sn-3-2` 20:0 – 23:17 (the question once for each aggregate),
+  `sn-4-1-12` 56:3 – 57:7 (the sentence three times, for past, future and present), `sn-5-3` 26:3, 31:5,
+  `sn-5-11` 14:0, `an-4-5` 19:7, 20:2, 20:3 (the fourth kind of action written out; its third member reads “යම්
+  කර්‍මයක් අකුශල්ද, අකුශල කුශල විපාකද” without “කුශල්ද”, and “සම් චේතනාවක්” for යම්: slips inside the
+  written-out part, which the Pāli entry abbreviates).
+- `sn-5-3` 27:2: the whole opening of the sutta before it for the Pāli's කණ්ටකීවනෙ, under de Zoysa's number
+  “393. [1]” where the Pāli has 1206 (noted in step 1 as a wrong paragraph number, no row). `sn-5-2` 58:3 and
+  `sn-5-3` 42:7: de Zoysa's instructions for the peyyāla runs, longer than the Pāli's one line; no row, as before.
+- `sn-3-2` 23:17: නො චස්සං නො ච මෙ සියා … as “අතීතයෙහි නුවූයෙම්නම් දැන් නොවෙමි …” (de Zoysa's stock wording
+  for the formula). `sn-5-3` 26:3: අභිජ්ඣාදොමනස්සං as “ලෝභයද, ක්‍රෝධයද” (the next sutta has “ද්වේෂයද”): word
+  choices.
+- Single words: `sn-4-2` 61:0, 61:2 no word for දෙවමනුස්සානං in the quoted formula; `sn-4-8` 41:2 none for
+  අනුකම්පං උපාදාය beside “අනුකම්පා කරන්නා වූ”; `an-3-2` 84:4, 85:5 none for පාපං in අප්පමත්තකං පාපං කම්මං
+  (the next entry has “පාප කර්මය”).
+- `sn-5-11` 48:5 (verse): the comparison නජ්ජො යථා වාරිවහාව සාගරං has no “like” (“… පුන්‍ය ධාරාවෝ ගලා යන
+  ගංගා සාගරයට පැමිණෙන්නාහ”), the “යම්සේ … එපරිද්දෙන්ම” of the two verses carries it: loose, no row.
+- `an-3-2` 85:6 අප්පමාණවිහාරී as “රහත් භික්‍ෂුවක්” (the commentary's gloss); `an-4-4` 49:2 උපසම්පජ්ජ විහරෙය්යාථ
+  as “නැවත පැමිණ වාසය කරව්”; `an-3-3` 43:3, 44:1 summary verses with BJT's explanations: no row.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 2: 91 of 302 entries, all in the Aṅguttara (`an-5-5` 12, `an-6` 7, `an-6-2` 4, `an-7` 5, `an-7-2` 13,
+`an-8-2` 6, `an-9` 5, `an-10` 4, `an-10-2` 22, `an-10-3` 1, `an-10-4` 10, `an-10-5` 2). Next run: from `an-5-5`;
+it should finish the step and build the step-2 batch.
