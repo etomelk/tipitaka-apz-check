@@ -1,0 +1,34 @@
+[
+ {
+  "pi": 11,
+  "ei": 0,
+  "kind": "wrong-word",
+  "edits": [
+   [
+    "දැන, අධර්‍මය යම්සේද",
+    "දැන, ධර්‍මය යම්සේද"
+   ]
+  ],
+  "pali": "යථා ධම්මො යථා අත්ථො, තථා පටිපජ්ජිතබ්බන්ති",
+  "unsure": false,
+  "reason": "Mahākaccāna repeats the Blessed One’s summary: යථා ධම්මො යථා අත්ථො තථා පටිපජ්ජිතබ්බං, “one should practise as the Dhamma is, as the good is”; the Sinhala says “අධර්‍මය යම්සේද … එසේ පිළිපැදිය යුතුය” (as the non-Dhamma is). Made “ධර්‍මය යම්සේද”, as 7:3, 12:3 and an-10-3 14:4 have the sentence; nothing else is changed."
+ },
+ {
+  "pi": 11,
+  "ei": 2,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "දැන, අධර්‍මය යම්සේද",
+    "දැන, ධර්‍මය යම්සේද"
+   ],
+   [
+    "තේසං නො භන්තෙ අම්හාකං අචිරපක්කන්තස්ස භගවතො එතදහොසි: “ඉදං ඛො නො ආවුසො භගවා සඞ්ඛිත්තෙන උද්දෙසං උද්දිසිත්වා විත්ථාරෙන අත්ථං අවිභජිත්වා උට්ඨායාසනා විහාරං පවිට්ඨො “අධම්මො ච භික්ඛවෙ වෙදිතබ්බො ධම්මො ච, අනත්ථො ච වෙදිතබ්බො අත්ථො ච අධම්මඤ්ච විදිත්වා ධම්මඤ්ච අනත්ථඤ්ච විදිත්වා අත්තඤ්ච යථා ධම්මො යථා අත්ථො තථා පටිපජ්ජිතබ්බන්ති. “",
+    "ස්වාමීනි, භාග්‍යවතුන් වහන්සේ වැඩ නොබෝ වේලාවකින් ඒ අපට මෙබඳු සිතක් විය: “ඇවැත්නි, භාග්‍යවතුන් වහන්සේ අපට ‘මහණෙනි, අධර්මයද දතයුතුය, ධර්මයද දතයුතුය, අනර්ථයද, අර්ථයද දතයුතුය. අධර්මයද, ධර්මයද දැන, අනර්ථයද, අර්ථයද දැන, ධර්මය, අර්ථය යම්සේද, එසේ පිළිපැදිය යුතුය’ යි කොටින් වදාරා විස්තර වශයෙන් අර්ථය නොබෙදා, ආසනයෙන් නැගිට විහාරයට ඇතුළුවූ සේක."
+   ]
+  ],
+  "pali": "තෙසං නො භන්තෙ අම්හාකං අචිරපක්කන්තස්ස භගවතො එතදහොසි: “ඉදං ඛො නො ආවුසො භගවා සඞ්ඛිත්තෙන උද්දෙසං උද්දිසිත්වා විත්ථාරෙන අත්ථං අවිභජිත්වා උට්ඨායාසනා විහාරං පවිට්ඨො",
+  "unsure": false,
+  "reason": "The second half of the entry (the monks’ report of what they thought once the Blessed One had left) stands in Pāli, from “තේසං නො භන්තෙ අම්හාකං” to “පටිපජ්ජිතබ්බන්ති”. Translated: the opening clause in the words of 7:3 and 11:3 (“ඒ අපට”), the thought itself copied by script from 7:3, the same sentence earlier in the sutta; the quotation is left open, as it goes on in 11:3. Also, in the first half, යථා ධම්මො is “අධර්‍මය යම්සේද” (as the non-Dhamma is); made “ධර්‍මය යම්සේද”, as in 11:0."
+ }
+]

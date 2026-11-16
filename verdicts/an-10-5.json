@@ -1,0 +1,16 @@
+[
+ {
+  "pi": 15,
+  "ei": 3,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "අතරින් පතර ආත්ම භාවයක හෝ වේ.",
+    "අතරින් පතර ආත්ම භාවයක හෝ වේ. මහණෙනි, කරන ලද, රැස් කරන ලද, දැන දැන කළ කර්මයන්ගේ විපාක නොවිඳ දුක් කෙළවර කිරීමක් මම නොකියමි."
+   ]
+  ],
+  "pali": "න ත්වෙවාහං භික්ඛවෙ සඤ්චෙතනිකානං කම්මානං කතානං උපචිතානං අප්පටිසංවිදිත්වා දුක්ඛස්ස අන්තකිරියං වදාමීති",
+  "unsure": false,
+  "reason": "The last sentence of the entry, න ත්වෙවාහං … අප්පටිසංවිදිත්වා දුක්ඛස්ස අන්තකිරියං වදාමි (“nor do I declare an end of suffering without their being experienced”), is not translated; the entry ends after the second sentence. Added in the words of 12:5 of this file, the same sentence, copied by script (9:6, 15:6, 16:3 and 17:4 also have it)."
+ }
+]

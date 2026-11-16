@@ -12,5 +12,19 @@
   "pali": "ඵෙග්ගුපි",
   "unsure": false,
   "reason": "ඵෙග්ගු (the sapwood) is “ඵලය” (the fruit), a misprint of “එළය”, the word text-apz has for it elsewhere (an-7-2 23:5, an-11 4:1); made “එළය”. (Outside the step’s list: found while reading an-6 64:9, the same simile.)"
+ },
+ {
+  "pi": 45,
+  "ei": 7,
+  "kind": "wrong-number",
+  "edits": [
+   [
+    "දසවැන්න වූ ගෝපාල සූත්‍රය ද",
+    "දසම සූත්‍රය ද, ගෝපාල සූත්‍ර දෙක ද"
+   ]
+  ],
+  "pali": "දසමො ද්වෙ ච ගොපාලො",
+  "unsure": false,
+  "reason": "The vagga’s summary verse: දසමො ද්වෙ ච ගොපාලො is “Dasama, and the two Gopāla” (the sutta of the householder Dasama of Aṭṭhakanagara, 31:1 – 35:3, and the cowherd suttas); the Sinhala makes it one sutta, “the Gopāla sutta, the tenth”, so the Dasama sutta and the number two are lost. Put as “දසම සූත්‍රය ද, ගෝපාල සූත්‍ර දෙක ද” (BJT’s Sinhala: “දසමගහපති සූත්‍රය, ගෝපාල සූත්‍ර දෙකය”)."
  }
 ]

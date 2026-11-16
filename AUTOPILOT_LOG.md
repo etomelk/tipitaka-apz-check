@@ -2059,3 +2059,57 @@ The add_repo tool was again not available; the repository was already cloned wit
 Left in step 1: 84 of 5,250 entries, all in the Aṅguttara (`an-10-4` 26, `an-10-5` 24, `an-11` 34). Next run: these
 three files, which finishes the Aṅguttara and step 1: build `an-step1` and `batches/an-step1_ISSUE.md` and notify the
 owner.
+
+## 2026-11-16 (second run) — step 1 finished: `an-10-4`, `an-10-5`, `an-11`; the Aṅguttara collection is built
+
+Upstream commit e4db85e (the pinned one). Comparison rebuilt. Read: `an-10-4` (all 26 entries of the step),
+`an-10-5` (all 24) and `an-11` (all 34), 84 entries, each in full against its Pāli. All three files are finished and
+their batches built, nothing refused: `batches/an-10-4_e4db85e.tsv` 2 rows, `an-10-5` 1 row, `an-11` 2 rows (1 from an
+earlier run, 1 new); `an-10-3` rebuilt with 1 row (a neighbour outside the list, below). No unsure rows.
+
+**Step 1 is finished: 5,250 of 5,250 entries read.** The Aṅguttara collection for the owner to read and post:
+`batches/an-step1_e4db85e.tsv` (146 rows), `batches/an-step1_e4db85e_unsure.tsv` (1 row, `an-7-2` 6:6) and the issue
+text `batches/an-step1_ISSUE.md` (1,618 entries read in 28 files; rows by kind and by file; the 20 rows that fill a
+“...”, the 41 rows outside the step's list and the one uddāna row are named there so that the maintainer can skip
+them).
+
+Confirmed (main file):
+- `an-10-4` 11:0 wrong-word (Mahākaccāna repeats the summary): යථා ධම්මො යථා අත්ථො තථා පටිපජ්ජිතබ්බං is given as
+  “අධර්‍මය යම්සේද, අන්‍ර්‍ථය යම්සේද, එසේ පිළිපැදිය යුතුය” (practise as the non-Dhamma is). Made “ධර්‍මය යම්සේද”, as
+  7:3, 12:3 and `an-10-3` 14:4 have it.
+- `an-10-4` 11:2 pali-left-in: the second half of the entry (තෙසං නො භන්තෙ අම්හාකං අචිරපක්කන්තස්ස භගවතො එතදහොසි
+  … පටිපජ්ජිතබ්බන්ති) stands in Pāli. Translated with the thought copied by script from 7:3, the same sentence
+  earlier in the sutta. The same “අධර්‍මය යම්සේද” as 11:0 is corrected in its first half. (It may be one of the
+  entries the maintainer is already retranslating; a row applies only while the text still matches.)
+- `an-10-3` 18:0 clause-missing and the same wrong word (outside the list, de Zoysa's own text; the Ānanda sutta's
+  twin of the two entries above): the monks' report leaves out what they thought once the Blessed One had left
+  (තෙසං නො භන්තෙ අම්හාකං අචිරපක්කන්තස්ස භගවතො එතදහොසි … විභජෙය්යාති, and තෙසං නො භන්තෙ අම්හාකං එතදහොසි).
+  Put in, the thought copied by script from 14:5. The owner may drop the row if he wants only the step's entries.
+- `an-10-5` 15:3 clause-missing: the last sentence, න ත්වෙවාහං … අප්පටිසංවිදිත්වා දුක්ඛස්ස අන්තකිරියං වදාමි, is
+  not translated. Added in the words of 12:5 of the file, copied by script.
+- `an-11` 45:7 wrong-number (the Anussati vagga's summary verse, model-written): දසමො ද්වෙ ච ගොපාලො is given as
+  “දසවැන්න වූ ගෝපාල සූත්‍රය ද” (the Gopāla sutta, the tenth), so the Dasama sutta and the “two” are lost. Put as
+  “දසම සූත්‍රය ද, ගෝපාල සූත්‍ර දෙක ද”. Earlier runs left uddāna verses as they stand (key words) but for a count
+  (`sn-5-11` 58:14); this is a count and a sutta lost, so it is a row, and the issue text says it can be skipped.
+
+Unsure: none.
+
+Left alone:
+- `an-10-4` 12:3 gives the four things to be known with the full stops in the wrong places (“අධර්මයද දතයුතුය.
+  ධර්මයද, අනර්ත්‍ථයද දතයුතුය. අර්ත්‍ථයද, අධර්මයද දැන …”): all the items are there, loose. 11:4 puts විඤ්ඤූනං
+  සබ්රහ්මචාරීනං with “to explain” instead of “esteemed by”, as 7:6 does (de Zoysa's sentence; loose). 19:7 has no
+  word for මං (“me”).
+- `an-10-5` 25:4 and 25:5 give the second and following items in short, in brackets (“නුදුන් දෙය ගැණීමෙන්,
+  කාමයන්හි වැරදි හැසිරීමෙන් (යුක්තවූයේ වේද, අනුන්ද සමාදන් කරවයිද, එකඟවූයේ වේද, ගුණද කියාද)”), where the Pāli
+  writes each out: de Zoysa's own abbreviation, with all four parts named for each item; nothing is lost, so no row.
+  11:3 is loose (“වාක් කර්ම නම් විපත්තිවූ … දුක් විපාකයෝ සතර වැදෑරුම් වෙත්”).
+- `an-11` 8:0 – 9:3 and 41:7 – 43:3 give න ඉධලොකෙ ඉධලොකසඤ්ඤී, න පරලොකෙ පරලොකසඤ්ඤී as “මෙලොව උපදනා ධ්‍යානයෙහි
+  …” / “මෙලොව උපදනා සමාපත්තියෙහි …” (de Zoysa's gloss of “this world” and “the other world”; a gloss, not gone
+  into; a doubt for the owner, not put as rows). 30:3 gives ඉමිනා සද්ධෙන භික්ඛුනා as “මේ සද්ධ නම් භික්ෂුව”
+  (BJT's Sinhala reads the same). 3:6 ends at යථාභූතඤාණදස්සනං, as its Pāli entry does.
+- Entries that write out what the Pāli abbreviates (`an-10-4` 19:7, 31:2; `an-10-5` 20:6, 21:4; `an-11` 9:1 – 9:3,
+  11:1, 41:0 – 43:3), and -පෙ- or “... (පෙයියාලම) ...” where the Pāli has -පෙ-.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Next: step 2 (`duplicate`, `length-long`, `moved`; 302 entries over the four Nikāyas, from `dn-1-3`), one batch.
