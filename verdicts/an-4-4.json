@@ -1,5 +1,80 @@
 [
  {
+  "pi": 27,
+  "ei": 0,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "තස්ස ච සඞ්ඝස්ස දුග්ගහීතන්ති.",
+    "ඒ සංඝයා නපුරුකොට වරදවා ගත් එකකැයි නිෂ්ටාවට යා යුතුය."
+   ]
+  ],
+  "pali": "තස්ස ච සඞ්ඝස්ස දුග්ගහීතන්ති.",
+  "reason": "The sentence “තස්ස ච සඞ්ඝස්ස දුග්ගහීතන්ති.” stands in Pāli, untranslated. Given on the pattern of 26:6, the same sentence of the first great reference (“මේ භික්‍ෂුව නපුරුකොට වරදවා ගත් එකකැයි නිෂ්ටාවට යා යුතුය.”), with the Saṅgha for the monk.",
+  "unsure": false,
+  "step": 4
+ },
+ {
+  "pi": 27,
+  "ei": 2,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "මේ භික්‍ෂුවද යහපත් සේ උගත්තේයයි",
+    "ඒ සංඝයාද යහපත් සේ උගත්තේයයි"
+   ]
+  ],
+  "pali": "තස්ස ච සඞ්ඝස්ස සුග්ගහීතන්ති.",
+  "reason": "Found in passing, beside 27:0 (not on the step's list). In the second great reference it is the Saṅgha that has learnt it well (තස්ස ච සඞ්ඝස්ස සුග්ගහීතං); the Sinhala repeats the first reference's “මේ භික්‍ෂුවද”. BJT's own Sinhala: “ඒ සඟුන් විසින්”.",
+  "unsure": false,
+  "step": 4
+ },
+ {
+  "pi": 27,
+  "ei": 4,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "මේ භික්‍ෂුව නපුරුකොට වරදවා ගත් එකකැයි",
+    "ඒ තෙරුන් නපුරුකොට වරදවා ගත් එකකැයි"
+   ]
+  ],
+  "pali": "තෙසඤ්ච ථෙරානං දුග්ගහීතන්ති.",
+  "reason": "Found in passing, beside 27:0 (not on the step's list). In the third great reference it is those elders who have learnt it wrongly (තෙසඤ්ච ථෙරානං දුග්ගහීතං); the Sinhala repeats the first reference's “මේ භික්‍ෂුව”. “ඒ තෙරුන්”, as 28:0 has for තෙසං ථෙරානං. BJT's own Sinhala: “ඒ තෙරවරුන් විසිනුත්”.",
+  "unsure": false,
+  "step": 4
+ },
+ {
+  "pi": 28,
+  "ei": 1,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "මේ භික්‍ෂුවද යහපත් සේ උගත්තේයයි",
+    "ඒ තෙරුන්ද යහපත් සේ උගත්තේයයි"
+   ]
+  ],
+  "pali": "තෙසඤ්ච ථෙරානං සුග්ගහිත’න්ති.",
+  "reason": "Found in passing, beside 27:0 (not on the step's list). In the third great reference it is those elders who have learnt it well (තෙසඤ්ච ථෙරානං සුග්ගහිතං); the Sinhala repeats the first reference's “මේ භික්‍ෂුවද”. “ඒ තෙරුන්ද”, as 28:5 has in the fourth. BJT's own Sinhala: “ඒ තෙරුන් විසිනුත්”.",
+  "unsure": false,
+  "step": 4
+ },
+ {
+  "pi": 28,
+  "ei": 3,
+  "kind": "wrong-person",
+  "edits": [
+   [
+    "මේ භික්‍ෂුව නපුරුකොට වරදවා ගත් එකකැයි",
+    "ඒ තෙරුන් නපුරුකොට වරදවා ගත් එකකැයි"
+   ]
+  ],
+  "pali": "තස්ස ච ථෙරස්ස දුග්ගහීත’න්ති.",
+  "reason": "Found in passing, beside 27:0 (not on the step's list). In the fourth great reference it is that elder who has learnt it wrongly (තස්ස ච ථෙරස්ස දුග්ගහීතං); the Sinhala repeats the first reference's “මේ භික්‍ෂුව”. “ඒ තෙරුන්”, as 28:4 and 28:5 have for the one elder. BJT's own Sinhala: “ඒ තෙරුන් විසිනුත්”.",
+  "unsure": false,
+  "step": 4
+ },
+ {
   "pi": 32,
   "ei": 1,
   "kind": "pali-left-in",

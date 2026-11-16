@@ -15,6 +15,21 @@
   "unsure": false
  },
  {
+  "pi": 14,
+  "ei": 8,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "අථ ඛො භගවා (එකල්හි භාග්‍යවතුන් වහන්සේ)",
+    "එකල්හි භාග්‍යවතුන් වහන්සේ"
+   ]
+  ],
+  "pali": "අථ ඛො භගවා පුබ්බන්හසමයං නිවාසෙත්වා",
+  "reason": "The Pāli words “අථ ඛො භගවා” stand in the sentence with their translation in brackets after them. The Pāli is taken out and the translation kept.",
+  "unsure": false,
+  "step": 4
+ },
+ {
   "pi": 15,
   "ei": 9,
   "kind": "wrong-word",
@@ -39,6 +54,44 @@
   "pali": "සයංකතං දුක්ඛ",
   "reason": "Kassapa repeats his four questions about suffering (දුක්ඛං: සයංකතං දුක්ඛං, පරංකතං දුක්ඛං …); the Sinhala has “සැප දුක්” (pleasure and pain) in all four, the wording of the next sutta (Timbaruka, සුඛදුක්ඛං). Entries 3–6 of this page and the rest of this entry have “දුක”; changed to that.",
   "unsure": false
+ },
+ {
+  "pi": 16,
+  "ei": 0,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "‘සො කරොති සො පටිසංවෙදියති’ (හෙතෙම කෙරෙයි, හෙතෙම විඳීය) යි",
+    "‘හෙතෙම කෙරෙයි, හෙතෙම විඳීය’යි"
+   ],
+   [
+    "‘අඤ්ඤො කරොති අඤ්ඤො පටිසංවෙදියති’ (අනිකෙක් කරයි, අනිකෙක් විඳීය) යි",
+    "‘අනිකෙක් කරයි, අනිකෙක් විඳීය’යි"
+   ]
+  ],
+  "pali": "අඤ්ඤො කරොති අඤ්ඤො පටිසංවෙදියතී",
+  "reason": "The two statements “සො කරොති සො පටිසංවෙදියති” and “අඤ්ඤො කරොති අඤ්ඤො පටිසංවෙදියති” stand in Pāli, each with its translation in brackets. The Pāli is taken out and the translations kept in the quotation marks.",
+  "unsure": false,
+  "step": 4
+ },
+ {
+  "pi": 17,
+  "ei": 6,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "‘සා වෙදනා සො වෙදියති’ (ඒ වේදනාවම ඔහු විඳීය) යි",
+    "‘ඒ වේදනාවම ඔහු විඳීය’යි"
+   ],
+   [
+    "‘අඤ්ඤා වෙදනා අඤ්ඤො වෙදියති’ (අන්‍යවූ වේදනා අනිකෙක් විඳීය) යි",
+    "‘අන්‍යවූ වේදනා අනිකෙක් විඳීය’යි"
+   ]
+  ],
+  "pali": "අඤ්ඤො වෙදියතී",
+  "reason": "The two statements “සා වෙදනා සො වෙදියති” and “අඤ්ඤා වෙදනා අඤ්ඤො වෙදියති” stand in Pāli, each with its translation in brackets. The Pāli is taken out and the translations kept in the quotation marks.",
+  "unsure": false,
+  "step": 4
  },
  {
   "pi": 19,

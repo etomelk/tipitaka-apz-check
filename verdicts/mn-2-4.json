@@ -1,5 +1,20 @@
 [
  {
+  "pi": 41,
+  "ei": 0,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "උළාරාය ච මං පූජාය පූජෙසි.",
+    "උත්තමවූ පූජාවෙන් මා පිදුවේය."
+   ]
+  ],
+  "pali": "උළාරාය ච මං පූජාය පූජෙසි",
+  "reason": "The Pāli sentence “උළාරාය ච මං පූජාය පූජෙසි.” stands untranslated in the entry. Given in the words text-apz has for the same sentence in mn-1-4 and mn-2-5 (“උත්තමවූ පූජාවෙන් මා පිදුවේය.”).",
+  "unsure": false,
+  "step": 4
+ },
+ {
   "pi": 49,
   "ei": 4,
   "kind": "clause-added",

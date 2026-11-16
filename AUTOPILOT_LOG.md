@@ -2567,3 +2567,81 @@ is finished.
 The add_repo tool was again not available; the repository was already cloned with push access.
 
 Left in step 4: 158 of 202 entries (MN 28, SN 86, AN 44). Next run: from `mn-1`.
+
+## 2026-11-16 — step 4 finished (MN, SN, AN: 158 entries read); the step-4 batch built — **finished**
+
+Commit e4db85e (pinned; `tools/setup.sh` printed it). Comparison rebuilt; `prompt-v2.md` read.
+
+**Read:** the last 158 `pali-words` entries, each in full against its Pāli: MN 28 (10 files), SN 86 (17 files),
+AN 44 (16 files). 60 of them were already rows of the step-1 collections (MN 18, SN 22, AN 20) and get no second row.
+
+Confirmed, 45 rows (in the verdicts with `"step": 4`; pali-left-in unless said):
+- `mn-1-3` 33:2 (“එවං මෙ සුතං:” before its translation), 34:2 and 37:0 (the Pāli sentence යන්නූන මයං … කප්පෙය්යාම
+  at the head of the entry before its translation, as 36:0 in step 1).
+- `mn-2-3` 60:0 (“එත්ථෙතෙ අකුසලා සීලා අපරිසෙසා නිරුජ්ඣන්ති.” before its translation).
+- `mn-2-4` 41:0 (“උළාරාය ච මං පූජාය පූජෙසි.” untranslated; “උත්තමවූ පූජාවෙන් මා පිදුවේය.”, as mn-1-4 and mn-2-5).
+- `mn-3-2` 16:2 (“එවං මෙ සුතං:” before its translation); `mn-3-5` 40:2 (“එවං මෙ සුතං:” with no translation:
+  “මා විසින් මෙසේ අසන ලදී.”); `mn-3-5` 48:9 (the Nikāya's closing line in Pāli with its translation in brackets;
+  the translation alone, as dn-2 53:1–53:2).
+- `sn-2` 14:8 (“අථ ඛො භගවා (එකල්හි භාග්‍යවතුන් වහන්සේ)”), 16:0 and 17:6 (the two statements සො කරොති සො
+  පටිසංවෙදියති / සා වෙදනා සො වෙදියති and their counterparts in Pāli, each with its translation in brackets; the
+  translations kept in the quotation marks, as mn-1-2 0:4 in step 1).
+- `sn-4-1-12` 37:5 (“අයං ඛො සා භික්ඛවෙ නිබ්බානසප්පායා පටිපදාති.” before its translation).
+- `sn-5-11` 43:3 (“එකං සමයං භගවා සක්කෙසු විහරති” untranslated; “එක් කලෙක්හි භාග්‍යවතුන් වහන්සේ ශාක්‍යජනපදයෙහි”,
+  the saṃyutta's most frequent form).
+- `sn-5-12` 45:12, 46:2, 46:5, 46:8, 46:11, 46:14, 47:2, 47:5, 47:8, 47:11, 47:14, 47:17, 48:2, 48:17, 49:2, 49:5,
+  49:8, 49:11, 49:14, 49:17, 50:2 (21 entries of the Āmakadhañña peyyāla): each ends “-පෙ- යොගො කරණීයොති.”;
+  “-පෙ- වීර්යය කළ යුතුය.”, as 46:17 in step 1 (45:6 and 45:9 have it so). The destinations (from where, to where,
+  few and many) were read in each: all right.
+- `an-1` 33:8 (“එවමෙව ඛො භික්ඛවෙ” untranslated; and no words for ලොකෙ උප්පන්නො: “ලෝකයෙහි උපන්” added).
+- `an-3-2` 7:1, 7:2, 8:0 (Tikaṇṇa, the three knowledges): the opening sentence wholly (7:1) or half (7:2, 8:0) in
+  Pāli; given in the words of 9:5, the same sentence in the next sutta (frame copied by script). 7:1 also has no
+  thirty births (තිංසම්පි ජාතියො) and “...” for three items the Pāli writes out (copied from the entry's first
+  life). 7:2 has “...” in four places where the Pāli entry writes the passage out: the list චවමානෙ … දුග්ගතෙ and
+  the closing යථා තං අප්පමත්තස්ස … are copied by script from the entry and from 7:1; **the two sentences on the
+  beings of bad and good conduct are newly written** (no entry of the four Nikāyas has them in this wording), with
+  the Aṅguttara text's most frequent words. The owner may want to read this row before posting.
+- `an-4-4` 27:0 (“තස්ස ච සඞ්ඝස්ස දුග්ගහීතන්ති.” untranslated; on the pattern of 26:6).
+- `an-4-4` 27:2, 27:4, 28:1, 28:3, **wrong-person, found in passing** beside 27:0 (not on the step's list, never on
+  a list before): in the second, third and fourth great references the Sinhala keeps the first's “මේ භික්‍ෂුව(ද)”
+  where the Pāli has තස්ස ච සඞ්ඝස්ස, තෙසඤ්ච ථෙරානං, තස්ස ච ථෙරස්ස. BJT's own Sinhala has the Saṅgha and the
+  elders. 28:5 is right (“ඒ තෙරුන්ද”).
+- `an-6-2` 19:9 (“කිං නු ඛො” at the head of the question); `an-10` 18:4 (“තස්ස චිත්තං නමති ආතප්පාය...” before
+  its translation).
+
+Unsure: none.
+
+Left alone:
+- Sutta names in headings (`sn-3-1-3` 28:4, `sn-3-2` 42:5–44:5, `sn-3-7` 11:5–42:14, `sn-4-1-12` 52:7–56:9), summary
+  verses (uddāna: `sn-1-7` 71:1, `sn-3-2` 45:8–50:1, `sn-4-1-12` 28:4, `sn-4-2` 37:14, `sn-5-3` 12:7, `sn-5-11` 14:3,
+  `an-3-3` 43:5, 45:12, `an-5-3` 14:6, 32:6, 40:15, `an-10-2` 34:10), the instruction `sn-5-7` 29:4, and the entries
+  flagged only for river or personal names or “සාධු” (`sn-5` 40:5–47:8, `sn-5-11` 48:3, `sn-5-12` 33:2, `an-7-2`
+  24:6, `an-8` 41:0, 43:1, `an-8-2` 70:3, `an-10` 20:6, `an-7` 47:8, `mn-3-4` 5:0, `mn-3-5` 11:1): read, nothing wrong.
+- `an-4-2` 14:1, 14:10, 14:17: the headings keep the Pāli heading in square brackets before the Sinhala title
+  (“[රූප (ප්පමාණ) සුත්තං] - රූප්පමාණ සූත්‍රය”). Sutta names; said once in the issue text.
+- `sn-5-11` 18:0: the ends of the abbreviated formulas stand in Pāli (“-පෙ- පච්චත්තං වේදිතබ්බෝ විඤ්ඤූහී”ති”,
+  “සුපටිපන්නෝ භගවතෝ සාවකසංඝෝ -පෙ- අනුත්තරං පුඤ්ඤක්ඛෙත්තං ලෝකස්සා”ති”, “අඛණ්ඩේසු -පෙ- සමාධිසංවත්තනිකේසු”).
+  The first two are quoted formulas; the third is the tail of the abbreviated virtue formula in the same style.
+  Taken as formula words, no row. `sn-5-11` 29:5–30:2, 50:2, 50:5 (“ඉතිපි සො භගවා …”): quoted formula.
+- `an-4` 40:5 (verse): කාමෙසනා භවෙසනා බ්‍රහ්මචරියෙසනා kept as the names of the three searches. `an-7-2` 57:7:
+  “අන්තරා පරිනිබ්බායී” … kept as the names of the persons.
+- `mn-2-3` 60:0 has five words for the six of ඨිතියා … භාවනාය පාරිපූරියා and “ස්වභාවයන්ගේ” without “අකුසල” in
+  its last sentence; `mn-2-4` 41:0 has six for the seven of නිබ්බිදාය … නිබ්බානාය: single words of stock lists,
+  de Zoysa's usual form, left alone. `mn-1-3` 36:0 (a row of step 1) gives the second herd's recalling of the first
+  once: a repetition.
+- `an-10` 18:4 gives the repeated sentence යස්ස චිත්තං නමති … once; `an-3-2` 9:5 (outside the step; the source of
+  the copied frame) also lacks the thirty births, but its Pāli entry was not read in this run: not reported.
+
+Batches: every file with a new finding rebuilt, nothing refused (`mn-1-3`, `mn-2-3`, `mn-2-4`, `mn-3-2`, `mn-3-5`,
+`sn-2`, `sn-4-1-12`, `sn-5-11`, `sn-5-12`, `an-1`, `an-3-2`, `an-4-4`, `an-6-2`, `an-10`).
+
+**The step-4 batch is ready for the owner to post:** `batches/step4_e4db85e.tsv`, 56 rows (52 pali-left-in,
+4 wrong-person; DN 11, MN 8, SN 26, AN 11), `batches/step4_e4db85e_unsure.tsv` (no rows) and the issue text
+`batches/step4_ISSUE.md`. Built with `--step 4` over all files, nothing refused. 202 entries were read in the step
+(DN 44, MN 28, SN 86, AN 44); 77 of them were already rows of the step-1 collections.
+
+The add_repo tool was again not needed; the repository was already cloned with push access.
+
+**All four steps are finished.** Later runs do nothing. Next, as the maintainer asked (2026-11-13): the Khuddaka,
+book by book, starting with the Dhammapada and the Udāna; `tools/work.py` has no step for it yet, so it needs
+setting up in a conversation with the owner. The hourly task can be switched off until then.

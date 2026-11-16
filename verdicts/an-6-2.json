@@ -23,6 +23,21 @@
   "unsure": false
  },
  {
+  "pi": 19,
+  "ei": 9,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "“කිං නු ඛො ඇවැත් ආනන්‍දය",
+    "“ඇවැත් ආනන්‍දය"
+   ]
+  ],
+  "pali": "කිං නු ඛො ආවුසො ආනන්ද",
+  "reason": "The Pāli words “කිං නු ඛො” stand at the head of the question, which the Sinhala already gives as a question (“… ප්‍රකාශ කෙළේද? නැතහොත් …ද?”). Taken out.",
+  "unsure": false,
+  "step": 4
+ },
+ {
   "pi": 25,
   "ei": 10,
   "kind": "pali-left-in",

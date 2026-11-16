@@ -96,5 +96,39 @@
   "pali": "දිට්ඨෙව ධම්මෙ දුක්ඛස්සන්තකරො භවිස්සතීති",
   "reason": "The Pāli words දිට්ඨෙව ධම්මෙ stand in the Sinhala with their translation in brackets after them. The Pāli is taken out and the translation kept, as 31:2 has the same sentence.",
   "unsure": false
+ },
+ {
+  "pi": 40,
+  "ei": 2,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "එවං මෙ සුතං: ",
+    "මා විසින් මෙසේ අසන ලදී. "
+   ]
+  ],
+  "pali": "එවං මෙ සුතං:",
+  "reason": "The opening “එවං මෙ සුතං:” stands in Pāli with no translation. Given in the words text-apz has for it at the head of other suttas (“මා විසින් මෙසේ අසන ලදී.”).",
+  "unsure": false,
+  "step": 4
+ },
+ {
+  "pi": 48,
+  "ei": 9,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "තීහි පණ්ණාසකෙහි පටිමණ්ඩිතො සකලො මජ්ඣිමනිකායො සමත්තො. (",
+    ""
+   ],
+   [
+    "නිමියේය.)",
+    "නිමියේය."
+   ]
+  ],
+  "pali": "මජ්ඣිමනිකායො සමත්තො.",
+  "reason": "The closing line of the Nikāya stands in Pāli with its translation in brackets after it. The Pāli is taken out and the bracketed translation kept alone (as the closing lines of dn-2 53:1–53:2).",
+  "unsure": false,
+  "step": 4
  }
 ]

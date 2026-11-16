@@ -1,5 +1,20 @@
 [
  {
+  "pi": 18,
+  "ei": 4,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "තස්ස චිත්තං නමති ආතප්පාය... ",
+    ""
+   ]
+  ],
+  "pali": "තස්ස චිත්තං නමති ආතප්පාය අනුයොගාය සාතච්චාය පධානාය",
+  "reason": "The Pāli words “තස්ස චිත්තං නමති ආතප්පාය...” stand in the entry before their translation (“ඔහුගේ සිත කෙලෙස් තවන වීර්‍ය්‍යය පිණිස, … ප්‍රධන් වීර්‍ය්‍යය පිණිස නැමෙයි.”). Taken out.",
+  "unsure": false,
+  "step": 4
+ },
+ {
   "pi": 71,
   "ei": 1,
   "kind": "wrong-word",

@@ -13,5 +13,20 @@
   "pali": "විභජතායස්මා ආනන්දො අගරුං කරිත්වාති.",
   "reason": "The entry’s last sentence, the monks’ request (විභජතායස්මා ආනන්දො අගරුං කරිත්වා: “let the venerable Ānanda explain it, without finding it a burden”), is left out; the entry stops at “… සමර්ථ වේ.” and the next entry does not have it. Added in the words page 3 entry 2 of this file has for the same sentence. Nothing else changed. (Found while checking a parallel passage; the entry is not on a list of the steps.)",
   "unsure": false
+ },
+ {
+  "pi": 37,
+  "ei": 5,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "අයං ඛො සා භික්ඛවෙ නිබ්බානසප්පායා පටිපදාති. ",
+    ""
+   ]
+  ],
+  "pali": "අයං ඛො සා භික්ඛවෙ නිබ්බානසප්පායා පටිපදාති.",
+  "reason": "The Pāli closing sentence stands in the entry before its translation (“මහණෙනි, මේ වනාහි ඒ නිවනට උපකාරවූ ප්‍රතිපදාව වේ'යයි, වදාළේය.”). Taken out.",
+  "unsure": false,
+  "step": 4
  }
 ]

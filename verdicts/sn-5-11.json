@@ -60,6 +60,21 @@
   "unsure": false
  },
  {
+  "pi": 43,
+  "ei": 3,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "එකං සමයං භගවා සක්කෙසු විහරති කිඹුල්වත්පුර",
+    "එක් කලෙක්හි භාග්‍යවතුන් වහන්සේ ශාක්‍යජනපදයෙහි කිඹුල්වත්පුර"
+   ]
+  ],
+  "pali": "එකං සමයං භගවා **සක්කෙසු** විහරති",
+  "reason": "The opening words “එකං සමයං භගවා සක්කෙසු විහරති” stand in Pāli, untranslated, before “කිඹුල්වත්පුර නිග්‍රොධාරාමයෙහි වැඩ වාසය කළහ”. Given in the words text-apz most often has for them in this saṃyutta (“එක් කලෙක්හි භාග්‍යවතුන් වහන්සේ ශාක්‍යජනපදයෙහි”).",
+  "unsure": false,
+  "step": 4
+ },
+ {
   "pi": 49,
   "ei": 6,
   "kind": "clause-added",

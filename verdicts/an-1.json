@@ -28,6 +28,25 @@
   "unsure": false
  },
  {
+  "pi": 33,
+  "ei": 8,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "එවමෙව ඛො භික්ඛවෙ මක්ඛලී",
+    "මහණෙනි, එපරිද්දෙන්ම මක්ඛලී"
+   ],
+   [
+    "විනාශය පිණිස මිනිස් කෙමනකැයි සිතමි",
+    "විනාශය පිණිස ලෝකයෙහි උපන් මිනිස් කෙමනකැයි සිතමි"
+   ]
+  ],
+  "pali": "එවමෙව ඛො භික්ඛවෙ මක්ඛලී මොඝපුරිසො මනුස්සඛිපං මඤ්ඤෙ ලොකෙ උප්පන්නො",
+  "reason": "“එවමෙව ඛො භික්ඛවෙ” stands in Pāli, untranslated, at the head of the last sentence: “මහණෙනි, එපරිද්දෙන්ම”. The same sentence has no words for ලොකෙ උප්පන්නො (arisen in the world): “ලෝකයෙහි උපන්” added.",
+  "unsure": false,
+  "step": 4
+ },
+ {
   "pi": 37,
   "ei": 5,
   "kind": "clause-missing",
