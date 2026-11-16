@@ -2370,7 +2370,7 @@ The add_repo tool was again not available; the repository was already cloned wit
 Left in step 3: 284 of 526 entries (SN 150, AN 134). Next run: from `sn-1`. Step 4 (`pali-words`, 202 entries)
 follows.
 
-## 2026-11-16 (eighth run) — step 3: the Saṃyutta (129 entries); 5 confirmed rows, and 1 found in passing in `sn-3-1-2`
+## 2026-11-16 (eighth run) — step 3: the Saṃyutta (129 entries); 4 confirmed rows, and 1 found in passing in `sn-3-1-2`
 
 Commit e4db85e (pinned). Step 3 (`dropped`), each entry read in full against its Pāli: `sn-1` 5, `sn-1-3` 14,
 `sn-1-7` 3, `sn-2` 11, `sn-2-1-5` 4, `sn-2-2` 5, `sn-2-5` 5, `sn-3` 6, `sn-3-1-2` 10, `sn-3-1-3` 8, `sn-3-2` 5,
@@ -2419,6 +2419,6 @@ Left alone:
 
 The add_repo tool was again not available; the repository was already cloned with push access.
 
-Left in step 3: 155 of 526 entries (the Aṅguttara). Next run: from `an-1`. The step-3 batch stands at 8 rows so
-far (`mn-3-4` 38:0, `sn-4-1-12` 7:3 and the six above); it is built when the Aṅguttara is read. Step 4
+Left in step 3: 155 of 526 entries (the Aṅguttara). Next run: from `an-1`. The step-3 batch stands at 7 rows so
+far (`mn-3-4` 38:0, `sn-4-1-12` 7:3 and the five above); it is built when the Aṅguttara is read. Step 4
 (`pali-words`, 202 entries) follows.
