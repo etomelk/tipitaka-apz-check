@@ -26,5 +26,35 @@
   "pali": "යං කිඤ්චි විඤ්ඤාණං අතීතානාගතපච්චුප්පන්නං අජ්ඣත්තං වා බහිද්ධා වා ඔළාරිකං වා සුඛුමං වා හීනං වා පණීතං වා",
   "reason": "In the sentence on consciousness, which the Pāli writes out, හීනං වා (inferior) is missing from the list (“… සියුම්වූ හෝ උතුම්වූ හෝ …”); the sentences on form, feeling and formations in the same entry have “හීනවූ හෝ”. Added in those words; nothing else changed.",
   "unsure": false
+ },
+ {
+  "pi": 67,
+  "ei": 2,
+  "kind": "pali-left-in",
+  "step": 3,
+  "edits": [
+   [
+    "කවරෙක් නු ඛො මට",
+    "කවරෙක් මට"
+   ]
+  ],
+  "pali": "කො නු ඛො මෙ තථා ධම්මං දෙසෙය්ය",
+  "reason": "The Pāli particles නු ඛො stand untranslated in the sentence (“කවරෙක් නු ඛො මට …”), as in 68:1, where Channa repeats the thought; taken out, the question is whole without them. (Found beside 68:1; the entry is on no list of the steps.)",
+  "unsure": false
+ },
+ {
+  "pi": 68,
+  "ei": 1,
+  "kind": "pali-left-in",
+  "step": 3,
+  "edits": [
+   [
+    "කවරෙක් නු ඛො මට",
+    "කවරෙක් මට"
+   ]
+  ],
+  "pali": "කො නු ඛො මෙ තථා ධම්මං දෙසෙය්ය",
+  "reason": "The Pāli particles නු ඛො stand untranslated in the sentence (“කවරෙක් නු ඛො මට …”); taken out, the question is whole without them.",
+  "unsure": false
  }
 ]

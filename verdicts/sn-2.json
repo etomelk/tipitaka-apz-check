@@ -1,5 +1,20 @@
 [
  {
+  "pi": 11,
+  "ei": 3,
+  "kind": "list-item-missing",
+  "step": 3,
+  "edits": [
+   [
+    "උපාදානය නැතිවීම හේතුකොට ගෙන ඉපදීම නැතිවේ.",
+    "උපාදානය නැතිවීම හේතුකොට ගෙන භවය නැතිවේ. භවය නැතිවීම හේතුකොටගෙන ඉපදීම නැතිවේ."
+   ]
+  ],
+  "pali": "උපාදානනිරොධා භවනිරොධො. භවනිරොධා ජාතිනිරොධො.",
+  "reason": "The chain goes from clinging straight to birth: the link of becoming (භවනිරොධො) is left out, though the Pāli entry writes it out. Added in the entry's own pattern, with “භවය” as the entry before it (11:2) has.",
+  "unsure": false
+ },
+ {
   "pi": 15,
   "ei": 9,
   "kind": "wrong-word",

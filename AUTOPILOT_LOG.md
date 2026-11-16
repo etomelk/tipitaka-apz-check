@@ -2369,3 +2369,56 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 3: 284 of 526 entries (SN 150, AN 134). Next run: from `sn-1`. Step 4 (`pali-words`, 202 entries)
 follows.
+
+## 2026-11-16 (eighth run) — step 3: the Saṃyutta (129 entries); 5 confirmed rows, and 1 found in passing in `sn-3-1-2`
+
+Commit e4db85e (pinned). Step 3 (`dropped`), each entry read in full against its Pāli: `sn-1` 5, `sn-1-3` 14,
+`sn-1-7` 3, `sn-2` 11, `sn-2-1-5` 4, `sn-2-2` 5, `sn-2-5` 5, `sn-3` 6, `sn-3-1-2` 10, `sn-3-1-3` 8, `sn-3-2` 5,
+`sn-3-7` 9, `sn-4` 5, `sn-4-1-12` 8, `sn-4-2` 2, `sn-4-8` 3, `sn-5` 3, `sn-5-2` 1, `sn-5-3` 2, `sn-5-4` 1,
+`sn-5-7` 3, `sn-5-11` 5, `sn-5-12` 11: 129 entries, the whole Saṃyutta of the step (36 of them are only a centred
+number or a heading). The last log gave the Saṃyutta 150 and the Aṅguttara 134; the list itself gives 129 and 155
+(284 either way). Every file's batch was rebuilt, nothing refused; `batches/sn-2`, `sn-3-1-2`, `sn-3-7`, `sn-4` and
+`sn-4-1-12` changed (the new rows, and last run's `sn-4-1-12` 7:3).
+
+Confirmed (in the verdicts with `"step": 3`, so they go into the step-3 batch):
+- `sn-2` 11:3 list-item-missing (Moḷiyaphagguna, the cessation chain; 100% de Zoysa): from clinging straight to
+  birth, “උපාදානය නැතිවීම හේතුකොට ගෙන ඉපදීම නැතිවේ”; the Pāli entry writes out උපාදානනිරොධා භවනිරොධො. භවනිරොධා
+  ජාතිනිරොධො. The link of becoming added in the entry's own pattern, with “භවය” as 11:2 has.
+- `sn-3-1-2` 68:1 pali-left-in (Channa): “කවරෙක් නු ඛො මට …”, the particles නු ඛො left in; taken out.
+- `sn-3-1-2` 67:2 pali-left-in, **found in passing** beside 68:1 (the same sentence, where Channa first thinks it;
+  the entry is on no list of the steps): the same two words taken out.
+- `sn-3-7` 26:11 pali-left-in (the end of the Valāhaka saṃyutta): de Zoysa's closing line
+  “සත්තපඤ්ඤාසසුත්තන්තං නිට්ඨිතං.” stands in Pāli at the head of the entry; taken out. The rest is kept: a list of
+  the sutta names (it restates the uddāna of 26:13 and is not in this Pāli entry, which is only
+  (විත්ථාරෙන සත්තපඤ්ඤාය සුත්තන්තා භවන්ති.)) ending with the count of fifty-seven, which is what the Pāli says.
+  The reason says so, for the maintainer to cut further if he wishes.
+- `sn-4` 74:2 other-entry-text (Dutiyadvaya): the entry opens with the last sentence of 74:1 (අනිච්චං ඛො පන
+  භික්ඛවෙ පච්චයං පටිච්ච උප්පන්නං මනොවිඤ්ඤාණං කුතො නිච්චං භවිස්සති), which 74:1 already translates; taken out.
+
+Unsure: none.
+
+Already reported in step 1 or 2 (same entries, nothing new): `sn-2-5` 42:5 (ආභිචෙතසිකානං දිට්ඨධම්මසුඛවිහාරානං),
+`sn-3-1-3` 32:16 (“තදින් අල්ලා නොගැනීමෙන්” added).
+
+Left alone:
+- Where the Pāli entry is abbreviated and the Sinhala writes the passage out: the openings of `sn-1` 44:6,
+  `sn-2` 17:3, 18:5, 19:5; the question asked once per aggregate (`sn-3` 26:4, `sn-3-1-2` 46:6, 55:6, `sn-3-1-3`
+  26:11 – 32:5, `sn-3-2` 21:10). Two things seen inside such written-out parts, **no row because the Pāli entry
+  has only -පෙ- there**: `sn-2` 2:10 and 51:0 also go from clinging straight to birth (“උපාදානය නැතිවීමෙන් ජාතිය
+  … නැතිවෙයි”, as 11:3 above, but the link is inside the -පෙ-); `sn-3` 26:2 says “එහෙයින් සත්වයන් සංස්කාරයන්හි
+  ඇලෙත්” in the sentence on perception (සංඥාවෙහි is meant). The owner may wish to mention them to the maintainer.
+- `sn-3-2` 43:12 (and 43:5, 43:9): රූපී අත්තා as “අරමුණ නිරෝගීවූ ආත්මය” (de Zoysa's reading by the commentary,
+  the kasiṇa object; the next suttas have “ධ්‍යානය (අරූපි බව)”); `sn-3-1-2` 50:0 තථාගතො as “සත්ත්වයා”: the
+  translator's readings, as before.
+- `sn-3-7` 9:9 gives කායෙන ද්වයකාරී as “දෙපරිද්දකින් ක්‍රියා කරන්නේ වෙයිද...” (the three doors in short).
+- `sn-2-2` 55:0, 55:2: පලුජ්ජන්ති ඛො තෙ ආවුසො නවප්පායා as “තොපගේ පිරිස බිඳෙන්නීය” (loose; the young ones are
+  not named). `sn-1-3` 15:3 and 19:4: එකමන්තං නිසීදි and හන්ද not given; single words.
+- `sn-5-11` 59:3 opens with de Zoysa's note “(මේ වර්ගයේ 1 වෙනි ඡේද සියල්ල පුඤ්ඤාභිසන්ද වර්ගයේ 1 වෙනි ඡේදය
+  මෙනි.)”, and 22:3, 26:6 keep his marks “[1]”, “[2]”: editorial marks, no row (as before).
+- `sn-2-1-5` 48:21 and the other uddānas stay as they are.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 3: 155 of 526 entries (the Aṅguttara). Next run: from `an-1`. The step-3 batch stands at 8 rows so
+far (`mn-3-4` 38:0, `sn-4-1-12` 7:3 and the six above); it is built when the Aṅguttara is read. Step 4
+(`pali-words`, 202 entries) follows.

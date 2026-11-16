@@ -1,6 +1,21 @@
 [
  {
   "pi": 74,
+  "ei": 2,
+  "kind": "other-entry-text",
+  "step": 3,
+  "edits": [
+   [
+    "“මහණෙනි, අනිත්‍යවූම ප්‍රත්‍යයක් නිසා උපන්නාවූ මනෝ විඤ්ඤාණය කෙසේ නිත්‍ය වන්නේද, මහණෙනි, මේ තුන්",
+    "“මහණෙනි, මේ තුන්"
+   ]
+  ],
+  "pali": "යා ඛො භික්ඛවෙ ඉමෙසං තිණ්ණං ධම්මානං සඞ්ගති සන්නිපාතො සමවායො",
+  "reason": "The entry opens with the last sentence of the entry before it (අනිච්චං ඛො පන භික්ඛවෙ පච්චයං පටිච්ච උප්පන්නං මනොවිඤ්ඤාණං කුතො නිච්චං භවිස්සති), which 74:1 already translates; this Pāli entry begins at යා ඛො භික්ඛවෙ ඉමෙසං තිණ්ණං ධම්මානං. The repeated sentence is taken out.",
+  "unsure": false
+ },
+ {
+  "pi": 74,
   "ei": 3,
   "kind": "pali-left-in",
   "edits": [

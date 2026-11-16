@@ -1,5 +1,31 @@
 [
  {
+  "pi": 1,
+  "ei": 10,
+  "kind": "clause-missing",
+  "proposed": "ආයුෂ්මත් ආනන්ද ස්ථවිරතෙමේ... (පෙ)... “ඇවැත් ශාරිපුත්‍ර ස්ථවිරයෙනි, ඔබවහන්සේගේ ඉන්ද්‍රියයෝ ප්‍රසන්නයහ. මුහුණු වර්ණය පිරිසිදුය. අතිශයින්ම පිරිසිදුය. ආයුෂ්මත් ශාරිපුත්‍ර ස්ථවිරයන් වහන්සේ අද කවර විහරණයකින් වාසය කළ සේක්ද?” යනුයි.",
+  "pali": "විප්පසන්නානි ඛො තෙ ආවුසො සාරිපුත්ත, ඉන්ද්රියානි, පරිසුද්ධො මුඛවණ්ණො පරියොදාතො",
+  "reason": "The Pāli abbreviates only the opening (අද්දසා ඛො ආයස්මා ආනන්දො -පෙ-) and writes out Ānanda's words විප්පසන්නානි ඛො තෙ ආවුසො සාරිපුත්ත, ඉන්ද්රියානි, පරිසුද්ධො මුඛවණ්ණො පරියොදාතො (your faculties are clear, your complexion pure and bright); the Sinhala puts “(පෙ)” over that sentence and gives only the question after it. Put as 1:15 has the same Pāli entry (copied by script).",
+  "unsure": false,
+  "was": "ආයුෂ්මත් ආනන්ද ස්ථවිරතෙමේ ආයුෂ්මත් සැරියුත් තෙරණුවන් දුරදීම දැක්කේය... (පෙ)... ආයුෂ්මත් ශාරිපුත්‍ර ස්ථවිරයන් වහන්සේ අද කවර විහරණයකින් වාසය කළ සේක්ද?” යනුයි.",
+  "step": 2
+ },
+ {
+  "pi": 26,
+  "ei": 11,
+  "kind": "pali-left-in",
+  "step": 3,
+  "edits": [
+   [
+    "සත්තපඤ්ඤාසසුත්තන්තං නිට්ඨිතං. ",
+    ""
+   ]
+  ],
+  "pali": "(විත්ථාරෙන සත්තපඤ්ඤාය සුත්තන්තා භවන්ති.)",
+  "reason": "A Pāli closing line (“සත්තපඤ්ඤාසසුත්තන්තං නිට්ඨිතං.”) stands untranslated at the head of the entry; taken out. The rest is kept: it ends with the count of fifty-seven suttas, which is what the Pāli entry says. (The list of sutta names before the count is not in this Pāli entry; it restates the uddāna of 26:13. Left as it is.)",
+  "unsure": false
+ },
+ {
   "pi": 36,
   "ei": 16,
   "kind": "wrong-word",
@@ -20,16 +46,5 @@
   "pali": "එකච්චො ඣායී සමාධිස්මිං ඨිතිකුසලො හොති, න සමාධිස්මිං සමාධිකුසලො",
   "reason": "The Ṭhiti sutta pairs සමාධිකුසලො with ඨිතිකුසලො. The entry's first sentence gives සමාධිකුසලො as “ධ්‍යානාංග දැනීමෙහි සමත්”, but the other three give it as “සමාධියට සමවැදීමෙහි”, which is the file's wording for සමාපත්තිකුසලො in the sutta before (page 36 entries 6–10); the Pāli entry has no සමාපත්තිකුසලො. Put as the first sentence has it (the second sentence already has it in brackets); nothing else changed.",
   "unsure": false
- },
- {
-  "pi": 1,
-  "ei": 10,
-  "kind": "clause-missing",
-  "proposed": "ආයුෂ්මත් ආනන්ද ස්ථවිරතෙමේ... (පෙ)... “ඇවැත් ශාරිපුත්‍ර ස්ථවිරයෙනි, ඔබවහන්සේගේ ඉන්ද්‍රියයෝ ප්‍රසන්නයහ. මුහුණු වර්ණය පිරිසිදුය. අතිශයින්ම පිරිසිදුය. ආයුෂ්මත් ශාරිපුත්‍ර ස්ථවිරයන් වහන්සේ අද කවර විහරණයකින් වාසය කළ සේක්ද?” යනුයි.",
-  "pali": "විප්පසන්නානි ඛො තෙ ආවුසො සාරිපුත්ත, ඉන්ද්රියානි, පරිසුද්ධො මුඛවණ්ණො පරියොදාතො",
-  "reason": "The Pāli abbreviates only the opening (අද්දසා ඛො ආයස්මා ආනන්දො -පෙ-) and writes out Ānanda's words විප්පසන්නානි ඛො තෙ ආවුසො සාරිපුත්ත, ඉන්ද්රියානි, පරිසුද්ධො මුඛවණ්ණො පරියොදාතො (your faculties are clear, your complexion pure and bright); the Sinhala puts “(පෙ)” over that sentence and gives only the question after it. Put as 1:15 has the same Pāli entry (copied by script).",
-  "unsure": false,
-  "was": "ආයුෂ්මත් ආනන්ද ස්ථවිරතෙමේ ආයුෂ්මත් සැරියුත් තෙරණුවන් දුරදීම දැක්කේය... (පෙ)... ආයුෂ්මත් ශාරිපුත්‍ර ස්ථවිරයන් වහන්සේ අද කවර විහරණයකින් වාසය කළ සේක්ද?” යනුයි.",
-  "step": 2
  }
 ]
