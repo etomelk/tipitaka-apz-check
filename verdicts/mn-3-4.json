@@ -1,5 +1,24 @@
 [
  {
+  "pi": 38,
+  "ei": 0,
+  "kind": "clause-missing",
+  "step": 3,
+  "edits": [
+   [
+    "එසේ එය දරන්නෙමු. එතකුදු වුවත්",
+    "එසේ එය දරන්නෙමු. මෙය ඊට සුදුසු කාලයද වූයේය. එතකුදු වුවත්"
+   ],
+   [
+    "මෙය බරක් වශයෙන් විස්තර කරන සේක්වා",
+    "මෙය බරක් වශයෙන් නොසලකා විස්තර කරන සේක්වා"
+   ]
+  ],
+  "pali": "සො චෙව පනෙතස්ස කාලො අහොසි, යං භගවන්තංයෙව එතමත්ථං පටිපුච්ඡෙය්යාම",
+  "reason": "Two things. (1) The clause සො චෙව පනෙතස්ස කාලො අහොසි (“that was the time for it”) is left out, so the monks seem to say that they will ask the Blessed One; added in the words the entry before it has for the same sentence (37:3 “මෙය ඊට සුදුසු කාලයද වූයේය”). (2) The closing request is විභජතායස්මා මහාකච්චානො අගරුං කරිත්වා (“without finding it a burden”); the entry says “බරක් වශයෙන්” (as a burden), with no negation. Written “බරක් වශයෙන් නොසලකා”, as page 9 entry 1 of this file has it. Nothing else changed.",
+  "unsure": false
+ },
+ {
   "pi": 64,
   "ei": 0,
   "kind": "pali-left-in",

@@ -2318,3 +2318,54 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 3: 420 of 526 entries (MN 136, SN 150, AN 134). Next run: from `mn-1`. Step 4 (`pali-words`, 202
 entries) follows.
+
+## 2026-11-16 (seventh run) — step 3: the Majjhima (136 entries); 1 confirmed row, and 1 found in passing in `sn-4-1-12`
+
+Commit e4db85e (pinned). Step 3 (`dropped`), each entry read in full against its Pāli: `mn-1` 15, `mn-1-2` 44,
+`mn-1-3` 5, `mn-1-4` 2, `mn-1-5` 29, `mn-2` 3, `mn-2-2` 4, `mn-2-4` 9, `mn-2-5` 4, `mn-3` 3, `mn-3-2` 11,
+`mn-3-3` 3, `mn-3-4` 2, `mn-3-5` 2: 136 entries, the whole Majjhima of the step (more than the usual hundred: most
+entries are short, and the run stopped at the Nikāya's end). Every file's batch was rebuilt, nothing refused; only
+`batches/mn-3-4_e4db85e.tsv` changed (the new row).
+
+Confirmed (in the verdicts with `"step": 3`, so they go into the step-3 batch):
+- `mn-3-4` 38:0 clause-missing (Mahākaccānabhaddekaratta, the monks' answer to Mahākaccāna; an entry that is 99% de
+  Zoysa, so it was not on the step-1 list). Two things in one row: the clause සො චෙව පනෙතස්ස කාලො අහොසි is left out
+  (de Zoysa had “… යන යමක් වේද, මෙය ඊට සුදුසු කාලයද වූයේය”; without it the monks seem to say they will ask the
+  Blessed One), added in the words of 37:3; and අගරුං කරිත්වා is “බරක් වශයෙන්” with no negation (de Zoysa's own
+  slip), written “බරක් වශයෙන් නොසලකා” as 9:1 of the same file has it. Of the fourteen entries in the four Nikāyas
+  with this sentence, this is the only one without the clause.
+- `sn-4-1-12` 7:3 clause-missing, **found in passing** while the parallels of the row above were compared; the entry is
+  on no list of the steps (97% or more de Zoysa, no `dropped` row). Its last sentence, විභජතායස්මා ආනන්දො අගරුං
+  කරිත්වාති, is not translated: the entry stops at “… විභාග කරන්ට සමර්ථ වේ.”, and the next entry (8:0) does not have
+  it. Added in the words 3:2 of the same file has for the same sentence. A new file `verdicts/sn-4-1-12.json`; the
+  row was built once as a test (nothing refused) and the test files removed; it comes out with the step-3 batch.
+  The owner may prefer to send it with something else: the Saṃyutta's step-1 collection is already built.
+
+Unsure: none.
+
+Already reported in step 1 (same entries, nothing new): `mn-1-2` 66:0 (විඤ්ඤූනං සබ්රහ්මචාරීනං), `mn-2-4` 80:0 (the
+text one entry late, `moved`), `mn-3-2` 23:4 (විහෙසවා missing from the unwholesome list).
+
+Left alone:
+- In almost every entry the dropped words of de Zoysa are his additions or a different wording of the same thing:
+  “නැවත අනිකක්ද කියමි” for පුන චපරං, now “නැවතද” (the 28 entries of the Anumāna, `mn-1-2` 37:5 – 40:7, and of the
+  Kosambiya, `mn-1-5` 46:4 – 50:5); “අර්හත් මාර්ග(ඥාන)” before විජ්ජං (`mn-1` 55:2 – 57:0, `mn-1-5` 14:9); “මාර්ග
+  දෘෂ්ටියෙන් යුත් පුද්ගල තෙම” now “දෘෂ්ටි සම්පන්න පුද්ගලයා”; commentary glosses.
+- Single words: `mn-1` 21:1 none for අකුසලං beside “භයානක අරමුණු”; `mn-1-2` 25:1 දායාදා only as “අප්‍රියවූවෝ”
+  (32:4 has “අප්‍රිය වූ උරුමක්කාරයෝ”); `mn-1-3` 55:3 none for නචිරස්සෙව (54:2 has “නොබෝ කලකින්ම”) and විහරිස්සථ as
+  “වාසය කරව්”; `mn-3-4` 38:0 none for අද්ධා.
+- Shortened repetitions, the sense whole: `mn-1-2` 73:4 gives the second half of the simile's application once
+  (“එවිට ඒ අකුසල කල්පනාවෝ පහවෙත් …”) and two of the carpenter's three verbs; `mn-1-2` 66:0 gives ඉමස්ස භගවතා
+  සඞ්ඛිත්තෙන උද්දෙසස්ස උද්දිට්ඨස්ස … as “මේ දේශනාවේ අර්ථය විස්තර වශයෙන්” (the entry is in step 1's collection for
+  another reason, unchanged there).
+- Loose or the translator's reading, no row: `mn-1` 6:1 and 6:5 (noted in step 1: අභිජානාති as “හඟියි”);
+  `mn-2-2` 15:3 තථාගතො as “සත්වයා” in the undeclared questions (the commentary's reading); `mn-2-5` 19:3 the
+  closing නො ඛත්තියො නො වෙස්සො නො සුද්දො as “ක්ෂත්‍රියයෙක්, වෛශ්‍යයෙක්, ශුද්‍රයෙක් (එසේ) නොවේද?”; `mn-3-2` 18:0
+  has “භේදයෙහි ඇළුනේ” twice for වග්ගාරාමො වග්ගරතො.
+- `mn-3-2` 22:0 opens “මහණෙනි” inside a passage spoken to Sāriputta: the Pāli entry itself has භික්ඛවෙ there
+  (the quoted heading), so it stands.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 3: 284 of 526 entries (SN 150, AN 134). Next run: from `sn-1`. Step 4 (`pali-words`, 202 entries)
+follows.
