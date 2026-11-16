@@ -12,5 +12,20 @@
   "pali": "ඉධ තථාගතෙන අනුත්තරං ධම්මචක්කං පවත්තිතන්ති",
   "reason": "The third of the four places stands in Pāli (“මෙහි තථාගතෙන අනුත්තරං ධම්මචක්කං පවත්තිතන්ති”); the other three are translated. Replaced with the wording text-apz itself has for the same clause in entry 9 of the same page, copied by script.",
   "unsure": false
+ },
+ {
+  "pi": 7,
+  "ei": 7,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "නැති තැනද (ආවි චෙව රහො ච) මෛත්‍රියෙන්",
+    "නැති තැනද මෛත්‍රියෙන්"
+   ]
+  ],
+  "pali": "ආවි චෙව රහො ච",
+  "reason": "The Pāli words “(ආවි චෙව රහො ච)” stand in brackets after their translation (“ඇති තැනද නැති තැනද”); taken out.",
+  "unsure": false,
+  "step": 4
  }
 ]

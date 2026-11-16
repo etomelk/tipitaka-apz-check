@@ -68,5 +68,35 @@
   "pali": "ඉමෙසං යක්ඛානං මහායක්ඛානං සෙනාපතීනං මහාසෙනාපතීනං",
   "reason": "The opening Pāli words stand in the entry with their translation after them in brackets; the proposed text keeps the translation alone (as text-apz has it in page 91 entry 5).",
   "unsure": false
+ },
+ {
+  "pi": 28,
+  "ei": 3,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    " තයිදං කිංසු තයිදං කථංසූ?”ති.",
+    ""
+   ]
+  ],
+  "pali": "තයිදං කිංසු තයිදං කථංසූ?”ති.",
+  "reason": "The Pāli question “තයිදං කිංසු තයිදං කථංසූ?”ති.” stands at the end of the entry; its translation (“ඒ මේ කරුණ කෙසේ වන්නාහුදැයි ඒ මේ කරුණ කුමක් වන්නාහුදැයි”) is already inside the sentence before it. Taken out.",
+  "unsure": false,
+  "step": 4
+ },
+ {
+  "pi": 90,
+  "ei": 1,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "උජ්ඣාපෙතබ්බං වික්කන්දිතබ්බං විරවිතබ්බං:",
+    "(අවධානය පිණිස) උද්ඝෝෂණය කළ යුතුය, මොරගා කිය යුතුය, විලාප දිය යුතුය:"
+   ]
+  ],
+  "pali": "උජ්ඣාපෙතබ්බං වික්කන්දිතබ්බං විරවිතබ්බං",
+  "reason": "Three Pāli words stand untranslated in the sentence (“… මහාසේනාපතීන්ගේ උජ්ඣාපෙතබ්බං වික්කන්දිතබ්බං විරවිතබ්බං:”). Given in the words of 81:1, the same sentence in the first telling of the sutta, copied by script.",
+  "unsure": false,
+  "step": 4
  }
 ]

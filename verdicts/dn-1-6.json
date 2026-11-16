@@ -152,5 +152,20 @@
   "pali": "නාස්ස කිඤ්චි සබ්බාවතො කායස්ස පරිසුද්ධෙන චෙතසා පරියොදාතෙන අප්ඵුටං හොති",
   "reason": "One clause stands in Pāli in the Sinhala (“සො ඉමමෙව කායං පරිසුද්ධෙන චෙතසා …”) and the next (“නාස්ස කිඤ්චි … අප්ඵුටං හොති”) is not translated. Wording from dn-1 page 65 entry 2 (“පිරිසිදුවූ, අතිශයින් බබලන … සිතින් පතුරුවා හුන්නේ වෙයි”) and page 71 entry 0 of this sutta.",
   "unsure": false
+ },
+ {
+  "pi": 12,
+  "ei": 5,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "කථං ච ආවුසො, භික්ඛු ඉන්ද්රියෙසු ගුත්තද්වාරො හොති? ඇවැත්නි,",
+    "ඇවැත්නි,"
+   ]
+  ],
+  "pali": "කථං ච ආවුසො, භික්ඛු ඉන්ද්රියෙසු ගුත්තද්වාරො හොති?",
+  "reason": "The Pāli question stands before its translation (“ඇවැත්නි, භික්ෂුව කෙසේ නම් ඉන්ද්‍රියයන්හි වැසූ දොරටු ඇත්තේද?”); taken out.",
+  "unsure": false,
+  "step": 4
  }
 ]

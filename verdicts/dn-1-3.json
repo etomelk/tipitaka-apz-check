@@ -81,5 +81,50 @@
   "reason": "The Pāli writes all four groups out in full; the Sinhala gives “...” for the councillors, townsmen and country people of the second group and the townsmen and country people of the third and fourth. Wording from the first sentence of the entry and from page 57 entry 4.",
   "unsure": false,
   "was": "බ්‍රාහ්මණය, එවිට (රජහුගේ) දානශාලාවට නැගෙනහිර දිසාවෙන් පැමුණුනාවූ ක්ෂත්‍රියයෝද, නියම්ගම් වැසියෝද, ජනපද වැසියෝද, දානයන් පිහිටුවූහ. යාගාවාටයට දකුණින් ඇමතියෝද... දානයන් පිහිටුවූහ. දානශාලාවට බස්නාහිර දිගින් බමුණු මහසල්කුලයෝද... දානයන් පිහිටුවූහ. දානශාලාවට උතුරු දිගින් වස්තු රැස්කරණ පවුල් ප්‍රධානියෝද... දානයන් පිහිටුවූහ."
+ },
+ {
+  "pi": 20,
+  "ei": 7,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "පුන චපරං අම්බට්ඨ, නැවතද",
+    "අම්බට්ඨය, නැවතද"
+   ]
+  ],
+  "pali": "පුන චපරං අම්බට්ඨ",
+  "reason": "The Pāli opening “පුන චපරං අම්බට්ඨ,” stands before its translation (“නැවතද”); taken out, with the vocative given as the file gives it everywhere else (“අම්බට්ඨය”).",
+  "unsure": false,
+  "step": 4
+ },
+ {
+  "pi": 23,
+  "ei": 1,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "සො එවං සමාහිතෙ ඔහු මෙසේ",
+    "ඔහු මෙසේ"
+   ]
+  ],
+  "pali": "සො එවං සමාහිතෙ",
+  "reason": "The Pāli opening “සො එවං සමාහිතෙ” stands before its translation (“ඔහු මෙසේ සිත එකඟවූ කල්හි”); taken out.",
+  "unsure": false,
+  "step": 4
+ },
+ {
+  "pi": 68,
+  "ei": 0,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "බීජගාමභූතගාමසමාරම්භා පටිවිරතො හොති. තණ,",
+    "තණ,"
+   ]
+  ],
+  "pali": "බීජගාමභූතගාමසමාරම්භා පටිවිරතො හොති.",
+  "reason": "The first Pāli sentence stands before its translation (“තණ, ගස්, වැල්, සිඳීම් බිඳීම් ආදියෙන් සම්පූර්ණයෙන් වැළැක්කේ”); taken out. The rest is unchanged.",
+  "unsure": false,
+  "step": 4
  }
 ]

@@ -2477,3 +2477,93 @@ The add_repo tool was again not available; the repository was already cloned wit
 Left in step 3: 61 of 526 entries (`an-8` 12, `an-8-2` 11, `an-9` 8, `an-10` 3, `an-10-2` 10, `an-10-3` 9,
 `an-10-4` 3, `an-10-5` 3, `an-11` 2; they are long). Next run: from `an-8`; when they are read the step-3 batch
 is built (12 rows so far). Step 4 (`pali-words`, 202 entries) follows.
+
+## 2026-11-16 (tenth run) — step 3 finished (the last 61 Aṅguttara entries; 4 rows); the step-3 batch built (16 rows); step 4 begun (the Dīgha, 44 entries; 11 rows)
+
+Commit e4db85e (pinned). Comparison rebuilt.
+
+**Step 3 (`dropped`), the rest of the Aṅguttara**, each entry read in full against its Pāli: `an-8` 12, `an-8-2` 11,
+`an-9` 8, `an-10` 3, `an-10-2` 10, `an-10-3` 9, `an-10-4` 3, `an-10-5` 3, `an-11` 2: 61 entries (three of them only a
+centred number). Every file's batch was rebuilt, nothing refused; only `batches/an-10-2` changed.
+
+Confirmed (in `verdicts/an-10-2.json` with `"step": 3`), all in the Kāmabhogī and Kiṃdiṭṭhika suttas:
+- `an-10-2` 85:3 clause-missing (on the step's list; 100% de Zoysa): යං ඛො පන කිඤ්චි භූතං සංඛතං චෙතයිතං
+  පටිච්චසමුප්පන්නං is not translated; the entry opens “එය අනිත්‍යය” with nothing for “එය” to stand for. Put in
+  with the four words 85:2 uses for භූතා සඞ්ඛතා චෙතයිතා පටිච්චසමුප්පන්නා; the clause is newly written. (85:1 has
+  the same collapse, “… උපන්නිය. එය අනිත්‍යය”, inside one entry, where “එය” has the view to stand for: left.)
+- `an-10-2` 78:0, 78:1, 78:2, **found in passing** while reading 79:1 and 79:2 beside them (they are on no step's
+  list: de Zoysa's own text, with no run of words dropped). The fifth, sixth and seventh of the ten kāmabhogī:
+  - 78:0 negation: the man who seeks ධම්මාධම්මෙන … සාහසෙන පි අසාහසෙන පි and does not share is first given as
+    “ධර්මයෙන් නොසැහැසිකමින් වස්තුව සොයයි. සොයා තමන් සුවපත් කරයි. පිනවයි. බෙදාදෙයි. පින්කරයි.”, then rightly.
+    The wrong sentence taken out, the seeking put in the words of 77:2 (the same Pāli), copied by script.
+  - 78:1 phrase-missing: the same opening, “ධර්මයෙන් නොසැහැසිකමින්” only, for ධම්මාධම්මෙන …; put as in 77:2.
+  - 78:2 clause-added: a sentence that blames the man for seeking rightly (“ධර්මයෙන් නොසැහැසිකමින් වස්තුව සොයයි
+    යන මේ එක් කරුණින් ගැරහිය යුතුය”) stands before the right sentence of praise; taken out. And න අත්තානං සුඛෙති
+    පීනෙති as “සුවපත් නොකෙරෙයි. පිනවයි.”; made “නොපිනවයි”.
+  The owner may leave these three out if he wants only the step's own entries; their reasons say they were found
+  in passing.
+
+Unsure: none.
+
+Already reported in step 1 (same entries, nothing new): `an-8-2` 9:3 (the four outlets of the tank), `an-9` 20:2
+(the sentence on mindfulness of the body).
+
+Left alone:
+- `an-10-2` 79:1 (as 79:2 in step 1) gives තෙ ච භොගෙ ගථිතො … පරිභුඤ්ජති once, as the ground of blame, where the
+  Pāli has it twice; 5:6 gives the four questions (ලාභී නු ඛොම්හි …) twice, once in de Zoysa's words and once in
+  newer ones: a repetition, nothing wrong; 14:0 has no words of its own for ද්වින්නං ඵලානං අඤ්ඤතරං ඵලං
+  පාටිකඞ්ඛං (the two fruits follow with “හෝ”); 14:3 නිසීදි as “සිටි සේක”; 104:4 පටිඝසඤ්ඤානං as “ක්‍රොධ
+  සංඥාවන්ගේ” (as before).
+- `an-9` 98:10 and 100:8: the Pāli entry is only the instruction (දුතියසුත්තතො පට්ඨාය යාව නවමා … විත්ථාරෙතබ්බං);
+  the Sinhala writes the eight suttas out. Nothing in the Pāli entry to hold it against; no row.
+- `an-10` 17:5: න විචිකිච්ඡති අධිමුච්චති as “විනිශ්චය කට හැකි වේද, මිදේද”; `an-8` 76:2: ඵලං වෙ හොති සම්පදා as
+  “සම්පූර්‍ණ ඵලයවූ චිත්ත සම්පදාව”: de Zoysa's readings, loose.
+- `an-8` 54:3: පඤ්ඤාවිමුත්තො as “ශුෂ්කවිදර්‍ශකක්‍ෂීණාශ්‍රවය”, කායසක්ඛී glossed: the commentary's reading.
+- `an-10-3` 24:6 – 25:5 write out the frame (ඉධ බ්රාහ්මණ අරියසාවකො ඉති පටිසඤ්චික්ඛති) that the Pāli gives once.
+
+**The step-3 batch is ready for the owner to post:** `batches/step3_e4db85e.tsv`, 16 rows (5 clause-missing,
+3 pali-left-in, 2 list-item-missing, 2 phrase-missing, 2 negation, 1 clause-added, 1 other-entry-text; MN 1, SN 6,
+AN 9, DN none), `batches/step3_e4db85e_unsure.tsv` (no rows) and the issue text `batches/step3_ISSUE.md`. Built
+with `--step 3` over all files, nothing refused. 526 entries were read in the step (DN 106, MN 136, SN 129,
+AN 155). Five of the 16 rows are entries found in passing (`sn-3-1-2` 67:2, `sn-4-1-12` 7:3, `an-10-2` 78:0–78:2).
+
+**Step 4 (`pali-words`) begun: the Dīgha**, all 44 entries of its nine files, each read in full against its Pāli.
+17 of the 44 were already rows of the DN collection (step 1). Of the other 27:
+
+Confirmed, 11 rows (in the verdicts with `"step": 4`, all pali-left-in; the Pāli is taken out and the translation
+beside it kept, unless said otherwise):
+- `dn-1-3` 20:7 (“පුන චපරං අම්බට්ඨ,” before “නැවතද”; the vocative kept as “අම්බට්ඨය”), 23:1 (“සො එවං සමාහිතෙ”),
+  68:0 (“බීජගාමභූතගාමසමාරම්භා පටිවිරතො හොති.” before its translation).
+- `dn-1-6` 12:5 (the Pāli question කථං ච ආවුසො, භික්ඛු ඉන්ද්රියෙසු ගුත්තද්වාරො හොති? before its translation).
+- `dn-1-11` 63:2 (“එවමෙව ඛො වාසෙට්ඨ,” before “එසේම”; the vocative kept as “වාසෙට්ඨය”).
+- `dn-2` 41:9: the six feelings stand in Pāli (චක්ඛුසම්ඵස්සජා වෙදනා … මනොසම්ඵස්සජා වෙදනා), the first with a
+  bracketed translation, the other five with none; these forms stand nowhere else in the four Nikāyas. The first
+  keeps its translation; the five are written in its pattern (“කනේ ස්පර්ශයෙන් හටගන්නා විඳීම” …, newly written).
+- `dn-2` 53:2: the closing line මහානිදානසුත්තං නිට්ඨිතං දුතියං. with its translation in brackets; the bracketed
+  translation alone (as 53:1 in step 1). The translation says “පසලොස් වෙනි” (the sutta's place in the Dīgha) where
+  the Pāli has දුතියං; left as it stands and said in the reason.
+- `dn-2-3` 7:7 (“(ආවි චෙව රහො ච)” after its translation).
+- `dn-3` 52:5: the first of the six abbreviated kings (දුතියො පි ඛො භික්ඛවෙ රාජා චක්කවත්තී -පෙ-) is in Pāli, the
+  other five translated; given in the entry's pattern for the third, with “දෙවැනි”.
+- `dn-3-5` 28:3 (“තයිදං කිංසු තයිදං කථංසූ?”ති.” at the end; its translation is inside the sentence before it).
+- `dn-3-5` 90:1: “උජ්ඣාපෙතබ්බං වික්කන්දිතබ්බං විරවිතබ්බං:” untranslated in the sentence; given in the words of
+  81:1, the same sentence in the first telling, copied by script.
+
+Unsure: none.
+
+Left alone:
+- `dn-3-10`, all 17 entries (5:16 – 57:1): the bold Pāli head of each set (“අපරාපි **තිස්සො ධාතුයො:**” …) kept
+  before its list, as in every entry of the Saṅgīti and Dasuttara suttas (the step-1 run left them for the same
+  reason: a quoted head, the form the whole file has). Six of them translate the head after it, eleven go straight
+  to the list. If the maintainer wants these heads translated it is one decision for some hundreds of entries, not
+  17 rows; the owner may wish to ask him. The lists themselves were read: nothing missing.
+- `dn-1-3` 20:7 has no words for අවිතක්කං අවිචාරං and gives නාස්ස කිඤ්චි … අප්ඵුටං හොති positively (“සියලු
+  ශරීරයෙහි … සැප පැතිරේ”); loose, as before.
+
+Every DN file's batch was rebuilt, nothing refused (`dn-1-3`, `dn-1-6`, `dn-1-11`, `dn-2`, `dn-2-3`, `dn-3`,
+`dn-3-5` changed). The step-4 batch (`python3 tools/work.py batch step4 <files> --step 4`) is built when the step
+is finished.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 4: 158 of 202 entries (MN 28, SN 86, AN 44). Next run: from `mn-1`.

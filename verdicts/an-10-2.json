@@ -206,5 +206,69 @@
   "pali": "අදින්නාදානං පහාය අදින්නාදානා පටිවිරතො හොති",
   "reason": "අදින්නාදානං is the taking of what is not given; the Sinhala says he gives up and abstains from taking what others have given. Put as “නුදුන් දෙය” (81:2 of the file: “නුදුන් දේ ගන්නා”).",
   "unsure": false
+ },
+ {
+  "pi": 78,
+  "ei": 0,
+  "kind": "negation",
+  "edits": [
+   [
+    "ධර්‍මයෙන් නොසැහැසිකමින් වස්තුව සොයයි. සොයා තමන් සුවපත් කරයි. පිනවයි. බෙදාදෙයි. පින්කරයි. සොයා තමා",
+    "ධර්මයෙන් හා අධර්මයෙන් ද, සැහැසිකමින් හා නොසැහැසිකමින් ද වස්තුව සොයයි. සොයා තමා"
+   ]
+  ],
+  "pali": "ධම්මාධම්මෙන භොගෙ පරියෙසිත්වා සාහසෙන පි අසාහසෙන පි, අත්තානං සුඛෙති පීනෙති න සංවිභජති න පුඤ්ඤානි කරොති",
+  "reason": "Found in passing (not on the step’s list). The fifth person seeks wealth both rightly and wrongly (ධම්මාධම්මෙන … සාහසෙන පි අසාහසෙන පි), enjoys it, and does not share or make merit. The entry opens “ධර්මයෙන් නොසැහැසිකමින් වස්තුව සොයයි. සොයා තමන් සුවපත් කරයි. පිනවයි. බෙදාදෙයි. පින්කරයි.” (rightly only; shares and makes merit), and only then gives the right sentence. The wrong sentence is taken out and the seeking put in the words of 77:2 (paragraph 4, the same Pāli), copied by script; the grounds that follow were already right.",
+  "unsure": false,
+  "step": 3
+ },
+ {
+  "pi": 78,
+  "ei": 1,
+  "kind": "phrase-missing",
+  "edits": [
+   [
+    "ධර්‍මයෙන් නොසැහැසිකමින් වස්තුව සොයයි. සොයා තමන්",
+    "ධර්මයෙන් හා අධර්මයෙන් ද, සැහැසිකමින් හා නොසැහැසිකමින් ද වස්තුව සොයයි. සොයා තමන්"
+   ]
+  ],
+  "pali": "ධම්මාධම්මෙන භොගෙ පරියෙසති සාහසෙන පි අසාහසෙන පි",
+  "reason": "Found in passing (not on the step’s list). The sixth person seeks wealth both rightly and wrongly (ධම්මාධම්මෙන … සාහසෙන පි අසාහසෙන පි); the entry says only “ධර්මයෙන් නොසැහැසිකමින් වස්තුව සොයයි”, though it then blames him on the ground “අධර්මයෙන්ද, සැහැසිකමින්ද වස්තුව රැස්කෙරෙයි”. Put in the words of 77:2 (paragraph 4, the same Pāli), copied by script. (The sentence “සොයා තමන් සුවපත් කරයි … පින්කරයි” stands twice; a repetition, left.)",
+  "unsure": false,
+  "step": 3
+ },
+ {
+  "pi": 78,
+  "ei": 2,
+  "kind": "clause-added",
+  "edits": [
+   [
+    "ධර්මයෙන් නොසැහැසිකමින් වස්තුව සොයයි යන මේ එක් කරුණින් ගැරහිය යුතුය. ධර්මයෙන්ද, නොසැහැසිකමින්ද වස්තුව සොයයි යන මේ එක් කරුණින්ද පැසසිය",
+    "ධර්මයෙන්ද, නොසැහැසිකමින්ද වස්තුව සොයයි යන මේ එක් කරුණින් පැසසිය"
+   ],
+   [
+    "තමා සුවපත් නොකෙරෙයි. පිනවයි.",
+    "තමා සුවපත් නොකෙරෙයි. නොපිනවයි."
+   ]
+  ],
+  "pali": "‘න අත්තානං සුඛෙති පීනෙතී’ති, ඉමිනා පඨමෙන ඨානෙන ගාරය්හො",
+  "reason": "Found in passing (not on the step’s list). The seventh person is praised on one ground and blamed on two. The entry adds a sentence the Pāli does not have and that reverses it: “ධර්මයෙන් නොසැහැසිකමින් වස්තුව සොයයි යන මේ එක් කරුණින් ගැරහිය යුතුය” (blamed for seeking rightly), before the right sentence of praise; taken out, with the “ද” of “එක් කරුණින්ද” that answered to it. And the first ground of blame, න අත්තානං සුඛෙති පීනෙති, is given as “තමා සුවපත් නොකෙරෙයි. පිනවයි.”; made “නොපිනවයි”, as the entry’s own second sentence has it.",
+  "unsure": false,
+  "step": 3
+ },
+ {
+  "pi": 85,
+  "ei": 3,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "එය අනිත්‍යය. යමක් අනිත්‍ය",
+    "හටගත්, හේතූන්ගෙන් සකස් වූ, සිතා ගත්, හේතු ප්‍රත්‍යයන් නිසා උපන් යමක් වේ ද, එය අනිත්‍යය. යමක් අනිත්‍ය"
+   ]
+  ],
+  "pali": "යං ඛො පන කිඤ්චි භූතං සංඛතං චෙතයිතං පටිච්චසමුප්පන්නං, තදනිච්චං",
+  "reason": "යං ඛො පන කිඤ්චි භූතං සංඛතං චෙතයිතං පටිච්චසමුප්පන්නං is not translated: the entry opens “එය අනිත්‍යය” with nothing for “එය” to stand for. Put in with the four words the entry before (85:2) uses for භූතා සඞ්ඛතා චෙතයිතා පටිච්චසමුප්පන්නා; the clause itself is newly written.",
+  "unsure": false,
+  "step": 3
  }
 ]

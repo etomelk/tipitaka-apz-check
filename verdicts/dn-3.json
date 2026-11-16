@@ -170,5 +170,20 @@
   "pali": "තෙ පාණාතිපාතා විරමිස්සන්ති, අදින්නාදානා විරමිස්සන්ති, කාමෙසුමිච්ඡාචාරා විරමිස්සන්ති, මුසාවාදා විරමිස්සන්ති",
   "reason": "The Pāli writes the abstentions out in full; the Sinhala gives “ප්‍රාණඝාතයෙන්...” for them. Filled with text-apz's own wording of the list in page 61 entry 2, of the three abandonings in page 62 entry 2 and of the three things in page 63 entry 0, copied by script.",
   "unsure": false
+ },
+ {
+  "pi": 52,
+  "ei": 5,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "දුතියො පි ඛො භික්ඛවෙ රාජා චක්කවත්තී -පෙ-",
+    "මහණෙනි, දෙවැනි සක්විති රජතෙමේද -පෙ-"
+   ]
+  ],
+  "pali": "දුතියො පි ඛො භික්ඛවෙ රාජා චක්කවත්තී -පෙ-",
+  "reason": "The first of the six abbreviated kings stands in Pāli (“දුතියො පි ඛො භික්ඛවෙ රාජා චක්කවත්තී -පෙ-”); the other five are translated. Given in the entry’s own pattern for the third king, with “දෙවැනි”.",
+  "unsure": false,
+  "step": 4
  }
 ]

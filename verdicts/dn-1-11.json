@@ -80,5 +80,20 @@
   "pali": "ආවීභාවං තිරොභාවං තිරොකුඩ්ඩං තිරොපාකාරං තිරොපබ්බතං අසජ්ජමානො ගච්ඡති සෙය්යථාපි ආකාසෙ. පඨවියා’පි උම්මුජ්ජනිමුජ්ජං කරොති සෙය්යථාපි උදකෙ. උදකෙ’පි අභිජ්ජමානෙ ගච්ඡති සෙය්යථාපි පඨවියං. ආකාසෙ’පි පල්ලඞ්කෙන කමති සෙය්යථාපි පක්ඛී සකුණො",
   "reason": "ආවීභාවං තිරොභාවං (he appears, he vanishes) is not translated; added in the wording text-apz has for it elsewhere. And පල්ලඞ්කෙන (cross-legged) is given as “පරෙවි අයුරින්” (in the manner of a dove), with the right word only in brackets; text-apz elsewhere has “පළඟින් හිඳගෙනම”.",
   "unsure": false
+ },
+ {
+  "pi": 63,
+  "ei": 2,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "එවමෙව ඛො වාසෙට්ඨ, එසේම",
+    "වාසෙට්ඨය, එසේම"
+   ]
+  ],
+  "pali": "එවමෙව ඛො වාසෙට්ඨ",
+  "reason": "The Pāli opening “එවමෙව ඛො වාසෙට්ඨ,” stands before its translation (“එසේම”); taken out, with the vocative as the entry itself gives it further on (“වාසෙට්ඨය”).",
+  "unsure": false,
+  "step": 4
  }
 ]

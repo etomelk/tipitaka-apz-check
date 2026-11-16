@@ -234,5 +234,30 @@
   "pali": "ඉදමවොච භගවා. අත්තමනො ආයස්මා ආනන්දො භගවතො භාසිතං අභිනන්දීති",
   "reason": "The closing sentence stands in Pāli with its translation in brackets after it. The proposed text is the bracketed translation alone, cut out by script.",
   "unsure": false
+ },
+ {
+  "pi": 41,
+  "ei": 9,
+  "kind": "pali-left-in",
+  "edits": [
+   [
+    "චක්ඛුසම්ඵස්සජා වෙදනා (ඇසේ ස්පර්ශයෙන් හටගන්නා විඳීම), සොතසම්ඵස්සජා වෙදනා, ඝානසම්ඵස්සජා වෙදනා, ජිව්හාසම්ඵස්සජා වෙදනා, කායසම්ඵස්සජා වෙදනා, මනොසම්ඵස්සජා වෙදනා ",
+    "ඇසේ ස්පර්ශයෙන් හටගන්නා විඳීම, කනේ ස්පර්ශයෙන් හටගන්නා විඳීම, නාසයේ ස්පර්ශයෙන් හටගන්නා විඳීම, දිවේ ස්පර්ශයෙන් හටගන්නා විඳීම, කයේ ස්පර්ශයෙන් හටගන්නා විඳීම, සිතේ ස්පර්ශයෙන් හටගන්නා විඳීම "
+   ]
+  ],
+  "pali": "චක්ඛුසම්ඵස්සජා වෙදනා සොතසම්ඵස්සජා වෙදනා ඝානසම්ඵස්සජා වෙදනා",
+  "reason": "The six kinds of feeling stand in Pāli (“චක්ඛුසම්ඵස්සජා වෙදනා … මනොසම්ඵස්සජා වෙදනා”), the first with its translation in brackets, the other five with none; these Pāli forms stand nowhere else in the four Nikāyas of text-apz. The first keeps its bracketed translation alone; the other five are written in the same pattern (newly written).",
+  "unsure": false,
+  "step": 4
+ },
+ {
+  "pi": 53,
+  "ei": 2,
+  "kind": "pali-left-in",
+  "proposed": "පසලොස් වෙනි වූ මහා නිදාන සූත්‍රය මෙයින් නිමියේය.",
+  "pali": "මහානිදානසුත්තං නිට්ඨිතං දුතියං.",
+  "reason": "The closing line stands in Pāli with its translation in brackets after it. The proposed text is the bracketed translation alone, cut out by script (as 53:1, the line before it). Note for the maintainer: the translation counts the sutta as the fifteenth (“පසලොස් වෙනි”, its place in the Dīgha), the Pāli as the second (දුතියං, of this volume); the number is left as it stands.",
+  "unsure": false,
+  "step": 4
  }
 ]
