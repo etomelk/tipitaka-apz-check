@@ -1994,3 +1994,68 @@ The add_repo tool was again not available; the repository was already cloned wit
 
 Left in step 1: 198 of 5,250 entries, all in the Aṅguttara (`an-10-2` 82, `an-10-3` 32, `an-10-4` 26, `an-10-5` 24,
 `an-11` 34). Next run: `an-10-2` from 61:7.
+
+## 2026-11-16 — step 1, `an-10-2` (finished) and `an-10-3` (whole file)
+
+Upstream commit e4db85e (the pinned one). Comparison rebuilt. Read: `an-10-2`, the last 82 of its 133 entries (from
+61:7), and `an-10-3`, all 32 entries of the step, 114 entries, each in full against its Pāli. Both files are finished
+and their batches built, nothing refused: `batches/an-10-2_e4db85e.tsv` 14 rows (2 from the run before, 12 new), no
+unsure; `batches/an-10-3_e4db85e.tsv` no rows. Seven of the twelve new rows are entries of the step's list; five are
+neighbours outside it with the same error (the same verse or sentence said twice), read beside them. The owner may
+drop the five if he wants only the step's entries.
+
+Confirmed (main file), all in `an-10-2`:
+- 70:0 wrong-subject (Kokālika, the third time): කිඤ්චාපි මෙ භන්තෙ භගවා සද්ධායිකො පච්චයිකො is “although the
+  Blessed One is worthy of my faith and trust”; the Sinhala says that the Blessed One has faith and trust in him
+  (“මා කෙරෙහි ශ්‍රද්ධාව ඇත්තාහු නමුදු”). Put in the words of `sn-1-3` 71:0, the same sentence (“මට විශ්වාස
+  කටයුතු …, ඇදහිය යුතු වචන ඇත්තාහු …”). The same in 69:7 (the second time, outside the list: “කිමෙක්ද, භාග්‍යවතුන්
+  වහන්සේ මා අදහන්නේය. විශ්වාස කරන්නේය.”), replaced by the sentence of `sn-1-3` 71:0, copied by script.
+- 73:1 wrong-number (the closing verse): සතං සහස්සානං නිරබ්බුදානං, ඡත්තිංසති පඤ්ච ච අබ්බුදානි is a hundred
+  thousand nirabbudas and thirty-six, and five abbudas; the Sinhala gives “අබ්බුද ලක්‍ෂ ගණන්ද, නිරබ්බුද තිසක්ද
+  පසක්ද”. Put as `sn-1-3` 70:8 has the same verse. The same in 71:1 (outside the list).
+- 73:0 wrong-word (the verse before it): සබ්බස්සාපි සහාපි අත්තනා (the loss of everything, oneself included)
+  belongs to the loss at dice, the small one; the Sinhala puts it with the second half (“තමා සමග සියල්ලන්ට මෙය
+  මහත් පාපයකි”). Moved to the first sentence, as `sn-1-3` 70:7, `an-4` 3:2 and BJT's Sinhala have it. The same in
+  71:0 (outside the list).
+- 62:4 and 63:1 clause-missing (the monk who declares final knowledge out of conceit): the Pāli writes the passage
+  out; the Sinhala gives “...” for අකතෙ කතසඤ්ඤී අනධිගතෙ අධිගතසඤ්ඤී and, in 62:4 with no mark, in 63:1 after its
+  first words, for the declaration ඛීණා ජාති … පජානාමී. Written out in the words of 62:3 and 62:1, copied by script.
+  (The rule of `CLAUDE.md`: “the Pāli writes a passage out and the Sinhala gives "..."”; the words left out stand in
+  full in 62:3 just before, so the owner may drop the two if he wants.)
+- 80:7 pali-left-in (the five fears and enmities): the last clause stands as “ආකඞ්ඛමානො අත්තනාව අත්තානං
+  ව්යාකරෙය්ය:”. Translated in the words of 83:0 and `sn-2-1-5` 0:5. 80:6 (outside the list), the entry before it,
+  ends “භාග්‍යවතුන් වහන්සේ එතදවොච:”; translated in the words of 64:10.
+- 98:1 pali-left-in: the Pāli word ඉමෙහි stands in the sentence (“ඉමෙහි දස ධර්‍මයකින් යුක්තවූ”). Put as “මේ”.
+- 100:3 negation (Upāli, the training): අදින්නාදානං පහාය අදින්නාදානා පටිවිරතො is given as “අනුන් දුන් දෙය
+  ගැනීම හැර අනුන් දුන් දෙය ගැනීමෙන් වැළකුණේ” (he gives up taking what others have given). Put as “නුදුන් දෙය”.
+
+Unsure: none.
+
+Left alone:
+- `an-10-2` 62:0 – 63:1 and the rest of the sutta give අඤ්ඤං බ්යාකරොති as “අන්‍ය දෙයක් ප්‍රකාශ කෙරෙයි”
+  (“declares something else”; BJT: “අර්‍හත්‍වය ප්‍රකාශ කෙරෙයි”). It is de Zoysa's word through the whole sutta and
+  the declaration itself follows each time, so it is left as a word choice; a doubt for the owner, not put as rows.
+- `an-10-2` 62:1, 62:2, 63:0, 63:2 leave out the four epithets ඣායී සමාපත්තිකුසලො … at their later occurrences
+  (a dropped repeat, as in the run before); 62:0 gives the questioning once (passive) where the Pāli has it active
+  and passive; 63:3 – 63:5 have no word for බහුලං; 79:2 gives තෙ ච භොගෙ අගථිතො … පරිභුඤ්ජති once (as the fourth
+  ground) where the Pāli has it twice; 102:2 has three words for අසිතෙ පීතෙ ඛායිතෙ සායිතෙ.
+- `an-10-2` 87:4 ends with “ඉක්බිති, ඒ පරිබ්‍රාජකයෝ නිශ්ශබ්ද වූහ.”, the sentence that opens the Pāli of 87:5 (a
+  different cut of the same passage, nothing lost; left as `dn-1-3` 61:0 was).
+- `an-10-2` 103:6, 104:0, 104:3, 104:6, 104:10: නො ච ඛො තාව අනුප්පත්තසදත්ථා විහරන්ති as “යම්තාක් නොපැමිණි
+  ස්වාර්ත්‍ථය ඇතිව වාසය කරත්ද, ඒතාක්ය” (loose; nothing reversed). 104:4: පටිඝසඤ්ඤානං as “ක්‍රොධ සංඥාවන්ගේ”
+  (de Zoysa's stock word). 95:0: ක්යාහං වක්ඛාමි as “කවරෙකුට කියන්නෙම්ද”. 70:1 and 69:6: මා හෙවං as “එසේ නැත”.
+  81:0 repeats “තෙමේම තමා ගැන ප්‍රකාශ කරන්නේය” (with “මතු ඵලයන් බලාපොරොත්තුවෙමින්” for ආකඞ්ඛමානො) after the
+  declaration; with the row for 80:7 it becomes a restatement, left.
+- `an-10-3` 4:0: සමාපත්තියා is put with the second sentence (“ලජ්ජා භය දෙක සමවැදීමට අනුවයි”): one word of a hard
+  sentence, loose. 23:8 gives the brahmin's description (washed head, new linen, wet kusa grass) as “එසේ සිටි”,
+  where 23:7 just before has it in full (a dropped repeat). 29:5 has no word for අනුප්පන්නා; 29:8 has no word
+  for මහානිසංසා in its first sentence (it is in the second); 22:7 has no word for භාසිස්සාමි. Single words.
+- Entries that write out what the Pāli abbreviates (`an-10-2` 67:5, 93:10, 96:2; `an-10-3` 8:0, 17:2, 25:8, 28:7 –
+  30:2, 31:8, 33:2), “...” or -පෙ- where the Pāli has -පෙ-, and the uddāna entries (`an-10-2` 74:6, 105:13;
+  `an-10-3` 11:6, 27:7).
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 1: 84 of 5,250 entries, all in the Aṅguttara (`an-10-4` 26, `an-10-5` 24, `an-11` 34). Next run: these
+three files, which finishes the Aṅguttara and step 1: build `an-step1` and `batches/an-step1_ISSUE.md` and notify the
+owner.
