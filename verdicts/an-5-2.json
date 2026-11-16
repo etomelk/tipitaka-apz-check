@@ -1,5 +1,20 @@
 [
  {
+  "pi": 27,
+  "ei": 0,
+  "kind": "clause-missing",
+  "step": 3,
+  "edits": [
+   [
+    "හෙතෙම ආරාමයට ගොස්",
+    "ඔහුට මෙබඳු සිතක් වෙයි: ‘මම ආරාමයට ගොස් භික්‍ෂූන්ට, ‘ඇවැත්නි, මම රාගය අනුව ගියේ වෙමියි, රාගයෙන් පෙළුනේ වෙමියි, බ්‍රහ්මචර්‍ය්‍යාව රකින්ට නොහැකි වෙමි. ශික්‍ෂාවගේ දුර්‍වල භාවය ප්‍රකාශකොට, ශික්‍ෂාව හැර දමා ගිහි බවට පෙරලෙන්නෙමි’ යි සැළකරන්නෙම් නම් ඉතා යෙහෙක’ කියායි. හෙතෙම ආරාමයට ගොස්"
+   ]
+  ],
+  "pali": "තස්ස එවං හොති: යන්නූනාහං ආරාමං ගන්ත්වා භික්ඛූනං ආරොචෙය්යං",
+  "reason": "The monk's thought (තස්ස එවං හොති: යන්නූනාහං ආරාමං ගන්ත්වා භික්ඛූනං ආරොචෙය්යං … හීනායාවත්තිස්සාමීති) is not translated; the Sinhala goes from “සිතින්ද දවයි” straight to his going to the monastery and telling the monks. Put in, in the words of 29:0 (the same sentence in the fourth case), copied by script.",
+  "unsure": false
+ },
+ {
   "pi": 28,
   "ei": 1,
   "kind": "wrong-word",

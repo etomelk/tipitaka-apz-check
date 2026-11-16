@@ -68,5 +68,20 @@
   "pali": "තථා දුතියං - තථා තතියං - තථා චතුත්ථිං - ඉති උද්ධමධො තිරියං සබ්බධී සබ්බත්තතාය{2} සබ්බාවන්තං ලොකං උපෙක්ඛාසහගතෙන චෙතසා විපුලෙන මහග්ගතෙන අප්පමාණෙන අවෙරෙන අව්යාපජ්ඣෙන ඵරිත්වා විහරති. සො ඉමෙ",
   "reason": "The Pāli writes the passage on equanimity out in full; the Sinhala gives “...” for the third and fourth directions, “above, below, across …” and “abundant, exalted, measureless, without enmity or ill will”. Written out in the words the same entry has for loving-kindness (copied by script).",
   "unsure": false
+ },
+ {
+  "pi": 42,
+  "ei": 1,
+  "kind": "negation",
+  "step": 3,
+  "edits": [
+   [
+    "දරුවන් පිණිස නොවන්නීය",
+    "දරුවන් පිණිසම වන්නීය"
+   ]
+  ],
+  "pali": "නෙව කාමත්ථා න දවත්ථා න රතත්ථා, පජත්ථාව බ්රාහ්මණස්ස බ්රාහ්මණී හොති",
+  "reason": "පජත්ථාව බ්රාහ්මණස්ස බ්රාහ්මණී හොති (the brahmin's wife is for offspring only) is given as a fourth denial, “දරුවන් පිණිස නොවන්නීය”, after “කාමය පිණිස නොවන්නීය. ක්‍රීඩා පිණිස නොවන්නීය. ඇළුම් පිණිස නොවන්නීය”: the negation is reversed. “දරුවන් පිණිසම වන්නීය”.",
+  "unsure": false
  }
 ]

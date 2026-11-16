@@ -152,6 +152,21 @@
   "unsure": false
  },
  {
+  "pi": 49,
+  "ei": 11,
+  "kind": "phrase-missing",
+  "step": 3,
+  "edits": [
+   [
+    "චාරිකාවෙහි හැසිරෙන්නේ",
+    "මහත් භික්‍ෂු සංඝයා සමග චාරිකාවෙහි හැසිරෙන්නේ"
+   ]
+  ],
+  "pali": "චාරිකං චරමානො මහතා භික්ඛුසඞ්ඝෙන සද්ධිං",
+  "reason": "මහතා භික්ඛුසඞ්ඝෙන සද්ධිං (with a great community of monks) is not translated. “මහත් භික්‍ෂු සංඝයා සමග” put in, as an-3-2 28:1 has it for the same words.",
+  "unsure": false
+ },
+ {
   "pi": 51,
   "ei": 0,
   "kind": "list-item-missing",

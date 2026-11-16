@@ -218,5 +218,20 @@
   "pali": "යො සො භන්තෙ",
   "reason": "Sāriputta is speaking to the Buddha (භන්තෙ); the Sinhala has him say “මහණෙනි”. Made “ස්වාමීනි”, the word of the sentences around it (38:2, 38:3).",
   "unsure": false
+ },
+ {
+  "pi": 39,
+  "ei": 6,
+  "kind": "clause-missing",
+  "step": 3,
+  "edits": [
+   [
+    "වේද ... ශික්",
+    "වේද, ධර්‍මය කෙරෙහිද ගෞරව ඇත්තේ වේද, සංඝයා කෙරෙහිද ගෞරව ඇත්තේ වේද, ශික්"
+   ]
+  ],
+  "pali": "යො සො භන්තෙ, භික්ඛු සත්ථරි සගාරවො ධම්මෙ සගාරවො සඞ්ඝෙ සගාරවො සික්ඛාය සගාරවො සමාධිස්මිංපි සො සගාරවො",
+  "reason": "In the second sentence the Pāli entry writes out ධම්මෙ සගාරවො සඞ්ඝෙ සගාරවො; the Sinhala has “...” in their place. Written out in the words of the entry's own first sentence, copied by script.",
+  "unsure": false
  }
 ]

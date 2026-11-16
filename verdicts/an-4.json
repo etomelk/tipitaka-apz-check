@@ -26,5 +26,20 @@
   "pali": "අහං හි බ්රාහ්මණ, බහුජනහිතාය පටිපන්නො බහුජනසුඛාය.",
   "reason": "The first sentence is left in Pāli; translated in the words of 36:2 (the brahmin's statement of the same).",
   "unsure": false
+ },
+ {
+  "pi": 43,
+  "ei": 16,
+  "kind": "list-item-missing",
+  "step": 3,
+  "edits": [
+   [
+    "මේ විඤ්ඤාණයාගේ ඉපදීමයි",
+    "මේ විඤ්ඤාණයයි, මේ විඤ්ඤාණයාගේ ඉපදීමයි"
+   ]
+  ],
+  "pali": "ඉති විඤ්ඤාණං, ඉති විඤ්ඤාණස්ස සමුදයො, ඉති විඤ්ඤාණස්ස අත්ථඞ්ගමො",
+  "reason": "The fifth aggregate has only its arising and passing away (“මේ විඤ්ඤාණයාගේ ඉපදීමයි, මේ විඤ්ඤාණයාගේ නැතිවීමයි”); ඉති විඤ්ඤාණං itself is not translated, as it is for the other four (“මේ රූපයයි”, “මේ වේදනාවයි”, “මේ සංඥාවයි”, “මේ සංස්කාරයෝයි”). “මේ විඤ්ඤාණයයි” put in, in the entry's own pattern.",
+  "unsure": false
  }
 ]

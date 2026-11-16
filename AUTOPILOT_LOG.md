@@ -2422,3 +2422,58 @@ The add_repo tool was again not available; the repository was already cloned wit
 Left in step 3: 155 of 526 entries (the Aṅguttara). Next run: from `an-1`. The step-3 batch stands at 7 rows so
 far (`mn-3-4` 38:0, `sn-4-1-12` 7:3 and the five above); it is built when the Aṅguttara is read. Step 4
 (`pali-words`, 202 entries) follows.
+
+## 2026-11-16 (ninth run) — step 3: the Aṅguttara, `an-1` to `an-7-2` (94 entries); 5 confirmed rows
+
+Commit e4db85e (pinned). Step 3 (`dropped`), each entry read in full against its Pāli: `an-1` 5, `an-2` 3, `an-3` 2,
+`an-3-2` 9, `an-3-3` 2, `an-4` 3, `an-4-3` 1, `an-4-5` 2, `an-5` 4, `an-5-2` 8, `an-5-3` 11, `an-5-4` 5, `an-5-5` 6,
+`an-6` 10, `an-6-2` 7, `an-7` 3, `an-7-2` 13: 94 entries (five of them only a centred number or a heading). Every
+file's batch was rebuilt, nothing refused; `batches/an-4`, `an-5-2`, `an-5-4`, `an-6` and `an-7-2` changed.
+
+Confirmed (in the verdicts with `"step": 3`):
+- `an-4` 43:16 list-item-missing (the samādhi that leads to the end of the āsavas; 100% de Zoysa): the fifth
+  aggregate has only “මේ විඤ්ඤාණයාගේ ඉපදීමයි, මේ විඤ්ඤාණයාගේ නැතිවීමයි”; ඉති විඤ්ඤාණං itself is not
+  translated, as it is for the other four. “මේ විඤ්ඤාණයයි” put in.
+- `an-5-2` 27:0 clause-missing (the second monk of the Yodhājīva sutta; 100% de Zoysa): the monk's thought (තස්ස
+  එවං හොති: යන්නූනාහං ආරාමං ගන්ත්වා භික්ඛූනං ආරොචෙය්යං …) is not translated; the Sinhala goes from “සිතින්ද දවයි”
+  straight to his telling the monks. Put in, in the words of 29:0 (the same sentence in the fourth case), copied
+  by script.
+- `an-5-4` 42:1 negation (Doṇa, the brahmin equal to Brahmā): පජත්ථාව බ්රාහ්මණස්ස බ්රාහ්මණී හොති is given as a
+  fourth denial, “දරුවන් පිණිස නොවන්නීය”, after the three (“කාමය පිණිස නොවන්නීය …”); “දරුවන් පිණිසම වන්නීය”.
+  (43:4 and 44:1, of the later brahmins, have it rightly: “දරුවන් පිණිසද වන්නීය”.)
+- `an-6` 49:11 phrase-missing (Nāgita, the opening): මහතා භික්ඛුසඞ්ඝෙන සද්ධිං is not translated; “මහත් භික්‍ෂු
+  සංඝයා සමග” put in, copied by script from `an-3-2` 28:1.
+- `an-7-2` 39:6 clause-missing (Sāriputta on the seven kinds of respect): in the second sentence “...” stands for
+  ධම්මෙ සගාරවො සඞ්ඝෙ සගාරවො, which the Pāli entry writes out; written out in the words of the entry's first
+  sentence, copied by script (as 32:5 – 33:1 of the same file were in step 1).
+
+Unsure: none.
+
+Already reported in step 1 (same entries, nothing new): `an-3-2` 33:0, 34:1, 35:2 (“[සම්පූර්ණ උපදෙස]”),
+`an-7-2` 33:0, 33:1, 39:4.
+
+Left alone:
+- අමොඝං (රට්ඨපිණ්ඩං භුඤ්ජති) has no word in `an-1` 39:7: de Zoysa's stock sentence, as noted in the step-1 log
+  (39:9, 42:9); no row.
+- `an-3-2` 29:9, 31:1, 33:0, 34:1 repeat the Kesaputti sentences on doubt, which their Pāli entries do not have
+  (step 1 dealt with them); `an-3-2` 34:1 also has two of the ten grounds twice (“න්‍යායට අනුකූලයයිද නොපිළිගනිව්.
+  මේ කාරණය යහපතැයි කල්පනා කිරීමෙන්ද නොපිළිගත යුතුයි.” a second time): a repetition, nothing missing, no row.
+- `an-3-3` 42:13 writes out the nine aims of the Pāli's one line, each with the three samādhis; in the last five
+  the first samādhi is spelt “සූනපක සමාධිය” (for සුඤ්ඤත): a misprint inside text the Pāli entry does not have, no
+  row. The owner may wish to mention it.
+- `an-4-5` 27:5 gives the Pāli's two sentences (ඉධ … දෙසිතා. යථා යථා … දෙසිතා) as one; `an-6-2` 23:4 gives the
+  second චෙතසා චෙතො පරිච්ච පජානාමි only as “අනික් කලෙක”: nothing of the sense is missing.
+- One word dropped: වුසිතවා in `an-6` 63:10 and 64:1; නෙරයිකො in `an-6-2` 20:0 (twice); සාධු in `an-5-3` 35:7.
+- `an-5-3` 17:9 පරිනතභොජී as “මුහුකුරා ගියාවූ භොග ඇත්තේ” (17:7, 17:14, 17:16 have the food); loose.
+- `an-6` 26:15 has a stray “...” where nothing of the Pāli is left out.
+- `an-7` 20:4 අත්තනා වොයොගං ආපජ්ජති as “වෙන්වීමකට පැමිණේද”: BJT's Sinhala reads it the same way.
+- `an-7-2` 54:5: the seven names of the settlements (සම්මුඛා විනය …) stay as terms.
+- Seen in passing, not on the step's list and not reported: `an-5-2` 27:1 names every simile of the sensual
+  pleasures but gives the refrain (බහුදුක්ඛා බහූපායාසා, ආදීනවො එත්ථ භිය්යො) once, with “...” after each simile,
+  where the Pāli entry writes it out eleven times.
+
+The add_repo tool was again not available; the repository was already cloned with push access.
+
+Left in step 3: 61 of 526 entries (`an-8` 12, `an-8-2` 11, `an-9` 8, `an-10` 3, `an-10-2` 10, `an-10-3` 9,
+`an-10-4` 3, `an-10-5` 3, `an-11` 2; they are long). Next run: from `an-8`; when they are read the step-3 batch
+is built (12 rows so far). Step 4 (`pali-words`, 202 entries) follows.
