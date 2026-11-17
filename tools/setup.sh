@@ -12,7 +12,7 @@ git -C "$SRC/tipitaka.lk" sparse-checkout set --no-cone '/public/static/text-apz
   '/public/static/text/mn-*' '/public/static/text/sn-*' '/public/static/text/an-*' '/public/static/text/kn-*' \
   '/dev/apz-trans/prompt-v2.md' '/dev/apz-trans/glossary.tsv' >/dev/null
 # data/pin_commit.txt (a full commit id) holds the check to one commit: the maintainer asked on 2026-11-13 that every
-# batch is run against e4db85e, and holds his own edits to text-apz until the batches are in. Delete the file to follow
+# batch is run against e4db85e, and on 2026-11-14 (issue #158) that the rest is run against 6a14af6. Delete the file to follow
 # the latest commit again.
 PIN="$ROOT/data/pin_commit.txt"
 if [ -s "$PIN" ]; then

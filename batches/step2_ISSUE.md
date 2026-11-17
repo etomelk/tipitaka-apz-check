@@ -1,6 +1,6 @@
 # text-apz, four Nikāyas: 11 more confirmed errors against the Pāli (entries moved, or much longer than their Pāli)
 
-Run against commit **e4db85e** of pathnirvana/tipitaka.lk.
+Run against commit **6a14af6** of pathnirvana/tipitaka.lk, as asked in #158 (none of these entries was changed between e4db85e and 6a14af6; every row was rebuilt against 6a14af6 and still matches).
 
 **What was read.** The 302 entries of `public/static/text-apz/{dn,mn,sn,an}-*.json` that a comparison with the archived
 de Zoysa marks as moved from another place, as much longer than their Pāli entry, or as a duplicate (DN 20, MN 18,
@@ -9,8 +9,8 @@ where something in the Pāli is missing, wrong or reversed, where words stand th
 Pāli is left in the text; restatements, loose wording, word choice, glosses, spelling and style are left alone, and so
 are entries that write out what the Pāli abbreviates.
 
-**Attached: `step2_e4db85e.tsv`, 11 rows** (one per entry: `file  page_idx  entry_idx  kind  current_text
-proposed_text  pali_excerpt  reason`). `current_text` is the whole entry as it stands at e4db85e, copied by script;
+**Attached: `step2_6a14af6.tsv`, 11 rows** (one per entry: `file  page_idx  entry_idx  kind  current_text
+proposed_text  pali_excerpt  reason`). `current_text` is the whole entry as it stands at 6a14af6, copied by script;
 `proposed_text` changes only what is wrong. None of these rows is in the four collections sent before (DN, MN, SN,
 AN); entries of this list that were already reported there are not repeated.
 
@@ -35,4 +35,4 @@ AN); entries of this list that were already reported there are not repeated.
   says the same of each of the other nine factors. The nine added sentences are taken out; if you would rather keep
   de Zoysa's expansion, skip this row.
 
-**Unsure: none** (`step2_e4db85e_unsure.tsv` has no rows).
+**Unsure: none** (`step2_6a14af6_unsure.tsv` has no rows).

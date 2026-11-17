@@ -2645,3 +2645,41 @@ The add_repo tool was again not needed; the repository was already cloned with p
 **All four steps are finished.** Later runs do nothing. Next, as the maintainer asked (2026-11-13): the Khuddaka,
 book by book, starting with the Dhammapada and the Udāna; `tools/work.py` has no step for it yet, so it needs
 setting up in a conversation with the owner. The hourly task can be switched off until then.
+
+## 2026-11-17, conversation with the owner: the maintainer's reply on #158, the pin moved to 6a14af6, step 6
+
+Not an autopilot run. The owner gave the two posted issues (pathnirvana/tipitaka.lk #157 DN, #158 MN). #158 was read
+(#157 could not be fetched); its closing comment by the maintainer (2026-11-14), read in paraphrase:
+- all 128 main rows and the 6 unsure rows of #157 and #158 applied in commit **6a14af6**;
+- the SN, AN and Khuddaka batches to be run against 6a14af6;
+- the open question answered: a row for each entry where the two clauses of සො ධම්මං දෙසෙති … බ්රහ්මචරියං පකාසෙති
+  are run together, split along the Pāli grouping.
+
+**Checked.** text-apz at 6a14af6 differs from e4db85e in exactly the 134 DN and MN entries of our step-1 files, and
+nowhere else: 132 as proposed; `dn-1-3` 36:4 and `dn-1-6` 0:3 (the two open-question rows) in his own split, with
+සාත්ථං සබ්යඤ්ජනං on the Dhamma and කෙවලපරිපුණ්ණං පරිසුද්ධං on the holy life. No SN or AN file changed, and none of
+the DN and MN entries of steps 2–4.
+
+**Done.**
+- `data/pin_commit.txt` now holds 6a14af6.
+- Rebuilt against 6a14af6, nothing refused, the same rows as before (compared file against file; step 4 only in
+  another order): `sn-step1_6a14af6.tsv` 87 rows, `an-step1_6a14af6.tsv` 146 rows and 1 unsure, `step2` 11,
+  `step3` 16, `step4` 56. Their `_e4db85e` copies were removed and their issue texts now name 6a14af6. The posted
+  `dn-step1` and `mn-step1` files stay as they were; their verdicts are applied upstream and must not be rebuilt.
+- **Step 6, the run-together formula.** Every entry of the four Nikāyas whose Pāli has ධම්මං … ආදිකල්යාණං … with
+  දෙසෙති in any person or tense: 60 entries (DN 19, MN 15, SN 9, AN 17), each read. 26 rows
+  (`batches/step6_6a14af6.tsv`; DN 12, MN 7, SN 6, AN 1), split as the maintainer split dn-1-6 0:3, adding only
+  “ධර්මය දේශනා …” in the verb form of the entry's own sentence. Said in the issue text: `dn-1-3` 0:4 and `mn-2-5`
+  0:3 also had no words for the holy life; `dn-2` 34:1 also none for කෙවලපරිපුණ්ණං (words of 34:0).
+  Unsure, 4 rows (`mn-2-5` 35:4, `an-3` 22:2, 22:3, 23:0): the Dhamma is named but the two clauses share one verb.
+  No row: 30 entries already split, or with “ධර්මය දේශනා කරයි” before the list, or abbreviated as the Pāli is.
+  Left alone in passing (single list words, not this question): `dn-2` 33:1 without “මැද යහපත්”, `mn-1-5` 0:4 and
+  `mn-2` 53:2 without the end, `dn-3` 64:4 and `an-3` without පරිසුද්ධං in one place.
+  The findings carry `"step": 6` and `"was"`; issue text `batches/step6_ISSUE.md`.
+- `analyse.py` and `findings.py` were not rerun (nothing on the reading lists changed).
+
+**For the owner to post, all against 6a14af6:** `sn-step1`, `an-step1`, `step2`, `step3`, `step4`, `step6` (each
+with its `_unsure.tsv` and `_ISSUE.md`).
+
+The four steps stay **finished**; the hourly task does nothing and can be switched off. Next: the Khuddaka, against
+6a14af6, to be set up in a conversation.

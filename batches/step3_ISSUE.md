@@ -1,6 +1,6 @@
 # text-apz, four Nikāyas: 16 more confirmed errors against the Pāli (entries where words of de Zoysa were dropped)
 
-Run against commit **e4db85e** of pathnirvana/tipitaka.lk.
+Run against commit **6a14af6** of pathnirvana/tipitaka.lk, as asked in #158 (none of these entries was changed between e4db85e and 6a14af6; every row was rebuilt against 6a14af6 and still matches).
 
 **What was read.** The 526 entries of `public/static/text-apz/{dn,mn,sn,an}-*.json` in which a comparison with the
 archived de Zoysa shows a run of his words dropped (DN 106, MN 136, SN 129, AN 155; in 74 files). Each was read in
@@ -10,8 +10,8 @@ loose wording, word choice, glosses, spelling and style are left alone, and so a
 Pāli abbreviates. In most of the 526 the dropped words were a repetition, a gloss or an expansion the Pāli entry does
 not have, and nothing is missing.
 
-**Attached: `step3_e4db85e.tsv`, 16 rows** (one per entry: `file  page_idx  entry_idx  kind  current_text
-proposed_text  pali_excerpt  reason`). `current_text` is the whole entry as it stands at e4db85e, copied by script;
+**Attached: `step3_6a14af6.tsv`, 16 rows** (one per entry: `file  page_idx  entry_idx  kind  current_text
+proposed_text  pali_excerpt  reason`). `current_text` is the whole entry as it stands at 6a14af6, copied by script;
 `proposed_text` changes only what is wrong. None of these rows is in the collections sent before (DN, MN, SN, AN,
 and the moved / long entries); entries of this list that were already reported there are not repeated. Five of the
 rows (`sn-3-1-2` 67:2, `sn-4-1-12` 7:3, `an-10-2` 78:0 – 78:2) are entries beside the ones on the list, found while
@@ -45,4 +45,4 @@ reading them; their reasons say so.
 - `an-10-2` 85:3 (clause-missing): යං ඛො පන කිඤ්චි භූතං සංඛතං චෙතයිතං පටිච්චසමුප්පන්නං is not translated; the
   entry opens “එය අනිත්‍යය”.
 
-**Unsure: none** (`step3_e4db85e_unsure.tsv` has no rows).
+**Unsure: none** (`step3_6a14af6_unsure.tsv` has no rows).

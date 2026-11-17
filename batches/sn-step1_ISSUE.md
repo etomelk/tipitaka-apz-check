@@ -1,6 +1,6 @@
 # text-apz, Saṃyutta Nikāya: 87 confirmed errors against the Pāli (model-written and partly rewritten entries)
 
-Run against commit **e4db85e** of pathnirvana/tipitaka.lk.
+Run against commit **6a14af6** of pathnirvana/tipitaka.lk, as asked in #158 (none of these entries was changed between e4db85e and 6a14af6; every row was rebuilt against 6a14af6 and still matches).
 
 **What was read.** The 1,630 entries of `public/static/text-apz/sn-*.json` that are model-written or partly rewritten
 (under 90% of their words de Zoysa's) and had no `ai` flag at 974bd90, in all twenty-three files. Each was read in full
@@ -8,8 +8,8 @@ against its BJT Pāli entry, clause by clause. A row is given only where somethi
 reversed, or where Pāli is left in the text; restatements, redundancy, loose wording, word choice, glosses, spelling
 and style are left alone.
 
-**Attached: `sn-step1_e4db85e.tsv`, 87 rows** (one per entry: `file  page_idx  entry_idx  kind  current_text
-proposed_text  pali_excerpt  reason`). `current_text` is the whole entry as it stands at e4db85e, copied by script;
+**Attached: `sn-step1_6a14af6.tsv`, 87 rows** (one per entry: `file  page_idx  entry_idx  kind  current_text
+proposed_text  pali_excerpt  reason`). `current_text` is the whole entry as it stands at 6a14af6, copied by script;
 `proposed_text` changes only what is wrong.
 
 | kind | rows |
@@ -37,4 +37,4 @@ One wrong-number row (sn-5-12 28:1) rests on a difference of editions: the BJT P
 and BJT's footnote gives සත්තධා as the other editions' reading; text-apz says seven. Skip it if you want that reading
 kept.
 
-**No unsure file this time:** `sn-step1_e4db85e_unsure.tsv` has no rows.
+**No unsure file this time:** `sn-step1_6a14af6_unsure.tsv` has no rows.

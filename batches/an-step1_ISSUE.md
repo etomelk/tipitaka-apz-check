@@ -1,6 +1,6 @@
 # text-apz, Aṅguttara Nikāya: 146 confirmed errors against the Pāli (model-written and partly rewritten entries)
 
-Run against commit **e4db85e** of pathnirvana/tipitaka.lk.
+Run against commit **6a14af6** of pathnirvana/tipitaka.lk, as asked in #158 (none of these entries was changed between e4db85e and 6a14af6; every row was rebuilt against 6a14af6 and still matches).
 
 **What was read.** The 1,618 entries of `public/static/text-apz/an-*.json` that are model-written or partly rewritten
 (under 90% of their words de Zoysa's) and had no `ai` flag at 974bd90, in all twenty-eight files. Each was read in full
@@ -8,8 +8,8 @@ against its BJT Pāli entry, clause by clause. A row is given only where somethi
 reversed, or where Pāli is left in the text; restatements, redundancy, loose wording, word choice, glosses, spelling
 and style are left alone.
 
-**Attached: `an-step1_e4db85e.tsv`, 146 rows** (one per entry: `file  page_idx  entry_idx  kind  current_text
-proposed_text  pali_excerpt  reason`). `current_text` is the whole entry as it stands at e4db85e, copied by script;
+**Attached: `an-step1_6a14af6.tsv`, 146 rows** (one per entry: `file  page_idx  entry_idx  kind  current_text
+proposed_text  pali_excerpt  reason`). `current_text` is the whole entry as it stands at 6a14af6, copied by script;
 `proposed_text` changes only what is wrong.
 
 | kind | rows |
@@ -41,5 +41,5 @@ an-8-2 42:1, 42:3, 42:7, 43:1, 43:3, 43:5, an-9 7:4, 8:0, 19:1, 19:2, 19:3, 20:0
 One row (an-11 45:7) is in a vagga's summary verse (uddāna): දසමො ද්වෙ ච ගොපාලො is given as one sutta, “the
 Gopāla sutta, the tenth”. Skip it if the summary verses are to stay as they are.
 
-**Unsure, attached separately: `an-step1_e4db85e_unsure.tsv`, 1 row** (an-7-2 6:6: the Pāli gives both alternatives
+**Unsure, attached separately: `an-step1_6a14af6_unsure.tsv`, 1 row** (an-7-2 6:6: the Pāli gives both alternatives
 of the gods' knowledge and the Sinhala only one; it may be meant as a rendering).

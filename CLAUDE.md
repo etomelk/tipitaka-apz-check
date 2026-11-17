@@ -21,6 +21,14 @@ have not read in the Pāli entry, never invent a reading, and when in doubt put 
   the full run. 39:4 accepted; 64:5 accepted and belonged in the main file (a real omission); 63:5 left (a restatement).
   His added instruction is the paragraph "Added 2026-11-13" below; the findings of runs 1–6 were gone over again by it
   the same day (see `AUTOPILOT_LOG.md`).
+- 2026-11-14: the owner posted DN and MN as issues #157 and #158 on pathnirvana/tipitaka.lk. The maintainer applied
+  all 128 main rows and the 6 unsure rows in commit **6a14af6** (text-apz differs from e4db85e in exactly those 134
+  entries, checked 2026-11-17) and closed both. He asked (comment on #158) that the SN, AN and Khuddaka batches are
+  run against 6a14af6, and answered the open question: he wants a row for each entry where සො ධම්මං දෙසෙති … and
+  … බ්රහ්මචරියං පකාසෙති are run together, split along the Pāli grouping (his own fixes: dn-1-3 36:4, dn-1-6 0:3).
+- 2026-11-17 (conversation with the owner): the pin moved to 6a14af6; SN, AN and steps 2–4 rebuilt against it (the
+  same rows); the run-together rows written as "step 6" (`batches/step6_6a14af6.tsv`, 26 rows, 4 unsure). The DN and
+  MN step-1 verdicts are applied upstream: never rebuild `dn-step1` or `mn-step1`.
 
 ## The maintainer's brief (2026-11-12): what counts, and what to send
 
@@ -42,12 +50,12 @@ pieced together from nearby text** (dn-1 64:5: the sentence left out ඉමම�
   translation kept, by script), and when it is a stray Pāli word or heading. Names, uddāna key words and quoted
   formulas still stay.
 - A single dropped word that changes nothing (an epithet, a particle, one of two synonyms) is still left alone.
-- One open question for him, kept in the unsure files and not multiplied: de Zoysa's stock rendering of
+- (Answered 2026-11-14: he wants a row per entry; done as step 6, see History.) Formerly: one open question for him, kept in the unsure files and not multiplied: de Zoysa's stock rendering of
   සො ධම්මං දෙසෙති ආදිකල්යාණං … බ්රහ්මචරියං පකාසෙති as one clause (“… පිරිසිදු බ්‍රහ්මචර්යාව ප්‍රකාශ කරයි”), with no
   “teaches the Dhamma” of its own; it stands in many entries (dn-1-3 36:4, dn-1-6 0:3). Do not add a row per entry;
   the DN issue text asks him once.
-- **The commit:** he asked that every batch is run against **e4db85e** and holds his other edits to text-apz until
-  the batches are in. `data/pin_commit.txt` holds `tools/setup.sh` to it.
+- **The commit:** on 2026-11-13 he asked for every batch against e4db85e; since his comment on #158 (2026-11-14)
+  it is **6a14af6**. `data/pin_commit.txt` holds `tools/setup.sh` to it.
 - **The collections:** DN, MN, SN, AN, then the Khuddaka books, each posted as a GitHub issue when it finishes, so
   that he can apply them as they come. He asked Claude to post them; Claude has no access to pathnirvana/tipitaka.lk,
   so the owner posts each one (the run builds the files and the issue text and notifies him).
@@ -80,7 +88,7 @@ pieced together from nearby text** (dn-1 64:5: the sentence left out ඉමම�
 
 **Where:** one GitHub issue per batch on pathnirvana/tipitaka.lk, with the TSV attached, naming the commit it was run
 against. Claude cannot post there: the owner posts each batch. His fixes change the text, so every batch is built
-against one commit: from 2026-11-13 the pinned e4db85e (`data/pin_commit.txt`), as he asked.
+against one commit: the pinned one (`data/pin_commit.txt`; 6a14af6 since 2026-11-17), as he asked.
 
 ## How to read an entry (rules learned so far)
 

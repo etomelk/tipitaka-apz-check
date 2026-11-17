@@ -8,7 +8,9 @@
   python3 tools/work.py status
 
 Steps (the maintainer's order, 2026-11-12): 1 = model-written or partly rewritten entries (under 90% de Zoysa);
-2 = duplicate, length-long, moved; 3 = dropped; 4 = pali-words.  Run tools/analyse.py <nik> first: it writes out/<nik>.json.
+2 = duplicate, length-long, moved; 3 = dropped; 4 = pali-words.
+6 = the rows the maintainer asked for on issue #158 (ධම්මං දෙසෙති … බ්රහ්මචරියං පකාසෙති run together); found by a
+search of the Pāli, not listed by `list`/`show`: only `batch … --step 6` knows it.  Run tools/analyse.py <nik> first: it writes out/<nik>.json.
 
 verdicts/<file>.json is a list of findings written by the reader:
   {"pi": 39, "ei": 4, "kind": "pali-left-in", "edits": [["old words", "new words"], …], "pali": "the Pāli words it rests on",

@@ -62,5 +62,20 @@
   "pali": "දහරං කුමාරං මන්දං උත්තානසෙය්යකං සකෙ මුත්තකරීසෙ පලිපන්නං",
   "reason": "(1) The first divine messenger is described in the Pāli as a tender infant lying on its back, fallen in its own urine and excrement (මන්දං උත්තානසෙය්යකං සකෙ මුත්තකරීසෙ පලිපන්නං සෙමානං); the Sinhala has only “ළදරුවෙකු”. Added in the words text-apz uses for the same Pāli elsewhere (mn-2 47:0, an-10-2 99:3). (2) තථා කරිස්සන්ති is ‘they will do’; the Sinhala has Yama say “කරන්නෙමි” (I will do). Written “කරන්නාහුය”, as the next entry (61:1) has it for the same sentence.",
   "unsure": false
+ },
+ {
+  "pi": 24,
+  "ei": 1,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "අක්ෂර සම්පත්තියෙන් යුක්තවූ, සියලු ආකාරයෙන්",
+    "අක්ෂර සම්පත්තියෙන් යුක්තවූ ධර්මය දේශනා කරන සේක. සියලු ආකාරයෙන්"
+   ]
+  ],
+  "pali": "ධම්මං දෙසෙති ආදිකල්යාණං",
+  "reason": "“He teaches the Dhamma” (ධම්මං දෙසෙති) has no verb of its own: the qualities of the Dhamma are run into the clause on the holy life. Split as in dn-1-6 0:3 at 6a14af6 (issue #158): ආදිකල්යාණං … සබ්යඤ්ජනං with the Dhamma, කෙවලපරිපුණ්ණං පරිසුද්ධං with the holy life.",
+  "step": 6,
+  "was": "“අග්ගිවෙස්සනය, එපරිද්දෙන්ම අර්හත්වූ සම්‍යක් සම්බුද්ධවූ, විජ්ජාචරණ සම්පන්නවූ, යහපත් ගති ඇත්තාවූ සියලු ලෝකයන් දන්නාවූ, ශ්‍රේෂ්ඨවූ, දමනය කළයුතු පුරුෂයන් දමනය කිරීමෙහි දක්ෂවූ, දෙවිමිනිසුන්ට ගුරුවූ, චතුරාර්‍ය්‍යසත්‍යය අවබෝධ කළාවූ, තථාගතයන් වහන්සේ මේ ලෝකයෙහි උපදින සේක. ඒ තථාගතයන් වහන්සේ දෙවියන් සහිතවූ, මරුන් සහිතවූ, බඹුන් සහිතවූ, මහණ බමුණන් සහිතවූ, දෙවිමිනිසුන් සහිතවූ, මේ ලෝකය ස්වකීය විශේෂ ඥානයෙන් දැන, ප්‍රත්‍යක්ෂකොට ප්‍රකාශ කරන සේක. ඒ තථාගතයන් වහන්සේ මුල යහපත්වූ මැද යහපත්වූ, අවසානය යහපත්වූ, අර්ථ සහිතවූ, දස වැදෑරුම් අක්ෂර සම්පත්තියෙන් යුක්තවූ, සියලු ආකාරයෙන් සම්පූර්ණවූ පිරිසිදුවූ ශාසන බ්‍රහ්මචරියාව ප්‍රකාශ කරන සේක."
  }
 ]

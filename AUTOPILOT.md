@@ -3,8 +3,8 @@
 Each run is a fresh session. Read `CLAUDE.md` first, all of it: the brief, the format and the reading rules.
 
 1. Check out the branch `autopilot` (create it from `main` if it does not exist). Run `bash tools/setup.sh`, export the
-   `APZ_SRC` it prints and note `COMMIT` (it must be e4db85e while `data/pin_commit.txt` is there: the maintainer asked
-   on 2026-11-13 for every batch against that commit; if it is anything else, stop and tell the owner). Run `python3 tools/analyse.py dn mn sn an` and
+   `APZ_SRC` it prints and note `COMMIT` (it must be the commit in `data/pin_commit.txt`, 6a14af6 since 2026-11-17: the maintainer asked
+   on #158 for the batches against that commit; if it is anything else, stop and tell the owner). Run `python3 tools/analyse.py dn mn sn an` and
    `python3 tools/findings.py dn mn sn an` (a few minutes). Read `$APZ_SRC/tipitaka.lk/dev/apz-trans/prompt-v2.md`.
 2. `python3 tools/work.py status`. Work on the lowest step that has entries to read, and in it the first file with
    entries to read (the order `work.py list` gives: DN, MN, SN, AN).

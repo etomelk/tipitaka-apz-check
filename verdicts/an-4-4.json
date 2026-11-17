@@ -171,5 +171,20 @@
   "pali": "සම්බාධො ඝරාවාසො රජාපථො",
   "reason": "රජාපථො (a path of dust) is given as “රාජාපථයකි”, which reads as a royal road; put in the words text-apz uses for the phrase elsewhere.",
   "unsure": false
+ },
+ {
+  "pi": 5,
+  "ei": 4,
+  "kind": "clause-missing",
+  "edits": [
+   [
+    "අග යහපත්. අර්ත්‍ථ සහිත, ව්‍යඤ්ජන සහිත, සම්පූර්‍ණයෙන්",
+    "අග යහපත්, අර්ත්‍ථ සහිත, ව්‍යඤ්ජන සහිත ධර්මය දේශනා කරයි. සම්පූර්‍ණයෙන්"
+   ]
+  ],
+  "pali": "ධම්මං දෙසෙති ආදිකල්යාණං",
+  "reason": "“He teaches the Dhamma” (සො ධම්මං දෙසෙති) has no words: the sentence breaks off after “අග යහපත්.” and the rest is run into the clause on the holy life. Split as in dn-1-6 0:3 at 6a14af6 (issue #158).",
+  "step": 6,
+  "was": "“මහණෙනි, සුගත විනය කවරේද? උන් වහන්සේ මුල යහපත්, මැද යහපත්, අග යහපත්. අර්ත්‍ථ සහිත, ව්‍යඤ්ජන සහිත, සම්පූර්‍ණයෙන් පිරුණාවූ, පිරිසිදු මාර්‍ග බ්‍රහ්මචර්‍ය්‍යය ප්‍රකාශ කරයි. මහණෙනි, මේ සුගත විනයයි."
  }
 ]

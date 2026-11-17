@@ -1,14 +1,14 @@
 # text-apz, four Nikāyas: 56 more confirmed rows, mostly Pāli left in the text (the entries with Pāli words)
 
-Run against commit **e4db85e** of pathnirvana/tipitaka.lk.
+Run against commit **6a14af6** of pathnirvana/tipitaka.lk, as asked in #158 (none of these entries was changed between e4db85e and 6a14af6; every row was rebuilt against 6a14af6 and still matches).
 
 **What was read.** The 202 entries of `public/static/text-apz/{dn,mn,sn,an}-*.json` in which a script finds Pāli
 word forms in the Sinhala text (DN 44, MN 28, SN 86, AN 44). Each was read in full against its BJT Pāli entry.
 Names, summary-verse (uddāna) key words, sutta names in headings and quoted formulas (“ඉතිපි සො භගවා …”) are left as
 they are. 77 of the 202 were already rows of the collections sent before (DN, MN, SN, AN) and are not repeated here.
 
-**Attached: `step4_e4db85e.tsv`, 56 rows** (one per entry: `file  page_idx  entry_idx  kind  current_text
-proposed_text  pali_excerpt  reason`). `current_text` is the whole entry as it stands at e4db85e, copied by script;
+**Attached: `step4_6a14af6.tsv`, 56 rows** (one per entry: `file  page_idx  entry_idx  kind  current_text
+proposed_text  pali_excerpt  reason`). `current_text` is the whole entry as it stands at 6a14af6, copied by script;
 `proposed_text` changes only what is wrong.
 
 | kind | rows |
@@ -36,7 +36,7 @@ By Nikāya: DN 11, MN 8, SN 26, AN 11.
   In the second, third and fourth great references the Sinhala says “මේ භික්‍ෂුව” where the Pāli has the Saṅgha
   (තස්ස ච සඞ්ඝස්ස), those elders (තෙසඤ්ච ථෙරානං) and that elder (තස්ස ච ථෙරස්ස).
 
-**Unsure: none** (`step4_e4db85e_unsure.tsv` has no rows).
+**Unsure: none** (`step4_6a14af6_unsure.tsv` has no rows).
 
 **Two things left as they are, for you to decide once rather than row by row:**
 - `dn-3-10` (Saṅgīti, Dasuttara): the bold Pāli head of each set (“අපරාපි **තිස්සො ධාතුයො:**” …) stands before its
